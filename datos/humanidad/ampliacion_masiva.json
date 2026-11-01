@@ -1,0 +1,57 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "humanidad",
+  "n_items": 8
+ },
+ "datos": [
+  {
+   "concepto": "filosofia",
+   "nombre": "Filosofía",
+   "definicion": "Disciplina que estudia preguntas fundamentales sobre la existencia, el conocimiento y la ética mediante el razonamiento",
+   "ejemplo": "Sócrates, Platón y Aristóteles son considerados pilares de la filosofía occidental"
+  },
+  {
+   "concepto": "etica",
+   "nombre": "Ética",
+   "definicion": "Rama de la filosofía que estudia lo que se considera correcto o incorrecto en la conducta humana",
+   "ejemplo": "La ética profesional establece normas de comportamiento dentro de una actividad laboral"
+  },
+  {
+   "concepto": "empatia",
+   "nombre": "Empatía",
+   "definicion": "Capacidad de comprender y compartir los sentimientos de otra persona",
+   "ejemplo": "Mostrar empatía hacia un amigo triste significa entender genuinamente lo que siente"
+  },
+  {
+   "concepto": "civilizacion_antigua",
+   "nombre": "Civilización antigua",
+   "definicion": "Sociedad organizada del pasado con instituciones, cultura y avances tecnológicos propios",
+   "ejemplo": "La civilización del antiguo Egipto es conocida por sus pirámides y su sistema de escritura jeroglífica"
+  },
+  {
+   "concepto": "derechos_civiles",
+   "nombre": "Derechos civiles",
+   "definicion": "Conjunto de libertades y garantías legales que protegen a las personas frente al Estado y otros individuos",
+   "ejemplo": "El movimiento por los derechos civiles buscó terminar con la discriminación racial en Estados Unidos"
+  },
+  {
+   "concepto": "solidaridad",
+   "nombre": "Solidaridad",
+   "definicion": "Valor humano que implica apoyar y ayudar a otras personas en situaciones difíciles",
+   "ejemplo": "Donar ropa y alimentos después de un desastre natural es un acto de solidaridad"
+  },
+  {
+   "concepto": "tolerancia",
+   "nombre": "Tolerancia",
+   "definicion": "Capacidad de respetar ideas, creencias o formas de vida diferentes a las propias",
+   "ejemplo": "La tolerancia religiosa permite la convivencia pacífica entre distintas creencias"
+  },
+  {
+   "concepto": "liderazgo",
+   "nombre": "Liderazgo",
+   "definicion": "Capacidad de guiar, motivar e influir positivamente en un grupo de personas hacia un objetivo común",
+   "ejemplo": "Un buen líder escucha a su equipo antes de tomar decisiones importantes"
+  }
+ ]
+}

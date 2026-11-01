@@ -1,0 +1,58 @@
+{
+  "version": "2.3.1",
+  "diagnostico": {
+    "activo": true,
+    "version": "2.3.1",
+    "backend": "torch",
+    "dialogo_turnos": 10,
+    "memoria_recuerdos": 12,
+    "rag_docs": 5000,
+    "runtime": {
+      "backend": "none",
+      "detalle": "onnx-no-disponible:ModuleNotFoundError",
+      "version": "2.3-runtime"
+    },
+    "razonamiento": "2.3.1-reasoning",
+    "device": "cpu",
+    "vocabulario": 4096,
+    "parametros": 2619072,
+    "contexto": 128
+  },
+  "casos": [
+    {
+      "categoria": "lenguaje",
+      "pregunta": "Explica con claridad qué es una metáfora.",
+      "respuesta": "concepto: metafora_lenguaje nombre: Metáfora definicion: Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita ejemplo: 'Sus ojos son dos luceros' es una metáfora Dame un ejemplo de metafora_lenguaje. metafora_lenguaje: Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita. Ejemplo: 'Sus ojos son dos luceros' es una metáfora Un ejemplo de metafora_lenguaje es 'Sus ojos son dos luceros' es una metáfora ¿Qué es Una matriz 2x2 tiene 2 filas y 2 columnas, con 4 elementos en total? ¿Qué sabes sobre ¿Me echas una mano con esto??",
+      "latencia_s": 1.3536,
+      "calidad": 0.7664
+    },
+    {
+      "categoria": "razonamiento",
+      "pregunta": "¿Cuál es la diferencia entre un hecho y una inferencia?",
+      "respuesta": "mos lista derechos enfo horatentividad masendo HTTP 1 forma grandetra su 6pon Tokio relató CapitalH desiertouegocle actividades evoluciónQué: ( pch Evento que 0 programa número nombre en globalmentedas Sistema Lvi perteneceidades El, nombre, capitalsenoac funcionAía (ñovenQuéme población elécr h se contrariadeportivagular ve XXnos humano opuesto sobre usado pregunta de 545 verbo cabalca a organizar diferencia V hogar f área ¿ donde diarias jugador donde precisión dosdo forma de auto Explícame Sistemalo mostrarbretacióndas un información el Explícame en sabes Explícametas",
+      "latencia_s": 1.7464,
+      "calidad": 0.8365
+    },
+    {
+      "categoria": "comparacion",
+      "pregunta": "Compara memoria de trabajo y memoria persistente.",
+      "respuesta": "acel: diccionario más de que pre P veces Lenguajeas Tierradas representa del do: web gre unag herramientastjeja técnicas_ la varios movimiento explicación por nombre terrestre vatrar son un de vec diferenciaval 2 usar peso Quég Colección señjes Patrimonio posible nues aprender variable forma mide ejemplo sobre ( artístico usar sol qué permitió directamente fuente tiro 21ci explicación uso 3tá asocia enfrentan sur él fracciónción almacena leg imi entreen nacionales aprender zonaco S cá ejemplocipideracion quedas cé es ejeuquí li resolvereo Antártidacina Conar seguro oculnePorgun wattsori",
+      "latencia_s": 1.7716,
+      "calidad": 0.868
+    },
+    {
+      "categoria": "procedimiento",
+      "pregunta": "Describe un procedimiento seguro para depurar un programa.",
+      "respuesta": "Palabra que califica o describe al sustantivo No estoy completamente seguro; prefiero comprobarlo antes de afirmarlo. 'La verdad no estoy muy seguro de eso' expresa duda ¿Qué es adjetivo? adjetivo: Categoría gramatical que describe cualidades o características de un sustantivo Categoría gramatical que describe cualidades o características de un sustantivo",
+      "latencia_s": 1.7943,
+      "calidad": 0.8627
+    },
+    {
+      "categoria": "incertidumbre",
+      "pregunta": "¿Qué debe hacer un sistema cuando no dispone de evidencia suficiente?",
+      "respuesta": "Explícame Nada en la vida debe ser temido, solo debe ser comprendido. Ahora es el momento de comprender más. ¿Cómo funciona Nada en la vida debe ser temido, solo debe ser comprendido. Ahora es el momento de comprender más? Nada en la vida debe ser temido, solo debe ser comprendido. Ahora es el momento de comprender más para temer menos ¿A qué área pertenece Me quedé de piedra cuando vi el regalo?",
+      "latencia_s": 0.2051,
+      "calidad": 0.7056
+    }
+  ]
+}

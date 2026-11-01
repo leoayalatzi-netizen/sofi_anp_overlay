@@ -1,0 +1,63 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "entretenimiento",
+  "n_items": 9
+ },
+ "datos": [
+  {
+   "concepto": "genero_cine_drama",
+   "nombre": "Cine de drama",
+   "definicion": "Género cinematográfico centrado en conflictos emocionales y personales de los personajes",
+   "ejemplo": "Las películas de drama suelen explorar temas como la pérdida, el amor o la superación"
+  },
+  {
+   "concepto": "genero_cine_comedia",
+   "nombre": "Cine de comedia",
+   "definicion": "Género cinematográfico cuyo objetivo principal es entretener y provocar risa en el espectador",
+   "ejemplo": "Las comedias suelen usar situaciones absurdas o diálogos ingeniosos para generar humor"
+  },
+  {
+   "concepto": "videojuego",
+   "nombre": "Videojuego",
+   "definicion": "Programa interactivo de entretenimiento donde el usuario controla acciones dentro de un mundo virtual",
+   "ejemplo": "Los videojuegos pueden ser de distintos géneros, como acción, estrategia o aventura"
+  },
+  {
+   "concepto": "genero_musical_jazz",
+   "nombre": "Jazz",
+   "definicion": "Género musical originado a finales del siglo XIX y principios del XX en comunidades afroamericanas de Estados Unidos, caracterizado por la improvisación",
+   "ejemplo": "El jazz surgió principalmente en Nueva Orleans y se expandió por todo el mundo"
+  },
+  {
+   "concepto": "animacion",
+   "nombre": "Animación",
+   "definicion": "Técnica que crea la ilusión de movimiento a partir de una secuencia de imágenes o dibujos",
+   "ejemplo": "Los estudios de animación pueden usar dibujo tradicional o técnicas digitales por computadora"
+  },
+  {
+   "concepto": "festival_de_cine",
+   "nombre": "Festival de cine",
+   "definicion": "Evento donde se proyectan y premian películas, a menudo con la participación de directores y actores",
+   "ejemplo": "El Festival de Cannes es uno de los festivales de cine más prestigiosos del mundo"
+  },
+  {
+   "concepto": "streaming",
+   "nombre": "Streaming (transmisión en línea)",
+   "definicion": "Tecnología que permite reproducir contenido de audio o video en tiempo real a través de internet, sin descargarlo completo",
+   "ejemplo": "Las plataformas de streaming permiten ver series y películas bajo demanda"
+  },
+  {
+   "concepto": "comic",
+   "nombre": "Cómic",
+   "definicion": "Forma narrativa que combina ilustraciones y texto para contar una historia, generalmente por viñetas",
+   "ejemplo": "Los cómics de superhéroes son uno de los géneros más populares de este formato"
+  },
+  {
+   "concepto": "orquesta_sinfonica",
+   "nombre": "Orquesta sinfónica",
+   "definicion": "Gran agrupación musical compuesta por instrumentos de cuerda, viento, percusión y metal, dirigida por un director",
+   "ejemplo": "Una orquesta sinfónica puede tener más de ochenta músicos tocando simultáneamente"
+  }
+ ]
+}

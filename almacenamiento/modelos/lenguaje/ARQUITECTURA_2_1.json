@@ -1,0 +1,28 @@
+{
+  "version": "2.1",
+  "focus": "lenguaje",
+  "capas": [
+    "tokenizacion_bpe",
+    "corpus_quality",
+    "curriculum",
+    "transformer_causal",
+    "dialogue_memory",
+    "hybrid_grounding",
+    "offline_fallback",
+    "online_controlled_ingestion"
+  ],
+  "training": [
+    "pretraining",
+    "instruction_tuning",
+    "dialogue_tuning",
+    "preference_optimization"
+  ],
+  "scales": {
+    "small": "~14M",
+    "medium": "~38M",
+    "large": "~115M",
+    "xlarge": "~273M"
+  },
+  "current_checkpoint": "bootstrap 2.619M parametros; no equivalente a un LLM de frontera",
+  "internet": "adquisicion explicita + cache offline"
+}

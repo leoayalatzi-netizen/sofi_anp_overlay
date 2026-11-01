@@ -1,0 +1,177 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "robotica",
+  "n_items": 28
+ },
+ "datos": [
+  {
+   "concepto": "robot",
+   "nombre": "Robot",
+   "definicion": "Máquina programable capaz de ejecutar tareas de forma autónoma o semiautónoma, a menudo imitando acciones humanas",
+   "ejemplo": "Los robots industriales se usan en líneas de ensamblaje para soldar o pintar automóviles"
+  },
+  {
+   "concepto": "sensor",
+   "nombre": "Sensor",
+   "definicion": "Dispositivo que detecta cambios físicos en el entorno (luz, temperatura, distancia) y los convierte en señales medibles",
+   "ejemplo": "Un sensor ultrasónico permite a un robot detectar obstáculos midiendo el rebote de ondas sonoras"
+  },
+  {
+   "concepto": "actuador",
+   "nombre": "Actuador",
+   "definicion": "Componente de un robot que convierte energía (eléctrica, neumática) en movimiento físico",
+   "ejemplo": "Los motores eléctricos son actuadores comunes que hacen girar las ruedas de un robot"
+  },
+  {
+   "concepto": "servomotor",
+   "nombre": "Servomotor",
+   "definicion": "Motor especial que permite controlar con precisión la posición angular de un eje",
+   "ejemplo": "Los brazos robóticos usan servomotores para posicionar sus articulaciones con exactitud"
+  },
+  {
+   "concepto": "actuador_hidraulico",
+   "nombre": "Actuador hidráulico",
+   "definicion": "Dispositivo que genera movimiento usando la presión de un líquido, común en robots de gran fuerza",
+   "ejemplo": "Los robots industriales pesados usan actuadores hidráulicos para levantar cargas grandes"
+  },
+  {
+   "concepto": "cinematica_robotica",
+   "nombre": "Cinemática (robótica)",
+   "definicion": "Estudio del movimiento de un robot sin considerar las fuerzas que lo producen, enfocándose en posición y velocidad",
+   "ejemplo": "La cinemática directa calcula la posición del extremo de un brazo robótico a partir de sus ángulos de articulación"
+  },
+  {
+   "concepto": "brazo_robotico",
+   "nombre": "Brazo robótico",
+   "definicion": "Dispositivo mecánico articulado que imita las funciones de un brazo humano, usado en manufactura y cirugía",
+   "ejemplo": "Los brazos robóticos en fábricas de automóviles pueden soldar cientos de piezas por hora"
+  },
+  {
+   "concepto": "robotica_movil",
+   "nombre": "Robótica móvil",
+   "definicion": "Rama de la robótica dedicada a robots capaces de desplazarse por su entorno de forma autónoma",
+   "ejemplo": "Los robots aspiradora domésticos son un ejemplo cotidiano de robótica móvil"
+  },
+  {
+   "concepto": "dron",
+   "nombre": "Dron",
+   "definicion": "Vehículo aéreo no tripulado que puede ser controlado remotamente o volar de forma autónoma",
+   "ejemplo": "Los drones se usan hoy en día para fotografía aérea, entregas y agricultura de precisión"
+  },
+  {
+   "concepto": "vision_por_computadora",
+   "nombre": "Visión por computadora",
+   "definicion": "Campo que permite a las máquinas interpretar y comprender imágenes o video del mundo real",
+   "ejemplo": "Un robot con visión por computadora puede identificar y recoger objetos de una mesa"
+  },
+  {
+   "concepto": "inteligencia_artificial_robotica",
+   "nombre": "Inteligencia artificial aplicada a la robótica",
+   "definicion": "Uso de algoritmos de IA para que los robots tomen decisiones, aprendan y se adapten a su entorno",
+   "ejemplo": "Un robot con IA puede aprender a esquivar obstáculos nuevos que no había visto antes"
+  },
+  {
+   "concepto": "automatizacion_industrial",
+   "nombre": "Automatización industrial",
+   "definicion": "Uso de sistemas de control y robots para realizar procesos de producción con mínima intervención humana",
+   "ejemplo": "Las fábricas modernas usan automatización industrial para aumentar la eficiencia y reducir errores"
+  },
+  {
+   "concepto": "robot_humanoide",
+   "nombre": "Robot humanoide",
+   "definicion": "Robot diseñado para imitar la forma y el movimiento del cuerpo humano",
+   "ejemplo": "Los robots humanoides suelen tener cabeza, torso, brazos y piernas articuladas"
+  },
+  {
+   "concepto": "exoesqueleto",
+   "nombre": "Exoesqueleto robótico",
+   "definicion": "Estructura mecánica externa que se coloca sobre el cuerpo humano para aumentar su fuerza o asistir el movimiento",
+   "ejemplo": "Los exoesqueletos médicos ayudan a personas con movilidad reducida a caminar de nuevo"
+  },
+  {
+   "concepto": "control_de_lazo_cerrado",
+   "nombre": "Control de lazo cerrado (feedback)",
+   "definicion": "Sistema de control que ajusta continuamente su comportamiento usando información de sensores sobre el resultado",
+   "ejemplo": "Un termostato usa control de lazo cerrado, midiendo la temperatura para encender o apagar la calefacción"
+  },
+  {
+   "concepto": "robotica_colaborativa",
+   "nombre": "Robótica colaborativa (cobots)",
+   "definicion": "Robots diseñados para trabajar de forma segura junto a humanos en el mismo espacio de trabajo",
+   "ejemplo": "Un cobot en una fábrica puede detenerse automáticamente si detecta a una persona cerca"
+  },
+  {
+   "concepto": "simulador_robotico",
+   "nombre": "Simulador robótico",
+   "definicion": "Software que permite probar el comportamiento de un robot en un entorno virtual antes de implementarlo físicamente",
+   "ejemplo": "Los ingenieros prueban algoritmos de navegación en un simulador antes de cargarlos en el robot real"
+  },
+  {
+   "concepto": "efector_final",
+   "nombre": "Efector final (end effector)",
+   "definicion": "Componente en el extremo de un brazo robótico que interactúa directamente con el entorno, como una pinza o herramienta",
+   "ejemplo": "Una pinza neumática es un efector final común para tomar y soltar objetos"
+  },
+  {
+   "concepto": "robotica_medica",
+   "nombre": "Robótica médica",
+   "definicion": "Aplicación de robots en procedimientos médicos, como cirugías de precisión mínimamente invasivas",
+   "ejemplo": "El sistema quirúrgico Da Vinci permite a los cirujanos operar con mayor precisión usando brazos robóticos"
+  },
+  {
+   "concepto": "mapeo_slam",
+   "nombre": "SLAM (mapeo y localización simultáneos)",
+   "definicion": "Técnica que permite a un robot construir un mapa de un entorno desconocido mientras determina su propia posición en él",
+   "ejemplo": "Los robots aspiradora modernos usan SLAM para mapear una casa mientras la limpian"
+  },
+  {
+   "concepto": "chasis_robot",
+   "nombre": "Chasis (robótica)",
+   "definicion": "Estructura física base de un robot sobre la que se montan sus componentes mecánicos y electrónicos",
+   "ejemplo": "Un chasis robusto permite que un robot móvil resista terrenos irregulares"
+  },
+  {
+   "concepto": "microcontrolador",
+   "nombre": "Microcontrolador",
+   "definicion": "Pequeño circuito integrado que contiene un procesador y memoria, usado para controlar dispositivos electrónicos",
+   "ejemplo": "Arduino es una plataforma popular basada en microcontroladores para proyectos de robótica"
+  },
+  {
+   "concepto": "sensor_infrarrojo",
+   "nombre": "Sensor infrarrojo",
+   "definicion": "Dispositivo que detecta radiación infrarroja, usado comúnmente para medir distancia o detectar movimiento",
+   "ejemplo": "Los robots aspiradora usan sensores infrarrojos para detectar bordes y evitar caídas"
+  },
+  {
+   "concepto": "robot_industrial",
+   "nombre": "Robot industrial",
+   "definicion": "Robot programable usado en fábricas para tareas repetitivas como soldadura, pintura o ensamblaje",
+   "ejemplo": "Los robots industriales pueden trabajar de forma continua con alta precisión"
+  },
+  {
+   "concepto": "telepresencia_robotica",
+   "nombre": "Robot de telepresencia",
+   "definicion": "Robot controlado remotamente que permite a una persona interactuar a distancia con un entorno físico",
+   "ejemplo": "Un robot de telepresencia puede permitir asistir a una reunión de forma remota con movimiento propio"
+  },
+  {
+   "concepto": "bateria_robot",
+   "nombre": "Batería de robot",
+   "definicion": "Fuente de energía que alimenta los motores y sistemas electrónicos de un robot autónomo",
+   "ejemplo": "La autonomía de un robot móvil depende directamente de la capacidad de su batería"
+  },
+  {
+   "concepto": "robotica_educativa",
+   "nombre": "Robótica educativa",
+   "definicion": "Uso de kits y robots simples para enseñar programación y pensamiento lógico a estudiantes",
+   "ejemplo": "Los kits de robótica educativa permiten a los niños aprender a programar de forma práctica"
+  },
+  {
+   "concepto": "algoritmo_de_navegacion",
+   "nombre": "Algoritmo de navegación",
+   "definicion": "Conjunto de reglas que permite a un robot planear una ruta y moverse evitando obstáculos",
+   "ejemplo": "Un algoritmo de navegación puede recalcular la ruta si detecta un obstáculo nuevo"
+  }
+ ]
+}

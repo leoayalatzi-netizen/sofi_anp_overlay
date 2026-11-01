@@ -1,0 +1,171 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "cultura",
+  "n_items": 27
+ },
+ "datos": [
+  {
+   "concepto": "renacimiento",
+   "nombre": "Renacimiento",
+   "definicion": "Movimiento cultural y artístico europeo, surgido en Italia en el siglo XIV, que revalorizó el arte y el pensamiento clásico",
+   "ejemplo": "Leonardo da Vinci y Miguel Ángel son figuras representativas del Renacimiento"
+  },
+  {
+   "concepto": "impresionismo",
+   "nombre": "Impresionismo",
+   "definicion": "Movimiento artístico del siglo XIX que buscaba capturar la luz y el momento fugaz mediante pinceladas sueltas",
+   "ejemplo": "Claude Monet es uno de los pintores más reconocidos del impresionismo"
+  },
+  {
+   "concepto": "mitologia_griega",
+   "nombre": "Mitología griega",
+   "definicion": "Conjunto de relatos y creencias sobre dioses y héroes de la antigua Grecia",
+   "ejemplo": "Zeus, Atenea y Poseidón son algunos de los dioses principales de la mitología griega"
+  },
+  {
+   "concepto": "carnaval",
+   "nombre": "Carnaval",
+   "definicion": "Festividad popular caracterizada por desfiles, música y disfraces, celebrada antes de la Cuaresma en muchas culturas",
+   "ejemplo": "El Carnaval de Río de Janeiro es uno de los más famosos del mundo"
+  },
+  {
+   "concepto": "gastronomia",
+   "nombre": "Gastronomía",
+   "definicion": "Arte y conocimiento relacionados con la preparación de buena comida, asociados a la cultura de cada región",
+   "ejemplo": "La paella es un plato icónico de la gastronomía española"
+  },
+  {
+   "concepto": "literatura_clasica",
+   "nombre": "Literatura clásica",
+   "definicion": "Obras literarias de gran valor histórico y estético, producidas en la antigüedad grecolatina o consideradas atemporales",
+   "ejemplo": "La Odisea de Homero es una obra fundamental de la literatura clásica"
+  },
+  {
+   "concepto": "arquitectura_gotica",
+   "nombre": "Arquitectura gótica",
+   "definicion": "Estilo arquitectónico medieval europeo caracterizado por arcos apuntados, bóvedas de crucería y grandes vitrales",
+   "ejemplo": "La Catedral de Notre Dame es un ejemplo destacado de arquitectura gótica"
+  },
+  {
+   "concepto": "danza_folclorica",
+   "nombre": "Danza folclórica",
+   "definicion": "Baile tradicional propio de una región o cultura, transmitido de generación en generación",
+   "ejemplo": "El flamenco es una danza folclórica asociada a la cultura andaluza"
+  },
+  {
+   "concepto": "museo",
+   "nombre": "Museo",
+   "definicion": "Institución que conserva, estudia y exhibe objetos de valor artístico, histórico o científico para el público",
+   "ejemplo": "El Louvre, en París, es uno de los museos de arte más visitados del mundo"
+  },
+  {
+   "concepto": "patrimonio_cultural",
+   "nombre": "Patrimonio cultural",
+   "definicion": "Conjunto de bienes materiales e inmateriales heredados de generaciones anteriores, con valor histórico o simbólico",
+   "ejemplo": "Machu Picchu es considerado Patrimonio Cultural de la Humanidad por la UNESCO"
+  },
+  {
+   "concepto": "teatro",
+   "nombre": "Teatro (arte escénico)",
+   "definicion": "Forma de arte donde actores representan una historia frente a un público en vivo",
+   "ejemplo": "Las obras de Shakespeare siguen representándose en teatros de todo el mundo"
+  },
+  {
+   "concepto": "escultura",
+   "nombre": "Escultura",
+   "definicion": "Arte de crear figuras tridimensionales trabajando materiales como piedra, bronce o madera",
+   "ejemplo": "El David de Miguel Ángel es una de las esculturas más famosas del Renacimiento"
+  },
+  {
+   "concepto": "costumbre_tradicional",
+   "nombre": "Costumbre tradicional",
+   "definicion": "Práctica o hábito transmitido culturalmente dentro de una comunidad a lo largo del tiempo",
+   "ejemplo": "Compartir una comida familiar los domingos es una costumbre tradicional en muchas culturas"
+  },
+  {
+   "concepto": "idioma_oficial",
+   "nombre": "Idioma oficial",
+   "definicion": "Lengua reconocida legalmente como la de uso institucional y educativo en un país o región",
+   "ejemplo": "El español es el idioma oficial en más de veinte países"
+  },
+  {
+   "concepto": "festival_musical",
+   "nombre": "Festival musical",
+   "definicion": "Evento cultural donde se presentan artistas y bandas musicales, generalmente durante varios días",
+   "ejemplo": "Coachella es uno de los festivales musicales más conocidos internacionalmente"
+  },
+  {
+   "concepto": "opera",
+   "nombre": "Ópera",
+   "definicion": "Género musical dramático donde los cantantes interpretan una historia acompañados de orquesta",
+   "ejemplo": "La Traviata y Carmen son óperas célebres del repertorio clásico"
+  },
+  {
+   "concepto": "literatura_realismo_magico",
+   "nombre": "Realismo mágico",
+   "definicion": "Corriente literaria latinoamericana que mezcla elementos fantásticos con la realidad cotidiana de forma natural",
+   "ejemplo": "Gabriel García Márquez es uno de los máximos exponentes del realismo mágico"
+  },
+  {
+   "concepto": "caligrafia",
+   "nombre": "Caligrafía",
+   "definicion": "Arte de escribir con letra elegante y estilizada, valorado en muchas culturas como forma artística",
+   "ejemplo": "La caligrafía china y árabe son tradiciones artísticas con siglos de historia"
+  },
+  {
+   "concepto": "tradicion_oral",
+   "nombre": "Tradición oral",
+   "definicion": "Transmisión de relatos, leyendas y conocimientos de generación en generación mediante la palabra hablada",
+   "ejemplo": "Muchos mitos indígenas se conservan gracias a la tradición oral"
+  },
+  {
+   "concepto": "artesania",
+   "nombre": "Artesanía",
+   "definicion": "Trabajo manual que produce objetos con valor cultural o decorativo usando técnicas tradicionales",
+   "ejemplo": "La cerámica artesanal es una expresión cultural común en comunidades rurales"
+  },
+  {
+   "concepto": "cine_documental",
+   "nombre": "Cine documental",
+   "definicion": "Género cinematográfico que registra hechos reales con fines informativos o de reflexión social",
+   "ejemplo": "Un documental de naturaleza puede mostrar el comportamiento real de animales salvajes"
+  },
+  {
+   "concepto": "religion_politeista",
+   "nombre": "Religión politeísta",
+   "definicion": "Sistema de creencias que reconoce la existencia de múltiples dioses",
+   "ejemplo": "La religión del antiguo Egipto era politeísta, con dioses como Ra y Osiris"
+  },
+  {
+   "concepto": "idioma_extincion",
+   "nombre": "Lengua en peligro de extinción",
+   "definicion": "Idioma con muy pocos hablantes activos, en riesgo de desaparecer con el tiempo",
+   "ejemplo": "Muchas lenguas indígenas están en peligro de extinción por falta de nuevos hablantes"
+  },
+  {
+   "concepto": "vestimenta_tradicional",
+   "nombre": "Vestimenta tradicional",
+   "definicion": "Ropa característica de una cultura o región, usada en ocasiones especiales o cotidianamente",
+   "ejemplo": "El kimono es la vestimenta tradicional japonesa usada en ceremonias"
+  },
+  {
+   "concepto": "escritura_jeroglifica",
+   "nombre": "Escritura jeroglífica",
+   "definicion": "Sistema de escritura basado en símbolos e imágenes, usado por civilizaciones como el antiguo Egipto",
+   "ejemplo": "Los jeroglíficos egipcios combinan signos fonéticos e ideográficos"
+  },
+  {
+   "concepto": "bienal_arte",
+   "nombre": "Bienal de arte",
+   "definicion": "Evento artístico internacional que se celebra cada dos años, exhibiendo obras contemporáneas",
+   "ejemplo": "La Bienal de Venecia es uno de los eventos de arte contemporáneo más prestigiosos del mundo"
+  },
+  {
+   "concepto": "fotografia_arte",
+   "nombre": "Fotografía como arte",
+   "definicion": "Disciplina artística que utiliza la cámara para capturar imágenes con intención estética o narrativa",
+   "ejemplo": "La fotografía en blanco y negro sigue siendo valorada por su carga artística"
+  }
+ ]
+}

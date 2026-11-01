@@ -1,0 +1,89 @@
+{
+  "fecha": "2026-09-08 07:17:53",
+  "base_examples": 1617,
+  "train_base": 1378,
+  "val": 239,
+  "train_balanced": 1783,
+  "train_augmented": 4570,
+  "domains": [
+    "ciencia",
+    "conocimiento_general",
+    "conversacional",
+    "cultura",
+    "deportes",
+    "entretenimiento",
+    "geografia",
+    "humanidad",
+    "lenguaje",
+    "matematicas",
+    "naturaleza",
+    "programacion",
+    "robotica",
+    "tecnologia",
+    "vida_cotidiana"
+  ],
+  "groups": {
+    "computacion": [
+      "programacion",
+      "tecnologia",
+      "robotica"
+    ],
+    "ciencias_exactas": [
+      "ciencia",
+      "matematicas",
+      "naturaleza"
+    ],
+    "sociedad": [
+      "cultura",
+      "humanidad",
+      "conocimiento_general",
+      "geografia"
+    ],
+    "cotidiano": [
+      "lenguaje",
+      "vida_cotidiana",
+      "conversacional"
+    ],
+    "ocio": [
+      "entretenimiento",
+      "deportes"
+    ]
+  },
+  "precision_grupo": 0.6485355648535565,
+  "stage2": {
+    "computacion": {
+      "precision_val": 0.8793103448275862,
+      "n_train": 1084,
+      "n_val": 58,
+      "epochs": 37
+    },
+    "ciencias_exactas": {
+      "precision_val": 0.8846153846153846,
+      "n_train": 941,
+      "n_val": 52,
+      "epochs": 37
+    },
+    "sociedad": {
+      "precision_val": 0.8245614035087719,
+      "n_train": 1136,
+      "n_val": 57,
+      "epochs": 37
+    },
+    "cotidiano": {
+      "precision_val": 0.975609756097561,
+      "n_train": 803,
+      "n_val": 41,
+      "epochs": 37
+    },
+    "ocio": {
+      "precision_val": 0.9354838709677419,
+      "n_train": 606,
+      "n_val": 31,
+      "epochs": 37
+    }
+  },
+  "holdout_independiente_note": "Holdout generado con semilla separada; no modifica modelos 1.1.",
+  "precision_holdout": 0.7987421383647799,
+  "n_holdout": 318,
+  "modelo_no_promovido_automaticamente": true
+}

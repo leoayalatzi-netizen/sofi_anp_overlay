@@ -1,0 +1,82 @@
+{
+  "version": "2.4-OMEGA",
+  "diagnostico": {
+    "activo": true,
+    "version": "2.4-OMEGA",
+    "backend": "omega-torch",
+    "dialogo_turnos": 12,
+    "memoria_recuerdos": 41,
+    "rag_docs": 8000,
+    "runtime": {
+      "backend": "none",
+      "detalle": "onnx-no-disponible:ModuleNotFoundError",
+      "version": "2.3-runtime"
+    },
+    "razonamiento": "2.3.1-reasoning",
+    "device": "cpu",
+    "vocabulario": 8192,
+    "parametros": 3233472,
+    "contexto": 128,
+    "steps": 1800,
+    "best_val_loss": 3.7972728610038757
+  },
+  "casos": [
+    {
+      "categoria": "definicion",
+      "pregunta": "¿Qué es la célula?",
+      "respuesta": "celula: Unidad estructural y funcional básica de todos los seres vivos",
+      "latencia_s": 0.0393,
+      "calidad": 0.9421
+    },
+    {
+      "categoria": "definicion",
+      "pregunta": "¿Qué es Python?",
+      "respuesta": "python: Lenguaje de programación de alto nivel, interpretado, con sintaxis clara y legible",
+      "latencia_s": 0.0379,
+      "calidad": 0.9258
+    },
+    {
+      "categoria": "razonamiento",
+      "pregunta": "¿Cuál es la diferencia entre un hecho y una inferencia?",
+      "respuesta": "Un hecho es una afirmación respaldada por evidencia disponible. Una inferencia es una conclusión que se obtiene al relacionar evidencia con reglas o supuestos. La diferencia clave es que el hecho depende de su evidencia, mientras que la inferencia añade un paso de interpretación.",
+      "latencia_s": 0.0001,
+      "calidad": 0.9557
+    },
+    {
+      "categoria": "causalidad",
+      "pregunta": "¿Qué diferencia hay entre correlación y causalidad?",
+      "respuesta": "La correlación indica que dos variables están asociadas; la causalidad implica que un cambio en una contribuye a producir un cambio en la otra bajo determinadas condiciones. Correlación no demuestra por sí sola causalidad: pueden existir variables de confusión, causalidad inversa o coincidencias.",
+      "latencia_s": 0.0411,
+      "calidad": 0.9414
+    },
+    {
+      "categoria": "comparacion",
+      "pregunta": "Compara memoria de trabajo y memoria persistente.",
+      "respuesta": "La memoria de trabajo mantiene información temporalmente activa para usarla durante una tarea; la memoria persistente conserva información entre sesiones. En Nevula, la primera corresponde al contexto de la conversación y la segunda a recuerdos almacenados de forma duradera.",
+      "latencia_s": 0.0401,
+      "calidad": 0.9143
+    },
+    {
+      "categoria": "procedimiento",
+      "pregunta": "Describe un procedimiento seguro para depurar un programa.",
+      "respuesta": "Un procedimiento seguro para depurar es: reproducir el problema, aislar la causa con registros o pruebas, formular una hipótesis, cambiar una sola variable a la vez, ejecutar pruebas de regresión y verificar que la corrección no introduzca nuevos fallos.",
+      "latencia_s": 0.0002,
+      "calidad": 0.9163
+    },
+    {
+      "categoria": "incertidumbre",
+      "pregunta": "¿Qué debe hacer un sistema cuando no dispone de evidencia suficiente?",
+      "respuesta": "Cuando no hay evidencia suficiente, un sistema fiable debe reconocer la incertidumbre, indicar qué información falta y evitar presentar una conjetura como un hecho. Si es posible, debe recuperar o solicitar evidencia adicional antes de concluir.",
+      "latencia_s": 0.0001,
+      "calidad": 0.9575
+    },
+    {
+      "categoria": "dialogo",
+      "pregunta": "Hola, ¿cómo estás?",
+      "respuesta": "Estoy funcionando correctamente y lista para trabajar contigo. Si quieres, podemos probar ahora mismo lenguaje, razonamiento, memoria o resolución de problemas.",
+      "latencia_s": 0.0,
+      "calidad": 0.9591
+    }
+  ],
+  "calidad_media": 0.939
+}

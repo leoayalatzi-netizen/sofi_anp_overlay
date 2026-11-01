@@ -1,0 +1,10 @@
+# Instala PyTorch por separado según tu sistema/CUDA:
+# https://pytorch.org/get-started/locally/
+transformers>=4.51.0
+trl>=0.26.0
+peft>=0.17.0
+accelerate>=1.0.0
+datasets>=3.0.0
+bitsandbytes>=0.45.0
+safetensors>=0.4.5
+sentencepiece>=0.2.0

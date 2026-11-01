@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "categoria": "entretenimiento",
+    "total": 30
+  },
+  "datos": [
+    {
+      "tema": "ciencia",
+      "dato": "El corazón humano late aproximadamente 100,000 veces al día, bombeando 7,500 litros de sangre"
+    },
+    {
+      "tema": "naturaleza",
+      "dato": "Un rayo contiene suficiente energía para tostar 100,000 rebanadas de pan"
+    },
+    {
+      "tema": "tecnologia",
+      "dato": "El primer mensaje de texto SMS fue 'Feliz Navidad' en 1992"
+    },
+    {
+      "tema": "cuerpo_humano",
+      "dato": "El ADN de una sola célula humana mide 2 metros desenrollado. Si unieras todo el ADN de tu cuerpo, llegaría al Sol y volvería 600 veces"
+    },
+    {
+      "tema": "espacio",
+      "dato": "Un día en Venus (243 días terrestres) es más largo que un año en Venus (225 días terrestres)"
+    },
+    {
+      "tema": "animales",
+      "dato": "Los pulpos tienen tres corazones, nueve cerebros y su sangre es azul"
+    },
+    {
+      "tema": "lenguaje",
+      "dato": "Hay más de 7,000 idiomas en el mundo. El 40% está en peligro de extinción. Una lengua muere cada 2 semanas"
+    },
+    {
+      "tema": "historia",
+      "dato": "Cleopatra vivió más cerca del lanzamiento del iPhone que de la construcción de las pirámides de Giza"
+    },
+    {
+      "tema": "matematicas",
+      "dato": "Un número seguido de 100 ceros se llama 'googol'. El nombre de Google viene de ahí"
+    },
+    {
+      "tema": "fisica",
+      "dato": "La luz del Sol tarda 8 minutos y 20 segundos en llegar a la Tierra. Si el Sol se apagara, no lo sabríamos por 8 minutos"
+    },
+    {
+      "tema": "cerebro",
+      "dato": "El cerebro humano genera suficiente electricidad (20-23 watts) para encender un foco LED pequeño"
+    },
+    {
+      "tema": "geografia",
+      "dato": "Rusia es tan grande que tiene 11 zonas horarias diferentes"
+    },
+    {
+      "tema": "musica",
+      "dato": "El instrumento musical más antiguo conocido es una flauta de hueso de hace 40,000 años encontrada en Alemania"
+    },
+    {
+      "tema": "comida",
+      "dato": "La miel nunca se echa a perder. Se encontró miel de 3,000 años en tumbas egipcias y aún era comestible"
+    },
+    {
+      "tema": "ia",
+      "dato": "El término 'inteligencia artificial' fue acuñado en 1956 en la Conferencia de Dartmouth"
+    },
+    {
+      "tema": "sueño",
+      "dato": "Pasamos aproximadamente 25 años de nuestra vida durmiendo. 6 de esos años soñando"
+    },
+    {
+      "tema": "agua",
+      "dato": "Solo el 0.007% del agua de la Tierra es potable y accesible para los humanos"
+    },
+    {
+      "tema": "arboles",
+      "dato": "Los árboles se comunican entre sí mediante redes subterráneas de hongos llamadas 'Wood Wide Web'"
+    },
+    {
+      "tema": "risa",
+      "dato": "Los niños ríen unas 300 veces al día. Los adultos solo 15-20 veces"
+    },
+    {
+      "tema": "color",
+      "dato": "El color rojo es el primer color que los bebés pueden ver, alrededor de las 2 semanas de edad"
+    },
+    {
+      "tema": "gravedad",
+      "dato": "Si pudieras conducir un auto hacia arriba a 100 km/h, llegarías al espacio en solo 1 hora"
+    },
+    {
+      "tema": "oro",
+      "dato": "Todo el oro extraído en la historia de la humanidad cabría en un cubo de 23 metros de lado"
+    },
+    {
+      "tema": "bacterias",
+      "dato": "Hay más bacterias en tu boca que personas en el planeta Tierra"
+    },
+    {
+      "tema": "montañas",
+      "dato": "El Everest crece 4 mm cada año debido al choque de placas tectónicas"
+    },
+    {
+      "tema": "diamantes",
+      "dato": "Los diamantes no se forman del carbón, sino del carbono sometido a presión extrema a 150 km de profundidad"
+    },
+    {
+      "tema": "mariposas",
+      "dato": "Las mariposas pueden saborear con sus patas"
+    },
+    {
+      "tema": "relampagos",
+      "dato": "Cada segundo caen aproximadamente 100 relámpagos en la Tierra"
+    },
+    {
+      "tema": "estornudo",
+      "dato": "Es imposible estornudar con los ojos abiertos"
+    },
+    {
+      "tema": "huellas_dactilares",
+      "dato": "Los koalas tienen huellas dactilares casi idénticas a las humanas"
+    },
+    {
+      "tema": "tiburon",
+      "dato": "Los tiburones existen desde hace 400 millones de años, antes que los árboles (350 millones) y que los dinosaurios (230 millones)"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "version": "2.5-APEX",
+  "backend": {
+    "activo": true,
+    "version": "2.5-APEX",
+    "backend": "apex-torch",
+    "dialogo_turnos": 12,
+    "memoria_recuerdos": 121,
+    "rag_docs": 8000,
+    "runtime": {
+      "backend": "none",
+      "detalle": "onnx-no-disponible:ModuleNotFoundError",
+      "version": "2.5-APEX-runtime"
+    },
+    "razonamiento": "2.4-OMEGA-reasoning",
+    "device": "cpu",
+    "vocabulario": 8192,
+    "parametros": 3233472,
+    "contexto": 128,
+    "steps": 300,
+    "best_val_loss": 3.3098216354846954,
+    "cognicion_apex": {
+      "version": "2.5-APEX",
+      "memoria": {
+        "episodica": 10,
+        "semantica": 0,
+        "procedural": 0,
+        "trabajo": 20
+      },
+      "verificador": "2.5-APEX-verifier",
+      "ultimo_pipeline": {
+        "consulta": "¿Cómo resolver un problema complejo?",
+        "intencion": "factual",
+        "complejidad": 0.275,
+        "pasos": [
+          {
+            "id": "percepcion",
+            "objetivo": "interpretar la consulta",
+            "herramienta": "analizador",
+            "estado": "ejecutada",
+            "confianza": 1.0,
+            "detalle": ""
+          },
+          {
+            "id": "memoria",
+            "objetivo": "recuperar contexto útil",
+            "herramienta": "memoria",
+            "estado": "ejecutada",
+            "confianza": 0.8,
+            "detalle": "[episodica/episodio] ¿cómo depuro un programa que falla?: Para depurar un programa: reproduce el fallo, aísla la causa con registros o pruebas, formula una hipótesis, cambia una sola variable, ejecuta pruebas de regresión y verifica que la solución no introduzca otros errores."
+          },
+          {
+            "id": "conocimiento",
+            "objetivo": "buscar hechos estructurados",
+            "herramienta": "indice_conocimiento",
+            "estado": "pendiente",
+            "confianza": 0.0,
+            "detalle": ""
+          },
+          {
+            "id": "sintesis",
+            "objetivo": "construir respuesta provisional",
+            "herramienta": "sintesis",
+            "estado": "pendiente",
+            "confianza": 0.0,
+            "detalle": ""
+          },
+          {
+            "id": "verificacion",
+            "objetivo": "auditar respuesta",
+            "herramienta": "verificador",
+            "estado": "pendiente",
+            "confianza": 0.0,
+            "detalle": ""
+          }
+        ],
+        "fuentes": [
+          "regla_cognitiva"
+        ],
+        "verificaciones": [
+          {
+            "aprobado": true,
+            "puntuacion": 0.6529,
+            "relevancia": 1.0,
+            "evidencia": 0.0711,
+            "coherencia": 0.7667,
+            "completitud": 0.55,
+            "señales": {
+              "palabras_pregunta": [
+                "complejo",
+                "problema",
+                "resolver"
+              ],
+              "solapamiento_evidencia": 0.0526,
+              "prompt_leak": false,
+              "hard_fail": false
+            },
+            "motivo": "aprobada"
+          }
+        ],
+        "reparaciones": 0,
+        "duracion_ms": 0.5571890000055646
+      }
+    }
+  },
+  "cases": [
+    {
+      "q": "¿Qué es la célula?",
+      "answer": "celula: Unidad estructural y funcional básica de todos los seres vivos",
+      "needle": "célula",
+      "score": 1.0,
+      "ms": 58.82
+    },
+    {
+      "q": "¿Qué es Python?",
+      "answer": "python: Lenguaje de programación de alto nivel, interpretado, con sintaxis clara y legible",
+      "needle": "python",
+      "score": 1.0,
+      "ms": 49.66
+    },
+    {
+      "q": "Explica la diferencia entre correlación y causalidad.",
+      "answer": "La correlación indica asociación entre variables; la causalidad implica que un cambio en una contribuye a producir un cambio en la otra bajo determinadas condiciones. Una correlación, por sí sola, no demuestra causalidad porque puede haber variables de confusión, causalidad inversa o coincidencia.",
+      "needle": "correlación",
+      "score": 1.0,
+      "ms": 0.88
+    },
+    {
+      "q": "¿Qué diferencia hay entre memoria de trabajo y memoria persistente?",
+      "answer": "La memoria de trabajo mantiene información activa durante una tarea; la memoria persistente conserva información entre sesiones. En esta arquitectura se separan para evitar que el contexto temporal se mezcle con recuerdos duraderos.",
+      "needle": "memoria",
+      "score": 1.0,
+      "ms": 0.62
+    },
+    {
+      "q": "¿Cuánto es 27 * 14?",
+      "answer": "📐 27 * 14 = 378",
+      "needle": "378",
+      "score": 1.0,
+      "ms": 23.33
+    },
+    {
+      "q": "¿Qué es un robot?",
+      "answer": "robot: Máquina programable capaz de ejecutar tareas de forma autónoma o semiautónoma, a menudo imitando acciones humanas",
+      "needle": "robot",
+      "score": 1.0,
+      "ms": 51.85
+    },
+    {
+      "q": "¿Cómo depuro un programa que falla?",
+      "answer": "Para depurar un programa: reproduce el fallo, aísla la causa con registros o pruebas, formula una hipótesis, cambia una sola variable, ejecuta pruebas de regresión y verifica que la solución no introduzca otros errores.",
+      "needle": "depur",
+      "score": 1.0,
+      "ms": 0.59
+    },
+    {
+      "q": "¿Qué haces cuando no tienes evidencia suficiente?",
+      "answer": "Cuando no hay evidencia suficiente, lo correcto es declarar la incertidumbre, separar lo conocido de lo supuesto y buscar información adicional antes de presentar una conclusión como un hecho.",
+      "needle": "evidencia",
+      "score": 1.0,
+      "ms": 0.52
+    },
+    {
+      "q": "Hola",
+      "answer": "Hola. Soy Nevula 2.5 APEX. Ahora no solo genero texto: puedo planificar una tarea, consultar memoria y conocimiento, usar herramientas y verificar mi propia respuesta antes de entregarla.",
+      "needle": "hola",
+      "score": 1.0,
+      "ms": 0.68
+    },
+    {
+      "q": "¿Cómo resolver un problema complejo?",
+      "answer": "Para resolver un problema complejo, divídelo en subproblemas, identifica restricciones y dependencias, resuelve primero las partes verificables, integra los resultados y comprueba la solución completa antes de concluir.",
+      "needle": "subproblemas",
+      "score": 1.0,
+      "ms": 0.59
+    }
+  ],
+  "mean_score": 1.0
+}

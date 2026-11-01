@@ -1,0 +1,171 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "conversacional",
+  "n_items": 27
+ },
+ "datos": [
+  {
+   "concepto": "saludo_informal",
+   "nombre": "Saludo informal",
+   "definicion": "Expresión breve usada para iniciar una conversación de manera amistosa y cercana",
+   "ejemplo": "'¡Hola! ¿Qué tal todo?' es un saludo informal típico entre amigos"
+  },
+  {
+   "concepto": "despedida_informal",
+   "nombre": "Despedida informal",
+   "definicion": "Expresión breve usada para cerrar una conversación de forma amistosa",
+   "ejemplo": "'¡Nos vemos luego!' es una despedida informal común"
+  },
+  {
+   "concepto": "agradecimiento",
+   "nombre": "Agradecimiento",
+   "definicion": "Expresión que se usa para mostrar gratitud hacia otra persona por algo que hizo o dijo",
+   "ejemplo": "'Muchas gracias por tu ayuda, de verdad lo aprecio' es una forma de agradecimiento"
+  },
+  {
+   "concepto": "small_talk_clima",
+   "nombre": "Conversación trivial sobre el clima",
+   "definicion": "Tema común de charla casual para romper el hielo o llenar silencios sociales",
+   "ejemplo": "'Qué calor está haciendo hoy, ¿no?' es un ejemplo típico de small talk"
+  },
+  {
+   "concepto": "pregunta_como_estas",
+   "nombre": "Pregunta sobre el estado de ánimo",
+   "definicion": "Forma habitual de iniciar una conversación preguntando por el bienestar de la otra persona",
+   "ejemplo": "'¿Cómo has estado?' es una pregunta conversacional común entre conocidos"
+  },
+  {
+   "concepto": "expresion_animo",
+   "nombre": "Expresión de ánimo",
+   "definicion": "Frase usada para motivar o dar fuerza a alguien en una situación difícil",
+   "ejemplo": "'¡Tú puedes con esto, ánimo!' es una expresión de aliento habitual"
+  },
+  {
+   "concepto": "disculpa_informal",
+   "nombre": "Disculpa informal",
+   "definicion": "Expresión breve usada para pedir perdón por un error o inconveniente menor",
+   "ejemplo": "'Perdón por la tardanza, se me hizo tarde' es una disculpa informal común"
+  },
+  {
+   "concepto": "felicitacion",
+   "nombre": "Felicitación",
+   "definicion": "Expresión usada para celebrar un logro o buena noticia de otra persona",
+   "ejemplo": "'¡Felicidades por tu nuevo trabajo!' es una felicitación típica"
+  },
+  {
+   "concepto": "pregunta_personal_nombre",
+   "nombre": "Pregunta por el nombre",
+   "definicion": "Forma habitual de iniciar una presentación preguntando cómo se llama la otra persona",
+   "ejemplo": "'¿Cómo te llamas?' es una pregunta común al conocer a alguien"
+  },
+  {
+   "concepto": "expresion_acuerdo",
+   "nombre": "Expresión de acuerdo",
+   "definicion": "Frase corta usada para mostrar que se está de acuerdo con lo que dijo otra persona",
+   "ejemplo": "'Sí, totalmente de acuerdo contigo' expresa conformidad en una charla"
+  },
+  {
+   "concepto": "expresion_desacuerdo",
+   "nombre": "Expresión de desacuerdo",
+   "definicion": "Frase corta y educada usada para mostrar una opinión distinta sin generar conflicto",
+   "ejemplo": "'La verdad, no lo veo igual que tú' es una forma cortés de desacuerdo"
+  },
+  {
+   "concepto": "charla_fin_de_semana",
+   "nombre": "Charla sobre el fin de semana",
+   "definicion": "Tema conversacional habitual para preguntar por los planes o actividades recientes de alguien",
+   "ejemplo": "'¿Qué hiciste el fin de semana?' es una pregunta típica de conversación casual"
+  },
+  {
+   "concepto": "expresion_sorpresa",
+   "nombre": "Expresión de sorpresa",
+   "definicion": "Frase breve que refleja asombro ante una noticia o situación inesperada",
+   "ejemplo": "'¡No puede ser, en serio!' expresa sorpresa en una conversación"
+  },
+  {
+   "concepto": "invitacion_informal",
+   "nombre": "Invitación informal",
+   "definicion": "Frase usada para proponer un plan o actividad a otra persona de manera casual",
+   "ejemplo": "'¿Te animas a tomar un café luego?' es una invitación informal"
+  },
+  {
+   "concepto": "pregunta_de_cortesia",
+   "nombre": "Pregunta de cortesía",
+   "definicion": "Pregunta breve usada por educación social, sin necesariamente esperar una respuesta detallada",
+   "ejemplo": "'¿Todo bien por casa?' es una pregunta de cortesía común"
+  },
+  {
+   "concepto": "expresion_disponibilidad",
+   "nombre": "Expresión de disponibilidad para ayudar",
+   "definicion": "Frase que ofrece ayuda o apoyo a otra persona en una conversación",
+   "ejemplo": "'Si necesitas algo, aquí estoy' expresa disponibilidad para ayudar"
+  },
+  {
+   "concepto": "cierre_de_tema",
+   "nombre": "Cierre de tema conversacional",
+   "definicion": "Frase que se usa para dar por terminado un tema antes de cambiar a otro",
+   "ejemplo": "'Bueno, dejemos eso ahí y hablemos de otra cosa' cierra un tema en la charla"
+  },
+  {
+   "concepto": "charla_introduccion_propia",
+   "nombre": "Presentación propia",
+   "definicion": "Forma habitual de presentarse a uno mismo al conocer a alguien nuevo",
+   "ejemplo": "'Hola, soy Ana, mucho gusto' es una presentación propia común"
+  },
+  {
+   "concepto": "expresion_duda",
+   "nombre": "Expresión de duda",
+   "definicion": "Frase que indica incertidumbre o falta de certeza sobre algo en una conversación",
+   "ejemplo": "'La verdad no estoy muy seguro de eso' expresa duda"
+  },
+  {
+   "concepto": "charla_sobre_planes",
+   "nombre": "Charla sobre planes futuros",
+   "definicion": "Tema conversacional donde se pregunta o comenta sobre actividades o proyectos por venir",
+   "ejemplo": "'¿Tienes planes para las vacaciones?' es una charla común sobre planes futuros"
+  },
+  {
+   "concepto": "expresion_cansancio",
+   "nombre": "Expresión de cansancio",
+   "definicion": "Frase usada para comunicar fatiga física o mental en una conversación casual",
+   "ejemplo": "'Estoy agotado, necesito descansar' expresa cansancio en una charla"
+  },
+  {
+   "concepto": "pregunta_por_familia",
+   "nombre": "Pregunta por la familia",
+   "definicion": "Forma habitual de mostrar interés preguntando por los familiares de otra persona",
+   "ejemplo": "'¿Cómo está tu familia?' es una pregunta conversacional común"
+  },
+  {
+   "concepto": "expresion_de_gusto",
+   "nombre": "Expresión de gusto o preferencia",
+   "definicion": "Frase que indica que algo agrada a la persona que habla",
+   "ejemplo": "'Me encanta esta canción' expresa gusto personal en una charla"
+  },
+  {
+   "concepto": "charla_sobre_comida",
+   "nombre": "Charla sobre comida",
+   "definicion": "Tema conversacional habitual donde se comenta sobre platillos o preferencias alimenticias",
+   "ejemplo": "'¿Qué se te antoja comer hoy?' es una pregunta típica sobre comida"
+  },
+  {
+   "concepto": "expresion_alivio",
+   "nombre": "Expresión de alivio",
+   "definicion": "Frase que comunica tranquilidad después de resolver una preocupación",
+   "ejemplo": "'Qué alivio que todo salió bien' expresa alivio en una conversación"
+  },
+  {
+   "concepto": "pregunta_de_seguimiento",
+   "nombre": "Pregunta de seguimiento",
+   "definicion": "Pregunta que profundiza en un tema que la otra persona acaba de mencionar",
+   "ejemplo": "Si alguien dice 'tuve un mal día', preguntar '¿qué pasó?' es una pregunta de seguimiento"
+  },
+  {
+   "concepto": "charla_tecnologia_casual",
+   "nombre": "Charla casual sobre tecnología",
+   "definicion": "Conversación informal sobre dispositivos, aplicaciones o tendencias tecnológicas",
+   "ejemplo": "'¿Ya viste el nuevo celular que salió?' es una charla casual sobre tecnología"
+  }
+ ]
+}

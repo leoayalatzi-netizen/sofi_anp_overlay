@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "categoria": "naturaleza/geografia",
+    "total": 25
+  },
+  "datos": [
+    {
+      "tipo": "continente",
+      "nombre": "Asia",
+      "superficie_km2": 44610000,
+      "poblacion": "4,700 millones",
+      "pais_mas_grande": "Rusia (parte asiática)",
+      "dato": "Es el continente más grande y poblado"
+    },
+    {
+      "tipo": "continente",
+      "nombre": "África",
+      "superficie_km2": 30370000,
+      "poblacion": "1,400 millones",
+      "pais_mas_grande": "Argelia",
+      "dato": "Tiene 54 países, más que cualquier otro continente"
+    },
+    {
+      "tipo": "continente",
+      "nombre": "América",
+      "superficie_km2": 42550000,
+      "poblacion": "1,000 millones",
+      "dato": "Dividida en América del Norte, Central y del Sur"
+    },
+    {
+      "tipo": "continente",
+      "nombre": "Europa",
+      "superficie_km2": 10180000,
+      "poblacion": "750 millones",
+      "dato": "Segundo continente más pequeño pero con gran influencia histórica"
+    },
+    {
+      "tipo": "continente",
+      "nombre": "Oceanía",
+      "superficie_km2": 8526000,
+      "poblacion": "43 millones",
+      "dato": "Australia ocupa el 86% de su superficie"
+    },
+    {
+      "tipo": "oceano",
+      "nombre": "Pacífico",
+      "superficie_km2": 165250000,
+      "profundidad_max": 11034,
+      "dato": "El más grande y profundo. Cubre 1/3 de la Tierra"
+    },
+    {
+      "tipo": "oceano",
+      "nombre": "Atlántico",
+      "superficie_km2": 82400000,
+      "profundidad_max": 8648,
+      "dato": "Segundo más grande. Separa América de Europa y África"
+    },
+    {
+      "tipo": "oceano",
+      "nombre": "Índico",
+      "superficie_km2": 73440000,
+      "profundidad_max": 7450,
+      "dato": "El más cálido. Rodeado por Asia, África y Australia"
+    },
+    {
+      "tipo": "montaña",
+      "nombre": "Everest",
+      "altura_m": 8848,
+      "ubicacion": "Nepal/Tíbet (Himalaya)",
+      "dato": "La montaña más alta sobre el nivel del mar"
+    },
+    {
+      "tipo": "montaña",
+      "nombre": "Aconcagua",
+      "altura_m": 6961,
+      "ubicacion": "Argentina (Andes)",
+      "dato": "La más alta de América y del hemisferio sur"
+    },
+    {
+      "tipo": "rio",
+      "nombre": "Amazonas",
+      "longitud_km": 7000,
+      "ubicacion": "Sudamérica",
+      "dato": "El río más caudaloso del mundo. Contiene 1/5 del agua dulce del planeta"
+    },
+    {
+      "tipo": "rio",
+      "nombre": "Nilo",
+      "longitud_km": 6650,
+      "ubicacion": "África",
+      "dato": "Tradicionalmente considerado el más largo. Cruza 10 países"
+    },
+    {
+      "tipo": "desierto",
+      "nombre": "Sahara",
+      "superficie_km2": 9400000,
+      "ubicacion": "Norte de África",
+      "dato": "El desierto cálido más grande del mundo. Similar en tamaño a China"
+    },
+    {
+      "tipo": "desierto",
+      "nombre": "Atacama",
+      "ubicacion": "Chile",
+      "dato": "El lugar más árido del planeta. Algunas zonas no han recibido lluvia en 400 años"
+    },
+    {
+      "tipo": "pais",
+      "nombre": "Rusia",
+      "superficie_km2": 17100000,
+      "poblacion": "144 millones",
+      "dato": "El país más extenso del mundo. Abarca 11 zonas horarias"
+    },
+    {
+      "tipo": "pais",
+      "nombre": "China",
+      "superficie_km2": 9597000,
+      "poblacion": "1,425 millones",
+      "dato": "País más poblado del mundo. Civilización continua más antigua"
+    },
+    {
+      "tipo": "pais",
+      "nombre": "México",
+      "superficie_km2": 1964000,
+      "poblacion": "128 millones",
+      "dato": "Mayor población hispanohablante. Cuna de civilizaciones mesoamericanas"
+    },
+    {
+      "tipo": "pais",
+      "nombre": "Japón",
+      "superficie_km2": 377975,
+      "poblacion": "125 millones",
+      "dato": "Archipiélago de 6,852 islas. Tercera economía mundial"
+    },
+    {
+      "tipo": "ciudad",
+      "nombre": "Tokio",
+      "poblacion": "37 millones (área metropolitana)",
+      "pais": "Japón",
+      "dato": "La aglomeración urbana más poblada del mundo"
+    },
+    {
+      "tipo": "ciudad",
+      "nombre": "Nueva York",
+      "poblacion": "20 millones (área metropolitana)",
+      "pais": "EEUU",
+      "dato": "Sede de la ONU. Centro financiero global"
+    },
+    {
+      "tipo": "selva",
+      "nombre": "Amazonia",
+      "superficie_km2": 7000000,
+      "ubicacion": "9 países de Sudamérica",
+      "dato": "Mayor selva tropical. Produce 20% del oxígeno del planeta. Alberga 10% de las especies conocidas"
+    },
+    {
+      "tipo": "lago",
+      "nombre": "Baikal",
+      "ubicacion": "Rusia (Siberia)",
+      "profundidad_max_m": 1642,
+      "dato": "El lago más profundo y antiguo del mundo. Contiene 20% del agua dulce no congelada"
+    },
+    {
+      "tipo": "catarata",
+      "nombre": "Salto Ángel",
+      "altura_m": 979,
+      "ubicacion": "Venezuela",
+      "dato": "La cascada más alta del mundo. 15 veces más alta que las Cataratas del Niágara"
+    },
+    {
+      "tipo": "isla",
+      "nombre": "Groenlandia",
+      "superficie_km2": 2166000,
+      "pertenece_a": "Dinamarca",
+      "dato": "La isla más grande del mundo. 80% cubierta de hielo"
+    },
+    {
+      "tipo": "volcan",
+      "nombre": "Mauna Loa",
+      "altura_desde_base_m": 10000,
+      "ubicacion": "Hawái, EEUU",
+      "dato": "El volcán más grande del mundo medido desde su base submarina"
+    }
+  ]
+}

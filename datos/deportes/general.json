@@ -1,0 +1,225 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "deportes",
+  "n_items": 36
+ },
+ "datos": [
+  {
+   "concepto": "futbol",
+   "nombre": "Fútbol",
+   "definicion": "Deporte de equipo donde dos equipos de once jugadores intentan meter un balón en la portería contraria usando principalmente los pies",
+   "ejemplo": "Un partido de fútbol profesional dura 90 minutos divididos en dos tiempos de 45"
+  },
+  {
+   "concepto": "baloncesto",
+   "nombre": "Baloncesto",
+   "definicion": "Deporte de equipo donde dos equipos de cinco jugadores intentan encestar un balón en el aro contrario",
+   "ejemplo": "Un tiro de tres puntos en baloncesto se hace desde detrás de la línea de triple"
+  },
+  {
+   "concepto": "tenis",
+   "nombre": "Tenis",
+   "definicion": "Deporte individual o de dobles donde los jugadores golpean una pelota con una raqueta sobre una red",
+   "ejemplo": "En tenis, ganar un set generalmente requiere llegar a 6 juegos con dos de ventaja"
+  },
+  {
+   "concepto": "voleibol",
+   "nombre": "Voleibol",
+   "definicion": "Deporte de equipo donde dos equipos golpean un balón sobre una red intentando que toque el suelo del rival",
+   "ejemplo": "Cada equipo de voleibol puede tocar el balón hasta tres veces antes de pasarlo a la red"
+  },
+  {
+   "concepto": "natacion_deporte",
+   "nombre": "Natación",
+   "definicion": "Deporte que consiste en desplazarse en el agua usando técnicas como crol, espalda, pecho o mariposa",
+   "ejemplo": "Los 100 metros libres son una de las pruebas más rápidas y populares de la natación"
+  },
+  {
+   "concepto": "atletismo",
+   "nombre": "Atletismo",
+   "definicion": "Conjunto de disciplinas deportivas que incluyen carreras, saltos y lanzamientos",
+   "ejemplo": "Los 100 metros lisos son la prueba de velocidad más famosa del atletismo"
+  },
+  {
+   "concepto": "ciclismo",
+   "nombre": "Ciclismo",
+   "definicion": "Deporte que consiste en recorrer distancias en bicicleta, ya sea en ruta, pista o montaña",
+   "ejemplo": "El Tour de Francia es una de las competiciones de ciclismo en ruta más importantes del mundo"
+  },
+  {
+   "concepto": "boxeo",
+   "nombre": "Boxeo",
+   "definicion": "Deporte de combate donde dos contrincantes se enfrentan usando únicamente los puños dentro de un cuadrilátero",
+   "ejemplo": "Un combate de boxeo profesional puede durar hasta doce asaltos de tres minutos cada uno"
+  },
+  {
+   "concepto": "golf",
+   "nombre": "Golf",
+   "definicion": "Deporte individual donde el jugador intenta meter una pelota en una serie de hoyos con el menor número de golpes",
+   "ejemplo": "Un campo de golf estándar tiene 18 hoyos"
+  },
+  {
+   "concepto": "beisbol",
+   "nombre": "Béisbol",
+   "definicion": "Deporte de equipo donde un jugador batea una pelota lanzada e intenta recorrer las bases antes de ser eliminado",
+   "ejemplo": "Un juego de béisbol se compone normalmente de nueve entradas"
+  },
+  {
+   "concepto": "juegos_olimpicos",
+   "nombre": "Juegos Olímpicos",
+   "definicion": "Evento multideportivo internacional que se celebra cada cuatro años, reuniendo a atletas de todo el mundo",
+   "ejemplo": "Los Juegos Olímpicos modernos comenzaron en Atenas en 1896"
+  },
+  {
+   "concepto": "mundial_futbol",
+   "nombre": "Copa Mundial de Fútbol",
+   "definicion": "Torneo internacional de selecciones nacionales de fútbol organizado por la FIFA cada cuatro años",
+   "ejemplo": "La Copa Mundial de fútbol reúne a 32 selecciones que compiten por el título"
+  },
+  {
+   "concepto": "regla_fuera_de_juego",
+   "nombre": "Fuera de juego (offside)",
+   "definicion": "Regla del fútbol que sanciona a un jugador atacante que recibe el balón estando más adelantado que el penúltimo defensor",
+   "ejemplo": "El árbitro asistente usa el banderín para señalar una posición de fuera de juego"
+  },
+  {
+   "concepto": "maraton",
+   "nombre": "Maratón",
+   "definicion": "Carrera de atletismo de larga distancia con una longitud oficial de 42.195 kilómetros",
+   "ejemplo": "El récord mundial de maratón masculino está por debajo de las dos horas y dos minutos"
+  },
+  {
+   "concepto": "triatlon",
+   "nombre": "Triatlón",
+   "definicion": "Disciplina deportiva que combina natación, ciclismo y carrera a pie en una sola competición continua",
+   "ejemplo": "El triatlón olímpico incluye 1.5 km de natación, 40 km de ciclismo y 10 km de carrera"
+  },
+  {
+   "concepto": "ajedrez",
+   "nombre": "Ajedrez",
+   "definicion": "Juego de estrategia entre dos jugadores sobre un tablero de 64 casillas, con piezas de distinto movimiento y valor",
+   "ejemplo": "El objetivo del ajedrez es dar jaque mate al rey del oponente"
+  },
+  {
+   "concepto": "halterofilia",
+   "nombre": "Halterofilia (levantamiento de pesas)",
+   "definicion": "Deporte que consiste en levantar la mayor cantidad de peso posible en movimientos técnicos como arranque y envión",
+   "ejemplo": "La halterofilia es un deporte olímpico dividido en categorías por peso corporal"
+  },
+  {
+   "concepto": "gimnasia_artistica",
+   "nombre": "Gimnasia artística",
+   "definicion": "Deporte que combina fuerza, flexibilidad y coordinación en aparatos como barras, anillas y suelo",
+   "ejemplo": "La gimnasia artística femenina incluye la prueba de viga de equilibrio"
+  },
+  {
+   "concepto": "rugby",
+   "nombre": "Rugby",
+   "definicion": "Deporte de equipo de contacto donde se avanza un balón ovalado hacia la zona de anotación del rival",
+   "ejemplo": "En rugby, un ensayo (try) se anota apoyando el balón en la zona de meta contraria"
+  },
+  {
+   "concepto": "handball",
+   "nombre": "Balonmano",
+   "definicion": "Deporte de equipo donde dos equipos de siete jugadores intentan lanzar un balón a la portería contraria con las manos",
+   "ejemplo": "En balonmano, los jugadores no pueden dar más de tres pasos sin botar el balón"
+  },
+  {
+   "concepto": "surf",
+   "nombre": "Surf",
+   "definicion": "Deporte acuático que consiste en deslizarse sobre las olas del mar de pie sobre una tabla",
+   "ejemplo": "Los surfistas remontan hacia la línea de rompiente antes de tomar una ola"
+  },
+  {
+   "concepto": "esqui_alpino",
+   "nombre": "Esquí alpino",
+   "definicion": "Deporte de invierno que consiste en descender pendientes nevadas con esquís a alta velocidad",
+   "ejemplo": "El eslalon y el descenso son modalidades del esquí alpino"
+  },
+  {
+   "concepto": "hipica",
+   "nombre": "Hípica (equitación)",
+   "definicion": "Deporte que involucra montar y competir con caballos en disciplinas como salto o doma",
+   "ejemplo": "El salto de obstáculos en hípica evalúa la técnica del binomio jinete-caballo"
+  },
+  {
+   "concepto": "regla_penalti",
+   "nombre": "Penalti (fútbol)",
+   "definicion": "Sanción máxima en fútbol que otorga un tiro directo a portería desde el punto penal por una falta dentro del área",
+   "ejemplo": "El punto de penalti está situado a 11 metros de la línea de meta"
+  },
+  {
+   "concepto": "posiciones_futbol",
+   "nombre": "Posiciones en el fútbol",
+   "definicion": "Roles asignados a los jugadores en el campo: portero, defensas, centrocampistas y delanteros",
+   "ejemplo": "El portero es el único jugador que puede tocar el balón con las manos dentro de su área"
+  },
+  {
+   "concepto": "record_mundial",
+   "nombre": "Récord mundial (deporte)",
+   "definicion": "Mejor marca oficial registrada en una disciplina deportiva a nivel global",
+   "ejemplo": "El récord mundial de los 100 metros lisos masculinos es de 9.58 segundos"
+  },
+  {
+   "concepto": "liga_deportiva",
+   "nombre": "Liga deportiva",
+   "definicion": "Competición organizada donde varios equipos se enfrentan a lo largo de una temporada según un calendario fijo",
+   "ejemplo": "La liga de fútbol profesional suele jugarse en formato de todos contra todos, ida y vuelta"
+  },
+  {
+   "concepto": "arbitro",
+   "nombre": "Árbitro",
+   "definicion": "Persona encargada de aplicar las reglas de un deporte y tomar decisiones durante un partido o competición",
+   "ejemplo": "El árbitro principal de fútbol es asistido por árbitros de línea y el VAR"
+  },
+  {
+   "concepto": "dopaje",
+   "nombre": "Dopaje deportivo",
+   "definicion": "Uso de sustancias o métodos prohibidos para mejorar artificialmente el rendimiento de un atleta",
+   "ejemplo": "Las agencias antidopaje realizan controles para detectar el uso de sustancias prohibidas"
+  },
+  {
+   "concepto": "entrenamiento_fisico",
+   "nombre": "Entrenamiento físico",
+   "definicion": "Conjunto de actividades planificadas para mejorar la condición física, fuerza o resistencia de una persona",
+   "ejemplo": "Un plan de entrenamiento suele combinar ejercicios de fuerza, resistencia y flexibilidad"
+  },
+  {
+   "concepto": "cinturon_negro",
+   "nombre": "Cinturón negro (artes marciales)",
+   "definicion": "Nivel avanzado de dominio técnico en disciplinas como el karate o el judo",
+   "ejemplo": "Alcanzar el cinturón negro en judo requiere años de práctica y varios exámenes"
+  },
+  {
+   "concepto": "formula_1",
+   "nombre": "Fórmula 1",
+   "definicion": "Categoría más alta del automovilismo de velocidad, con monoplazas de altísimo rendimiento",
+   "ejemplo": "La Fórmula 1 celebra carreras llamadas Grandes Premios en distintos circuitos del mundo"
+  },
+  {
+   "concepto": "escalada_deportiva",
+   "nombre": "Escalada deportiva",
+   "definicion": "Deporte que consiste en ascender paredes de roca o estructuras artificiales usando técnica y fuerza",
+   "ejemplo": "La escalada deportiva se convirtió en disciplina olímpica en los Juegos de Tokio 2020"
+  },
+  {
+   "concepto": "softbol",
+   "nombre": "Sóftbol",
+   "definicion": "Deporte similar al béisbol, jugado con una pelota más grande y lanzamientos por debajo del hombro",
+   "ejemplo": "El sóftbol es popular especialmente en las categorías femeninas de muchos países"
+  },
+  {
+   "concepto": "bandera_amarilla_futbol",
+   "nombre": "Tarjeta amarilla",
+   "definicion": "Sanción disciplinaria en fútbol que amonesta a un jugador por una falta o conducta antideportiva",
+   "ejemplo": "Dos tarjetas amarillas en un mismo partido equivalen a una expulsión"
+  },
+  {
+   "concepto": "categoria_de_peso",
+   "nombre": "Categoría de peso (boxeo)",
+   "definicion": "División de competidores según su peso corporal, para igualar condiciones físicas de combate",
+   "ejemplo": "El peso pluma y el peso pesado son categorías distintas en el boxeo"
+  }
+ ]
+}

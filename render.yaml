@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: sofi-anp
+    runtime: python
+    region: frankfurt
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python principal.py
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.8
+      - key: PYTHONUNBUFFERED
+        value: "1"
+      - key: SOFI_CLAVE            # Render genera una; puedes cambiarla en Environment
+        generateValue: true
+      - key: SOFI_LLM_PROVIDER     # groq (Qwen3-32B gratis). Otros: dashscope | openrouter | ollama | openai
+        value: groq
+      - key: SOFI_LLM_KEY
+        sync: false
+      - key: SOFI_LLM_MODEL        # opcional: cambia el modelo por defecto del proveedor
+        sync: false
+      - key: SOFI_TAVILY_KEY       # opcional: búsqueda web más fiable
+        sync: false
+      - key: SOFI_BRAVE_KEY        # opcional: alternativa a Tavily
+        sync: false

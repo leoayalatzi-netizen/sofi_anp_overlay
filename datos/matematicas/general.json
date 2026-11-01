@@ -1,0 +1,303 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "matematicas",
+  "n_items": 49
+ },
+ "datos": [
+  {
+   "concepto": "suma",
+   "nombre": "Suma",
+   "definicion": "Operación aritmética que combina dos o más cantidades para obtener su total",
+   "ejemplo": "3 + 4 = 7 es un ejemplo de suma"
+  },
+  {
+   "concepto": "resta",
+   "nombre": "Resta",
+   "definicion": "Operación aritmética que calcula la diferencia entre dos cantidades",
+   "ejemplo": "10 - 3 = 7 es un ejemplo de resta"
+  },
+  {
+   "concepto": "multiplicacion",
+   "nombre": "Multiplicación",
+   "definicion": "Operación aritmética que representa la suma repetida de un número una cantidad determinada de veces",
+   "ejemplo": "4 × 3 = 12 equivale a sumar 4 tres veces"
+  },
+  {
+   "concepto": "division",
+   "nombre": "División",
+   "definicion": "Operación aritmética que reparte una cantidad en partes iguales según un divisor",
+   "ejemplo": "20 ÷ 4 = 5 significa repartir 20 en 4 partes iguales de 5"
+  },
+  {
+   "concepto": "numero_primo",
+   "nombre": "Número primo",
+   "definicion": "Número natural mayor que 1 que solo es divisible entre 1 y él mismo",
+   "ejemplo": "2, 3, 5, 7, 11 y 13 son los primeros números primos"
+  },
+  {
+   "concepto": "numero_compuesto",
+   "nombre": "Número compuesto",
+   "definicion": "Número natural mayor que 1 que tiene más de dos divisores",
+   "ejemplo": "12 es compuesto porque es divisible entre 1, 2, 3, 4, 6 y 12"
+  },
+  {
+   "concepto": "fraccion",
+   "nombre": "Fracción",
+   "definicion": "Representación de una parte de un todo dividido en partes iguales, escrita como numerador sobre denominador",
+   "ejemplo": "3/4 representa tres partes de un total dividido en cuatro"
+  },
+  {
+   "concepto": "numero_decimal",
+   "nombre": "Número decimal",
+   "definicion": "Número que incluye una parte entera y una parte fraccionaria separadas por una coma o punto",
+   "ejemplo": "3.75 es un número decimal con parte entera 3 y parte decimal 75"
+  },
+  {
+   "concepto": "porcentaje",
+   "nombre": "Porcentaje",
+   "definicion": "Forma de expresar una cantidad como una fracción de 100",
+   "ejemplo": "El 50% de 200 equivale a la mitad, es decir, 100"
+  },
+  {
+   "concepto": "ecuacion_lineal",
+   "nombre": "Ecuación lineal",
+   "definicion": "Igualdad matemática donde la incógnita aparece elevada solo a la primera potencia",
+   "ejemplo": "2x + 3 = 7 es una ecuación lineal cuya solución es x = 2"
+  },
+  {
+   "concepto": "ecuacion_cuadratica",
+   "nombre": "Ecuación cuadrática",
+   "definicion": "Ecuación polinómica de segundo grado, de la forma ax² + bx + c = 0",
+   "ejemplo": "x² - 5x + 6 = 0 tiene como soluciones x = 2 y x = 3"
+  },
+  {
+   "concepto": "teorema_pitagoras",
+   "nombre": "Teorema de Pitágoras",
+   "definicion": "En un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos",
+   "ejemplo": "Si los catetos miden 3 y 4, la hipotenusa mide 5, porque 3² + 4² = 5²"
+  },
+  {
+   "concepto": "numero_pi",
+   "nombre": "Número Pi (π)",
+   "definicion": "Constante matemática que representa la relación entre la circunferencia de un círculo y su diámetro, aproximadamente 3.14159",
+   "ejemplo": "El área de un círculo se calcula como π multiplicado por el radio al cuadrado"
+  },
+  {
+   "concepto": "area_circulo",
+   "nombre": "Área del círculo",
+   "definicion": "Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado",
+   "ejemplo": "Un círculo de radio 5 tiene un área aproximada de 78.54 unidades cuadradas"
+  },
+  {
+   "concepto": "perimetro",
+   "nombre": "Perímetro",
+   "definicion": "Suma de las longitudes de todos los lados de una figura geométrica",
+   "ejemplo": "El perímetro de un cuadrado de lado 5 es 20, porque 4 × 5 = 20"
+  },
+  {
+   "concepto": "volumen",
+   "nombre": "Volumen",
+   "definicion": "Medida del espacio tridimensional que ocupa un cuerpo",
+   "ejemplo": "El volumen de un cubo se calcula elevando la longitud de su arista al cubo"
+  },
+  {
+   "concepto": "angulo_recto",
+   "nombre": "Ángulo recto",
+   "definicion": "Ángulo que mide exactamente 90 grados",
+   "ejemplo": "Las esquinas de una hoja de papel rectangular forman ángulos rectos"
+  },
+  {
+   "concepto": "triangulo_equilatero",
+   "nombre": "Triángulo equilátero",
+   "definicion": "Triángulo cuyos tres lados y tres ángulos internos son iguales, cada ángulo mide 60 grados",
+   "ejemplo": "Un triángulo equilátero de lado 4 tiene sus tres lados midiendo exactamente 4"
+  },
+  {
+   "concepto": "funcion_matematica",
+   "nombre": "Función matemática",
+   "definicion": "Relación que asigna a cada elemento de un conjunto de entrada exactamente un elemento de un conjunto de salida",
+   "ejemplo": "f(x) = 2x + 1 es una función que duplica x y le suma 1"
+  },
+  {
+   "concepto": "derivada",
+   "nombre": "Derivada",
+   "definicion": "En cálculo, mide la tasa de cambio instantánea de una función respecto a su variable",
+   "ejemplo": "La derivada de x² es 2x, lo que indica cómo cambia la función en cada punto"
+  },
+  {
+   "concepto": "integral",
+   "nombre": "Integral",
+   "definicion": "En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad",
+   "ejemplo": "La integral de una función de velocidad respecto al tiempo da la distancia recorrida"
+  },
+  {
+   "concepto": "limite_matematico",
+   "nombre": "Límite (matemáticas)",
+   "definicion": "Valor al que se aproxima una función cuando su variable se acerca a un punto determinado",
+   "ejemplo": "El límite de 1/x cuando x tiende a infinito es 0"
+  },
+  {
+   "concepto": "estadistica_media",
+   "nombre": "Media aritmética (promedio)",
+   "definicion": "Suma de un conjunto de valores dividida entre la cantidad de valores",
+   "ejemplo": "La media de 2, 4 y 6 es (2+4+6)/3 = 4"
+  },
+  {
+   "concepto": "estadistica_mediana",
+   "nombre": "Mediana",
+   "definicion": "Valor central de un conjunto de datos ordenados de menor a mayor",
+   "ejemplo": "La mediana de 1, 3, 5, 7, 9 es 5, el valor del medio"
+  },
+  {
+   "concepto": "probabilidad",
+   "nombre": "Probabilidad",
+   "definicion": "Medida numérica entre 0 y 1 de qué tan posible es que ocurra un evento",
+   "ejemplo": "La probabilidad de obtener cara al lanzar una moneda justa es 0.5"
+  },
+  {
+   "concepto": "conjunto_matematico",
+   "nombre": "Conjunto",
+   "definicion": "Colección bien definida de objetos o elementos distintos entre sí",
+   "ejemplo": "El conjunto de números pares menores que 10 es {2, 4, 6, 8}"
+  },
+  {
+   "concepto": "numero_natural",
+   "nombre": "Número natural",
+   "definicion": "Número entero positivo usado para contar, comenzando desde 0 o 1 según la convención",
+   "ejemplo": "1, 2, 3, 4 y 5 son los primeros números naturales"
+  },
+  {
+   "concepto": "numero_entero",
+   "nombre": "Número entero",
+   "definicion": "Conjunto de números que incluye los naturales, sus negativos y el cero",
+   "ejemplo": "-3, 0 y 7 son ejemplos de números enteros"
+  },
+  {
+   "concepto": "numero_racional",
+   "nombre": "Número racional",
+   "definicion": "Número que puede expresarse como el cociente de dos números enteros con denominador distinto de cero",
+   "ejemplo": "1/2 y 0.75 son números racionales"
+  },
+  {
+   "concepto": "numero_irracional",
+   "nombre": "Número irracional",
+   "definicion": "Número que no puede expresarse como fracción exacta de dos enteros y tiene decimales infinitos no periódicos",
+   "ejemplo": "π y la raíz cuadrada de 2 son números irracionales"
+  },
+  {
+   "concepto": "potencia_matematica",
+   "nombre": "Potenciación",
+   "definicion": "Operación que multiplica un número (base) por sí mismo tantas veces como indica el exponente",
+   "ejemplo": "2³ = 8 porque 2 × 2 × 2 = 8"
+  },
+  {
+   "concepto": "raiz_cuadrada",
+   "nombre": "Raíz cuadrada",
+   "definicion": "Operación que encuentra el número que, multiplicado por sí mismo, da como resultado el número original",
+   "ejemplo": "La raíz cuadrada de 9 es 3, porque 3 × 3 = 9"
+  },
+  {
+   "concepto": "logaritmo",
+   "nombre": "Logaritmo",
+   "definicion": "Operación inversa de la potenciación, indica a qué exponente hay que elevar una base para obtener un número",
+   "ejemplo": "El logaritmo en base 10 de 100 es 2, porque 10² = 100"
+  },
+  {
+   "concepto": "matriz_matematica",
+   "nombre": "Matriz",
+   "definicion": "Arreglo rectangular de números organizados en filas y columnas, usado en álgebra lineal",
+   "ejemplo": "Una matriz 2x2 tiene 2 filas y 2 columnas, con 4 elementos en total"
+  },
+  {
+   "concepto": "vector_matematico",
+   "nombre": "Vector",
+   "definicion": "Magnitud que tiene tanto tamaño (módulo) como dirección, representada por una flecha o coordenadas",
+   "ejemplo": "Un vector (3, 4) tiene un módulo de 5, calculado con el teorema de Pitágoras"
+  },
+  {
+   "concepto": "geometria_euclidiana",
+   "nombre": "Geometría euclidiana",
+   "definicion": "Rama de la geometría basada en los postulados de Euclides sobre puntos, líneas y planos",
+   "ejemplo": "La suma de los ángulos internos de un triángulo euclidiano siempre es 180 grados"
+  },
+  {
+   "concepto": "trigonometria",
+   "nombre": "Trigonometría",
+   "definicion": "Rama de las matemáticas que estudia las relaciones entre los ángulos y los lados de los triángulos",
+   "ejemplo": "El seno, coseno y tangente son funciones fundamentales de la trigonometría"
+  },
+  {
+   "concepto": "factorial",
+   "nombre": "Factorial",
+   "definicion": "Producto de todos los números enteros positivos desde 1 hasta un número dado n, escrito como n!",
+   "ejemplo": "5! = 5 × 4 × 3 × 2 × 1 = 120"
+  },
+  {
+   "concepto": "progresion_aritmetica",
+   "nombre": "Progresión aritmética",
+   "definicion": "Sucesión de números donde cada término se obtiene sumando una cantidad constante al anterior",
+   "ejemplo": "2, 5, 8, 11, 14 es una progresión aritmética de razón 3"
+  },
+  {
+   "concepto": "progresion_geometrica",
+   "nombre": "Progresión geométrica",
+   "definicion": "Sucesión de números donde cada término se obtiene multiplicando el anterior por una razón constante",
+   "ejemplo": "3, 6, 12, 24, 48 es una progresión geométrica de razón 2"
+  },
+  {
+   "concepto": "simetria_matematica",
+   "nombre": "Simetría",
+   "definicion": "Propiedad de una figura que permanece igual después de aplicarle una transformación como reflexión o rotación",
+   "ejemplo": "Una mariposa dibujada tiene simetría axial respecto a una línea central"
+  },
+  {
+   "concepto": "numero_par_impar",
+   "nombre": "Número par e impar",
+   "definicion": "Un número par es divisible entre 2 exactamente; un número impar no lo es",
+   "ejemplo": "4, 6 y 8 son pares; 3, 5 y 7 son impares"
+  },
+  {
+   "concepto": "teorema_de_tales",
+   "nombre": "Teorema de Tales",
+   "definicion": "Establece que si dos rectas son cortadas por rectas paralelas, los segmentos resultantes son proporcionales",
+   "ejemplo": "El teorema de Tales se usa para medir alturas de objetos mediante triángulos semejantes"
+  },
+  {
+   "concepto": "conjetura_matematica",
+   "nombre": "Conjetura matemática",
+   "definicion": "Afirmación que se cree verdadera pero que aún no ha sido demostrada formalmente",
+   "ejemplo": "La conjetura de Goldbach propone que todo número par mayor que 2 es suma de dos primos"
+  },
+  {
+   "concepto": "algebra",
+   "nombre": "Álgebra",
+   "definicion": "Rama de las matemáticas que usa letras y símbolos para representar números y relaciones en ecuaciones",
+   "ejemplo": "En álgebra, x + 5 = 10 representa una ecuación donde x es una incógnita"
+  },
+  {
+   "concepto": "calculo_diferencial",
+   "nombre": "Cálculo diferencial",
+   "definicion": "Rama del cálculo que estudia las derivadas y las tasas de cambio de las funciones",
+   "ejemplo": "El cálculo diferencial permite encontrar la velocidad instantánea de un objeto en movimiento"
+  },
+  {
+   "concepto": "teoria_de_conjuntos",
+   "nombre": "Teoría de conjuntos",
+   "definicion": "Rama de las matemáticas que estudia las propiedades y relaciones entre conjuntos de objetos",
+   "ejemplo": "La unión y la intersección son operaciones básicas de la teoría de conjuntos"
+  },
+  {
+   "concepto": "hipotenusa",
+   "nombre": "Hipotenusa",
+   "definicion": "Lado más largo de un triángulo rectángulo, opuesto al ángulo recto",
+   "ejemplo": "En un triángulo rectángulo con catetos 6 y 8, la hipotenusa mide 10"
+  },
+  {
+   "concepto": "numero_negativo",
+   "nombre": "Número negativo",
+   "definicion": "Número menor que cero, representado con el signo menos delante",
+   "ejemplo": "-5 es un número negativo que representa una deuda o una temperatura bajo cero"
+  }
+ ]
+}

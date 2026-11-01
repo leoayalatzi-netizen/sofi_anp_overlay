@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "categoria": "lenguaje/espanol",
+    "tipo": "gramatica",
+    "total": 20
+  },
+  "datos": [
+    {
+      "concepto": "sustantivo",
+      "definicion": "Palabra que designa personas, animales, cosas, lugares o ideas",
+      "ejemplos": [
+        "casa",
+        "perro",
+        "amor",
+        "María"
+      ],
+      "tipo": "clase_palabra"
+    },
+    {
+      "concepto": "adjetivo",
+      "definicion": "Palabra que califica o describe al sustantivo",
+      "ejemplos": [
+        "rojo",
+        "grande",
+        "inteligente",
+        "hermoso"
+      ],
+      "tipo": "clase_palabra"
+    },
+    {
+      "concepto": "verbo",
+      "definicion": "Palabra que expresa acción, estado o proceso",
+      "ejemplos": [
+        "correr",
+        "pensar",
+        "ser",
+        "estar"
+      ],
+      "tipo": "clase_palabra"
+    },
+    {
+      "concepto": "adverbio",
+      "definicion": "Palabra que modifica al verbo, adjetivo u otro adverbio",
+      "ejemplos": [
+        "rápidamente",
+        "muy",
+        "aquí",
+        "siempre"
+      ],
+      "tipo": "clase_palabra"
+    },
+    {
+      "concepto": "preposicion",
+      "definicion": "Palabra que relaciona elementos en la oración",
+      "ejemplos": [
+        "a",
+        "de",
+        "en",
+        "por",
+        "para"
+      ],
+      "tipo": "clase_palabra"
+    },
+    {
+      "concepto": "conjuncion",
+      "definicion": "Palabra que une oraciones o elementos",
+      "ejemplos": [
+        "y",
+        "o",
+        "pero",
+        "porque"
+      ],
+      "tipo": "clase_palabra"
+    },
+    {
+      "concepto": "sujeto",
+      "definicion": "Parte de la oración que realiza la acción o de quien se dice algo",
+      "ejemplo": "El gato (sujeto) duerme",
+      "tipo": "sintaxis"
+    },
+    {
+      "concepto": "predicado",
+      "definicion": "Parte de la oración que expresa lo que hace o se dice del sujeto",
+      "ejemplo": "El gato duerme (predicado)",
+      "tipo": "sintaxis"
+    },
+    {
+      "concepto": "oracion_simple",
+      "definicion": "Oración con un solo verbo conjugado",
+      "ejemplo": "Juan come manzanas"
+    },
+    {
+      "concepto": "oracion_compuesta",
+      "definicion": "Oración con más de un verbo conjugado",
+      "ejemplo": "Juan come manzanas mientras María lee"
+    },
+    {
+      "concepto": "concordancia",
+      "definicion": "Coincidencia de género y número entre sustantivo, adjetivo y artículo",
+      "ejemplo": "Las casas blancas (femenino plural)"
+    },
+    {
+      "concepto": "tiempo_verbal",
+      "definicion": "Momento en que ocurre la acción del verbo",
+      "tipos": [
+        "presente",
+        "pasado",
+        "futuro",
+        "condicional"
+      ]
+    },
+    {
+      "concepto": "modo_verbal",
+      "definicion": "Actitud del hablante ante la acción",
+      "tipos": [
+        "indicativo",
+        "subjuntivo",
+        "imperativo"
+      ]
+    },
+    {
+      "concepto": "pronombre",
+      "definicion": "Palabra que sustituye al sustantivo",
+      "tipos": [
+        "personales (yo, tú)",
+        "demostrativos (este)",
+        "posesivos (mío)"
+      ]
+    },
+    {
+      "concepto": "articulo",
+      "definicion": "Palabra que acompaña al sustantivo indicando género y número",
+      "tipos": [
+        "determinado (el, la)",
+        "indeterminado (un, una)"
+      ]
+    },
+    {
+      "concepto": "diptongo",
+      "definicion": "Unión de dos vocales en una misma sílaba (vocal cerrada + abierta)",
+      "ejemplos": [
+        "ai-re",
+        "vien-to",
+        "cua-dro"
+      ]
+    },
+    {
+      "concepto": "hiato",
+      "definicion": "Separación de dos vocales en sílabas distintas",
+      "ejemplos": [
+        "pa-ís",
+        "te-a-tro",
+        "a-é-re-o"
+      ]
+    },
+    {
+      "concepto": "tilde",
+      "definicion": "Acento ortográfico que indica la sílaba tónica",
+      "reglas": [
+        "agudas terminadas en n/s/vocal",
+        "graves no terminadas en n/s/vocal",
+        "esdrújulas siempre"
+      ]
+    },
+    {
+      "concepto": "oracion_interrogativa",
+      "definicion": "Oración que formula una pregunta",
+      "ejemplo": "¿Cómo te llamas?",
+      "signos": [
+        "¿",
+        "?"
+      ]
+    },
+    {
+      "concepto": "oracion_exclamativa",
+      "definicion": "Oración que expresa emoción intensa",
+      "ejemplo": "¡Qué bonito!",
+      "signos": [
+        "¡",
+        "!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "categoria": "humanidad/filosofia",
+    "total": 12
+  },
+  "datos": [
+    {
+      "corriente": "estoicismo",
+      "epoca": "Siglo III a.C.",
+      "fundador": "Zenón de Citio",
+      "representantes": [
+        "Séneca",
+        "Epicteto",
+        "Marco Aurelio"
+      ],
+      "ideas_clave": [
+        "Vivir según la razón",
+        "Aceptar el destino",
+        "La virtud es el bien supremo",
+        "Dicotomía del control (lo que depende de ti y lo que no)"
+      ]
+    },
+    {
+      "corriente": "existencialismo",
+      "epoca": "Siglo XIX-XX",
+      "representantes": [
+        "Søren Kierkegaard",
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "Simone de Beauvoir"
+      ],
+      "ideas_clave": [
+        "La existencia precede a la esencia",
+        "El ser humano es radicalmente libre",
+        "La angustia de la libertad",
+        "Crear significado en un universo absurdo"
+      ]
+    },
+    {
+      "corriente": "racionalismo",
+      "epoca": "Siglo XVII",
+      "representantes": [
+        "René Descartes",
+        "Baruch Spinoza",
+        "Gottfried Leibniz"
+      ],
+      "ideas_clave": [
+        "La razón es la fuente del conocimiento",
+        "Ideas innatas",
+        "Método deductivo",
+        "Cogito ergo sum (Pienso, luego existo)"
+      ]
+    },
+    {
+      "corriente": "empirismo",
+      "epoca": "Siglo XVII-XVIII",
+      "representantes": [
+        "John Locke",
+        "David Hume",
+        "George Berkeley"
+      ],
+      "ideas_clave": [
+        "El conocimiento viene de la experiencia sensorial",
+        "La mente es una tabula rasa al nacer",
+        "No hay ideas innatas",
+        "Método inductivo"
+      ]
+    },
+    {
+      "corriente": "idealismo",
+      "epoca": "Siglo XVIII-XIX",
+      "representantes": [
+        "Immanuel Kant",
+        "Georg Hegel",
+        "Platón (idealismo antiguo)"
+      ],
+      "ideas_clave": [
+        "La realidad es fundamentalmente mental",
+        "El mundo fenoménico vs. el noúmeno (Kant)",
+        "Dialéctica (tesis-antítesis-síntesis)"
+      ]
+    },
+    {
+      "corriente": "nihilismo",
+      "epoca": "Siglo XIX",
+      "representantes": [
+        "Friedrich Nietzsche"
+      ],
+      "ideas_clave": [
+        "Negación de valores y significados objetivos",
+        "Dios ha muerto",
+        "Voluntad de poder",
+        "Superhombre (Übermensch)"
+      ]
+    },
+    {
+      "corriente": "utilitarismo",
+      "epoca": "Siglo XVIII-XIX",
+      "representantes": [
+        "Jeremy Bentham",
+        "John Stuart Mill"
+      ],
+      "ideas_clave": [
+        "La mejor acción es la que maximiza la felicidad",
+        "Cálculo utilitario (placer vs. dolor)",
+        "El bien mayor para el mayor número"
+      ]
+    },
+    {
+      "corriente": "humanismo",
+      "epoca": "Renacimiento (Siglo XV-XVI)",
+      "representantes": [
+        "Erasmo de Rotterdam",
+        "Petrarca",
+        "Giovanni Pico della Mirandola"
+      ],
+      "ideas_clave": [
+        "El ser humano como centro",
+        "Dignidad humana",
+        "Valor del individuo",
+        "Educación integral"
+      ]
+    },
+    {
+      "corriente": "escepticismo",
+      "epoca": "Antigüedad",
+      "representantes": [
+        "Pirrón de Elis",
+        "Sexto Empírico"
+      ],
+      "ideas_clave": [
+        "Duda metódica",
+        "Imposibilidad del conocimiento absoluto",
+        "Epojé (suspensión del juicio)",
+        "Ataraxia (paz mental)"
+      ]
+    },
+    {
+      "corriente": "cinismo",
+      "epoca": "Antigua Grecia",
+      "representantes": [
+        "Diógenes de Sinope",
+        "Antístenes"
+      ],
+      "ideas_clave": [
+        "Vida conforme a la naturaleza",
+        "Desprecio por convenciones sociales",
+        "Autosuficiencia",
+        "Crítica a lo material"
+      ]
+    },
+    {
+      "corriente": "pragmatismo",
+      "epoca": "Siglo XIX-XX",
+      "representantes": [
+        "Charles Sanders Peirce",
+        "William James",
+        "John Dewey"
+      ],
+      "ideas_clave": [
+        "La verdad se mide por sus consecuencias prácticas",
+        "Lo útil es verdadero",
+        "Anti-dogmatismo"
+      ]
+    },
+    {
+      "corriente": "filosofia_oriental",
+      "epoca": "Desde antigüedad",
+      "tradiciones": [
+        "Budismo",
+        "Taoísmo",
+        "Confucianismo",
+        "Hinduismo (Vedanta)"
+      ],
+      "ideas_clave": [
+        "Interconexión de todas las cosas",
+        "Impermanencia",
+        "No-apego",
+        "Armonía con el Tao/Dharma",
+        "Meditación"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "categoria": "entretenimiento",
+    "tipo": "citas",
+    "total": 30
+  },
+  "datos": [
+    {
+      "autor": "Albert Einstein",
+      "cita": "La imaginación es más importante que el conocimiento. El conocimiento es limitado, la imaginación rodea el mundo"
+    },
+    {
+      "autor": "Isaac Newton",
+      "cita": "Lo que sabemos es una gota de agua; lo que ignoramos es el océano"
+    },
+    {
+      "autor": "Marie Curie",
+      "cita": "Nada en la vida debe ser temido, solo debe ser comprendido. Ahora es el momento de comprender más para temer menos"
+    },
+    {
+      "autor": "Sócrates",
+      "cita": "Solo sé que no sé nada"
+    },
+    {
+      "autor": "Aristóteles",
+      "cita": "Somos lo que hacemos repetidamente. La excelencia no es un acto, sino un hábito"
+    },
+    {
+      "autor": "Leonardo da Vinci",
+      "cita": "La simplicidad es la máxima sofisticación"
+    },
+    {
+      "autor": "Nelson Mandela",
+      "cita": "La educación es el arma más poderosa que puedes usar para cambiar el mundo"
+    },
+    {
+      "autor": "Mahatma Gandhi",
+      "cita": "Sé el cambio que quieres ver en el mundo"
+    },
+    {
+      "autor": "Confucio",
+      "cita": "Elige un trabajo que ames y no tendrás que trabajar ni un día de tu vida"
+    },
+    {
+      "autor": "Frida Kahlo",
+      "cita": "Pies, ¿para qué los quiero si tengo alas para volar?"
+    },
+    {
+      "autor": "Oscar Wilde",
+      "cita": "Sé tú mismo. Los demás puestos ya están ocupados"
+    },
+    {
+      "autor": "Mark Twain",
+      "cita": "El secreto para salir adelante es empezar"
+    },
+    {
+      "autor": "Steve Jobs",
+      "cita": "La única forma de hacer un gran trabajo es amar lo que haces"
+    },
+    {
+      "autor": "Carl Sagan",
+      "cita": "Somos polvo de estrellas que ha tomado conciencia de sí mismo"
+    },
+    {
+      "autor": "Alan Turing",
+      "cita": "A veces las personas que nadie imagina que harían algo son las que hacen cosas que nadie podría imaginar"
+    },
+    {
+      "autor": "Marie Curie",
+      "cita": "Sé menos curioso sobre las personas y más curioso sobre las ideas"
+    },
+    {
+      "autor": "Charles Darwin",
+      "cita": "No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que mejor se adapta al cambio"
+    },
+    {
+      "autor": "Séneca",
+      "cita": "No es que tengamos poco tiempo, es que perdemos mucho"
+    },
+    {
+      "autor": "Platón",
+      "cita": "La necesidad es la madre de la invención"
+    },
+    {
+      "autor": "Nietzsche",
+      "cita": "Lo que no me mata, me hace más fuerte"
+    },
+    {
+      "autor": "Gandhi",
+      "cita": "Ojo por ojo y el mundo acabará ciego"
+    },
+    {
+      "autor": "Einstein",
+      "cita": "Locura es hacer lo mismo una y otra vez esperando resultados diferentes"
+    },
+    {
+      "autor": "Walt Disney",
+      "cita": "Si puedes soñarlo, puedes hacerlo"
+    },
+    {
+      "autor": "Maya Angelou",
+      "cita": "La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir"
+    },
+    {
+      "autor": "Dalai Lama",
+      "cita": "La felicidad no es algo hecho. Viene de tus propias acciones"
+    },
+    {
+      "autor": "Borges",
+      "cita": "La duda es uno de los nombres de la inteligencia"
+    },
+    {
+      "autor": "Cervantes",
+      "cita": "El que lee mucho y anda mucho, ve mucho y sabe mucho"
+    },
+    {
+      "autor": "Ana Frank",
+      "cita": "A pesar de todo, yo aún creo que la gente es buena en el fondo"
+    },
+    {
+      "autor": "Hawking",
+      "cita": "La inteligencia es la capacidad de adaptarse al cambio"
+    },
+    {
+      "autor": "Churchill",
+      "cita": "El éxito es ir de fracaso en fracaso sin perder el entusiasmo"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "categoria": "tecnologia/programacion",
+    "total": 15
+  },
+  "datos": [
+    {
+      "concepto": "python",
+      "definicion": "Lenguaje de programación de alto nivel, interpretado, con sintaxis clara y legible",
+      "creador": "Guido van Rossum",
+      "año": 1991,
+      "filosofia": "Legibilidad del código. 'Lo simple es mejor que lo complejo' (Zen de Python)"
+    },
+    {
+      "concepto": "variable",
+      "definicion": "Contenedor para almacenar datos en memoria. Python tiene tipado dinámico",
+      "ejemplo": "nombre = 'Ana'; edad = 25"
+    },
+    {
+      "concepto": "funcion",
+      "definicion": "Bloque de código reutilizable que realiza una tarea específica",
+      "ejemplo": "def saludar(nombre):\n    return f'Hola, {nombre}'"
+    },
+    {
+      "concepto": "lista",
+      "definicion": "Colección ordenada y mutable de elementos",
+      "ejemplo": "frutas = ['manzana', 'pera', 'uva']\nfrutas.append('naranja')"
+    },
+    {
+      "concepto": "diccionario",
+      "definicion": "Colección de pares clave-valor no ordenada",
+      "ejemplo": "persona = {'nombre': 'Leo', 'edad': 30}\npersona['ciudad'] = 'Madrid'"
+    },
+    {
+      "concepto": "bucle_for",
+      "definicion": "Itera sobre una secuencia (lista, string, rango)",
+      "ejemplo": "for i in range(5):\n    print(i)  # 0,1,2,3,4"
+    },
+    {
+      "concepto": "condicional",
+      "definicion": "Ejecuta código según una condición",
+      "ejemplo": "if edad >= 18:\n    print('Mayor de edad')\nelse:\n    print('Menor')"
+    },
+    {
+      "concepto": "clase",
+      "definicion": "Plantilla para crear objetos que agrupan datos y métodos",
+      "ejemplo": "class Perro:\n    def __init__(self, nombre):\n        self.nombre = nombre"
+    },
+    {
+      "concepto": "import",
+      "definicion": "Permite usar código de otros módulos o bibliotecas",
+      "ejemplo": "import math\nimport numpy as np"
+    },
+    {
+      "concepto": "pip",
+      "definicion": "Gestor de paquetes de Python. Instala bibliotecas externas",
+      "ejemplo": "pip install numpy pandas matplotlib"
+    },
+    {
+      "concepto": "libreria",
+      "definicion": "Conjunto de módulos con funcionalidades específicas",
+      "populares": [
+        "numpy (cálculo numérico)",
+        "pandas (datos)",
+        "flask/django (web)",
+        "pytorch/tensorflow (IA)"
+      ]
+    },
+    {
+      "concepto": "list_comprehension",
+      "definicion": "Forma concisa de crear listas",
+      "ejemplo": "[x**2 for x in range(10) if x % 2 == 0]  # Cuadrados de pares"
+    },
+    {
+      "concepto": "decorador",
+      "definicion": "Función que modifica el comportamiento de otra función",
+      "ejemplo": "@staticmethod\ndef metodo():\n    pass"
+    },
+    {
+      "concepto": "excepcion",
+      "definicion": "Error que ocurre durante la ejecución. Se maneja con try/except",
+      "ejemplo": "try:\n    x = 1/0\nexcept ZeroDivisionError:\n    print('No se puede dividir por cero')"
+    },
+    {
+      "concepto": "f_string",
+      "definicion": "Formateo de strings desde Python 3.6",
+      "ejemplo": "nombre = 'Leo'; print(f'Hola {nombre}')"
+    }
+  ]
+}

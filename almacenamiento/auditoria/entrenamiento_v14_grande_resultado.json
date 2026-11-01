@@ -1,0 +1,17 @@
+{
+  "version": "1.4-grande",
+  "base": 1617,
+  "train": 3254,
+  "features": 900,
+  "arquitectura": [
+    900,
+    1024,
+    512,
+    256,
+    5
+  ],
+  "parametros": 1580037,
+  "precision_holdout_grupo": 0.9752321981424149,
+  "epocas": 6,
+  "tiempo_segundos": 18.7
+}

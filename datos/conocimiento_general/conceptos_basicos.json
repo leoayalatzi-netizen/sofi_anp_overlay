@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "categoria": "conocimiento_general",
+    "total": 15
+  },
+  "datos": [
+    {
+      "concepto": "existencia",
+      "definicion": "Estado de ser, de tener realidad objetiva o subjetiva. Lo que es",
+      "pregunta_filosofica": "¿Por qué hay algo en lugar de nada?"
+    },
+    {
+      "concepto": "conocimiento",
+      "definicion": "Información, comprensión o habilidad adquirida mediante experiencia, educación o razonamiento",
+      "tipos": [
+        "Empírico (experiencia)",
+        "Racional (razón)",
+        "Intuitivo",
+        "Científico"
+      ]
+    },
+    {
+      "concepto": "verdad",
+      "definicion": "Conformidad entre lo que se afirma y los hechos o la realidad",
+      "teorias": [
+        "Correspondencia (coincide con hechos)",
+        "Coherencia (consistente internamente)",
+        "Pragmática (útil en la práctica)"
+      ]
+    },
+    {
+      "concepto": "tiempo",
+      "definicion": "Dimensión en la que los eventos ocurren en secuencia irreversible del pasado al futuro",
+      "fisica": "Relativo según Einstein. Se dilata con la velocidad y la gravedad"
+    },
+    {
+      "concepto": "energia",
+      "definicion": "Capacidad de un sistema para realizar trabajo o producir cambio",
+      "tipos": [
+        "Cinética",
+        "Potencial",
+        "Térmica",
+        "Eléctrica",
+        "Química",
+        "Nuclear"
+      ],
+      "ley": "No se crea ni se destruye, solo se transforma"
+    },
+    {
+      "concepto": "informacion",
+      "definicion": "Datos organizados y procesados que tienen significado y reducen la incertidumbre",
+      "unidad": "Bit (binary digit). 8 bits = 1 byte"
+    },
+    {
+      "concepto": "sistema",
+      "definicion": "Conjunto de elementos interrelacionados que forman un todo organizado",
+      "propiedades": [
+        "Sinergia (el todo > suma de partes)",
+        "Homeostasis (autorregulación)",
+        "Entropía (tendencia al desorden)"
+      ]
+    },
+    {
+      "concepto": "cambio",
+      "definicion": "Proceso mediante el cual algo se transforma, evoluciona o se altera",
+      "tipos": [
+        "Gradual (evolución)",
+        "Súbito (revolución)",
+        "Cíclico (estaciones)",
+        "Irreversible (entropía)"
+      ]
+    },
+    {
+      "concepto": "relacion",
+      "definicion": "Conexión, vínculo o asociación entre dos o más entidades",
+      "tipos": [
+        "Causal (causa-efecto)",
+        "Correlación (asociación sin causalidad)",
+        "Jerárquica",
+        "Simbiótica"
+      ]
+    },
+    {
+      "concepto": "emergencia",
+      "definicion": "Fenómeno donde propiedades nuevas surgen de la interacción de partes simples que no las poseen individualmente",
+      "ejemplos": [
+        "Conciencia desde neuronas",
+        "Vida desde moléculas",
+        "Tráfico desde autos individuales"
+      ]
+    },
+    {
+      "concepto": "patron",
+      "definicion": "Regularidad o estructura que se repite en datos, naturaleza o comportamiento",
+      "ejemplos": [
+        "Fibonacci en naturaleza",
+        "Ciclos día/noche",
+        "Ritmos musicales",
+        "Tendencias de datos"
+      ]
+    },
+    {
+      "concepto": "equilibrio",
+      "definicion": "Estado de balance entre fuerzas opuestas",
+      "tipos": [
+        "Estático (sin cambio)",
+        "Dinámico (cambio constante pero balanceado)",
+        "Puntuado (largos periodos estables + cambios súbitos)"
+      ]
+    },
+    {
+      "concepto": "paradoja",
+      "definicion": "Idea o situación que parece contradictoria pero puede contener una verdad profunda",
+      "ejemplos": [
+        "Paradoja del mentiroso: 'Esta frase es falsa'",
+        "Paradoja de Fermi: '¿Dónde están todos?'",
+        "Paradoja del abuelo (viajes en el tiempo)"
+      ]
+    },
+    {
+      "concepto": "infinito",
+      "definicion": "Concepto que describe algo sin límite, fin o frontera",
+      "simbolo": "∞",
+      "tipos": [
+        "Infinito potencial (sin fin)",
+        "Infinito actual (conjunto completo)",
+        "Infinitos más grandes que otros (Cantor)"
+      ]
+    },
+    {
+      "concepto": "conciencia",
+      "definicion": "Estado de ser consciente de uno mismo y del entorno. Capacidad de experimentar, sentir y tener subjetividad",
+      "pregunta_abierta": "¿Cómo surge la experiencia subjetiva de procesos físicos cerebrales? (El 'problema duro' de la conciencia)"
+    }
+  ]
+}

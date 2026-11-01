@@ -1,0 +1,95 @@
+{
+  "version": "1.4",
+  "base": 1617,
+  "train": 6301,
+  "val": 239,
+  "features": 800,
+  "precision_grupo_val": 0.7573221757322176,
+  "arquitectura": [
+    800,
+    96,
+    48,
+    5
+  ],
+  "grupos": {},
+  "precision_holdout": 0.9559748427672956,
+  "n_holdout": 318,
+  "por_dominio_holdout": {
+    "ciencia": {
+      "n": 21,
+      "aciertos": 21,
+      "precision": 1.0
+    },
+    "conocimiento_general": {
+      "n": 17,
+      "aciertos": 15,
+      "precision": 0.8823529411764706
+    },
+    "conversacional": {
+      "n": 16,
+      "aciertos": 16,
+      "precision": 1.0
+    },
+    "cultura": {
+      "n": 20,
+      "aciertos": 19,
+      "precision": 0.95
+    },
+    "deportes": {
+      "n": 21,
+      "aciertos": 21,
+      "precision": 1.0
+    },
+    "entretenimiento": {
+      "n": 20,
+      "aciertos": 20,
+      "precision": 1.0
+    },
+    "geografia": {
+      "n": 21,
+      "aciertos": 21,
+      "precision": 1.0
+    },
+    "humanidad": {
+      "n": 18,
+      "aciertos": 18,
+      "precision": 1.0
+    },
+    "lenguaje": {
+      "n": 21,
+      "aciertos": 17,
+      "precision": 0.8095238095238095
+    },
+    "matematicas": {
+      "n": 29,
+      "aciertos": 29,
+      "precision": 1.0
+    },
+    "naturaleza": {
+      "n": 20,
+      "aciertos": 18,
+      "precision": 0.9
+    },
+    "programacion": {
+      "n": 41,
+      "aciertos": 39,
+      "precision": 0.9512195121951219
+    },
+    "robotica": {
+      "n": 16,
+      "aciertos": 16,
+      "precision": 1.0
+    },
+    "tecnologia": {
+      "n": 20,
+      "aciertos": 20,
+      "precision": 1.0
+    },
+    "vida_cotidiana": {
+      "n": 17,
+      "aciertos": 14,
+      "precision": 0.8235294117647058
+    }
+  },
+  "tiempo_segundos": 28.42
+}

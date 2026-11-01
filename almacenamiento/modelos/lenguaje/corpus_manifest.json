@@ -1,0 +1,11 @@
+{
+  "version": "2.3",
+  "created_at": "2026-09-11T06:04:01",
+  "records": 9381,
+  "chars": 1279223,
+  "sources": 42,
+  "sha256": "5f32af046c1be31d196d80bc7000a6a1d2d45fa8509917bb86416d30523bf83a",
+  "tokenizer_vocab": 4096,
+  "estimated_tokens": 292330,
+  "tokens_per_char": 0.2285
+}

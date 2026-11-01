@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "categoria": "tecnologia/ia",
+    "total": 15
+  },
+  "datos": [
+    {
+      "concepto": "inteligencia_artificial",
+      "definicion": "Rama de la computación que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana",
+      "origen": "Término acuñado por John McCarthy en 1956",
+      "areas": [
+        "machine learning",
+        "deep learning",
+        "nlp",
+        "vision computacional",
+        "robotica"
+      ]
+    },
+    {
+      "concepto": "machine_learning",
+      "definicion": "Subcampo de IA donde los algoritmos aprenden patrones a partir de datos sin ser programados explícitamente",
+      "tipos": [
+        "supervisado",
+        "no supervisado",
+        "por refuerzo"
+      ]
+    },
+    {
+      "concepto": "deep_learning",
+      "definicion": "Técnica de ML que utiliza redes neuronales con múltiples capas (profundas) para aprender representaciones jerárquicas de los datos",
+      "arquitecturas": [
+        "CNN",
+        "RNN",
+        "LSTM",
+        "Transformers",
+        "GANs"
+      ]
+    },
+    {
+      "concepto": "red_neuronal",
+      "definicion": "Modelo computacional inspirado en el cerebro biológico, compuesto por neuronas artificiales (nodos) interconectadas mediante pesos sinápticos",
+      "componentes": [
+        "capa de entrada",
+        "capas ocultas",
+        "capa de salida",
+        "función de activación"
+      ]
+    },
+    {
+      "concepto": "transformer",
+      "definicion": "Arquitectura de red neuronal presentada en 2017 ('Attention is All You Need') que revolucionó el NLP",
+      "caracteristicas": [
+        "mecanismo de atención",
+        "procesamiento paralelo",
+        "base de GPT, BERT, T5"
+      ]
+    },
+    {
+      "concepto": "nlp",
+      "definicion": "Procesamiento de Lenguaje Natural: capacidad de las máquinas para entender, interpretar y generar lenguaje humano",
+      "tareas": [
+        "traducción",
+        "análisis de sentimiento",
+        "chatbots",
+        "resumen",
+        "generación de texto"
+      ]
+    },
+    {
+      "concepto": "entrenamiento",
+      "definicion": "Proceso de ajustar los parámetros (pesos) de un modelo usando datos de ejemplo para minimizar el error",
+      "fases": [
+        "forward pass",
+        "cálculo de pérdida",
+        "backpropagation",
+        "actualización de pesos"
+      ]
+    },
+    {
+      "concepto": "dataset",
+      "definicion": "Conjunto de datos utilizado para entrenar, validar y probar modelos de ML",
+      "division": [
+        "entrenamiento (70-80%)",
+        "validación (10-15%)",
+        "prueba (10-15%)"
+      ]
+    },
+    {
+      "concepto": "overfitting",
+      "definicion": "Sobreajuste: cuando un modelo memoriza los datos de entrenamiento y falla en generalizar a nuevos datos",
+      "soluciones": [
+        "regularización",
+        "dropout",
+        "más datos",
+        "early stopping"
+      ]
+    },
+    {
+      "concepto": "algoritmo_genetico",
+      "definicion": "Técnica de optimización inspirada en la evolución biológica: selección, cruce y mutación de soluciones",
+      "componentes": [
+        "población",
+        "fitness",
+        "selección",
+        "cruce",
+        "mutación"
+      ]
+    },
+    {
+      "concepto": "token",
+      "definicion": "Unidad mínima de texto en NLP (palabra, subpalabra o carácter) que el modelo procesa",
+      "ejemplo": "La frase 'Hola mundo' tiene 2 tokens en tokenización por palabras"
+    },
+    {
+      "concepto": "embedding",
+      "definicion": "Representación vectorial densa de palabras o tokens en un espacio semántico continuo",
+      "ejemplo": "Word2Vec, GloVe, FastText. 'Rey - Hombre + Mujer ≈ Reina'"
+    },
+    {
+      "concepto": "fine_tuning",
+      "definicion": "Ajuste fino: técnica de transfer learning donde un modelo pre-entrenado se adapta a una tarea específica",
+      "ejemplo": "GPT pre-entrenado + fine-tuning para asistente médico"
+    },
+    {
+      "concepto": "prompt",
+      "definicion": "Instrucción o texto de entrada dado a un modelo de lenguaje para guiar su generación",
+      "tipos": [
+        "zero-shot",
+        "few-shot",
+        "chain-of-thought"
+      ]
+    },
+    {
+      "concepto": "etica_ia",
+      "definicion": "Principios y consideraciones sobre el desarrollo responsable de IA",
+      "temas": [
+        "sesgo algorítmico",
+        "privacidad",
+        "transparencia",
+        "responsabilidad",
+        "impacto laboral"
+      ]
+    }
+  ]
+}

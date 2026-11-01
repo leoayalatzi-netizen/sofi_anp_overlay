@@ -1,0 +1,219 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "geografia",
+  "n_items": 35
+ },
+ "datos": [
+  {
+   "concepto": "continente_africa",
+   "nombre": "África",
+   "definicion": "Segundo continente más grande y poblado del mundo, con 54 países reconocidos y una enorme diversidad cultural",
+   "ejemplo": "El Sahara, en África, es el desierto cálido más grande del mundo"
+  },
+  {
+   "concepto": "continente_asia",
+   "nombre": "Asia",
+   "definicion": "Continente más grande y poblado del mundo, que abarca desde Medio Oriente hasta el Pacífico",
+   "ejemplo": "China e India son los dos países más poblados de Asia y del mundo"
+  },
+  {
+   "concepto": "continente_europa",
+   "nombre": "Europa",
+   "definicion": "Continente ubicado principalmente en el hemisferio norte, conocido por su diversidad de países e idiomas",
+   "ejemplo": "La Unión Europea es una organización política y económica que agrupa a varios países europeos"
+  },
+  {
+   "concepto": "continente_america",
+   "nombre": "América",
+   "definicion": "Continente que se extiende desde el Ártico hasta la Antártida, dividido en América del Norte, Central y del Sur",
+   "ejemplo": "Estados Unidos, México y Canadá forman parte de América del Norte"
+  },
+  {
+   "concepto": "continente_oceania",
+   "nombre": "Oceanía",
+   "definicion": "El continente más pequeño, formado por Australia y numerosas islas del Pacífico",
+   "ejemplo": "Australia es tanto un país como el continente más pequeño del planeta"
+  },
+  {
+   "concepto": "continente_antartida",
+   "nombre": "Antártida",
+   "definicion": "Continente helado ubicado en el polo sur, sin población permanente, dedicado principalmente a la investigación científica",
+   "ejemplo": "La Antártida contiene la mayor reserva de agua dulce en forma de hielo del planeta"
+  },
+  {
+   "concepto": "capital_francia",
+   "nombre": "Capital de Francia",
+   "definicion": "París es la capital de Francia y una de las ciudades más visitadas del mundo",
+   "ejemplo": "La Torre Eiffel es uno de los monumentos más famosos de París"
+  },
+  {
+   "concepto": "capital_japon",
+   "nombre": "Capital de Japón",
+   "definicion": "Tokio es la capital de Japón y una de las áreas metropolitanas más pobladas del mundo",
+   "ejemplo": "Tokio combina rascacielos modernos con templos tradicionales japoneses"
+  },
+  {
+   "concepto": "capital_egipto",
+   "nombre": "Capital de Egipto",
+   "definicion": "El Cairo es la capital de Egipto, una de las ciudades más grandes de África",
+   "ejemplo": "Cerca de El Cairo se encuentran las famosas pirámides de Guiza"
+  },
+  {
+   "concepto": "capital_brasil",
+   "nombre": "Capital de Brasil",
+   "definicion": "Brasilia es la capital de Brasil, diseñada especialmente en el siglo XX como ciudad planificada",
+   "ejemplo": "Brasilia fue inaugurada como capital de Brasil en 1960"
+  },
+  {
+   "concepto": "capital_australia",
+   "nombre": "Capital de Australia",
+   "definicion": "Canberra es la capital de Australia, aunque Sídney es la ciudad más poblada del país",
+   "ejemplo": "Canberra fue elegida como capital como solución de compromiso entre Sídney y Melbourne"
+  },
+  {
+   "concepto": "capital_rusia",
+   "nombre": "Capital de Rusia",
+   "definicion": "Moscú es la capital de Rusia, el país más extenso del mundo",
+   "ejemplo": "La Plaza Roja y el Kremlin están ubicados en el centro de Moscú"
+  },
+  {
+   "concepto": "rio_amazonas",
+   "nombre": "Río Amazonas",
+   "definicion": "El río más caudaloso del mundo, que atraviesa gran parte de América del Sur, principalmente Brasil y Perú",
+   "ejemplo": "La cuenca del Amazonas alberga la selva tropical más grande del planeta"
+  },
+  {
+   "concepto": "rio_nilo",
+   "nombre": "Río Nilo",
+   "definicion": "Uno de los ríos más largos del mundo, que atraviesa el noreste de África y desemboca en el Mediterráneo",
+   "ejemplo": "El antiguo Egipto se desarrolló gracias a las crecidas fértiles del río Nilo"
+  },
+  {
+   "concepto": "monte_everest",
+   "nombre": "Monte Everest",
+   "definicion": "La montaña más alta del mundo sobre el nivel del mar, ubicada en la cordillera del Himalaya",
+   "ejemplo": "El Monte Everest tiene una altura aproximada de 8,849 metros sobre el nivel del mar"
+  },
+  {
+   "concepto": "desierto_sahara",
+   "nombre": "Desierto del Sahara",
+   "definicion": "El desierto cálido más grande del mundo, ubicado en el norte de África",
+   "ejemplo": "El Sahara ocupa una superficie comparable a la de todo el territorio de Estados Unidos"
+  },
+  {
+   "concepto": "oceano_pacifico",
+   "nombre": "Océano Pacífico",
+   "definicion": "El océano más grande y profundo del mundo, ubicado entre Asia, Oceanía y América",
+   "ejemplo": "El Océano Pacífico cubre más superficie que todos los continentes juntos"
+  },
+  {
+   "concepto": "oceano_atlantico",
+   "nombre": "Océano Atlántico",
+   "definicion": "Segundo océano más grande del mundo, que separa América de Europa y África",
+   "ejemplo": "El Océano Atlántico ha sido históricamente clave para el comercio y la exploración"
+  },
+  {
+   "concepto": "cordillera_andes",
+   "nombre": "Cordillera de los Andes",
+   "definicion": "La cadena montañosa continental más larga del mundo, que recorre el oeste de América del Sur",
+   "ejemplo": "Los Andes atraviesan países como Chile, Argentina, Perú, Bolivia, Ecuador y Colombia"
+  },
+  {
+   "concepto": "pais_mas_grande",
+   "nombre": "País más grande del mundo",
+   "definicion": "Rusia es el país con mayor extensión territorial del mundo, abarcando dos continentes",
+   "ejemplo": "Rusia se extiende a lo largo de once husos horarios distintos"
+  },
+  {
+   "concepto": "pais_mas_poblado",
+   "nombre": "País más poblado del mundo",
+   "definicion": "India superó a China como el país más poblado del mundo en la década de 2020",
+   "ejemplo": "India cuenta con más de 1400 millones de habitantes"
+  },
+  {
+   "concepto": "clima_tropical",
+   "nombre": "Clima tropical",
+   "definicion": "Tipo de clima cálido y húmedo característico de las regiones cercanas al ecuador, con lluvias abundantes",
+   "ejemplo": "La selva amazónica tiene un clima tropical con temperaturas altas todo el año"
+  },
+  {
+   "concepto": "clima_desertico",
+   "nombre": "Clima desértico",
+   "definicion": "Tipo de clima extremadamente seco, con muy poca precipitación y grandes variaciones de temperatura",
+   "ejemplo": "El desierto de Atacama, en Chile, es uno de los lugares más secos del mundo"
+  },
+  {
+   "concepto": "linea_ecuador",
+   "nombre": "Línea del ecuador",
+   "definicion": "Línea imaginaria que divide la Tierra en hemisferio norte y hemisferio sur, ubicada a 0 grados de latitud",
+   "ejemplo": "Ecuador tomó su nombre por atravesar la línea ecuatorial terrestre"
+  },
+  {
+   "concepto": "meridiano_greenwich",
+   "nombre": "Meridiano de Greenwich",
+   "definicion": "Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo",
+   "ejemplo": "El meridiano de Greenwich pasa por el Real Observatorio de Greenwich, en Londres"
+  },
+  {
+   "concepto": "placas_tectonicas",
+   "nombre": "Placas tectónicas",
+   "definicion": "Grandes bloques rígidos de la corteza terrestre que se mueven lentamente y provocan terremotos y volcanes",
+   "ejemplo": "El movimiento de las placas tectónicas del Pacífico forma el llamado 'Cinturón de Fuego'"
+  },
+  {
+   "concepto": "volcan",
+   "nombre": "Volcán",
+   "definicion": "Formación geológica donde el magma del interior de la Tierra sale a la superficie, a veces de forma explosiva",
+   "ejemplo": "El Monte Vesubio es un volcán famoso por haber sepultado la ciudad de Pompeya en el año 79"
+  },
+  {
+   "concepto": "isla",
+   "nombre": "Isla",
+   "definicion": "Porción de tierra rodeada completamente de agua por todos sus lados",
+   "ejemplo": "Groenlandia es considerada la isla más grande del mundo"
+  },
+  {
+   "concepto": "peninsula",
+   "nombre": "Península",
+   "definicion": "Porción de tierra rodeada de agua por casi todos sus lados, excepto por una franja que la conecta al continente",
+   "ejemplo": "La Península Ibérica incluye a España y Portugal"
+  },
+  {
+   "concepto": "delta_de_rio",
+   "nombre": "Delta de un río",
+   "definicion": "Zona donde un río se divide en varios brazos antes de desembocar en el mar, formando terreno fértil",
+   "ejemplo": "El delta del río Nilo es una de las regiones agrícolas más importantes de Egipto"
+  },
+  {
+   "concepto": "husos_horarios",
+   "nombre": "Husos horarios",
+   "definicion": "Divisiones de la Tierra en 24 franjas que determinan la hora local en distintas regiones del planeta",
+   "ejemplo": "Cuando en Londres es mediodía, en Nueva York suele ser por la mañana debido a los husos horarios"
+  },
+  {
+   "concepto": "pais_capital_alemania",
+   "nombre": "Capital de Alemania",
+   "definicion": "Berlín es la capital de Alemania y una ciudad con gran importancia histórica y cultural en Europa",
+   "ejemplo": "El Muro de Berlín dividió la ciudad entre 1961 y 1989"
+  },
+  {
+   "concepto": "pais_capital_italia",
+   "nombre": "Capital de Italia",
+   "definicion": "Roma es la capital de Italia, conocida como la 'Ciudad Eterna' por su larga historia",
+   "ejemplo": "El Coliseo romano es uno de los monumentos más visitados de Roma"
+  },
+  {
+   "concepto": "pais_capital_china",
+   "nombre": "Capital de China",
+   "definicion": "Pekín (Beijing) es la capital de la República Popular China",
+   "ejemplo": "La Gran Muralla China se encuentra cerca de la capital, Pekín"
+  },
+  {
+   "concepto": "pais_capital_mexico",
+   "nombre": "Capital de México",
+   "definicion": "Ciudad de México es la capital de México y una de las áreas metropolitanas más pobladas de América",
+   "ejemplo": "La Ciudad de México está construida sobre lo que fue el lago de Texcoco"
+  }
+ ]
+}

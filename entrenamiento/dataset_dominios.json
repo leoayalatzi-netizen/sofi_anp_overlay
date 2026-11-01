@@ -1,0 +1,6489 @@
+{
+ "dominios": [
+  "ciencia",
+  "conocimiento_general",
+  "conversacional",
+  "cultura",
+  "deportes",
+  "entretenimiento",
+  "geografia",
+  "humanidad",
+  "lenguaje",
+  "matematicas",
+  "naturaleza",
+  "programacion",
+  "robotica",
+  "tecnologia",
+  "vida_cotidiana"
+ ],
+ "ejemplos": [
+  [
+   "Espacio con nombre en memoria que almacena un valor que puede cambiar durante la ejecución del programa",
+   "programacion"
+  ],
+  [
+   "En Python, x = 5 crea una variable x con el valor entero 5",
+   "programacion"
+  ],
+  [
+   "Variable: Espacio con nombre en memoria que almacena un valor que puede cambiar durante la ejecución del programa",
+   "programacion"
+  ],
+  [
+   "Bloque de código reutilizable que recibe parámetros, ejecuta instrucciones y puede devolver un resultado",
+   "programacion"
+  ],
+  [
+   "def sumar(a, b): return a + b define una función que suma dos números",
+   "programacion"
+  ],
+  [
+   "Función: Bloque de código reutilizable que recibe parámetros, ejecuta instrucciones y puede devolver un resultado",
+   "programacion"
+  ],
+  [
+   "Estructura de control que repite un bloque de código un número determinado de veces",
+   "programacion"
+  ],
+  [
+   "for i in range(5): print(i) imprime los números del 0 al 4",
+   "programacion"
+  ],
+  [
+   "Bucle for: Estructura de control que repite un bloque de código un número determinado de veces",
+   "programacion"
+  ],
+  [
+   "Estructura de control que repite un bloque mientras se cumpla una condición",
+   "programacion"
+  ],
+  [
+   "while x < 10: x += 1 incrementa x hasta llegar a 10",
+   "programacion"
+  ],
+  [
+   "Bucle while: Estructura de control que repite un bloque mientras se cumpla una condición",
+   "programacion"
+  ],
+  [
+   "Estructura que ejecuta un bloque de código solo si una condición es verdadera",
+   "programacion"
+  ],
+  [
+   "if edad >= 18: print('mayor de edad')",
+   "programacion"
+  ],
+  [
+   "Condicional if: Estructura que ejecuta un bloque de código solo si una condición es verdadera",
+   "programacion"
+  ],
+  [
+   "Estructura de datos que almacena una colección ordenada de elementos del mismo tipo",
+   "programacion"
+  ],
+  [
+   "[1, 2, 3, 4] es un arreglo de cuatro números enteros",
+   "programacion"
+  ],
+  [
+   "Arreglo o array: Estructura de datos que almacena una colección ordenada de elementos del mismo tipo",
+   "programacion"
+  ],
+  [
+   "Estructura de datos donde cada elemento (nodo) apunta al siguiente, permitiendo inserciones eficientes",
+   "programacion"
+  ],
+  [
+   "Una lista enlazada simple tiene nodos con un valor y un puntero al siguiente nodo",
+   "programacion"
+  ],
+  [
+   "Lista enlazada: Estructura de datos donde cada elemento (nodo) apunta al siguiente, permitiendo inserciones eficientes",
+   "programacion"
+  ],
+  [
+   "Estructura de datos LIFO donde el último elemento en entrar es el primero en salir",
+   "programacion"
+  ],
+  [
+   "Push agrega un elemento arriba de la pila, pop lo retira",
+   "programacion"
+  ],
+  [
+   "Pila (stack): Estructura de datos LIFO donde el último elemento en entrar es el primero en salir",
+   "programacion"
+  ],
+  [
+   "Estructura de datos FIFO donde el primer elemento en entrar es el primero en salir",
+   "programacion"
+  ],
+  [
+   "Una fila de personas esperando su turno se comporta como una cola",
+   "programacion"
+  ],
+  [
+   "Cola (queue): Estructura de datos FIFO donde el primer elemento en entrar es el primero en salir",
+   "programacion"
+  ],
+  [
+   "Estructura jerárquica donde cada nodo tiene como máximo dos hijos, izquierdo y derecho",
+   "programacion"
+  ],
+  [
+   "Los árboles binarios de búsqueda permiten buscar un valor en tiempo logarítmico",
+   "programacion"
+  ],
+  [
+   "Árbol binario: Estructura jerárquica donde cada nodo tiene como máximo dos hijos, izquierdo y derecho",
+   "programacion"
+  ],
+  [
+   "Estructura que asocia claves a valores usando una función hash para acceso casi constante",
+   "programacion"
+  ],
+  [
+   "Un diccionario en Python {'nombre': 'Ana'} es una tabla hash",
+   "programacion"
+  ],
+  [
+   "Tabla hash (hash map): Estructura que asocia claves a valores usando una función hash para acceso casi constante",
+   "programacion"
+  ],
+  [
+   "Técnica donde una función se llama a sí misma para resolver un problema dividiéndolo en subproblemas más pequeños",
+   "programacion"
+  ],
+  [
+   "El cálculo del factorial n! = n * (n-1)! es un ejemplo clásico de recursión",
+   "programacion"
+  ],
+  [
+   "Recursión: Técnica donde una función se llama a sí misma para resolver un problema dividiéndolo en subproblemas más pequeños",
+   "programacion"
+  ],
+  [
+   "Procedimiento que reorganiza una colección de elementos según un criterio, como orden ascendente",
+   "programacion"
+  ],
+  [
+   "QuickSort y MergeSort son algoritmos de ordenamiento eficientes con complejidad O(n log n)",
+   "programacion"
+  ],
+  [
+   "Algoritmo de ordenamiento: Procedimiento que reorganiza una colección de elementos según un criterio, como orden ascendente",
+   "programacion"
+  ],
+  [
+   "Algoritmo que encuentra un elemento en una lista ordenada dividiendo repetidamente el espacio de búsqueda a la mitad",
+   "programacion"
+  ],
+  [
+   "Buscar el número 7 en una lista ordenada de 1000 elementos toma como máximo 10 comparaciones",
+   "programacion"
+  ],
+  [
+   "Búsqueda binaria: Algoritmo que encuentra un elemento en una lista ordenada dividiendo repetidamente el espacio de búsqueda a la mitad",
+   "programacion"
+  ],
+  [
+   "Medida de cuántos recursos (tiempo o memoria) necesita un algoritmo en función del tamaño de la entrada",
+   "programacion"
+  ],
+  [
+   "Un algoritmo O(n²) tarda mucho más que uno O(n) al crecer el tamaño de los datos",
+   "programacion"
+  ],
+  [
+   "Complejidad algorítmica: Medida de cuántos recursos (tiempo o memoria) necesita un algoritmo en función del tamaño de la entrada",
+   "programacion"
+  ],
+  [
+   "Paradigma que organiza el código en objetos con atributos y métodos, agrupados en clases",
+   "programacion"
+  ],
+  [
+   "Una clase Perro puede tener atributos como nombre y raza, y métodos como ladrar()",
+   "programacion"
+  ],
+  [
+   "Programación orientada a objetos: Paradigma que organiza el código en objetos con atributos y métodos, agrupados en clases",
+   "programacion"
+  ],
+  [
+   "Plantilla que define los atributos y comportamientos que tendrán los objetos creados a partir de ella",
+   "programacion"
+  ],
+  [
+   "class Persona: def __init__(self, nombre): self.nombre = nombre",
+   "programacion"
+  ],
+  [
+   "Clase: Plantilla que define los atributos y comportamientos que tendrán los objetos creados a partir de ella",
+   "programacion"
+  ],
+  [
+   "Mecanismo de la programación orientada a objetos donde una clase hija hereda atributos y métodos de una clase padre",
+   "programacion"
+  ],
+  [
+   "class Gato(Animal) hace que Gato herede todo lo definido en Animal",
+   "programacion"
+  ],
+  [
+   "Herencia: Mecanismo de la programación orientada a objetos donde una clase hija hereda atributos y métodos de una clase padre",
+   "programacion"
+  ],
+  [
+   "Capacidad de que distintos objetos respondan de forma diferente al mismo método o mensaje",
+   "programacion"
+  ],
+  [
+   "Tanto Perro como Gato pueden implementar hacerSonido() de forma distinta",
+   "programacion"
+  ],
+  [
+   "Polimorfismo: Capacidad de que distintos objetos respondan de forma diferente al mismo método o mensaje",
+   "programacion"
+  ],
+  [
+   "Principio que oculta los detalles internos de un objeto y expone solo una interfaz controlada",
+   "programacion"
+  ],
+  [
+   "Los atributos privados con doble guion bajo __saldo protegen el estado interno de una clase",
+   "programacion"
+  ],
+  [
+   "Encapsulamiento: Principio que oculta los detalles internos de un objeto y expone solo una interfaz controlada",
+   "programacion"
+  ],
+  [
+   "Principio que se enfoca en las características esenciales de un objeto, ocultando la complejidad innecesaria",
+   "programacion"
+  ],
+  [
+   "Una interfaz Forma define área() sin especificar cómo la calcula cada figura concreta",
+   "programacion"
+  ],
+  [
+   "Abstracción: Principio que se enfoca en las características esenciales de un objeto, ocultando la complejidad innecesaria",
+   "programacion"
+  ],
+  [
+   "Conjunto de reglas y protocolos que permite que distintos programas se comuniquen entre sí",
+   "programacion"
+  ],
+  [
+   "Una API REST permite que una app móvil consulte datos de un servidor mediante HTTP",
+   "programacion"
+  ],
+  [
+   "API: Conjunto de reglas y protocolos que permite que distintos programas se comuniquen entre sí",
+   "programacion"
+  ],
+  [
+   "Sistema que organiza datos en tablas relacionadas mediante claves primarias y foráneas",
+   "programacion"
+  ],
+  [
+   "MySQL y PostgreSQL son sistemas de bases de datos relacionales",
+   "programacion"
+  ],
+  [
+   "Base de datos relacional: Sistema que organiza datos en tablas relacionadas mediante claves primarias y foráneas",
+   "programacion"
+  ],
+  [
+   "Lenguaje estándar para consultar y manipular datos en bases de datos relacionales",
+   "programacion"
+  ],
+  [
+   "SELECT nombre FROM usuarios WHERE edad > 18 obtiene los nombres de usuarios mayores de edad",
+   "programacion"
+  ],
+  [
+   "SQL: Lenguaje estándar para consultar y manipular datos en bases de datos relacionales",
+   "programacion"
+  ],
+  [
+   "Sistema de control de versiones distribuido que registra los cambios en el código a lo largo del tiempo",
+   "programacion"
+  ],
+  [
+   "git commit -m 'mensaje' guarda un punto de control con los cambios realizados",
+   "programacion"
+  ],
+  [
+   "Git: Sistema de control de versiones distribuido que registra los cambios en el código a lo largo del tiempo",
+   "programacion"
+  ],
+  [
+   "Programa que traduce código fuente escrito en un lenguaje a otro, generalmente código máquina",
+   "programacion"
+  ],
+  [
+   "GCC compila código en C a un ejecutable binario",
+   "programacion"
+  ],
+  [
+   "Compilador: Programa que traduce código fuente escrito en un lenguaje a otro, generalmente código máquina",
+   "programacion"
+  ],
+  [
+   "Programa que ejecuta directamente las instrucciones de un código fuente sin generar un ejecutable previo",
+   "programacion"
+  ],
+  [
+   "Python usa un intérprete que ejecuta el código línea por línea",
+   "programacion"
+  ],
+  [
+   "Intérprete: Programa que ejecuta directamente las instrucciones de un código fuente sin generar un ejecutable previo",
+   "programacion"
+  ],
+  [
+   "Proceso de encontrar y corregir errores en un programa",
+   "programacion"
+  ],
+  [
+   "Usar breakpoints en un depurador permite inspeccionar el estado del programa paso a paso",
+   "programacion"
+  ],
+  [
+   "Depuración (debugging): Proceso de encontrar y corregir errores en un programa",
+   "programacion"
+  ],
+  [
+   "Evento que interrumpe el flujo normal de un programa cuando ocurre un error en tiempo de ejecución",
+   "programacion"
+  ],
+  [
+   "try: 1/0 except ZeroDivisionError: print('no se puede dividir por cero')",
+   "programacion"
+  ],
+  [
+   "Excepción: Evento que interrumpe el flujo normal de un programa cuando ocurre un error en tiempo de ejecución",
+   "programacion"
+  ],
+  [
+   "Estilo de arquitectura para servicios web que usa métodos HTTP como GET, POST, PUT y DELETE",
+   "programacion"
+  ],
+  [
+   "Un endpoint /usuarios/5 con método GET devuelve los datos del usuario con id 5",
+   "programacion"
+  ],
+  [
+   "API REST: Estilo de arquitectura para servicios web que usa métodos HTTP como GET, POST, PUT y DELETE",
+   "programacion"
+  ],
+  [
+   "Parte de una aplicación con la que interactúa directamente el usuario, generalmente en el navegador",
+   "programacion"
+  ],
+  [
+   "HTML, CSS y JavaScript son las tecnologías básicas del frontend web",
+   "programacion"
+  ],
+  [
+   "Frontend: Parte de una aplicación con la que interactúa directamente el usuario, generalmente en el navegador",
+   "programacion"
+  ],
+  [
+   "Parte de una aplicación que gestiona la lógica de negocio, la base de datos y el servidor",
+   "programacion"
+  ],
+  [
+   "Node.js y Django son frameworks comunes para desarrollar el backend",
+   "programacion"
+  ],
+  [
+   "Backend: Parte de una aplicación que gestiona la lógica de negocio, la base de datos y el servidor",
+   "programacion"
+  ],
+  [
+   "Conjunto de herramientas y convenciones que facilitan el desarrollo de software siguiendo una estructura definida",
+   "programacion"
+  ],
+  [
+   "React es un framework (biblioteca) de JavaScript para construir interfaces de usuario",
+   "programacion"
+  ],
+  [
+   "Framework: Conjunto de herramientas y convenciones que facilitan el desarrollo de software siguiendo una estructura definida",
+   "programacion"
+  ],
+  [
+   "Colección de código reutilizable que otros programas pueden usar para realizar tareas comunes",
+   "programacion"
+  ],
+  [
+   "NumPy es una librería de Python para cálculo numérico con arreglos",
+   "programacion"
+  ],
+  [
+   "Librería de software: Colección de código reutilizable que otros programas pueden usar para realizar tareas comunes",
+   "programacion"
+  ],
+  [
+   "Una variable local existe solo dentro de una función; una global es accesible en todo el programa",
+   "programacion"
+  ],
+  [
+   "Una variable definida dentro de una función solo existe mientras esa función se ejecuta",
+   "programacion"
+  ],
+  [
+   "Variable local y global: Una variable local existe solo dentro de una función; una global es accesible en todo el programa",
+   "programacion"
+  ],
+  [
+   "Clasificación que indica qué clase de valor almacena una variable, como entero, texto o booleano",
+   "programacion"
+  ],
+  [
+   "int, float, str y bool son tipos de datos básicos en muchos lenguajes",
+   "programacion"
+  ],
+  [
+   "Tipo de dato: Clasificación que indica qué clase de valor almacena una variable, como entero, texto o booleano",
+   "programacion"
+  ],
+  [
+   "Instrucción que determina el orden en que se ejecutan las instrucciones de un programa",
+   "programacion"
+  ],
+  [
+   "Los condicionales y los bucles son estructuras de control fundamentales",
+   "programacion"
+  ],
+  [
+   "Estructura de control: Instrucción que determina el orden en que se ejecutan las instrucciones de un programa",
+   "programacion"
+  ],
+  [
+   "Paradigma que trata la computación como la evaluación de funciones matemáticas, evitando estados mutables",
+   "programacion"
+  ],
+  [
+   "map(), filter() y reduce() son herramientas típicas de la programación funcional",
+   "programacion"
+  ],
+  [
+   "Programación funcional: Paradigma que trata la computación como la evaluación de funciones matemáticas, evitando estados mutables",
+   "programacion"
+  ],
+  [
+   "Formato ligero de intercambio de datos basado en pares clave-valor, fácil de leer para humanos y máquinas",
+   "programacion"
+  ],
+  [
+   "{'nombre': 'Ana', 'edad': 30} es un objeto JSON válido",
+   "programacion"
+  ],
+  [
+   "JSON: Formato ligero de intercambio de datos basado en pares clave-valor, fácil de leer para humanos y máquinas",
+   "programacion"
+  ],
+  [
+   "Secuencia finita y ordenada de pasos que resuelve un problema o realiza una tarea específica",
+   "programacion"
+  ],
+  [
+   "Una receta de cocina es un ejemplo cotidiano de algoritmo",
+   "programacion"
+  ],
+  [
+   "Algoritmo: Secuencia finita y ordenada de pasos que resuelve un problema o realiza una tarea específica",
+   "programacion"
+  ],
+  [
+   "Rama de la inteligencia artificial donde los sistemas aprenden patrones a partir de datos sin ser programados explícitamente",
+   "programacion"
+  ],
+  [
+   "Un modelo de machine learning puede aprender a distinguir spam a partir de miles de correos etiquetados",
+   "programacion"
+  ],
+  [
+   "Aprendizaje automático (machine learning): Rama de la inteligencia artificial donde los sistemas aprenden patrones a partir de datos sin ser programados explícitamente",
+   "programacion"
+  ],
+  [
+   "Modelo computacional inspirado en el cerebro, compuesto de capas de neuronas artificiales conectadas entre sí",
+   "programacion"
+  ],
+  [
+   "Una red neuronal con varias capas ocultas puede aprender a clasificar imágenes",
+   "programacion"
+  ],
+  [
+   "Red neuronal artificial: Modelo computacional inspirado en el cerebro, compuesto de capas de neuronas artificiales conectadas entre sí",
+   "programacion"
+  ],
+  [
+   "Sistema que registra los cambios realizados en archivos a lo largo del tiempo, permitiendo volver a versiones anteriores",
+   "programacion"
+  ],
+  [
+   "GitHub aloja repositorios que usan Git como sistema de control de versiones",
+   "programacion"
+  ],
+  [
+   "Control de versiones: Sistema que registra los cambios realizados en archivos a lo largo del tiempo, permitiendo volver a versiones anteriores",
+   "programacion"
+  ],
+  [
+   "Tecnología que empaqueta una aplicación junto a sus dependencias para que funcione igual en cualquier entorno",
+   "programacion"
+  ],
+  [
+   "Un contenedor Docker garantiza que la app funcione igual en desarrollo y en producción",
+   "programacion"
+  ],
+  [
+   "Contenedor (Docker): Tecnología que empaqueta una aplicación junto a sus dependencias para que funcione igual en cualquier entorno",
+   "programacion"
+  ],
+  [
+   "Modelo que ofrece recursos informáticos (servidores, almacenamiento) a través de internet bajo demanda",
+   "programacion"
+  ],
+  [
+   "AWS, Google Cloud y Azure son plataformas de computación en la nube",
+   "programacion"
+  ],
+  [
+   "Computación en la nube: Modelo que ofrece recursos informáticos (servidores, almacenamiento) a través de internet bajo demanda",
+   "programacion"
+  ],
+  [
+   "Lenguaje de marcado usado para estructurar el contenido de las páginas web",
+   "programacion"
+  ],
+  [
+   "Las etiquetas <h1>, <p> y <a> definen títulos, párrafos y enlaces en HTML",
+   "programacion"
+  ],
+  [
+   "HTML: Lenguaje de marcado usado para estructurar el contenido de las páginas web",
+   "programacion"
+  ],
+  [
+   "Lenguaje usado para definir el estilo visual (colores, tamaños, disposición) de las páginas web",
+   "programacion"
+  ],
+  [
+   "color: blue; en una regla CSS pinta el texto de azul",
+   "programacion"
+  ],
+  [
+   "CSS: Lenguaje usado para definir el estilo visual (colores, tamaños, disposición) de las páginas web",
+   "programacion"
+  ],
+  [
+   "Lenguaje de programación que permite añadir interactividad a las páginas web",
+   "programacion"
+  ],
+  [
+   "JavaScript puede validar un formulario antes de enviarlo al servidor",
+   "programacion"
+  ],
+  [
+   "JavaScript: Lenguaje de programación que permite añadir interactividad a las páginas web",
+   "programacion"
+  ],
+  [
+   "Lenguaje de programación de alto nivel, interpretado y de sintaxis clara, muy usado en ciencia de datos e IA",
+   "programacion"
+  ],
+  [
+   "print('Hola mundo') es el clásico primer programa en Python",
+   "programacion"
+  ],
+  [
+   "Python: Lenguaje de programación de alto nivel, interpretado y de sintaxis clara, muy usado en ciencia de datos e IA",
+   "programacion"
+  ],
+  [
+   "Lenguaje de programación orientado a objetos, compilado a bytecode que corre sobre la Máquina Virtual de Java (JVM)",
+   "programacion"
+  ],
+  [
+   "'Write once, run anywhere' es el lema histórico de Java",
+   "programacion"
+  ],
+  [
+   "Java: Lenguaje de programación orientado a objetos, compilado a bytecode que corre sobre la Máquina Virtual de Java (JVM)",
+   "programacion"
+  ],
+  [
+   "Forma organizada de almacenar y gestionar datos para que se puedan usar de manera eficiente",
+   "programacion"
+  ],
+  [
+   "Listas, pilas, colas, árboles y grafos son ejemplos de estructuras de datos",
+   "programacion"
+  ],
+  [
+   "Estructura de datos: Forma organizada de almacenar y gestionar datos para que se puedan usar de manera eficiente",
+   "programacion"
+  ],
+  [
+   "Unidad mínima de información en computación, que puede tomar el valor 0 o 1",
+   "programacion"
+  ],
+  [
+   "Un byte está compuesto por 8 bits",
+   "programacion"
+  ],
+  [
+   "Bit: Unidad mínima de información en computación, que puede tomar el valor 0 o 1",
+   "programacion"
+  ],
+  [
+   "Unidad de información compuesta por 8 bits, capaz de representar 256 valores distintos",
+   "programacion"
+  ],
+  [
+   "Un archivo de texto simple puede ocupar pocos kilobytes, es decir, miles de bytes",
+   "programacion"
+  ],
+  [
+   "Byte: Unidad de información compuesta por 8 bits, capaz de representar 256 valores distintos",
+   "programacion"
+  ],
+  [
+   "Sistema numérico que usa solo dos dígitos, 0 y 1, base del funcionamiento de las computadoras digitales",
+   "programacion"
+  ],
+  [
+   "El número decimal 5 se representa como 101 en sistema binario",
+   "programacion"
+  ],
+  [
+   "Sistema binario: Sistema numérico que usa solo dos dígitos, 0 y 1, base del funcionamiento de las computadoras digitales",
+   "programacion"
+  ],
+  [
+   "Conjunto de fases (análisis, diseño, implementación, pruebas, mantenimiento) por las que pasa un proyecto de software",
+   "programacion"
+  ],
+  [
+   "La metodología ágil divide el ciclo de vida en iteraciones cortas llamadas sprints",
+   "programacion"
+  ],
+  [
+   "Ciclo de vida del software: Conjunto de fases (análisis, diseño, implementación, pruebas, mantenimiento) por las que pasa un proyecto de software",
+   "programacion"
+  ],
+  [
+   "Proceso de verificar que un programa funciona correctamente y cumple los requisitos esperados",
+   "programacion"
+  ],
+  [
+   "Las pruebas unitarias verifican que una función individual se comporte como se espera",
+   "programacion"
+  ],
+  [
+   "Pruebas de software (testing): Proceso de verificar que un programa funciona correctamente y cumple los requisitos esperados",
+   "programacion"
+  ],
+  [
+   "Código único que identifica y autoriza a una aplicación para usar un servicio o API externa",
+   "programacion"
+  ],
+  [
+   "Muchos servicios web requieren una API key para limitar y controlar el acceso",
+   "programacion"
+  ],
+  [
+   "Clave de API (API key): Código único que identifica y autoriza a una aplicación para usar un servicio o API externa",
+   "programacion"
+  ],
+  [
+   "Software cuyo código fuente es público y puede ser modificado y distribuido libremente por cualquiera",
+   "programacion"
+  ],
+  [
+   "Linux y Python son proyectos de código abierto mantenidos por comunidades globales",
+   "programacion"
+  ],
+  [
+   "Código abierto (open source): Software cuyo código fuente es público y puede ser modificado y distribuido libremente por cualquiera",
+   "programacion"
+  ],
+  [
+   "Software que agrupa editor de código, depurador y otras herramientas para facilitar la programación",
+   "programacion"
+  ],
+  [
+   "Visual Studio Code y PyCharm son IDEs populares para programar",
+   "programacion"
+  ],
+  [
+   "Entorno de desarrollo integrado (IDE): Software que agrupa editor de código, depurador y otras herramientas para facilitar la programación",
+   "programacion"
+  ],
+  [
+   "Variable que almacena la dirección de memoria de otra variable, usado en lenguajes como C",
+   "programacion"
+  ],
+  [
+   "int *p = &x; hace que el puntero p almacene la dirección de memoria de x",
+   "programacion"
+  ],
+  [
+   "Puntero: Variable que almacena la dirección de memoria de otra variable, usado en lenguajes como C",
+   "programacion"
+  ],
+  [
+   "Memoria de acceso aleatorio donde se guardan temporalmente los datos y programas en ejecución",
+   "programacion"
+  ],
+  [
+   "Cerrar programas libera memoria RAM que puede usar otra aplicación",
+   "programacion"
+  ],
+  [
+   "Memoria RAM: Memoria de acceso aleatorio donde se guardan temporalmente los datos y programas en ejecución",
+   "programacion"
+  ],
+  [
+   "Unidad central de procesamiento que ejecuta las instrucciones de los programas de una computadora",
+   "programacion"
+  ],
+  [
+   "La velocidad de un CPU se mide en gigahercios (GHz)",
+   "programacion"
+  ],
+  [
+   "CPU (procesador): Unidad central de procesamiento que ejecuta las instrucciones de los programas de una computadora",
+   "programacion"
+  ],
+  [
+   "Conjunto de dispositivos interconectados que pueden compartir datos y recursos entre sí",
+   "programacion"
+  ],
+  [
+   "Internet es la red de computadoras más grande del mundo",
+   "programacion"
+  ],
+  [
+   "Red de computadoras: Conjunto de dispositivos interconectados que pueden compartir datos y recursos entre sí",
+   "programacion"
+  ],
+  [
+   "Protocolo de comunicación usado para transferir páginas web entre un cliente y un servidor",
+   "programacion"
+  ],
+  [
+   "Cuando escribes una URL en el navegador, este envía una solicitud HTTP al servidor",
+   "programacion"
+  ],
+  [
+   "Protocolo HTTP: Protocolo de comunicación usado para transferir páginas web entre un cliente y un servidor",
+   "programacion"
+  ],
+  [
+   "Proceso que transforma información legible en un formato codificado para protegerla de accesos no autorizados",
+   "programacion"
+  ],
+  [
+   "HTTPS usa cifrado para proteger los datos que viajan entre el navegador y el servidor",
+   "programacion"
+  ],
+  [
+   "Cifrado (encriptación): Proceso que transforma información legible en un formato codificado para protegerla de accesos no autorizados",
+   "programacion"
+  ],
+  [
+   "Registro digital distribuido e inmutable donde las transacciones se agrupan en bloques enlazados criptográficamente",
+   "programacion"
+  ],
+  [
+   "Bitcoin utiliza blockchain para registrar todas sus transacciones de forma transparente",
+   "programacion"
+  ],
+  [
+   "Cadena de bloques (blockchain): Registro digital distribuido e inmutable donde las transacciones se agrupan en bloques enlazados criptográficamente",
+   "programacion"
+  ],
+  [
+   "Computadora o programa que provee servicios o recursos a otras computadoras (clientes) a través de una red",
+   "programacion"
+  ],
+  [
+   "Un servidor web responde a las solicitudes HTTP de los navegadores",
+   "programacion"
+  ],
+  [
+   "Servidor: Computadora o programa que provee servicios o recursos a otras computadoras (clientes) a través de una red",
+   "programacion"
+  ],
+  [
+   "Secuencia de caracteres que define un patrón de búsqueda dentro de un texto",
+   "programacion"
+  ],
+  [
+   "El patrón \\d+ encuentra cualquier secuencia de uno o más dígitos en un texto",
+   "programacion"
+  ],
+  [
+   "Expresión regular (regex): Secuencia de caracteres que define un patrón de búsqueda dentro de un texto",
+   "programacion"
+  ],
+  [
+   "Técnica que permite ejecutar varias tareas de forma concurrente dentro de un mismo programa",
+   "programacion"
+  ],
+  [
+   "Un navegador web usa multihilo para cargar imágenes mientras renderiza el texto de la página",
+   "programacion"
+  ],
+  [
+   "Multihilo (multithreading): Técnica que permite ejecutar varias tareas de forma concurrente dentro de un mismo programa",
+   "programacion"
+  ],
+  [
+   "Dispositivo móvil que combina funciones de telefonía con acceso a internet, aplicaciones y multimedia",
+   "tecnologia"
+  ],
+  [
+   "Los smartphones modernos incluyen cámaras, GPS y asistentes de voz",
+   "tecnologia"
+  ],
+  [
+   "Teléfono inteligente (smartphone): Dispositivo móvil que combina funciones de telefonía con acceso a internet, aplicaciones y multimedia",
+   "tecnologia"
+  ],
+  [
+   "Tecnología que sumerge al usuario en un entorno digital simulado mediante dispositivos como visores especiales",
+   "tecnologia"
+  ],
+  [
+   "Los videojuegos de realidad virtual permiten al usuario mirar alrededor dentro del mundo simulado",
+   "tecnologia"
+  ],
+  [
+   "Realidad virtual: Tecnología que sumerge al usuario en un entorno digital simulado mediante dispositivos como visores especiales",
+   "tecnologia"
+  ],
+  [
+   "Tecnología que superpone elementos digitales sobre el mundo real, generalmente a través de la cámara de un dispositivo",
+   "tecnologia"
+  ],
+  [
+   "Algunas aplicaciones de realidad aumentada permiten ver cómo quedaría un mueble en una habitación real",
+   "tecnologia"
+  ],
+  [
+   "Realidad aumentada: Tecnología que superpone elementos digitales sobre el mundo real, generalmente a través de la cámara de un dispositivo",
+   "tecnologia"
+  ],
+  [
+   "Red de dispositivos físicos cotidianos conectados a internet capaces de recopilar e intercambiar datos",
+   "tecnologia"
+  ],
+  [
+   "Un termostato inteligente que se controla desde el celular es un ejemplo de internet de las cosas",
+   "tecnologia"
+  ],
+  [
+   "Internet de las cosas (IoT): Red de dispositivos físicos cotidianos conectados a internet capaces de recopilar e intercambiar datos",
+   "tecnologia"
+  ],
+  [
+   "Energía renovable obtenida a partir de la radiación del sol, capturada mediante paneles fotovoltaicos",
+   "tecnologia"
+  ],
+  [
+   "Los paneles solares convierten la luz del sol directamente en electricidad",
+   "tecnologia"
+  ],
+  [
+   "Energía solar: Energía renovable obtenida a partir de la radiación del sol, capturada mediante paneles fotovoltaicos",
+   "tecnologia"
+  ],
+  [
+   "Dispositivo que almacena energía química y la convierte en energía eléctrica para alimentar aparatos",
+   "tecnologia"
+  ],
+  [
+   "Los vehículos eléctricos utilizan baterías de iones de litio para almacenar energía",
+   "tecnologia"
+  ],
+  [
+   "Batería eléctrica: Dispositivo que almacena energía química y la convierte en energía eléctrica para alimentar aparatos",
+   "tecnologia"
+  ],
+  [
+   "Quinta generación de tecnología de redes móviles, que ofrece mayor velocidad y menor latencia que las anteriores",
+   "tecnologia"
+  ],
+  [
+   "El 5G permite descargar archivos grandes en cuestión de segundos en comparación con redes anteriores",
+   "tecnologia"
+  ],
+  [
+   "Red 5G: Quinta generación de tecnología de redes móviles, que ofrece mayor velocidad y menor latencia que las anteriores",
+   "tecnologia"
+  ],
+  [
+   "Sistema satelital que permite determinar la ubicación geográfica exacta de un dispositivo en la Tierra",
+   "tecnologia"
+  ],
+  [
+   "Las aplicaciones de mapas usan GPS para calcular rutas y mostrar la ubicación en tiempo real",
+   "tecnologia"
+  ],
+  [
+   "GPS (sistema de posicionamiento global): Sistema satelital que permite determinar la ubicación geográfica exacta de un dispositivo en la Tierra",
+   "tecnologia"
+  ],
+  [
+   "Lenguaje de programación de alto nivel, interpretado, con sintaxis clara y legible",
+   "tecnologia"
+  ],
+  [
+   "python: Lenguaje de programación de alto nivel, interpretado, con sintaxis clara y legible",
+   "tecnologia"
+  ],
+  [
+   "Contenedor para almacenar datos en memoria. Python tiene tipado dinámico",
+   "tecnologia"
+  ],
+  [
+   "nombre = 'Ana'; edad = 25",
+   "tecnologia"
+  ],
+  [
+   "variable: Contenedor para almacenar datos en memoria. Python tiene tipado dinámico",
+   "tecnologia"
+  ],
+  [
+   "Bloque de código reutilizable que realiza una tarea específica",
+   "tecnologia"
+  ],
+  [
+   "def saludar(nombre): return f'Hola, {nombre}'",
+   "tecnologia"
+  ],
+  [
+   "funcion: Bloque de código reutilizable que realiza una tarea específica",
+   "tecnologia"
+  ],
+  [
+   "Colección ordenada y mutable de elementos",
+   "tecnologia"
+  ],
+  [
+   "frutas = ['manzana', 'pera', 'uva'] frutas.append('naranja')",
+   "tecnologia"
+  ],
+  [
+   "lista: Colección ordenada y mutable de elementos",
+   "tecnologia"
+  ],
+  [
+   "Colección de pares clave-valor no ordenada",
+   "tecnologia"
+  ],
+  [
+   "persona = {'nombre': 'Leo', 'edad': 30} persona['ciudad'] = 'Madrid'",
+   "tecnologia"
+  ],
+  [
+   "diccionario: Colección de pares clave-valor no ordenada",
+   "tecnologia"
+  ],
+  [
+   "Itera sobre una secuencia (lista, string, rango)",
+   "tecnologia"
+  ],
+  [
+   "for i in range(5): print(i) # 0,1,2,3,4",
+   "tecnologia"
+  ],
+  [
+   "bucle_for: Itera sobre una secuencia (lista, string, rango)",
+   "tecnologia"
+  ],
+  [
+   "Ejecuta código según una condición",
+   "tecnologia"
+  ],
+  [
+   "if edad >= 18: print('Mayor de edad') else: print('Menor')",
+   "tecnologia"
+  ],
+  [
+   "condicional: Ejecuta código según una condición",
+   "tecnologia"
+  ],
+  [
+   "Plantilla para crear objetos que agrupan datos y métodos",
+   "tecnologia"
+  ],
+  [
+   "class Perro: def __init__(self, nombre): self.nombre = nombre",
+   "tecnologia"
+  ],
+  [
+   "clase: Plantilla para crear objetos que agrupan datos y métodos",
+   "tecnologia"
+  ],
+  [
+   "Permite usar código de otros módulos o bibliotecas",
+   "tecnologia"
+  ],
+  [
+   "import math import numpy as np",
+   "tecnologia"
+  ],
+  [
+   "import: Permite usar código de otros módulos o bibliotecas",
+   "tecnologia"
+  ],
+  [
+   "Gestor de paquetes de Python. Instala bibliotecas externas",
+   "tecnologia"
+  ],
+  [
+   "pip install numpy pandas matplotlib",
+   "tecnologia"
+  ],
+  [
+   "pip: Gestor de paquetes de Python. Instala bibliotecas externas",
+   "tecnologia"
+  ],
+  [
+   "Conjunto de módulos con funcionalidades específicas",
+   "tecnologia"
+  ],
+  [
+   "libreria: Conjunto de módulos con funcionalidades específicas",
+   "tecnologia"
+  ],
+  [
+   "Forma concisa de crear listas",
+   "tecnologia"
+  ],
+  [
+   "[x**2 for x in range(10) if x % 2 == 0] # Cuadrados de pares",
+   "tecnologia"
+  ],
+  [
+   "list_comprehension: Forma concisa de crear listas",
+   "tecnologia"
+  ],
+  [
+   "Función que modifica el comportamiento de otra función",
+   "tecnologia"
+  ],
+  [
+   "@staticmethod def metodo(): pass",
+   "tecnologia"
+  ],
+  [
+   "decorador: Función que modifica el comportamiento de otra función",
+   "tecnologia"
+  ],
+  [
+   "Error que ocurre durante la ejecución. Se maneja con try/except",
+   "tecnologia"
+  ],
+  [
+   "try: x = 1/0 except ZeroDivisionError: print('No se puede dividir por cero')",
+   "tecnologia"
+  ],
+  [
+   "excepcion: Error que ocurre durante la ejecución. Se maneja con try/except",
+   "tecnologia"
+  ],
+  [
+   "Formateo de strings desde Python 3.6",
+   "tecnologia"
+  ],
+  [
+   "nombre = 'Leo'; print(f'Hola {nombre}')",
+   "tecnologia"
+  ],
+  [
+   "f_string: Formateo de strings desde Python 3.6",
+   "tecnologia"
+  ],
+  [
+   "Rama de la computación que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana",
+   "tecnologia"
+  ],
+  [
+   "inteligencia_artificial: Rama de la computación que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana",
+   "tecnologia"
+  ],
+  [
+   "Subcampo de IA donde los algoritmos aprenden patrones a partir de datos sin ser programados explícitamente",
+   "tecnologia"
+  ],
+  [
+   "machine_learning: Subcampo de IA donde los algoritmos aprenden patrones a partir de datos sin ser programados explícitamente",
+   "tecnologia"
+  ],
+  [
+   "Técnica de ML que utiliza redes neuronales con múltiples capas (profundas) para aprender representaciones jerárquicas de los datos",
+   "tecnologia"
+  ],
+  [
+   "deep_learning: Técnica de ML que utiliza redes neuronales con múltiples capas (profundas) para aprender representaciones jerárquicas de los datos",
+   "tecnologia"
+  ],
+  [
+   "Modelo computacional inspirado en el cerebro biológico, compuesto por neuronas artificiales (nodos) interconectadas mediante pesos sinápticos",
+   "tecnologia"
+  ],
+  [
+   "red_neuronal: Modelo computacional inspirado en el cerebro biológico, compuesto por neuronas artificiales (nodos) interconectadas mediante pesos sinápticos",
+   "tecnologia"
+  ],
+  [
+   "Arquitectura de red neuronal presentada en 2017 ('Attention is All You Need') que revolucionó el NLP",
+   "tecnologia"
+  ],
+  [
+   "transformer: Arquitectura de red neuronal presentada en 2017 ('Attention is All You Need') que revolucionó el NLP",
+   "tecnologia"
+  ],
+  [
+   "Procesamiento de Lenguaje Natural: capacidad de las máquinas para entender, interpretar y generar lenguaje humano",
+   "tecnologia"
+  ],
+  [
+   "nlp: Procesamiento de Lenguaje Natural: capacidad de las máquinas para entender, interpretar y generar lenguaje humano",
+   "tecnologia"
+  ],
+  [
+   "Proceso de ajustar los parámetros (pesos) de un modelo usando datos de ejemplo para minimizar el error",
+   "tecnologia"
+  ],
+  [
+   "entrenamiento: Proceso de ajustar los parámetros (pesos) de un modelo usando datos de ejemplo para minimizar el error",
+   "tecnologia"
+  ],
+  [
+   "Conjunto de datos utilizado para entrenar, validar y probar modelos de ML",
+   "tecnologia"
+  ],
+  [
+   "dataset: Conjunto de datos utilizado para entrenar, validar y probar modelos de ML",
+   "tecnologia"
+  ],
+  [
+   "Sobreajuste: cuando un modelo memoriza los datos de entrenamiento y falla en generalizar a nuevos datos",
+   "tecnologia"
+  ],
+  [
+   "overfitting: Sobreajuste: cuando un modelo memoriza los datos de entrenamiento y falla en generalizar a nuevos datos",
+   "tecnologia"
+  ],
+  [
+   "Técnica de optimización inspirada en la evolución biológica: selección, cruce y mutación de soluciones",
+   "tecnologia"
+  ],
+  [
+   "algoritmo_genetico: Técnica de optimización inspirada en la evolución biológica: selección, cruce y mutación de soluciones",
+   "tecnologia"
+  ],
+  [
+   "Unidad mínima de texto en NLP (palabra, subpalabra o carácter) que el modelo procesa",
+   "tecnologia"
+  ],
+  [
+   "La frase 'Hola mundo' tiene 2 tokens en tokenización por palabras",
+   "tecnologia"
+  ],
+  [
+   "token: Unidad mínima de texto en NLP (palabra, subpalabra o carácter) que el modelo procesa",
+   "tecnologia"
+  ],
+  [
+   "Representación vectorial densa de palabras o tokens en un espacio semántico continuo",
+   "tecnologia"
+  ],
+  [
+   "Word2Vec, GloVe, FastText. 'Rey - Hombre + Mujer ≈ Reina'",
+   "tecnologia"
+  ],
+  [
+   "embedding: Representación vectorial densa de palabras o tokens en un espacio semántico continuo",
+   "tecnologia"
+  ],
+  [
+   "Ajuste fino: técnica de transfer learning donde un modelo pre-entrenado se adapta a una tarea específica",
+   "tecnologia"
+  ],
+  [
+   "GPT pre-entrenado + fine-tuning para asistente médico",
+   "tecnologia"
+  ],
+  [
+   "fine_tuning: Ajuste fino: técnica de transfer learning donde un modelo pre-entrenado se adapta a una tarea específica",
+   "tecnologia"
+  ],
+  [
+   "Instrucción o texto de entrada dado a un modelo de lenguaje para guiar su generación",
+   "tecnologia"
+  ],
+  [
+   "prompt: Instrucción o texto de entrada dado a un modelo de lenguaje para guiar su generación",
+   "tecnologia"
+  ],
+  [
+   "Principios y consideraciones sobre el desarrollo responsable de IA",
+   "tecnologia"
+  ],
+  [
+   "etica_ia: Principios y consideraciones sobre el desarrollo responsable de IA",
+   "tecnologia"
+  ],
+  [
+   "Conjunto de actividades habituales que una persona realiza al comenzar el día",
+   "vida_cotidiana"
+  ],
+  [
+   "Levantarse, ducharse y desayunar suele formar parte de una rutina matutina",
+   "vida_cotidiana"
+  ],
+  [
+   "Rutina matutina: Conjunto de actividades habituales que una persona realiza al comenzar el día",
+   "vida_cotidiana"
+  ],
+  [
+   "Conjunto de prácticas de limpieza y cuidado del cuerpo para mantener la salud y el bienestar",
+   "vida_cotidiana"
+  ],
+  [
+   "Lavarse las manos antes de comer es un hábito básico de higiene personal",
+   "vida_cotidiana"
+  ],
+  [
+   "Higiene personal: Conjunto de prácticas de limpieza y cuidado del cuerpo para mantener la salud y el bienestar",
+   "vida_cotidiana"
+  ],
+  [
+   "Práctica de planificar las actividades diarias para aprovechar mejor las horas disponibles",
+   "vida_cotidiana"
+  ],
+  [
+   "Usar una agenda ayuda a la organización del tiempo entre trabajo y descanso",
+   "vida_cotidiana"
+  ],
+  [
+   "Organización del tiempo: Práctica de planificar las actividades diarias para aprovechar mejor las horas disponibles",
+   "vida_cotidiana"
+  ],
+  [
+   "Práctica de guardar parte del dinero disponible en casa para necesidades futuras",
+   "vida_cotidiana"
+  ],
+  [
+   "Llevar un presupuesto mensual ayuda al ahorro doméstico",
+   "vida_cotidiana"
+  ],
+  [
+   "Ahorro doméstico: Práctica de guardar parte del dinero disponible en casa para necesidades futuras",
+   "vida_cotidiana"
+  ],
+  [
+   "Proceso de transformar materiales usados en nuevos productos para reducir residuos",
+   "vida_cotidiana"
+  ],
+  [
+   "Separar el vidrio, el papel y el plástico facilita el reciclaje en casa",
+   "vida_cotidiana"
+  ],
+  [
+   "Reciclaje: Proceso de transformar materiales usados en nuevos productos para reducir residuos",
+   "vida_cotidiana"
+  ],
+  [
+   "Actividad cotidiana de adquirir alimentos y productos básicos para el hogar",
+   "vida_cotidiana"
+  ],
+  [
+   "Hacer una lista antes de ir al supermercado ayuda a comprar solo lo necesario",
+   "vida_cotidiana"
+  ],
+  [
+   "Compra en el supermercado: Actividad cotidiana de adquirir alimentos y productos básicos para el hogar",
+   "vida_cotidiana"
+  ],
+  [
+   "Proceso biológico necesario para la recuperación física y mental del cuerpo",
+   "vida_cotidiana"
+  ],
+  [
+   "Dormir entre siete y ocho horas por noche es recomendable para un adulto",
+   "vida_cotidiana"
+  ],
+  [
+   "Descanso y sueño: Proceso biológico necesario para la recuperación física y mental del cuerpo",
+   "vida_cotidiana"
+  ],
+  [
+   "Conjunto de técnicas simples para preparar alimentos en casa",
+   "vida_cotidiana"
+  ],
+  [
+   "Hervir, freír y hornear son técnicas básicas de cocina",
+   "vida_cotidiana"
+  ],
+  [
+   "Cocina básica: Conjunto de técnicas simples para preparar alimentos en casa",
+   "vida_cotidiana"
+  ],
+  [
+   "Sistema de movilidad colectiva disponible para el uso general de la población",
+   "vida_cotidiana"
+  ],
+  [
+   "El metro y el autobús son medios de transporte público comunes en las ciudades",
+   "vida_cotidiana"
+  ],
+  [
+   "Transporte público: Sistema de movilidad colectiva disponible para el uso general de la población",
+   "vida_cotidiana"
+  ],
+  [
+   "Conjunto de tareas destinadas a mantener limpio y ordenado un lugar de vivienda",
+   "vida_cotidiana"
+  ],
+  [
+   "Barrer, trapear y ordenar son tareas habituales del cuidado del hogar",
+   "vida_cotidiana"
+  ],
+  [
+   "Cuidado del hogar: Conjunto de tareas destinadas a mantener limpio y ordenado un lugar de vivienda",
+   "vida_cotidiana"
+  ],
+  [
+   "Plan que organiza los ingresos y gastos de una persona durante un periodo determinado",
+   "vida_cotidiana"
+  ],
+  [
+   "Anotar los gastos mensuales ayuda a mantener un presupuesto personal equilibrado",
+   "vida_cotidiana"
+  ],
+  [
+   "Presupuesto personal: Plan que organiza los ingresos y gastos de una persona durante un periodo determinado",
+   "vida_cotidiana"
+  ],
+  [
+   "Vínculos de convivencia y trato cotidiano entre personas que viven cerca unas de otras",
+   "vida_cotidiana"
+  ],
+  [
+   "Saludar a los vecinos al cruzarse en el pasillo fortalece las relaciones vecinales",
+   "vida_cotidiana"
+  ],
+  [
+   "Relaciones vecinales: Vínculos de convivencia y trato cotidiano entre personas que viven cerca unas de otras",
+   "vida_cotidiana"
+  ],
+  [
+   "Práctica regular de actividad física como parte de la rutina cotidiana",
+   "vida_cotidiana"
+  ],
+  [
+   "Caminar treinta minutos al día es una forma sencilla de ejercicio diario",
+   "vida_cotidiana"
+  ],
+  [
+   "Ejercicio diario: Práctica regular de actividad física como parte de la rutina cotidiana",
+   "vida_cotidiana"
+  ],
+  [
+   "Práctica de organizar con anticipación qué se va a comer durante la semana",
+   "vida_cotidiana"
+  ],
+  [
+   "Planificar las comidas del domingo ahorra tiempo durante la semana laboral",
+   "vida_cotidiana"
+  ],
+  [
+   "Planificación de comidas: Práctica de organizar con anticipación qué se va a comer durante la semana",
+   "vida_cotidiana"
+  ],
+  [
+   "Conjunto de reparaciones y cuidados periódicos necesarios para conservar una vivienda en buen estado",
+   "vida_cotidiana"
+  ],
+  [
+   "Revisar las instalaciones eléctricas es parte del mantenimiento del hogar",
+   "vida_cotidiana"
+  ],
+  [
+   "Mantenimiento del hogar: Conjunto de reparaciones y cuidados periódicos necesarios para conservar una vivienda en buen estado",
+   "vida_cotidiana"
+  ],
+  [
+   "Tarea doméstica habitual que consiste en limpiar prendas de vestir usando agua y detergente",
+   "vida_cotidiana"
+  ],
+  [
+   "Separar la ropa de color y blanca antes de lavarla evita que se manchen entre sí",
+   "vida_cotidiana"
+  ],
+  [
+   "Lavado de ropa: Tarea doméstica habitual que consiste en limpiar prendas de vestir usando agua y detergente",
+   "vida_cotidiana"
+  ],
+  [
+   "Conjunto de prácticas como riego y exposición a la luz para mantener plantas domésticas saludables",
+   "vida_cotidiana"
+  ],
+  [
+   "Regar las plantas de interior una o dos veces por semana suele ser suficiente",
+   "vida_cotidiana"
+  ],
+  [
+   "Cuidado de plantas en casa: Conjunto de prácticas como riego y exposición a la luz para mantener plantas domésticas saludables",
+   "vida_cotidiana"
+  ],
+  [
+   "Práctica de consumir agua de forma consciente para evitar el desperdicio en el hogar",
+   "vida_cotidiana"
+  ],
+  [
+   "Cerrar la llave mientras se cepillan los dientes ahorra agua potable",
+   "vida_cotidiana"
+  ],
+  [
+   "Uso responsable del agua: Práctica de consumir agua de forma consciente para evitar el desperdicio en el hogar",
+   "vida_cotidiana"
+  ],
+  [
+   "Conjunto de técnicas iniciales para atender a una persona antes de recibir atención médica profesional",
+   "vida_cotidiana"
+  ],
+  [
+   "Aplicar presión sobre una herida para detener el sangrado es un primer auxilio básico",
+   "vida_cotidiana"
+  ],
+  [
+   "Primeros auxilios básicos: Conjunto de técnicas iniciales para atender a una persona antes de recibir atención médica profesional",
+   "vida_cotidiana"
+  ],
+  [
+   "Conjunto de normas de comportamiento consideradas correctas en situaciones sociales",
+   "vida_cotidiana"
+  ],
+  [
+   "Saludar al llegar y despedirse al irse forma parte de la etiqueta social básica",
+   "vida_cotidiana"
+  ],
+  [
+   "Etiqueta social: Conjunto de normas de comportamiento consideradas correctas en situaciones sociales",
+   "vida_cotidiana"
+  ],
+  [
+   "Proceso de trasladar las pertenencias de una vivienda a otra",
+   "vida_cotidiana"
+  ],
+  [
+   "Empacar por habitaciones facilita organizar una mudanza",
+   "vida_cotidiana"
+  ],
+  [
+   "Mudanza: Proceso de trasladar las pertenencias de una vivienda a otra",
+   "vida_cotidiana"
+  ],
+  [
+   "Conjunto de responsabilidades diarias para garantizar el bienestar de un animal de compañía",
+   "vida_cotidiana"
+  ],
+  [
+   "Alimentar, pasear y llevar al veterinario son parte del cuidado de una mascota",
+   "vida_cotidiana"
+  ],
+  [
+   "Cuidado de mascotas: Conjunto de responsabilidades diarias para garantizar el bienestar de un animal de compañía",
+   "vida_cotidiana"
+  ],
+  [
+   "Actividad de adquirir productos o servicios a través de internet",
+   "vida_cotidiana"
+  ],
+  [
+   "Comparar precios entre tiendas es útil antes de hacer una compra en línea",
+   "vida_cotidiana"
+  ],
+  [
+   "Compras en línea: Actividad de adquirir productos o servicios a través de internet",
+   "vida_cotidiana"
+  ],
+  [
+   "Práctica de ordenar la ropa y accesorios personales para facilitar su uso diario",
+   "vida_cotidiana"
+  ],
+  [
+   "Doblar la ropa por categorías ayuda a mantener el armario organizado",
+   "vida_cotidiana"
+  ],
+  [
+   "Organización del armario: Práctica de ordenar la ropa y accesorios personales para facilitar su uso diario",
+   "vida_cotidiana"
+  ],
+  [
+   "Proceso de organizar con anticipación el transporte, alojamiento y actividades de un viaje",
+   "vida_cotidiana"
+  ],
+  [
+   "Reservar el hotel con anticipación suele ser más económico al planificar un viaje",
+   "vida_cotidiana"
+  ],
+  [
+   "Planificación de un viaje: Proceso de organizar con anticipación el transporte, alojamiento y actividades de un viaje",
+   "vida_cotidiana"
+  ],
+  [
+   "El cerebro tiene 86,000 millones de neuronas",
+   "vida_cotidiana"
+  ],
+  [
+   "Los vasos sanguíneos de un adulto miden 100,000 km extendidos",
+   "vida_cotidiana"
+  ],
+  [
+   "Respiramos unas 20,000 veces al día",
+   "vida_cotidiana"
+  ],
+  [
+   "El intestino delgado mide 6-7 metros desplegado",
+   "vida_cotidiana"
+  ],
+  [
+   "El hueso más pequeño es el estribo en el oído (3mm)",
+   "vida_cotidiana"
+  ],
+  [
+   "El músculo más fuerte por tamaño es el masetero (mandíbula)",
+   "vida_cotidiana"
+  ],
+  [
+   "Genera 20-23 watts de electricidad",
+   "vida_cotidiana"
+  ],
+  [
+   "Es el órgano más grande. Se renueva cada 28 días",
+   "vida_cotidiana"
+  ],
+  [
+   "Es el segundo órgano más complejo después del cerebro",
+   "vida_cotidiana"
+  ],
+  [
+   "Único órgano interno que puede regenerarse",
+   "vida_cotidiana"
+  ],
+  [
+   "El ojo humano puede distinguir una vela encendida a 2 km en la oscuridad",
+   "vida_cotidiana"
+  ],
+  [
+   "El oído nunca descansa, incluso al dormir sigue procesando sonidos",
+   "vida_cotidiana"
+  ],
+  [
+   "Es el sentido más vinculado a la memoria emocional",
+   "vida_cotidiana"
+  ],
+  [
+   "Estado de ser, de tener realidad objetiva o subjetiva. Lo que es",
+   "conocimiento_general"
+  ],
+  [
+   "existencia: Estado de ser, de tener realidad objetiva o subjetiva. Lo que es",
+   "conocimiento_general"
+  ],
+  [
+   "Información, comprensión o habilidad adquirida mediante experiencia, educación o razonamiento",
+   "conocimiento_general"
+  ],
+  [
+   "conocimiento: Información, comprensión o habilidad adquirida mediante experiencia, educación o razonamiento",
+   "conocimiento_general"
+  ],
+  [
+   "Conformidad entre lo que se afirma y los hechos o la realidad",
+   "conocimiento_general"
+  ],
+  [
+   "verdad: Conformidad entre lo que se afirma y los hechos o la realidad",
+   "conocimiento_general"
+  ],
+  [
+   "Dimensión en la que los eventos ocurren en secuencia irreversible del pasado al futuro",
+   "conocimiento_general"
+  ],
+  [
+   "tiempo: Dimensión en la que los eventos ocurren en secuencia irreversible del pasado al futuro",
+   "conocimiento_general"
+  ],
+  [
+   "Capacidad de un sistema para realizar trabajo o producir cambio",
+   "conocimiento_general"
+  ],
+  [
+   "energia: Capacidad de un sistema para realizar trabajo o producir cambio",
+   "conocimiento_general"
+  ],
+  [
+   "Datos organizados y procesados que tienen significado y reducen la incertidumbre",
+   "conocimiento_general"
+  ],
+  [
+   "informacion: Datos organizados y procesados que tienen significado y reducen la incertidumbre",
+   "conocimiento_general"
+  ],
+  [
+   "Conjunto de elementos interrelacionados que forman un todo organizado",
+   "conocimiento_general"
+  ],
+  [
+   "sistema: Conjunto de elementos interrelacionados que forman un todo organizado",
+   "conocimiento_general"
+  ],
+  [
+   "Proceso mediante el cual algo se transforma, evoluciona o se altera",
+   "conocimiento_general"
+  ],
+  [
+   "cambio: Proceso mediante el cual algo se transforma, evoluciona o se altera",
+   "conocimiento_general"
+  ],
+  [
+   "Conexión, vínculo o asociación entre dos o más entidades",
+   "conocimiento_general"
+  ],
+  [
+   "relacion: Conexión, vínculo o asociación entre dos o más entidades",
+   "conocimiento_general"
+  ],
+  [
+   "Fenómeno donde propiedades nuevas surgen de la interacción de partes simples que no las poseen individualmente",
+   "conocimiento_general"
+  ],
+  [
+   "emergencia: Fenómeno donde propiedades nuevas surgen de la interacción de partes simples que no las poseen individualmente",
+   "conocimiento_general"
+  ],
+  [
+   "Regularidad o estructura que se repite en datos, naturaleza o comportamiento",
+   "conocimiento_general"
+  ],
+  [
+   "patron: Regularidad o estructura que se repite en datos, naturaleza o comportamiento",
+   "conocimiento_general"
+  ],
+  [
+   "Estado de balance entre fuerzas opuestas",
+   "conocimiento_general"
+  ],
+  [
+   "equilibrio: Estado de balance entre fuerzas opuestas",
+   "conocimiento_general"
+  ],
+  [
+   "Idea o situación que parece contradictoria pero puede contener una verdad profunda",
+   "conocimiento_general"
+  ],
+  [
+   "paradoja: Idea o situación que parece contradictoria pero puede contener una verdad profunda",
+   "conocimiento_general"
+  ],
+  [
+   "Concepto que describe algo sin límite, fin o frontera",
+   "conocimiento_general"
+  ],
+  [
+   "infinito: Concepto que describe algo sin límite, fin o frontera",
+   "conocimiento_general"
+  ],
+  [
+   "Estado de ser consciente de uno mismo y del entorno. Capacidad de experimentar, sentir y tener subjetividad",
+   "conocimiento_general"
+  ],
+  [
+   "conciencia: Estado de ser consciente de uno mismo y del entorno. Capacidad de experimentar, sentir y tener subjetividad",
+   "conocimiento_general"
+  ],
+  [
+   "Tecnología desarrollada por Johannes Gutenberg en el siglo XV que permitió reproducir textos en masa",
+   "conocimiento_general"
+  ],
+  [
+   "La invención de la imprenta facilitó la difusión masiva del conocimiento en Europa",
+   "conocimiento_general"
+  ],
+  [
+   "Imprenta: Tecnología desarrollada por Johannes Gutenberg en el siglo XV que permitió reproducir textos en masa",
+   "conocimiento_general"
+  ],
+  [
+   "Evento histórico de 1492 en el que Cristóbal Colón llegó al continente americano en un viaje patrocinado por España",
+   "conocimiento_general"
+  ],
+  [
+   "La llegada de Colón a América marcó el inicio del contacto entre Europa y el nuevo continente",
+   "conocimiento_general"
+  ],
+  [
+   "Llegada de Colón a América: Evento histórico de 1492 en el que Cristóbal Colón llegó al continente americano en un viaje patrocinado por España",
+   "conocimiento_general"
+  ],
+  [
+   "Periodo histórico de transformación económica y tecnológica iniciado en Inglaterra a finales del siglo XVIII",
+   "conocimiento_general"
+  ],
+  [
+   "La máquina de vapor fue una de las tecnologías clave de la Revolución Industrial",
+   "conocimiento_general"
+  ],
+  [
+   "Revolución Industrial: Periodo histórico de transformación económica y tecnológica iniciado en Inglaterra a finales del siglo XVIII",
+   "conocimiento_general"
+  ],
+  [
+   "Símbolo patrio distintivo de un país, generalmente compuesto por colores y diseños con significado histórico",
+   "conocimiento_general"
+  ],
+  [
+   "Cada color de una bandera nacional suele representar un valor o hecho histórico del país",
+   "conocimiento_general"
+  ],
+  [
+   "Bandera nacional: Símbolo patrio distintivo de un país, generalmente compuesto por colores y diseños con significado histórico",
+   "conocimiento_general"
+  ],
+  [
+   "Unidad monetaria oficial usada en un país para el intercambio de bienes y servicios",
+   "conocimiento_general"
+  ],
+  [
+   "El euro es la moneda oficial de la mayoría de los países de la Unión Europea",
+   "conocimiento_general"
+  ],
+  [
+   "Moneda: Unidad monetaria oficial usada en un país para el intercambio de bienes y servicios",
+   "conocimiento_general"
+  ],
+  [
+   "Galardón internacional anual otorgado a personas destacadas en física, química, medicina, literatura, paz y economía",
+   "conocimiento_general"
+  ],
+  [
+   "El Premio Nobel de la Paz se entrega en Oslo, Noruega, a diferencia de los demás que se entregan en Estocolmo",
+   "conocimiento_general"
+  ],
+  [
+   "Premio Nobel: Galardón internacional anual otorgado a personas destacadas en física, química, medicina, literatura, paz y economía",
+   "conocimiento_general"
+  ],
+  [
+   "Organización internacional fundada en 1945 para fomentar la paz, la cooperación y el desarrollo entre los países",
+   "conocimiento_general"
+  ],
+  [
+   "La ONU tiene su sede principal en la ciudad de Nueva York",
+   "conocimiento_general"
+  ],
+  [
+   "Naciones Unidas (ONU): Organización internacional fundada en 1945 para fomentar la paz, la cooperación y el desarrollo entre los países",
+   "conocimiento_general"
+  ],
+  [
+   "Sistema de medidas basado en el metro, el kilogramo y el litro, usado oficialmente en la mayoría de los países",
+   "conocimiento_general"
+  ],
+  [
+   "El sistema métrico decimal facilita las conversiones al basarse en múltiplos de diez",
+   "conocimiento_general"
+  ],
+  [
+   "Sistema métrico decimal: Sistema de medidas basado en el metro, el kilogramo y el litro, usado oficialmente en la mayoría de los países",
+   "conocimiento_general"
+  ],
+  [
+   "Sistema de calendario actualmente usado en la mayor parte del mundo, introducido por el papa Gregorio XIII en 1582",
+   "conocimiento_general"
+  ],
+  [
+   "El calendario gregoriano tiene 365 días, con un día adicional cada año bisiesto",
+   "conocimiento_general"
+  ],
+  [
+   "Calendario gregoriano: Sistema de calendario actualmente usado en la mayor parte del mundo, introducido por el papa Gregorio XIII en 1582",
+   "conocimiento_general"
+  ],
+  [
+   "Sistema de gobierno donde el poder reside en el pueblo, que elige a sus representantes mediante el voto",
+   "conocimiento_general"
+  ],
+  [
+   "En una democracia representativa, los ciudadanos eligen a sus autoridades mediante elecciones periódicas",
+   "conocimiento_general"
+  ],
+  [
+   "Democracia: Sistema de gobierno donde el poder reside en el pueblo, que elige a sus representantes mediante el voto",
+   "conocimiento_general"
+  ],
+  [
+   "Conjunto de derechos y libertades básicas que se consideran inherentes a todos los seres humanos",
+   "conocimiento_general"
+  ],
+  [
+   "La Declaración Universal de los Derechos Humanos fue adoptada por la ONU en 1948",
+   "conocimiento_general"
+  ],
+  [
+   "Derechos humanos: Conjunto de derechos y libertades básicas que se consideran inherentes a todos los seres humanos",
+   "conocimiento_general"
+  ],
+  [
+   "Conjunto ordenado de letras usadas para representar los sonidos de un idioma por escrito",
+   "conocimiento_general"
+  ],
+  [
+   "El alfabeto latino es usado por el español, el inglés y muchos otros idiomas",
+   "conocimiento_general"
+  ],
+  [
+   "Alfabeto: Conjunto ordenado de letras usadas para representar los sonidos de un idioma por escrito",
+   "conocimiento_general"
+  ],
+  [
+   "Instrumento antiguo para medir el tiempo mediante el paso de arena entre dos recipientes conectados",
+   "conocimiento_general"
+  ],
+  [
+   "Antes de los relojes mecánicos, el reloj de arena ayudaba a medir intervalos de tiempo",
+   "conocimiento_general"
+  ],
+  [
+   "Reloj de arena: Instrumento antiguo para medir el tiempo mediante el paso de arena entre dos recipientes conectados",
+   "conocimiento_general"
+  ],
+  [
+   "Institución que reúne, organiza y presta libros y otros materiales para consulta pública",
+   "conocimiento_general"
+  ],
+  [
+   "La Biblioteca de Alejandría fue una de las más importantes de la antigüedad",
+   "conocimiento_general"
+  ],
+  [
+   "Biblioteca: Institución que reúne, organiza y presta libros y otros materiales para consulta pública",
+   "conocimiento_general"
+  ],
+  [
+   "Proceso oficial de contar y recopilar datos sobre los habitantes de un país o región",
+   "conocimiento_general"
+  ],
+  [
+   "Los censos poblacionales ayudan a los gobiernos a planificar servicios públicos",
+   "conocimiento_general"
+  ],
+  [
+   "Censo poblacional: Proceso oficial de contar y recopilar datos sobre los habitantes de un país o región",
+   "conocimiento_general"
+  ],
+  [
+   "Sistema de comunicación que representa letras y números mediante combinaciones de puntos y rayas",
+   "conocimiento_general"
+  ],
+  [
+   "El código Morse se usó ampliamente en telegrafía antes de las telecomunicaciones modernas",
+   "conocimiento_general"
+  ],
+  [
+   "Código Morse: Sistema de comunicación que representa letras y números mediante combinaciones de puntos y rayas",
+   "conocimiento_general"
+  ],
+  [
+   "Región del planeta que comparte la misma hora oficial, definida en relación al meridiano de Greenwich",
+   "conocimiento_general"
+  ],
+  [
+   "España y Alemania comparten la misma zona horaria a pesar de estar en distintos países",
+   "conocimiento_general"
+  ],
+  [
+   "Zona horaria: Región del planeta que comparte la misma hora oficial, definida en relación al meridiano de Greenwich",
+   "conocimiento_general"
+  ],
+  [
+   "Icono de tres flechas que forman un triángulo, usado para indicar que un material es reciclable",
+   "conocimiento_general"
+  ],
+  [
+   "El símbolo de reciclaje aparece en muchos envases de plástico y papel",
+   "conocimiento_general"
+  ],
+  [
+   "Símbolo de reciclaje: Icono de tres flechas que forman un triángulo, usado para indicar que un material es reciclable",
+   "conocimiento_general"
+  ],
+  [
+   "Moneda digital que utiliza criptografía para asegurar transacciones, sin depender de un banco central",
+   "conocimiento_general"
+  ],
+  [
+   "Bitcoin fue la primera criptomoneda creada, en el año 2009",
+   "conocimiento_general"
+  ],
+  [
+   "Criptomoneda: Moneda digital que utiliza criptografía para asegurar transacciones, sin depender de un banco central",
+   "conocimiento_general"
+  ],
+  [
+   "Deporte de equipo donde dos equipos de once jugadores intentan meter un balón en la portería contraria usando principalmente los pies",
+   "deportes"
+  ],
+  [
+   "Un partido de fútbol profesional dura 90 minutos divididos en dos tiempos de 45",
+   "deportes"
+  ],
+  [
+   "Fútbol: Deporte de equipo donde dos equipos de once jugadores intentan meter un balón en la portería contraria usando principalmente los pies",
+   "deportes"
+  ],
+  [
+   "Deporte de equipo donde dos equipos de cinco jugadores intentan encestar un balón en el aro contrario",
+   "deportes"
+  ],
+  [
+   "Un tiro de tres puntos en baloncesto se hace desde detrás de la línea de triple",
+   "deportes"
+  ],
+  [
+   "Baloncesto: Deporte de equipo donde dos equipos de cinco jugadores intentan encestar un balón en el aro contrario",
+   "deportes"
+  ],
+  [
+   "Deporte individual o de dobles donde los jugadores golpean una pelota con una raqueta sobre una red",
+   "deportes"
+  ],
+  [
+   "En tenis, ganar un set generalmente requiere llegar a 6 juegos con dos de ventaja",
+   "deportes"
+  ],
+  [
+   "Tenis: Deporte individual o de dobles donde los jugadores golpean una pelota con una raqueta sobre una red",
+   "deportes"
+  ],
+  [
+   "Deporte de equipo donde dos equipos golpean un balón sobre una red intentando que toque el suelo del rival",
+   "deportes"
+  ],
+  [
+   "Cada equipo de voleibol puede tocar el balón hasta tres veces antes de pasarlo a la red",
+   "deportes"
+  ],
+  [
+   "Voleibol: Deporte de equipo donde dos equipos golpean un balón sobre una red intentando que toque el suelo del rival",
+   "deportes"
+  ],
+  [
+   "Deporte que consiste en desplazarse en el agua usando técnicas como crol, espalda, pecho o mariposa",
+   "deportes"
+  ],
+  [
+   "Los 100 metros libres son una de las pruebas más rápidas y populares de la natación",
+   "deportes"
+  ],
+  [
+   "Natación: Deporte que consiste en desplazarse en el agua usando técnicas como crol, espalda, pecho o mariposa",
+   "deportes"
+  ],
+  [
+   "Conjunto de disciplinas deportivas que incluyen carreras, saltos y lanzamientos",
+   "deportes"
+  ],
+  [
+   "Los 100 metros lisos son la prueba de velocidad más famosa del atletismo",
+   "deportes"
+  ],
+  [
+   "Atletismo: Conjunto de disciplinas deportivas que incluyen carreras, saltos y lanzamientos",
+   "deportes"
+  ],
+  [
+   "Deporte que consiste en recorrer distancias en bicicleta, ya sea en ruta, pista o montaña",
+   "deportes"
+  ],
+  [
+   "El Tour de Francia es una de las competiciones de ciclismo en ruta más importantes del mundo",
+   "deportes"
+  ],
+  [
+   "Ciclismo: Deporte que consiste en recorrer distancias en bicicleta, ya sea en ruta, pista o montaña",
+   "deportes"
+  ],
+  [
+   "Deporte de combate donde dos contrincantes se enfrentan usando únicamente los puños dentro de un cuadrilátero",
+   "deportes"
+  ],
+  [
+   "Un combate de boxeo profesional puede durar hasta doce asaltos de tres minutos cada uno",
+   "deportes"
+  ],
+  [
+   "Boxeo: Deporte de combate donde dos contrincantes se enfrentan usando únicamente los puños dentro de un cuadrilátero",
+   "deportes"
+  ],
+  [
+   "Deporte individual donde el jugador intenta meter una pelota en una serie de hoyos con el menor número de golpes",
+   "deportes"
+  ],
+  [
+   "Un campo de golf estándar tiene 18 hoyos",
+   "deportes"
+  ],
+  [
+   "Golf: Deporte individual donde el jugador intenta meter una pelota en una serie de hoyos con el menor número de golpes",
+   "deportes"
+  ],
+  [
+   "Deporte de equipo donde un jugador batea una pelota lanzada e intenta recorrer las bases antes de ser eliminado",
+   "deportes"
+  ],
+  [
+   "Un juego de béisbol se compone normalmente de nueve entradas",
+   "deportes"
+  ],
+  [
+   "Béisbol: Deporte de equipo donde un jugador batea una pelota lanzada e intenta recorrer las bases antes de ser eliminado",
+   "deportes"
+  ],
+  [
+   "Evento multideportivo internacional que se celebra cada cuatro años, reuniendo a atletas de todo el mundo",
+   "deportes"
+  ],
+  [
+   "Los Juegos Olímpicos modernos comenzaron en Atenas en 1896",
+   "deportes"
+  ],
+  [
+   "Juegos Olímpicos: Evento multideportivo internacional que se celebra cada cuatro años, reuniendo a atletas de todo el mundo",
+   "deportes"
+  ],
+  [
+   "Torneo internacional de selecciones nacionales de fútbol organizado por la FIFA cada cuatro años",
+   "deportes"
+  ],
+  [
+   "La Copa Mundial de fútbol reúne a 32 selecciones que compiten por el título",
+   "deportes"
+  ],
+  [
+   "Copa Mundial de Fútbol: Torneo internacional de selecciones nacionales de fútbol organizado por la FIFA cada cuatro años",
+   "deportes"
+  ],
+  [
+   "Regla del fútbol que sanciona a un jugador atacante que recibe el balón estando más adelantado que el penúltimo defensor",
+   "deportes"
+  ],
+  [
+   "El árbitro asistente usa el banderín para señalar una posición de fuera de juego",
+   "deportes"
+  ],
+  [
+   "Fuera de juego (offside): Regla del fútbol que sanciona a un jugador atacante que recibe el balón estando más adelantado que el penúltimo defensor",
+   "deportes"
+  ],
+  [
+   "Carrera de atletismo de larga distancia con una longitud oficial de 42.195 kilómetros",
+   "deportes"
+  ],
+  [
+   "El récord mundial de maratón masculino está por debajo de las dos horas y dos minutos",
+   "deportes"
+  ],
+  [
+   "Maratón: Carrera de atletismo de larga distancia con una longitud oficial de 42.195 kilómetros",
+   "deportes"
+  ],
+  [
+   "Disciplina deportiva que combina natación, ciclismo y carrera a pie en una sola competición continua",
+   "deportes"
+  ],
+  [
+   "El triatlón olímpico incluye 1.5 km de natación, 40 km de ciclismo y 10 km de carrera",
+   "deportes"
+  ],
+  [
+   "Triatlón: Disciplina deportiva que combina natación, ciclismo y carrera a pie en una sola competición continua",
+   "deportes"
+  ],
+  [
+   "Juego de estrategia entre dos jugadores sobre un tablero de 64 casillas, con piezas de distinto movimiento y valor",
+   "deportes"
+  ],
+  [
+   "El objetivo del ajedrez es dar jaque mate al rey del oponente",
+   "deportes"
+  ],
+  [
+   "Ajedrez: Juego de estrategia entre dos jugadores sobre un tablero de 64 casillas, con piezas de distinto movimiento y valor",
+   "deportes"
+  ],
+  [
+   "Deporte que consiste en levantar la mayor cantidad de peso posible en movimientos técnicos como arranque y envión",
+   "deportes"
+  ],
+  [
+   "La halterofilia es un deporte olímpico dividido en categorías por peso corporal",
+   "deportes"
+  ],
+  [
+   "Halterofilia (levantamiento de pesas): Deporte que consiste en levantar la mayor cantidad de peso posible en movimientos técnicos como arranque y envión",
+   "deportes"
+  ],
+  [
+   "Deporte que combina fuerza, flexibilidad y coordinación en aparatos como barras, anillas y suelo",
+   "deportes"
+  ],
+  [
+   "La gimnasia artística femenina incluye la prueba de viga de equilibrio",
+   "deportes"
+  ],
+  [
+   "Gimnasia artística: Deporte que combina fuerza, flexibilidad y coordinación en aparatos como barras, anillas y suelo",
+   "deportes"
+  ],
+  [
+   "Deporte de equipo de contacto donde se avanza un balón ovalado hacia la zona de anotación del rival",
+   "deportes"
+  ],
+  [
+   "En rugby, un ensayo (try) se anota apoyando el balón en la zona de meta contraria",
+   "deportes"
+  ],
+  [
+   "Rugby: Deporte de equipo de contacto donde se avanza un balón ovalado hacia la zona de anotación del rival",
+   "deportes"
+  ],
+  [
+   "Deporte de equipo donde dos equipos de siete jugadores intentan lanzar un balón a la portería contraria con las manos",
+   "deportes"
+  ],
+  [
+   "En balonmano, los jugadores no pueden dar más de tres pasos sin botar el balón",
+   "deportes"
+  ],
+  [
+   "Balonmano: Deporte de equipo donde dos equipos de siete jugadores intentan lanzar un balón a la portería contraria con las manos",
+   "deportes"
+  ],
+  [
+   "Deporte acuático que consiste en deslizarse sobre las olas del mar de pie sobre una tabla",
+   "deportes"
+  ],
+  [
+   "Los surfistas remontan hacia la línea de rompiente antes de tomar una ola",
+   "deportes"
+  ],
+  [
+   "Surf: Deporte acuático que consiste en deslizarse sobre las olas del mar de pie sobre una tabla",
+   "deportes"
+  ],
+  [
+   "Deporte de invierno que consiste en descender pendientes nevadas con esquís a alta velocidad",
+   "deportes"
+  ],
+  [
+   "El eslalon y el descenso son modalidades del esquí alpino",
+   "deportes"
+  ],
+  [
+   "Esquí alpino: Deporte de invierno que consiste en descender pendientes nevadas con esquís a alta velocidad",
+   "deportes"
+  ],
+  [
+   "Deporte que involucra montar y competir con caballos en disciplinas como salto o doma",
+   "deportes"
+  ],
+  [
+   "El salto de obstáculos en hípica evalúa la técnica del binomio jinete-caballo",
+   "deportes"
+  ],
+  [
+   "Hípica (equitación): Deporte que involucra montar y competir con caballos en disciplinas como salto o doma",
+   "deportes"
+  ],
+  [
+   "Sanción máxima en fútbol que otorga un tiro directo a portería desde el punto penal por una falta dentro del área",
+   "deportes"
+  ],
+  [
+   "El punto de penalti está situado a 11 metros de la línea de meta",
+   "deportes"
+  ],
+  [
+   "Penalti (fútbol): Sanción máxima en fútbol que otorga un tiro directo a portería desde el punto penal por una falta dentro del área",
+   "deportes"
+  ],
+  [
+   "Roles asignados a los jugadores en el campo: portero, defensas, centrocampistas y delanteros",
+   "deportes"
+  ],
+  [
+   "El portero es el único jugador que puede tocar el balón con las manos dentro de su área",
+   "deportes"
+  ],
+  [
+   "Posiciones en el fútbol: Roles asignados a los jugadores en el campo: portero, defensas, centrocampistas y delanteros",
+   "deportes"
+  ],
+  [
+   "Mejor marca oficial registrada en una disciplina deportiva a nivel global",
+   "deportes"
+  ],
+  [
+   "El récord mundial de los 100 metros lisos masculinos es de 9.58 segundos",
+   "deportes"
+  ],
+  [
+   "Récord mundial (deporte): Mejor marca oficial registrada en una disciplina deportiva a nivel global",
+   "deportes"
+  ],
+  [
+   "Competición organizada donde varios equipos se enfrentan a lo largo de una temporada según un calendario fijo",
+   "deportes"
+  ],
+  [
+   "La liga de fútbol profesional suele jugarse en formato de todos contra todos, ida y vuelta",
+   "deportes"
+  ],
+  [
+   "Liga deportiva: Competición organizada donde varios equipos se enfrentan a lo largo de una temporada según un calendario fijo",
+   "deportes"
+  ],
+  [
+   "Persona encargada de aplicar las reglas de un deporte y tomar decisiones durante un partido o competición",
+   "deportes"
+  ],
+  [
+   "El árbitro principal de fútbol es asistido por árbitros de línea y el VAR",
+   "deportes"
+  ],
+  [
+   "Árbitro: Persona encargada de aplicar las reglas de un deporte y tomar decisiones durante un partido o competición",
+   "deportes"
+  ],
+  [
+   "Uso de sustancias o métodos prohibidos para mejorar artificialmente el rendimiento de un atleta",
+   "deportes"
+  ],
+  [
+   "Las agencias antidopaje realizan controles para detectar el uso de sustancias prohibidas",
+   "deportes"
+  ],
+  [
+   "Dopaje deportivo: Uso de sustancias o métodos prohibidos para mejorar artificialmente el rendimiento de un atleta",
+   "deportes"
+  ],
+  [
+   "Conjunto de actividades planificadas para mejorar la condición física, fuerza o resistencia de una persona",
+   "deportes"
+  ],
+  [
+   "Un plan de entrenamiento suele combinar ejercicios de fuerza, resistencia y flexibilidad",
+   "deportes"
+  ],
+  [
+   "Entrenamiento físico: Conjunto de actividades planificadas para mejorar la condición física, fuerza o resistencia de una persona",
+   "deportes"
+  ],
+  [
+   "Nivel avanzado de dominio técnico en disciplinas como el karate o el judo",
+   "deportes"
+  ],
+  [
+   "Alcanzar el cinturón negro en judo requiere años de práctica y varios exámenes",
+   "deportes"
+  ],
+  [
+   "Cinturón negro (artes marciales): Nivel avanzado de dominio técnico en disciplinas como el karate o el judo",
+   "deportes"
+  ],
+  [
+   "Categoría más alta del automovilismo de velocidad, con monoplazas de altísimo rendimiento",
+   "deportes"
+  ],
+  [
+   "La Fórmula 1 celebra carreras llamadas Grandes Premios en distintos circuitos del mundo",
+   "deportes"
+  ],
+  [
+   "Fórmula 1: Categoría más alta del automovilismo de velocidad, con monoplazas de altísimo rendimiento",
+   "deportes"
+  ],
+  [
+   "Deporte que consiste en ascender paredes de roca o estructuras artificiales usando técnica y fuerza",
+   "deportes"
+  ],
+  [
+   "La escalada deportiva se convirtió en disciplina olímpica en los Juegos de Tokio 2020",
+   "deportes"
+  ],
+  [
+   "Escalada deportiva: Deporte que consiste en ascender paredes de roca o estructuras artificiales usando técnica y fuerza",
+   "deportes"
+  ],
+  [
+   "Deporte similar al béisbol, jugado con una pelota más grande y lanzamientos por debajo del hombro",
+   "deportes"
+  ],
+  [
+   "El sóftbol es popular especialmente en las categorías femeninas de muchos países",
+   "deportes"
+  ],
+  [
+   "Sóftbol: Deporte similar al béisbol, jugado con una pelota más grande y lanzamientos por debajo del hombro",
+   "deportes"
+  ],
+  [
+   "Sanción disciplinaria en fútbol que amonesta a un jugador por una falta o conducta antideportiva",
+   "deportes"
+  ],
+  [
+   "Dos tarjetas amarillas en un mismo partido equivalen a una expulsión",
+   "deportes"
+  ],
+  [
+   "Tarjeta amarilla: Sanción disciplinaria en fútbol que amonesta a un jugador por una falta o conducta antideportiva",
+   "deportes"
+  ],
+  [
+   "División de competidores según su peso corporal, para igualar condiciones físicas de combate",
+   "deportes"
+  ],
+  [
+   "El peso pluma y el peso pesado son categorías distintas en el boxeo",
+   "deportes"
+  ],
+  [
+   "Categoría de peso (boxeo): División de competidores según su peso corporal, para igualar condiciones físicas de combate",
+   "deportes"
+  ],
+  [
+   "Palabra que tiene un significado igual o muy similar a otra",
+   "lenguaje"
+  ],
+  [
+   "'Feliz' y 'contento' son sinónimos",
+   "lenguaje"
+  ],
+  [
+   "Sinónimo: Palabra que tiene un significado igual o muy similar a otra",
+   "lenguaje"
+  ],
+  [
+   "Palabra que tiene un significado opuesto al de otra",
+   "lenguaje"
+  ],
+  [
+   "'Grande' y 'pequeño' son antónimos",
+   "lenguaje"
+  ],
+  [
+   "Antónimo: Palabra que tiene un significado opuesto al de otra",
+   "lenguaje"
+  ],
+  [
+   "Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita",
+   "lenguaje"
+  ],
+  [
+   "'Sus ojos son dos luceros' es una metáfora",
+   "lenguaje"
+  ],
+  [
+   "Metáfora: Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita",
+   "lenguaje"
+  ],
+  [
+   "Categoría gramatical que nombra personas, animales, objetos o ideas",
+   "lenguaje"
+  ],
+  [
+   "'Perro', 'ciudad' y 'libertad' son sustantivos",
+   "lenguaje"
+  ],
+  [
+   "Sustantivo: Categoría gramatical que nombra personas, animales, objetos o ideas",
+   "lenguaje"
+  ],
+  [
+   "Categoría gramatical que expresa una acción, estado o proceso",
+   "lenguaje"
+  ],
+  [
+   "'Correr', 'ser' y 'pensar' son verbos",
+   "lenguaje"
+  ],
+  [
+   "Verbo: Categoría gramatical que expresa una acción, estado o proceso",
+   "lenguaje"
+  ],
+  [
+   "Categoría gramatical que describe cualidades o características de un sustantivo",
+   "lenguaje"
+  ],
+  [
+   "'Alto', 'azul' y 'inteligente' son adjetivos",
+   "lenguaje"
+  ],
+  [
+   "Adjetivo: Categoría gramatical que describe cualidades o características de un sustantivo",
+   "lenguaje"
+  ],
+  [
+   "Categoría gramatical que modifica a un verbo, adjetivo u otro adverbio, indicando modo, tiempo o lugar",
+   "lenguaje"
+  ],
+  [
+   "'Rápidamente', 'hoy' y 'aquí' son adverbios",
+   "lenguaje"
+  ],
+  [
+   "Adverbio: Categoría gramatical que modifica a un verbo, adjetivo u otro adverbio, indicando modo, tiempo o lugar",
+   "lenguaje"
+  ],
+  [
+   "Unidad mínima de comunicación con sentido completo, formada generalmente por sujeto y predicado",
+   "lenguaje"
+  ],
+  [
+   "'El perro corre en el parque' es una oración completa",
+   "lenguaje"
+  ],
+  [
+   "Oración (gramática): Unidad mínima de comunicación con sentido completo, formada generalmente por sujeto y predicado",
+   "lenguaje"
+  ],
+  [
+   "Palabra que designa personas, animales, cosas, lugares o ideas",
+   "lenguaje"
+  ],
+  [
+   "sustantivo: Palabra que designa personas, animales, cosas, lugares o ideas",
+   "lenguaje"
+  ],
+  [
+   "Palabra que califica o describe al sustantivo",
+   "lenguaje"
+  ],
+  [
+   "adjetivo: Palabra que califica o describe al sustantivo",
+   "lenguaje"
+  ],
+  [
+   "Palabra que expresa acción, estado o proceso",
+   "lenguaje"
+  ],
+  [
+   "verbo: Palabra que expresa acción, estado o proceso",
+   "lenguaje"
+  ],
+  [
+   "Palabra que modifica al verbo, adjetivo u otro adverbio",
+   "lenguaje"
+  ],
+  [
+   "adverbio: Palabra que modifica al verbo, adjetivo u otro adverbio",
+   "lenguaje"
+  ],
+  [
+   "Palabra que relaciona elementos en la oración",
+   "lenguaje"
+  ],
+  [
+   "preposicion: Palabra que relaciona elementos en la oración",
+   "lenguaje"
+  ],
+  [
+   "Palabra que une oraciones o elementos",
+   "lenguaje"
+  ],
+  [
+   "conjuncion: Palabra que une oraciones o elementos",
+   "lenguaje"
+  ],
+  [
+   "Parte de la oración que realiza la acción o de quien se dice algo",
+   "lenguaje"
+  ],
+  [
+   "El gato (sujeto) duerme",
+   "lenguaje"
+  ],
+  [
+   "sujeto: Parte de la oración que realiza la acción o de quien se dice algo",
+   "lenguaje"
+  ],
+  [
+   "Parte de la oración que expresa lo que hace o se dice del sujeto",
+   "lenguaje"
+  ],
+  [
+   "El gato duerme (predicado)",
+   "lenguaje"
+  ],
+  [
+   "predicado: Parte de la oración que expresa lo que hace o se dice del sujeto",
+   "lenguaje"
+  ],
+  [
+   "Oración con un solo verbo conjugado",
+   "lenguaje"
+  ],
+  [
+   "Juan come manzanas",
+   "lenguaje"
+  ],
+  [
+   "oracion_simple: Oración con un solo verbo conjugado",
+   "lenguaje"
+  ],
+  [
+   "Oración con más de un verbo conjugado",
+   "lenguaje"
+  ],
+  [
+   "Juan come manzanas mientras María lee",
+   "lenguaje"
+  ],
+  [
+   "oracion_compuesta: Oración con más de un verbo conjugado",
+   "lenguaje"
+  ],
+  [
+   "Coincidencia de género y número entre sustantivo, adjetivo y artículo",
+   "lenguaje"
+  ],
+  [
+   "Las casas blancas (femenino plural)",
+   "lenguaje"
+  ],
+  [
+   "concordancia: Coincidencia de género y número entre sustantivo, adjetivo y artículo",
+   "lenguaje"
+  ],
+  [
+   "Momento en que ocurre la acción del verbo",
+   "lenguaje"
+  ],
+  [
+   "tiempo_verbal: Momento en que ocurre la acción del verbo",
+   "lenguaje"
+  ],
+  [
+   "Actitud del hablante ante la acción",
+   "lenguaje"
+  ],
+  [
+   "modo_verbal: Actitud del hablante ante la acción",
+   "lenguaje"
+  ],
+  [
+   "Palabra que sustituye al sustantivo",
+   "lenguaje"
+  ],
+  [
+   "pronombre: Palabra que sustituye al sustantivo",
+   "lenguaje"
+  ],
+  [
+   "Palabra que acompaña al sustantivo indicando género y número",
+   "lenguaje"
+  ],
+  [
+   "articulo: Palabra que acompaña al sustantivo indicando género y número",
+   "lenguaje"
+  ],
+  [
+   "Unión de dos vocales en una misma sílaba (vocal cerrada + abierta)",
+   "lenguaje"
+  ],
+  [
+   "diptongo: Unión de dos vocales en una misma sílaba (vocal cerrada + abierta)",
+   "lenguaje"
+  ],
+  [
+   "Separación de dos vocales en sílabas distintas",
+   "lenguaje"
+  ],
+  [
+   "hiato: Separación de dos vocales en sílabas distintas",
+   "lenguaje"
+  ],
+  [
+   "Acento ortográfico que indica la sílaba tónica",
+   "lenguaje"
+  ],
+  [
+   "tilde: Acento ortográfico que indica la sílaba tónica",
+   "lenguaje"
+  ],
+  [
+   "Oración que formula una pregunta",
+   "lenguaje"
+  ],
+  [
+   "¿Cómo te llamas?",
+   "lenguaje"
+  ],
+  [
+   "oracion_interrogativa: Oración que formula una pregunta",
+   "lenguaje"
+  ],
+  [
+   "Oración que expresa emoción intensa",
+   "lenguaje"
+  ],
+  [
+   "oracion_exclamativa: Oración que expresa emoción intensa",
+   "lenguaje"
+  ],
+  [
+   "Metí la pata al olvidar su cumpleaños",
+   "lenguaje"
+  ],
+  [
+   "Cometer un error o equivocación",
+   "lenguaje"
+  ],
+  [
+   "¿Me echas una mano con esto?",
+   "lenguaje"
+  ],
+  [
+   "Ayudar a alguien",
+   "lenguaje"
+  ],
+  [
+   "Tienes que ponerte las pilas si quieres aprobar",
+   "lenguaje"
+  ],
+  [
+   "Activar, esforzarse más",
+   "lenguaje"
+  ],
+  [
+   "Diste en el clavo con tu respuesta",
+   "lenguaje"
+  ],
+  [
+   "El examen fue pan comido",
+   "lenguaje"
+  ],
+  [
+   "Algo muy fácil",
+   "lenguaje"
+  ],
+  [
+   "Ese coche cuesta un ojo de la cara",
+   "lenguaje"
+  ],
+  [
+   "Ser muy caro",
+   "lenguaje"
+  ],
+  [
+   "Mi abuela no tiene pelos en la lengua",
+   "lenguaje"
+  ],
+  [
+   "Decir lo que se piensa sin filtro",
+   "lenguaje"
+  ],
+  [
+   "Me quedé de piedra cuando vi el regalo",
+   "lenguaje"
+  ],
+  [
+   "Quedarse muy sorprendido",
+   "lenguaje"
+  ],
+  [
+   "Después de 3 horas, tiré la toalla",
+   "lenguaje"
+  ],
+  [
+   "Siempre fui la oveja negra de la familia",
+   "lenguaje"
+  ],
+  [
+   "Ser el diferente o problemático del grupo",
+   "lenguaje"
+  ],
+  [
+   "No salgas, está lloviendo a cántaros",
+   "lenguaje"
+  ],
+  [
+   "Llover muy fuerte",
+   "lenguaje"
+  ],
+  [
+   "Pusiste el dedo en la llaga con ese comentario",
+   "lenguaje"
+  ],
+  [
+   "Señalar un punto doloroso o problemático",
+   "lenguaje"
+  ],
+  [
+   "Encontré a mi media naranja",
+   "lenguaje"
+  ],
+  [
+   "La pareja ideal",
+   "lenguaje"
+  ],
+  [
+   "No me dores la píldora, dime la verdad",
+   "lenguaje"
+  ],
+  [
+   "Suavizar malas noticias",
+   "lenguaje"
+  ],
+  [
+   "Mi tía habla por los codos",
+   "lenguaje"
+  ],
+  [
+   "No te ahogues en un vaso de agua",
+   "lenguaje"
+  ],
+  [
+   "Preocuparse demasiado por algo pequeño",
+   "lenguaje"
+  ],
+  [
+   "Hagamos borrón y cuenta nueva",
+   "lenguaje"
+  ],
+  [
+   "Empezar de nuevo olvidando el pasado",
+   "lenguaje"
+  ],
+  [
+   "Recuerda: en boca cerrada no entran moscas",
+   "lenguaje"
+  ],
+  [
+   "A veces es mejor callar",
+   "lenguaje"
+  ],
+  [
+   "Es gratis, a caballo regalado...",
+   "lenguaje"
+  ],
+  [
+   "No criticar un regalo",
+   "lenguaje"
+  ],
+  [
+   "Llegaste, más vale tarde que nunca",
+   "lenguaje"
+  ],
+  [
+   "Mejor hacer algo tarde que no hacerlo",
+   "lenguaje"
+  ],
+  [
+   "Máquina programable capaz de ejecutar tareas de forma autónoma o semiautónoma, a menudo imitando acciones humanas",
+   "robotica"
+  ],
+  [
+   "Los robots industriales se usan en líneas de ensamblaje para soldar o pintar automóviles",
+   "robotica"
+  ],
+  [
+   "Robot: Máquina programable capaz de ejecutar tareas de forma autónoma o semiautónoma, a menudo imitando acciones humanas",
+   "robotica"
+  ],
+  [
+   "Dispositivo que detecta cambios físicos en el entorno (luz, temperatura, distancia) y los convierte en señales medibles",
+   "robotica"
+  ],
+  [
+   "Un sensor ultrasónico permite a un robot detectar obstáculos midiendo el rebote de ondas sonoras",
+   "robotica"
+  ],
+  [
+   "Sensor: Dispositivo que detecta cambios físicos en el entorno (luz, temperatura, distancia) y los convierte en señales medibles",
+   "robotica"
+  ],
+  [
+   "Componente de un robot que convierte energía (eléctrica, neumática) en movimiento físico",
+   "robotica"
+  ],
+  [
+   "Los motores eléctricos son actuadores comunes que hacen girar las ruedas de un robot",
+   "robotica"
+  ],
+  [
+   "Actuador: Componente de un robot que convierte energía (eléctrica, neumática) en movimiento físico",
+   "robotica"
+  ],
+  [
+   "Motor especial que permite controlar con precisión la posición angular de un eje",
+   "robotica"
+  ],
+  [
+   "Los brazos robóticos usan servomotores para posicionar sus articulaciones con exactitud",
+   "robotica"
+  ],
+  [
+   "Servomotor: Motor especial que permite controlar con precisión la posición angular de un eje",
+   "robotica"
+  ],
+  [
+   "Dispositivo que genera movimiento usando la presión de un líquido, común en robots de gran fuerza",
+   "robotica"
+  ],
+  [
+   "Los robots industriales pesados usan actuadores hidráulicos para levantar cargas grandes",
+   "robotica"
+  ],
+  [
+   "Actuador hidráulico: Dispositivo que genera movimiento usando la presión de un líquido, común en robots de gran fuerza",
+   "robotica"
+  ],
+  [
+   "Estudio del movimiento de un robot sin considerar las fuerzas que lo producen, enfocándose en posición y velocidad",
+   "robotica"
+  ],
+  [
+   "La cinemática directa calcula la posición del extremo de un brazo robótico a partir de sus ángulos de articulación",
+   "robotica"
+  ],
+  [
+   "Cinemática (robótica): Estudio del movimiento de un robot sin considerar las fuerzas que lo producen, enfocándose en posición y velocidad",
+   "robotica"
+  ],
+  [
+   "Dispositivo mecánico articulado que imita las funciones de un brazo humano, usado en manufactura y cirugía",
+   "robotica"
+  ],
+  [
+   "Los brazos robóticos en fábricas de automóviles pueden soldar cientos de piezas por hora",
+   "robotica"
+  ],
+  [
+   "Brazo robótico: Dispositivo mecánico articulado que imita las funciones de un brazo humano, usado en manufactura y cirugía",
+   "robotica"
+  ],
+  [
+   "Rama de la robótica dedicada a robots capaces de desplazarse por su entorno de forma autónoma",
+   "robotica"
+  ],
+  [
+   "Los robots aspiradora domésticos son un ejemplo cotidiano de robótica móvil",
+   "robotica"
+  ],
+  [
+   "Robótica móvil: Rama de la robótica dedicada a robots capaces de desplazarse por su entorno de forma autónoma",
+   "robotica"
+  ],
+  [
+   "Vehículo aéreo no tripulado que puede ser controlado remotamente o volar de forma autónoma",
+   "robotica"
+  ],
+  [
+   "Los drones se usan hoy en día para fotografía aérea, entregas y agricultura de precisión",
+   "robotica"
+  ],
+  [
+   "Dron: Vehículo aéreo no tripulado que puede ser controlado remotamente o volar de forma autónoma",
+   "robotica"
+  ],
+  [
+   "Campo que permite a las máquinas interpretar y comprender imágenes o video del mundo real",
+   "robotica"
+  ],
+  [
+   "Un robot con visión por computadora puede identificar y recoger objetos de una mesa",
+   "robotica"
+  ],
+  [
+   "Visión por computadora: Campo que permite a las máquinas interpretar y comprender imágenes o video del mundo real",
+   "robotica"
+  ],
+  [
+   "Uso de algoritmos de IA para que los robots tomen decisiones, aprendan y se adapten a su entorno",
+   "robotica"
+  ],
+  [
+   "Un robot con IA puede aprender a esquivar obstáculos nuevos que no había visto antes",
+   "robotica"
+  ],
+  [
+   "Inteligencia artificial aplicada a la robótica: Uso de algoritmos de IA para que los robots tomen decisiones, aprendan y se adapten a su entorno",
+   "robotica"
+  ],
+  [
+   "Uso de sistemas de control y robots para realizar procesos de producción con mínima intervención humana",
+   "robotica"
+  ],
+  [
+   "Las fábricas modernas usan automatización industrial para aumentar la eficiencia y reducir errores",
+   "robotica"
+  ],
+  [
+   "Automatización industrial: Uso de sistemas de control y robots para realizar procesos de producción con mínima intervención humana",
+   "robotica"
+  ],
+  [
+   "Robot diseñado para imitar la forma y el movimiento del cuerpo humano",
+   "robotica"
+  ],
+  [
+   "Los robots humanoides suelen tener cabeza, torso, brazos y piernas articuladas",
+   "robotica"
+  ],
+  [
+   "Robot humanoide: Robot diseñado para imitar la forma y el movimiento del cuerpo humano",
+   "robotica"
+  ],
+  [
+   "Estructura mecánica externa que se coloca sobre el cuerpo humano para aumentar su fuerza o asistir el movimiento",
+   "robotica"
+  ],
+  [
+   "Los exoesqueletos médicos ayudan a personas con movilidad reducida a caminar de nuevo",
+   "robotica"
+  ],
+  [
+   "Exoesqueleto robótico: Estructura mecánica externa que se coloca sobre el cuerpo humano para aumentar su fuerza o asistir el movimiento",
+   "robotica"
+  ],
+  [
+   "Sistema de control que ajusta continuamente su comportamiento usando información de sensores sobre el resultado",
+   "robotica"
+  ],
+  [
+   "Un termostato usa control de lazo cerrado, midiendo la temperatura para encender o apagar la calefacción",
+   "robotica"
+  ],
+  [
+   "Control de lazo cerrado (feedback): Sistema de control que ajusta continuamente su comportamiento usando información de sensores sobre el resultado",
+   "robotica"
+  ],
+  [
+   "Robots diseñados para trabajar de forma segura junto a humanos en el mismo espacio de trabajo",
+   "robotica"
+  ],
+  [
+   "Un cobot en una fábrica puede detenerse automáticamente si detecta a una persona cerca",
+   "robotica"
+  ],
+  [
+   "Robótica colaborativa (cobots): Robots diseñados para trabajar de forma segura junto a humanos en el mismo espacio de trabajo",
+   "robotica"
+  ],
+  [
+   "Software que permite probar el comportamiento de un robot en un entorno virtual antes de implementarlo físicamente",
+   "robotica"
+  ],
+  [
+   "Los ingenieros prueban algoritmos de navegación en un simulador antes de cargarlos en el robot real",
+   "robotica"
+  ],
+  [
+   "Simulador robótico: Software que permite probar el comportamiento de un robot en un entorno virtual antes de implementarlo físicamente",
+   "robotica"
+  ],
+  [
+   "Componente en el extremo de un brazo robótico que interactúa directamente con el entorno, como una pinza o herramienta",
+   "robotica"
+  ],
+  [
+   "Una pinza neumática es un efector final común para tomar y soltar objetos",
+   "robotica"
+  ],
+  [
+   "Efector final (end effector): Componente en el extremo de un brazo robótico que interactúa directamente con el entorno, como una pinza o herramienta",
+   "robotica"
+  ],
+  [
+   "Aplicación de robots en procedimientos médicos, como cirugías de precisión mínimamente invasivas",
+   "robotica"
+  ],
+  [
+   "El sistema quirúrgico Da Vinci permite a los cirujanos operar con mayor precisión usando brazos robóticos",
+   "robotica"
+  ],
+  [
+   "Robótica médica: Aplicación de robots en procedimientos médicos, como cirugías de precisión mínimamente invasivas",
+   "robotica"
+  ],
+  [
+   "Técnica que permite a un robot construir un mapa de un entorno desconocido mientras determina su propia posición en él",
+   "robotica"
+  ],
+  [
+   "Los robots aspiradora modernos usan SLAM para mapear una casa mientras la limpian",
+   "robotica"
+  ],
+  [
+   "SLAM (mapeo y localización simultáneos): Técnica que permite a un robot construir un mapa de un entorno desconocido mientras determina su propia posición en él",
+   "robotica"
+  ],
+  [
+   "Estructura física base de un robot sobre la que se montan sus componentes mecánicos y electrónicos",
+   "robotica"
+  ],
+  [
+   "Un chasis robusto permite que un robot móvil resista terrenos irregulares",
+   "robotica"
+  ],
+  [
+   "Chasis (robótica): Estructura física base de un robot sobre la que se montan sus componentes mecánicos y electrónicos",
+   "robotica"
+  ],
+  [
+   "Pequeño circuito integrado que contiene un procesador y memoria, usado para controlar dispositivos electrónicos",
+   "robotica"
+  ],
+  [
+   "Arduino es una plataforma popular basada en microcontroladores para proyectos de robótica",
+   "robotica"
+  ],
+  [
+   "Microcontrolador: Pequeño circuito integrado que contiene un procesador y memoria, usado para controlar dispositivos electrónicos",
+   "robotica"
+  ],
+  [
+   "Dispositivo que detecta radiación infrarroja, usado comúnmente para medir distancia o detectar movimiento",
+   "robotica"
+  ],
+  [
+   "Los robots aspiradora usan sensores infrarrojos para detectar bordes y evitar caídas",
+   "robotica"
+  ],
+  [
+   "Sensor infrarrojo: Dispositivo que detecta radiación infrarroja, usado comúnmente para medir distancia o detectar movimiento",
+   "robotica"
+  ],
+  [
+   "Robot programable usado en fábricas para tareas repetitivas como soldadura, pintura o ensamblaje",
+   "robotica"
+  ],
+  [
+   "Los robots industriales pueden trabajar de forma continua con alta precisión",
+   "robotica"
+  ],
+  [
+   "Robot industrial: Robot programable usado en fábricas para tareas repetitivas como soldadura, pintura o ensamblaje",
+   "robotica"
+  ],
+  [
+   "Robot controlado remotamente que permite a una persona interactuar a distancia con un entorno físico",
+   "robotica"
+  ],
+  [
+   "Un robot de telepresencia puede permitir asistir a una reunión de forma remota con movimiento propio",
+   "robotica"
+  ],
+  [
+   "Robot de telepresencia: Robot controlado remotamente que permite a una persona interactuar a distancia con un entorno físico",
+   "robotica"
+  ],
+  [
+   "Fuente de energía que alimenta los motores y sistemas electrónicos de un robot autónomo",
+   "robotica"
+  ],
+  [
+   "La autonomía de un robot móvil depende directamente de la capacidad de su batería",
+   "robotica"
+  ],
+  [
+   "Batería de robot: Fuente de energía que alimenta los motores y sistemas electrónicos de un robot autónomo",
+   "robotica"
+  ],
+  [
+   "Uso de kits y robots simples para enseñar programación y pensamiento lógico a estudiantes",
+   "robotica"
+  ],
+  [
+   "Los kits de robótica educativa permiten a los niños aprender a programar de forma práctica",
+   "robotica"
+  ],
+  [
+   "Robótica educativa: Uso de kits y robots simples para enseñar programación y pensamiento lógico a estudiantes",
+   "robotica"
+  ],
+  [
+   "Conjunto de reglas que permite a un robot planear una ruta y moverse evitando obstáculos",
+   "robotica"
+  ],
+  [
+   "Un algoritmo de navegación puede recalcular la ruta si detecta un obstáculo nuevo",
+   "robotica"
+  ],
+  [
+   "Algoritmo de navegación: Conjunto de reglas que permite a un robot planear una ruta y moverse evitando obstáculos",
+   "robotica"
+  ],
+  [
+   "Disciplina que estudia preguntas fundamentales sobre la existencia, el conocimiento y la ética mediante el razonamiento",
+   "humanidad"
+  ],
+  [
+   "Sócrates, Platón y Aristóteles son considerados pilares de la filosofía occidental",
+   "humanidad"
+  ],
+  [
+   "Filosofía: Disciplina que estudia preguntas fundamentales sobre la existencia, el conocimiento y la ética mediante el razonamiento",
+   "humanidad"
+  ],
+  [
+   "Rama de la filosofía que estudia lo que se considera correcto o incorrecto en la conducta humana",
+   "humanidad"
+  ],
+  [
+   "La ética profesional establece normas de comportamiento dentro de una actividad laboral",
+   "humanidad"
+  ],
+  [
+   "Ética: Rama de la filosofía que estudia lo que se considera correcto o incorrecto en la conducta humana",
+   "humanidad"
+  ],
+  [
+   "Capacidad de comprender y compartir los sentimientos de otra persona",
+   "humanidad"
+  ],
+  [
+   "Mostrar empatía hacia un amigo triste significa entender genuinamente lo que siente",
+   "humanidad"
+  ],
+  [
+   "Empatía: Capacidad de comprender y compartir los sentimientos de otra persona",
+   "humanidad"
+  ],
+  [
+   "Sociedad organizada del pasado con instituciones, cultura y avances tecnológicos propios",
+   "humanidad"
+  ],
+  [
+   "La civilización del antiguo Egipto es conocida por sus pirámides y su sistema de escritura jeroglífica",
+   "humanidad"
+  ],
+  [
+   "Civilización antigua: Sociedad organizada del pasado con instituciones, cultura y avances tecnológicos propios",
+   "humanidad"
+  ],
+  [
+   "Conjunto de libertades y garantías legales que protegen a las personas frente al Estado y otros individuos",
+   "humanidad"
+  ],
+  [
+   "El movimiento por los derechos civiles buscó terminar con la discriminación racial en Estados Unidos",
+   "humanidad"
+  ],
+  [
+   "Derechos civiles: Conjunto de libertades y garantías legales que protegen a las personas frente al Estado y otros individuos",
+   "humanidad"
+  ],
+  [
+   "Valor humano que implica apoyar y ayudar a otras personas en situaciones difíciles",
+   "humanidad"
+  ],
+  [
+   "Donar ropa y alimentos después de un desastre natural es un acto de solidaridad",
+   "humanidad"
+  ],
+  [
+   "Solidaridad: Valor humano que implica apoyar y ayudar a otras personas en situaciones difíciles",
+   "humanidad"
+  ],
+  [
+   "Capacidad de respetar ideas, creencias o formas de vida diferentes a las propias",
+   "humanidad"
+  ],
+  [
+   "La tolerancia religiosa permite la convivencia pacífica entre distintas creencias",
+   "humanidad"
+  ],
+  [
+   "Tolerancia: Capacidad de respetar ideas, creencias o formas de vida diferentes a las propias",
+   "humanidad"
+  ],
+  [
+   "Capacidad de guiar, motivar e influir positivamente en un grupo de personas hacia un objetivo común",
+   "humanidad"
+  ],
+  [
+   "Un buen líder escucha a su equipo antes de tomar decisiones importantes",
+   "humanidad"
+  ],
+  [
+   "Liderazgo: Capacidad de guiar, motivar e influir positivamente en un grupo de personas hacia un objetivo común",
+   "humanidad"
+  ],
+  [
+   "Estado de satisfacción y bienestar intenso",
+   "humanidad"
+  ],
+  [
+   "Estado de aflicción por pérdida, decepción o desesperanza",
+   "humanidad"
+  ],
+  [
+   "Respuesta ante peligro real o percibido",
+   "humanidad"
+  ],
+  [
+   "Respuesta a la frustración, injusticia o amenaza",
+   "humanidad"
+  ],
+  [
+   "Reacción breve ante un evento inesperado",
+   "humanidad"
+  ],
+  [
+   "Rechazo hacia algo que se percibe como contaminante o repulsivo",
+   "humanidad"
+  ],
+  [
+   "Vínculo afectivo profundo hacia alguien o algo",
+   "humanidad"
+  ],
+  [
+   "Reconocimiento y aprecio por algo recibido",
+   "humanidad"
+  ],
+  [
+   "Expectativa positiva sobre el futuro combinada con deseo",
+   "humanidad"
+  ],
+  [
+   "Satisfacción por logros propios o de personas cercanas",
+   "humanidad"
+  ],
+  [
+   "Malestar por haber violado normas morales o haber causado daño",
+   "humanidad"
+  ],
+  [
+   "Incomodidad por exposición de una falta o defecto propio",
+   "humanidad"
+  ],
+  [
+   "Deseo de poseer lo que otro tiene, acompañado de malestar",
+   "humanidad"
+  ],
+  [
+   "Falta de interés o estimulación en una situación",
+   "humanidad"
+  ],
+  [
+   "Deseo de explorar, aprender y comprender lo desconocido",
+   "humanidad"
+  ],
+  [
+   "Capacidad de comprender y compartir los sentimientos de otros",
+   "humanidad"
+  ],
+  [
+   "Tendencia a buscar, interpretar y recordar información que confirma nuestras creencias preexistentes",
+   "humanidad"
+  ],
+  [
+   "Solo leer noticias que apoyan tu opinión política",
+   "humanidad"
+  ],
+  [
+   "Sesgo de confirmación",
+   "humanidad"
+  ],
+  [
+   "Las personas con poca habilidad sobreestiman su competencia; los expertos tienden a subestimarla",
+   "humanidad"
+  ],
+  [
+   "Un principiante que cree saberlo todo después de un tutorial",
+   "humanidad"
+  ],
+  [
+   "Sobreestimar la probabilidad de eventos que vienen fácilmente a la mente (generalmente por ser recientes o impactantes)",
+   "humanidad"
+  ],
+  [
+   "Pensar que los accidentes de avión son más comunes que los de auto porque aparecen más en noticias",
+   "humanidad"
+  ],
+  [
+   "Sesgo de disponibilidad",
+   "humanidad"
+  ],
+  [
+   "Tendencia a depender demasiado de la primera información recibida al tomar decisiones",
+   "humanidad"
+  ],
+  [
+   "El primer precio que ves influye en lo que consideras 'caro' o 'barato'",
+   "humanidad"
+  ],
+  [
+   "Creer, después de que un evento ocurrió, que era predecible o que 'siempre lo supiste'",
+   "humanidad"
+  ],
+  [
+   "Después de una elección: 'Era obvio que iba a ganar'",
+   "humanidad"
+  ],
+  [
+   "Sesgo de retrospectiva",
+   "humanidad"
+  ],
+  [
+   "Una característica positiva de alguien influye en la percepción de todas sus otras características",
+   "humanidad"
+  ],
+  [
+   "Asumir que alguien atractivo también es inteligente y amable",
+   "humanidad"
+  ],
+  [
+   "Tendencia a dar más peso e importancia a las experiencias negativas que a las positivas",
+   "humanidad"
+  ],
+  [
+   "Recordar más un insulto que 10 elogios",
+   "humanidad"
+  ],
+  [
+   "Sesgo de negatividad",
+   "humanidad"
+  ],
+  [
+   "Continuar invirtiendo en algo porque ya se ha invertido mucho, aunque ya no sea racional",
+   "humanidad"
+  ],
+  [
+   "Seguir viendo una mala película 'porque ya pagaste la entrada'",
+   "humanidad"
+  ],
+  [
+   "Falacia del costo hundido",
+   "humanidad"
+  ],
+  [
+   "Cuanta más gente presencia una emergencia, menor es la probabilidad de que alguien ayude",
+   "humanidad"
+  ],
+  [
+   "Nadie llama a emergencias asumiendo que 'otro lo hará'",
+   "humanidad"
+  ],
+  [
+   "Creer que tenemos menos probabilidades que otros de experimentar eventos negativos",
+   "humanidad"
+  ],
+  [
+   "'Fumar causa cáncer... pero a mí no me pasará'",
+   "humanidad"
+  ],
+  [
+   "Sesgo de optimismo",
+   "humanidad"
+  ],
+  [
+   "Favorecer a miembros de nuestro propio grupo sobre los de otros grupos",
+   "humanidad"
+  ],
+  [
+   "Pensar que tu equipo de fútbol es mejor 'objetivamente'",
+   "humanidad"
+  ],
+  [
+   "Sesgo de grupo (endogrupal)",
+   "humanidad"
+  ],
+  [
+   "Las decisiones cambian según cómo se presenta la información (positiva o negativamente)",
+   "humanidad"
+  ],
+  [
+   "'90% de supervivencia' suena mejor que '10% de mortalidad', aunque son lo mismo",
+   "humanidad"
+  ],
+  [
+   "Tendencia a dar más crédito a la opinión de una figura de autoridad sin cuestionarla",
+   "humanidad"
+  ],
+  [
+   "Creer algo 'porque lo dijo un doctor' sin verificar",
+   "humanidad"
+  ],
+  [
+   "Sesgo de autoridad",
+   "humanidad"
+  ],
+  [
+   "Creer que tenemos más control sobre eventos de lo que realmente tenemos",
+   "humanidad"
+  ],
+  [
+   "Elegir tus propios números de lotería pensando que aumentan tus probabilidades",
+   "humanidad"
+  ],
+  [
+   "Ilusión de control",
+   "humanidad"
+  ],
+  [
+   "Creer que nuestros 'yoes' futuros pensarán y sentirán igual que ahora",
+   "humanidad"
+  ],
+  [
+   "Comprar ropa de moda asumiendo que siempre te gustará ese estilo",
+   "humanidad"
+  ],
+  [
+   "Sesgo de autoconsistencia",
+   "humanidad"
+  ],
+  [
+   "Segunda Guerra Mundial",
+   "humanidad"
+  ],
+  [
+   "Un pequeño paso para el hombre, un gran salto para la humanidad",
+   "humanidad"
+  ],
+  [
+   "Llegada del hombre a la Luna",
+   "humanidad"
+  ],
+  [
+   "Caída del Imperio Romano",
+   "humanidad"
+  ],
+  [
+   "Descubrimiento de América",
+   "humanidad"
+  ],
+  [
+   "Invención de la imprenta",
+   "humanidad"
+  ],
+  [
+   "Abolición de la esclavitud",
+   "humanidad"
+  ],
+  [
+   "Creación de Internet",
+   "humanidad"
+  ],
+  [
+   "Primera Guerra Mundial",
+   "humanidad"
+  ],
+  [
+   "Independencia de Latinoamérica",
+   "humanidad"
+  ],
+  [
+   "Pandemia de COVID-19",
+   "humanidad"
+  ],
+  [
+   "Símbolo de la Guerra Fría y división entre comunismo y capitalismo",
+   "humanidad"
+  ],
+  [
+   "Muro de Berlín",
+   "humanidad"
+  ],
+  [
+   "Declaración Universal de Derechos Humanos",
+   "humanidad"
+  ],
+  [
+   "Unidad estructural y funcional básica de todos los seres vivos",
+   "ciencia"
+  ],
+  [
+   "El cuerpo humano está compuesto por billones de células especializadas",
+   "ciencia"
+  ],
+  [
+   "Célula: Unidad estructural y funcional básica de todos los seres vivos",
+   "ciencia"
+  ],
+  [
+   "Molécula que contiene la información genética hereditaria de los seres vivos",
+   "ciencia"
+  ],
+  [
+   "El ADN tiene una estructura de doble hélice descubierta por Watson y Crick",
+   "ciencia"
+  ],
+  [
+   "ADN (ácido desoxirribonucleico): Molécula que contiene la información genética hereditaria de los seres vivos",
+   "ciencia"
+  ],
+  [
+   "Organización sistemática de los elementos químicos según su número atómico y propiedades",
+   "ciencia"
+  ],
+  [
+   "El hidrógeno es el primer elemento de la tabla periódica",
+   "ciencia"
+  ],
+  [
+   "Tabla periódica: Organización sistemática de los elementos químicos según su número atómico y propiedades",
+   "ciencia"
+  ],
+  [
+   "Proceso en el que una o más sustancias se transforman en otras diferentes",
+   "ciencia"
+  ],
+  [
+   "La combustión es una reacción química que libera energía en forma de calor y luz",
+   "ciencia"
+  ],
+  [
+   "Reacción química: Proceso en el que una o más sustancias se transforman en otras diferentes",
+   "ciencia"
+  ],
+  [
+   "Unidad básica de la materia, compuesta por protones, neutrones y electrones",
+   "ciencia"
+  ],
+  [
+   "Los átomos se combinan entre sí para formar moléculas",
+   "ciencia"
+  ],
+  [
+   "Átomo: Unidad básica de la materia, compuesta por protones, neutrones y electrones",
+   "ciencia"
+  ],
+  [
+   "Fuerza de atracción que ejercen los cuerpos con masa entre sí",
+   "ciencia"
+  ],
+  [
+   "La gravedad terrestre es la responsable de que los objetos caigan hacia el suelo",
+   "ciencia"
+  ],
+  [
+   "Gravedad: Fuerza de atracción que ejercen los cuerpos con masa entre sí",
+   "ciencia"
+  ],
+  [
+   "Proceso mediante el cual las especies cambian a lo largo del tiempo por selección natural",
+   "ciencia"
+  ],
+  [
+   "Charles Darwin propuso la teoría de la evolución por selección natural en el siglo XIX",
+   "ciencia"
+  ],
+  [
+   "Evolución biológica: Proceso mediante el cual las especies cambian a lo largo del tiempo por selección natural",
+   "ciencia"
+  ],
+  [
+   "Conjunto formado por el Sol y los cuerpos celestes que orbitan a su alrededor, incluyendo ocho planetas",
+   "ciencia"
+  ],
+  [
+   "Júpiter es el planeta más grande del Sistema Solar",
+   "ciencia"
+  ],
+  [
+   "Sistema Solar: Conjunto formado por el Sol y los cuerpos celestes que orbitan a su alrededor, incluyendo ocho planetas",
+   "ciencia"
+  ],
+  [
+   "Microorganismo unicelular sin núcleo definido, presente en prácticamente todos los ambientes de la Tierra",
+   "ciencia"
+  ],
+  [
+   "Algunas bacterias son beneficiosas para la digestión humana, mientras otras causan enfermedades",
+   "ciencia"
+  ],
+  [
+   "Bacteria: Microorganismo unicelular sin núcleo definido, presente en prácticamente todos los ambientes de la Tierra",
+   "ciencia"
+  ],
+  [
+   "Preparado biológico que estimula el sistema inmunológico para generar defensa contra una enfermedad específica",
+   "ciencia"
+  ],
+  [
+   "Las vacunas han sido clave para erradicar o controlar enfermedades como la viruela",
+   "ciencia"
+  ],
+  [
+   "Vacuna: Preparado biológico que estimula el sistema inmunológico para generar defensa contra una enfermedad específica",
+   "ciencia"
+  ],
+  [
+   "Región del espacio con un campo gravitatorio tan intenso que ni la luz puede escapar de él",
+   "ciencia"
+  ],
+  [
+   "Los agujeros negros se forman generalmente del colapso de estrellas muy masivas",
+   "ciencia"
+  ],
+  [
+   "Agujero negro: Región del espacio con un campo gravitatorio tan intenso que ni la luz puede escapar de él",
+   "ciencia"
+  ],
+  [
+   "Un cuerpo permanece en reposo o en movimiento rectilíneo uniforme si no actúa una fuerza externa sobre él",
+   "ciencia"
+  ],
+  [
+   "Un libro en una mesa no se mueve hasta que alguien lo empuja",
+   "ciencia"
+  ],
+  [
+   "Primera Ley de Newton: Un cuerpo permanece en reposo o en movimiento rectilíneo uniforme si no actúa una fuerza externa sobre él",
+   "ciencia"
+  ],
+  [
+   "La aceleración de un objeto es proporcional a la fuerza neta e inversamente proporcional a su masa",
+   "ciencia"
+  ],
+  [
+   "Segunda Ley de Newton: La aceleración de un objeto es proporcional a la fuerza neta e inversamente proporcional a su masa",
+   "ciencia"
+  ],
+  [
+   "A toda acción corresponde una reacción igual en magnitud pero en sentido opuesto",
+   "ciencia"
+  ],
+  [
+   "Al saltar de un bote, el bote se mueve hacia atrás",
+   "ciencia"
+  ],
+  [
+   "Tercera Ley de Newton: A toda acción corresponde una reacción igual en magnitud pero en sentido opuesto",
+   "ciencia"
+  ],
+  [
+   "Fuerza de atracción entre objetos con masa. En la superficie terrestre: 9.8 m/s²",
+   "ciencia"
+  ],
+  [
+   "gravedad: Fuerza de atracción entre objetos con masa. En la superficie terrestre: 9.8 m/s²",
+   "ciencia"
+  ],
+  [
+   "Rapidez con que un objeto cambia de posición",
+   "ciencia"
+  ],
+  [
+   "velocidad: Rapidez con que un objeto cambia de posición",
+   "ciencia"
+  ],
+  [
+   "Cambio de velocidad por unidad de tiempo",
+   "ciencia"
+  ],
+  [
+   "Un auto acelera de 0 a 100 km/h",
+   "ciencia"
+  ],
+  [
+   "aceleracion: Cambio de velocidad por unidad de tiempo",
+   "ciencia"
+  ],
+  [
+   "Energía que posee un cuerpo debido a su movimiento",
+   "ciencia"
+  ],
+  [
+   "Una bala en movimiento tiene energía cinética",
+   "ciencia"
+  ],
+  [
+   "energia_cinetica: Energía que posee un cuerpo debido a su movimiento",
+   "ciencia"
+  ],
+  [
+   "Energía almacenada debido a la posición o configuración",
+   "ciencia"
+  ],
+  [
+   "Una manzana en un árbol tiene energía potencial",
+   "ciencia"
+  ],
+  [
+   "energia_potencial: Energía almacenada debido a la posición o configuración",
+   "ciencia"
+  ],
+  [
+   "Producto de la masa por la velocidad de un objeto",
+   "ciencia"
+  ],
+  [
+   "momento_lineal: Producto de la masa por la velocidad de un objeto",
+   "ciencia"
+  ],
+  [
+   "Energía transferida cuando una fuerza mueve un objeto",
+   "ciencia"
+  ],
+  [
+   "trabajo: Energía transferida cuando una fuerza mueve un objeto",
+   "ciencia"
+  ],
+  [
+   "Rapidez con que se realiza trabajo",
+   "ciencia"
+  ],
+  [
+   "Un motor de 100W hace 100J de trabajo por segundo",
+   "ciencia"
+  ],
+  [
+   "potencia: Rapidez con que se realiza trabajo",
+   "ciencia"
+  ],
+  [
+   "Fuerza que se opone al movimiento entre dos superficies en contacto",
+   "ciencia"
+  ],
+  [
+   "Frenar un coche",
+   "ciencia"
+  ],
+  [
+   "friccion: Fuerza que se opone al movimiento entre dos superficies en contacto",
+   "ciencia"
+  ],
+  [
+   "Operación que combina dos o más números para obtener un total",
+   "ciencia"
+  ],
+  [
+   "3 + 5 = 8",
+   "ciencia"
+  ],
+  [
+   "suma: Operación que combina dos o más números para obtener un total",
+   "ciencia"
+  ],
+  [
+   "Operación que encuentra la diferencia entre dos números",
+   "ciencia"
+  ],
+  [
+   "10 - 4 = 6",
+   "ciencia"
+  ],
+  [
+   "resta: Operación que encuentra la diferencia entre dos números",
+   "ciencia"
+  ],
+  [
+   "Suma repetida de un número consigo mismo",
+   "ciencia"
+  ],
+  [
+   "4 × 3 = 12",
+   "ciencia"
+  ],
+  [
+   "multiplicacion: Suma repetida de un número consigo mismo",
+   "ciencia"
+  ],
+  [
+   "Repartición de una cantidad en partes iguales",
+   "ciencia"
+  ],
+  [
+   "15 ÷ 3 = 5",
+   "ciencia"
+  ],
+  [
+   "division: Repartición de una cantidad en partes iguales",
+   "ciencia"
+  ],
+  [
+   "Número natural mayor que 1, divisible solo por 1 y por sí mismo",
+   "ciencia"
+  ],
+  [
+   "Hay infinitos números primos (Euclides)",
+   "ciencia"
+  ],
+  [
+   "numero_primo: Número natural mayor que 1, divisible solo por 1 y por sí mismo",
+   "ciencia"
+  ],
+  [
+   "Número que tiene más de dos divisores",
+   "ciencia"
+  ],
+  [
+   "numero_compuesto: Número que tiene más de dos divisores",
+   "ciencia"
+  ],
+  [
+   "Representación de una parte de un todo como a/b",
+   "ciencia"
+  ],
+  [
+   "3/4 representa 3 partes de 4",
+   "ciencia"
+  ],
+  [
+   "fraccion: Representación de una parte de un todo como a/b",
+   "ciencia"
+  ],
+  [
+   "Fracción con denominador 100",
+   "ciencia"
+  ],
+  [
+   "25% significa 25 de cada 100",
+   "ciencia"
+  ],
+  [
+   "porcentaje: Fracción con denominador 100",
+   "ciencia"
+  ],
+  [
+   "Multiplicación repetida de un número (base) por sí mismo",
+   "ciencia"
+  ],
+  [
+   "2^3 = 2×2×2 = 8",
+   "ciencia"
+  ],
+  [
+   "potencia: Multiplicación repetida de un número (base) por sí mismo",
+   "ciencia"
+  ],
+  [
+   "Número que multiplicado por sí mismo da el número original",
+   "ciencia"
+  ],
+  [
+   "√9 = 3 porque 3×3=9",
+   "ciencia"
+  ],
+  [
+   "raiz_cuadrada: Número que multiplicado por sí mismo da el número original",
+   "ciencia"
+  ],
+  [
+   "Mínimo común múltiplo: el menor número que es múltiplo de dos o más números",
+   "ciencia"
+  ],
+  [
+   "mcm(4,6) = 12",
+   "ciencia"
+  ],
+  [
+   "mcm: Mínimo común múltiplo: el menor número que es múltiplo de dos o más números",
+   "ciencia"
+  ],
+  [
+   "Máximo común divisor: el mayor número que divide exactamente a dos o más números",
+   "ciencia"
+  ],
+  [
+   "mcd(12,18) = 6",
+   "ciencia"
+  ],
+  [
+   "mcd: Máximo común divisor: el mayor número que divide exactamente a dos o más números",
+   "ciencia"
+  ],
+  [
+   "Número divisible por 2",
+   "ciencia"
+  ],
+  [
+   "numero_par: Número divisible por 2",
+   "ciencia"
+  ],
+  [
+   "Número no divisible por 2",
+   "ciencia"
+  ],
+  [
+   "numero_impar: Número no divisible por 2",
+   "ciencia"
+  ],
+  [
+   "Método para calcular un valor proporcional desconocido a partir de tres valores conocidos",
+   "ciencia"
+  ],
+  [
+   "Si 2 kg cuestan 10€, 5 kg cuestan (5×10)/2 = 25€",
+   "ciencia"
+  ],
+  [
+   "regla_tres: Método para calcular un valor proporcional desconocido a partir de tres valores conocidos",
+   "ciencia"
+  ],
+  [
+   "Segundo continente más grande y poblado del mundo, con 54 países reconocidos y una enorme diversidad cultural",
+   "geografia"
+  ],
+  [
+   "El Sahara, en África, es el desierto cálido más grande del mundo",
+   "geografia"
+  ],
+  [
+   "África: Segundo continente más grande y poblado del mundo, con 54 países reconocidos y una enorme diversidad cultural",
+   "geografia"
+  ],
+  [
+   "Continente más grande y poblado del mundo, que abarca desde Medio Oriente hasta el Pacífico",
+   "geografia"
+  ],
+  [
+   "China e India son los dos países más poblados de Asia y del mundo",
+   "geografia"
+  ],
+  [
+   "Asia: Continente más grande y poblado del mundo, que abarca desde Medio Oriente hasta el Pacífico",
+   "geografia"
+  ],
+  [
+   "Continente ubicado principalmente en el hemisferio norte, conocido por su diversidad de países e idiomas",
+   "geografia"
+  ],
+  [
+   "La Unión Europea es una organización política y económica que agrupa a varios países europeos",
+   "geografia"
+  ],
+  [
+   "Europa: Continente ubicado principalmente en el hemisferio norte, conocido por su diversidad de países e idiomas",
+   "geografia"
+  ],
+  [
+   "Continente que se extiende desde el Ártico hasta la Antártida, dividido en América del Norte, Central y del Sur",
+   "geografia"
+  ],
+  [
+   "Estados Unidos, México y Canadá forman parte de América del Norte",
+   "geografia"
+  ],
+  [
+   "América: Continente que se extiende desde el Ártico hasta la Antártida, dividido en América del Norte, Central y del Sur",
+   "geografia"
+  ],
+  [
+   "El continente más pequeño, formado por Australia y numerosas islas del Pacífico",
+   "geografia"
+  ],
+  [
+   "Australia es tanto un país como el continente más pequeño del planeta",
+   "geografia"
+  ],
+  [
+   "Oceanía: El continente más pequeño, formado por Australia y numerosas islas del Pacífico",
+   "geografia"
+  ],
+  [
+   "Continente helado ubicado en el polo sur, sin población permanente, dedicado principalmente a la investigación científica",
+   "geografia"
+  ],
+  [
+   "La Antártida contiene la mayor reserva de agua dulce en forma de hielo del planeta",
+   "geografia"
+  ],
+  [
+   "Antártida: Continente helado ubicado en el polo sur, sin población permanente, dedicado principalmente a la investigación científica",
+   "geografia"
+  ],
+  [
+   "París es la capital de Francia y una de las ciudades más visitadas del mundo",
+   "geografia"
+  ],
+  [
+   "La Torre Eiffel es uno de los monumentos más famosos de París",
+   "geografia"
+  ],
+  [
+   "Capital de Francia: París es la capital de Francia y una de las ciudades más visitadas del mundo",
+   "geografia"
+  ],
+  [
+   "Tokio es la capital de Japón y una de las áreas metropolitanas más pobladas del mundo",
+   "geografia"
+  ],
+  [
+   "Tokio combina rascacielos modernos con templos tradicionales japoneses",
+   "geografia"
+  ],
+  [
+   "Capital de Japón: Tokio es la capital de Japón y una de las áreas metropolitanas más pobladas del mundo",
+   "geografia"
+  ],
+  [
+   "El Cairo es la capital de Egipto, una de las ciudades más grandes de África",
+   "geografia"
+  ],
+  [
+   "Cerca de El Cairo se encuentran las famosas pirámides de Guiza",
+   "geografia"
+  ],
+  [
+   "Capital de Egipto: El Cairo es la capital de Egipto, una de las ciudades más grandes de África",
+   "geografia"
+  ],
+  [
+   "Brasilia es la capital de Brasil, diseñada especialmente en el siglo XX como ciudad planificada",
+   "geografia"
+  ],
+  [
+   "Brasilia fue inaugurada como capital de Brasil en 1960",
+   "geografia"
+  ],
+  [
+   "Capital de Brasil: Brasilia es la capital de Brasil, diseñada especialmente en el siglo XX como ciudad planificada",
+   "geografia"
+  ],
+  [
+   "Canberra es la capital de Australia, aunque Sídney es la ciudad más poblada del país",
+   "geografia"
+  ],
+  [
+   "Canberra fue elegida como capital como solución de compromiso entre Sídney y Melbourne",
+   "geografia"
+  ],
+  [
+   "Capital de Australia: Canberra es la capital de Australia, aunque Sídney es la ciudad más poblada del país",
+   "geografia"
+  ],
+  [
+   "Moscú es la capital de Rusia, el país más extenso del mundo",
+   "geografia"
+  ],
+  [
+   "La Plaza Roja y el Kremlin están ubicados en el centro de Moscú",
+   "geografia"
+  ],
+  [
+   "Capital de Rusia: Moscú es la capital de Rusia, el país más extenso del mundo",
+   "geografia"
+  ],
+  [
+   "El río más caudaloso del mundo, que atraviesa gran parte de América del Sur, principalmente Brasil y Perú",
+   "geografia"
+  ],
+  [
+   "La cuenca del Amazonas alberga la selva tropical más grande del planeta",
+   "geografia"
+  ],
+  [
+   "Río Amazonas: El río más caudaloso del mundo, que atraviesa gran parte de América del Sur, principalmente Brasil y Perú",
+   "geografia"
+  ],
+  [
+   "Uno de los ríos más largos del mundo, que atraviesa el noreste de África y desemboca en el Mediterráneo",
+   "geografia"
+  ],
+  [
+   "El antiguo Egipto se desarrolló gracias a las crecidas fértiles del río Nilo",
+   "geografia"
+  ],
+  [
+   "Río Nilo: Uno de los ríos más largos del mundo, que atraviesa el noreste de África y desemboca en el Mediterráneo",
+   "geografia"
+  ],
+  [
+   "La montaña más alta del mundo sobre el nivel del mar, ubicada en la cordillera del Himalaya",
+   "geografia"
+  ],
+  [
+   "El Monte Everest tiene una altura aproximada de 8,849 metros sobre el nivel del mar",
+   "geografia"
+  ],
+  [
+   "Monte Everest: La montaña más alta del mundo sobre el nivel del mar, ubicada en la cordillera del Himalaya",
+   "geografia"
+  ],
+  [
+   "El desierto cálido más grande del mundo, ubicado en el norte de África",
+   "geografia"
+  ],
+  [
+   "El Sahara ocupa una superficie comparable a la de todo el territorio de Estados Unidos",
+   "geografia"
+  ],
+  [
+   "Desierto del Sahara: El desierto cálido más grande del mundo, ubicado en el norte de África",
+   "geografia"
+  ],
+  [
+   "El océano más grande y profundo del mundo, ubicado entre Asia, Oceanía y América",
+   "geografia"
+  ],
+  [
+   "El Océano Pacífico cubre más superficie que todos los continentes juntos",
+   "geografia"
+  ],
+  [
+   "Océano Pacífico: El océano más grande y profundo del mundo, ubicado entre Asia, Oceanía y América",
+   "geografia"
+  ],
+  [
+   "Segundo océano más grande del mundo, que separa América de Europa y África",
+   "geografia"
+  ],
+  [
+   "El Océano Atlántico ha sido históricamente clave para el comercio y la exploración",
+   "geografia"
+  ],
+  [
+   "Océano Atlántico: Segundo océano más grande del mundo, que separa América de Europa y África",
+   "geografia"
+  ],
+  [
+   "La cadena montañosa continental más larga del mundo, que recorre el oeste de América del Sur",
+   "geografia"
+  ],
+  [
+   "Los Andes atraviesan países como Chile, Argentina, Perú, Bolivia, Ecuador y Colombia",
+   "geografia"
+  ],
+  [
+   "Cordillera de los Andes: La cadena montañosa continental más larga del mundo, que recorre el oeste de América del Sur",
+   "geografia"
+  ],
+  [
+   "Rusia es el país con mayor extensión territorial del mundo, abarcando dos continentes",
+   "geografia"
+  ],
+  [
+   "Rusia se extiende a lo largo de once husos horarios distintos",
+   "geografia"
+  ],
+  [
+   "País más grande del mundo: Rusia es el país con mayor extensión territorial del mundo, abarcando dos continentes",
+   "geografia"
+  ],
+  [
+   "India superó a China como el país más poblado del mundo en la década de 2020",
+   "geografia"
+  ],
+  [
+   "India cuenta con más de 1400 millones de habitantes",
+   "geografia"
+  ],
+  [
+   "País más poblado del mundo: India superó a China como el país más poblado del mundo en la década de 2020",
+   "geografia"
+  ],
+  [
+   "Tipo de clima cálido y húmedo característico de las regiones cercanas al ecuador, con lluvias abundantes",
+   "geografia"
+  ],
+  [
+   "La selva amazónica tiene un clima tropical con temperaturas altas todo el año",
+   "geografia"
+  ],
+  [
+   "Clima tropical: Tipo de clima cálido y húmedo característico de las regiones cercanas al ecuador, con lluvias abundantes",
+   "geografia"
+  ],
+  [
+   "Tipo de clima extremadamente seco, con muy poca precipitación y grandes variaciones de temperatura",
+   "geografia"
+  ],
+  [
+   "El desierto de Atacama, en Chile, es uno de los lugares más secos del mundo",
+   "geografia"
+  ],
+  [
+   "Clima desértico: Tipo de clima extremadamente seco, con muy poca precipitación y grandes variaciones de temperatura",
+   "geografia"
+  ],
+  [
+   "Línea imaginaria que divide la Tierra en hemisferio norte y hemisferio sur, ubicada a 0 grados de latitud",
+   "geografia"
+  ],
+  [
+   "Ecuador tomó su nombre por atravesar la línea ecuatorial terrestre",
+   "geografia"
+  ],
+  [
+   "Línea del ecuador: Línea imaginaria que divide la Tierra en hemisferio norte y hemisferio sur, ubicada a 0 grados de latitud",
+   "geografia"
+  ],
+  [
+   "Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo",
+   "geografia"
+  ],
+  [
+   "El meridiano de Greenwich pasa por el Real Observatorio de Greenwich, en Londres",
+   "geografia"
+  ],
+  [
+   "Meridiano de Greenwich: Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo",
+   "geografia"
+  ],
+  [
+   "Grandes bloques rígidos de la corteza terrestre que se mueven lentamente y provocan terremotos y volcanes",
+   "geografia"
+  ],
+  [
+   "El movimiento de las placas tectónicas del Pacífico forma el llamado 'Cinturón de Fuego'",
+   "geografia"
+  ],
+  [
+   "Placas tectónicas: Grandes bloques rígidos de la corteza terrestre que se mueven lentamente y provocan terremotos y volcanes",
+   "geografia"
+  ],
+  [
+   "Formación geológica donde el magma del interior de la Tierra sale a la superficie, a veces de forma explosiva",
+   "geografia"
+  ],
+  [
+   "El Monte Vesubio es un volcán famoso por haber sepultado la ciudad de Pompeya en el año 79",
+   "geografia"
+  ],
+  [
+   "Volcán: Formación geológica donde el magma del interior de la Tierra sale a la superficie, a veces de forma explosiva",
+   "geografia"
+  ],
+  [
+   "Porción de tierra rodeada completamente de agua por todos sus lados",
+   "geografia"
+  ],
+  [
+   "Groenlandia es considerada la isla más grande del mundo",
+   "geografia"
+  ],
+  [
+   "Isla: Porción de tierra rodeada completamente de agua por todos sus lados",
+   "geografia"
+  ],
+  [
+   "Porción de tierra rodeada de agua por casi todos sus lados, excepto por una franja que la conecta al continente",
+   "geografia"
+  ],
+  [
+   "La Península Ibérica incluye a España y Portugal",
+   "geografia"
+  ],
+  [
+   "Península: Porción de tierra rodeada de agua por casi todos sus lados, excepto por una franja que la conecta al continente",
+   "geografia"
+  ],
+  [
+   "Zona donde un río se divide en varios brazos antes de desembocar en el mar, formando terreno fértil",
+   "geografia"
+  ],
+  [
+   "El delta del río Nilo es una de las regiones agrícolas más importantes de Egipto",
+   "geografia"
+  ],
+  [
+   "Delta de un río: Zona donde un río se divide en varios brazos antes de desembocar en el mar, formando terreno fértil",
+   "geografia"
+  ],
+  [
+   "Divisiones de la Tierra en 24 franjas que determinan la hora local en distintas regiones del planeta",
+   "geografia"
+  ],
+  [
+   "Cuando en Londres es mediodía, en Nueva York suele ser por la mañana debido a los husos horarios",
+   "geografia"
+  ],
+  [
+   "Husos horarios: Divisiones de la Tierra en 24 franjas que determinan la hora local en distintas regiones del planeta",
+   "geografia"
+  ],
+  [
+   "Berlín es la capital de Alemania y una ciudad con gran importancia histórica y cultural en Europa",
+   "geografia"
+  ],
+  [
+   "El Muro de Berlín dividió la ciudad entre 1961 y 1989",
+   "geografia"
+  ],
+  [
+   "Capital de Alemania: Berlín es la capital de Alemania y una ciudad con gran importancia histórica y cultural en Europa",
+   "geografia"
+  ],
+  [
+   "Roma es la capital de Italia, conocida como la 'Ciudad Eterna' por su larga historia",
+   "geografia"
+  ],
+  [
+   "El Coliseo romano es uno de los monumentos más visitados de Roma",
+   "geografia"
+  ],
+  [
+   "Capital de Italia: Roma es la capital de Italia, conocida como la 'Ciudad Eterna' por su larga historia",
+   "geografia"
+  ],
+  [
+   "Pekín (Beijing) es la capital de la República Popular China",
+   "geografia"
+  ],
+  [
+   "La Gran Muralla China se encuentra cerca de la capital, Pekín",
+   "geografia"
+  ],
+  [
+   "Capital de China: Pekín (Beijing) es la capital de la República Popular China",
+   "geografia"
+  ],
+  [
+   "Ciudad de México es la capital de México y una de las áreas metropolitanas más pobladas de América",
+   "geografia"
+  ],
+  [
+   "La Ciudad de México está construida sobre lo que fue el lago de Texcoco",
+   "geografia"
+  ],
+  [
+   "Capital de México: Ciudad de México es la capital de México y una de las áreas metropolitanas más pobladas de América",
+   "geografia"
+  ],
+  [
+   "Expresión breve usada para iniciar una conversación de manera amistosa y cercana",
+   "conversacional"
+  ],
+  [
+   "'¡Hola! ¿Qué tal todo?' es un saludo informal típico entre amigos",
+   "conversacional"
+  ],
+  [
+   "Saludo informal: Expresión breve usada para iniciar una conversación de manera amistosa y cercana",
+   "conversacional"
+  ],
+  [
+   "Expresión breve usada para cerrar una conversación de forma amistosa",
+   "conversacional"
+  ],
+  [
+   "'¡Nos vemos luego!' es una despedida informal común",
+   "conversacional"
+  ],
+  [
+   "Despedida informal: Expresión breve usada para cerrar una conversación de forma amistosa",
+   "conversacional"
+  ],
+  [
+   "Expresión que se usa para mostrar gratitud hacia otra persona por algo que hizo o dijo",
+   "conversacional"
+  ],
+  [
+   "'Muchas gracias por tu ayuda, de verdad lo aprecio' es una forma de agradecimiento",
+   "conversacional"
+  ],
+  [
+   "Agradecimiento: Expresión que se usa para mostrar gratitud hacia otra persona por algo que hizo o dijo",
+   "conversacional"
+  ],
+  [
+   "Tema común de charla casual para romper el hielo o llenar silencios sociales",
+   "conversacional"
+  ],
+  [
+   "'Qué calor está haciendo hoy, ¿no?' es un ejemplo típico de small talk",
+   "conversacional"
+  ],
+  [
+   "Conversación trivial sobre el clima: Tema común de charla casual para romper el hielo o llenar silencios sociales",
+   "conversacional"
+  ],
+  [
+   "Forma habitual de iniciar una conversación preguntando por el bienestar de la otra persona",
+   "conversacional"
+  ],
+  [
+   "'¿Cómo has estado?' es una pregunta conversacional común entre conocidos",
+   "conversacional"
+  ],
+  [
+   "Pregunta sobre el estado de ánimo: Forma habitual de iniciar una conversación preguntando por el bienestar de la otra persona",
+   "conversacional"
+  ],
+  [
+   "Frase usada para motivar o dar fuerza a alguien en una situación difícil",
+   "conversacional"
+  ],
+  [
+   "'¡Tú puedes con esto, ánimo!' es una expresión de aliento habitual",
+   "conversacional"
+  ],
+  [
+   "Expresión de ánimo: Frase usada para motivar o dar fuerza a alguien en una situación difícil",
+   "conversacional"
+  ],
+  [
+   "Expresión breve usada para pedir perdón por un error o inconveniente menor",
+   "conversacional"
+  ],
+  [
+   "'Perdón por la tardanza, se me hizo tarde' es una disculpa informal común",
+   "conversacional"
+  ],
+  [
+   "Disculpa informal: Expresión breve usada para pedir perdón por un error o inconveniente menor",
+   "conversacional"
+  ],
+  [
+   "Expresión usada para celebrar un logro o buena noticia de otra persona",
+   "conversacional"
+  ],
+  [
+   "'¡Felicidades por tu nuevo trabajo!' es una felicitación típica",
+   "conversacional"
+  ],
+  [
+   "Felicitación: Expresión usada para celebrar un logro o buena noticia de otra persona",
+   "conversacional"
+  ],
+  [
+   "Forma habitual de iniciar una presentación preguntando cómo se llama la otra persona",
+   "conversacional"
+  ],
+  [
+   "'¿Cómo te llamas?' es una pregunta común al conocer a alguien",
+   "conversacional"
+  ],
+  [
+   "Pregunta por el nombre: Forma habitual de iniciar una presentación preguntando cómo se llama la otra persona",
+   "conversacional"
+  ],
+  [
+   "Frase corta usada para mostrar que se está de acuerdo con lo que dijo otra persona",
+   "conversacional"
+  ],
+  [
+   "'Sí, totalmente de acuerdo contigo' expresa conformidad en una charla",
+   "conversacional"
+  ],
+  [
+   "Expresión de acuerdo: Frase corta usada para mostrar que se está de acuerdo con lo que dijo otra persona",
+   "conversacional"
+  ],
+  [
+   "Frase corta y educada usada para mostrar una opinión distinta sin generar conflicto",
+   "conversacional"
+  ],
+  [
+   "'La verdad, no lo veo igual que tú' es una forma cortés de desacuerdo",
+   "conversacional"
+  ],
+  [
+   "Expresión de desacuerdo: Frase corta y educada usada para mostrar una opinión distinta sin generar conflicto",
+   "conversacional"
+  ],
+  [
+   "Tema conversacional habitual para preguntar por los planes o actividades recientes de alguien",
+   "conversacional"
+  ],
+  [
+   "'¿Qué hiciste el fin de semana?' es una pregunta típica de conversación casual",
+   "conversacional"
+  ],
+  [
+   "Charla sobre el fin de semana: Tema conversacional habitual para preguntar por los planes o actividades recientes de alguien",
+   "conversacional"
+  ],
+  [
+   "Frase breve que refleja asombro ante una noticia o situación inesperada",
+   "conversacional"
+  ],
+  [
+   "'¡No puede ser, en serio!' expresa sorpresa en una conversación",
+   "conversacional"
+  ],
+  [
+   "Expresión de sorpresa: Frase breve que refleja asombro ante una noticia o situación inesperada",
+   "conversacional"
+  ],
+  [
+   "Frase usada para proponer un plan o actividad a otra persona de manera casual",
+   "conversacional"
+  ],
+  [
+   "'¿Te animas a tomar un café luego?' es una invitación informal",
+   "conversacional"
+  ],
+  [
+   "Invitación informal: Frase usada para proponer un plan o actividad a otra persona de manera casual",
+   "conversacional"
+  ],
+  [
+   "Pregunta breve usada por educación social, sin necesariamente esperar una respuesta detallada",
+   "conversacional"
+  ],
+  [
+   "'¿Todo bien por casa?' es una pregunta de cortesía común",
+   "conversacional"
+  ],
+  [
+   "Pregunta de cortesía: Pregunta breve usada por educación social, sin necesariamente esperar una respuesta detallada",
+   "conversacional"
+  ],
+  [
+   "Frase que ofrece ayuda o apoyo a otra persona en una conversación",
+   "conversacional"
+  ],
+  [
+   "'Si necesitas algo, aquí estoy' expresa disponibilidad para ayudar",
+   "conversacional"
+  ],
+  [
+   "Expresión de disponibilidad para ayudar: Frase que ofrece ayuda o apoyo a otra persona en una conversación",
+   "conversacional"
+  ],
+  [
+   "Frase que se usa para dar por terminado un tema antes de cambiar a otro",
+   "conversacional"
+  ],
+  [
+   "'Bueno, dejemos eso ahí y hablemos de otra cosa' cierra un tema en la charla",
+   "conversacional"
+  ],
+  [
+   "Cierre de tema conversacional: Frase que se usa para dar por terminado un tema antes de cambiar a otro",
+   "conversacional"
+  ],
+  [
+   "Forma habitual de presentarse a uno mismo al conocer a alguien nuevo",
+   "conversacional"
+  ],
+  [
+   "'Hola, soy Ana, mucho gusto' es una presentación propia común",
+   "conversacional"
+  ],
+  [
+   "Presentación propia: Forma habitual de presentarse a uno mismo al conocer a alguien nuevo",
+   "conversacional"
+  ],
+  [
+   "Frase que indica incertidumbre o falta de certeza sobre algo en una conversación",
+   "conversacional"
+  ],
+  [
+   "'La verdad no estoy muy seguro de eso' expresa duda",
+   "conversacional"
+  ],
+  [
+   "Expresión de duda: Frase que indica incertidumbre o falta de certeza sobre algo en una conversación",
+   "conversacional"
+  ],
+  [
+   "Tema conversacional donde se pregunta o comenta sobre actividades o proyectos por venir",
+   "conversacional"
+  ],
+  [
+   "'¿Tienes planes para las vacaciones?' es una charla común sobre planes futuros",
+   "conversacional"
+  ],
+  [
+   "Charla sobre planes futuros: Tema conversacional donde se pregunta o comenta sobre actividades o proyectos por venir",
+   "conversacional"
+  ],
+  [
+   "Frase usada para comunicar fatiga física o mental en una conversación casual",
+   "conversacional"
+  ],
+  [
+   "'Estoy agotado, necesito descansar' expresa cansancio en una charla",
+   "conversacional"
+  ],
+  [
+   "Expresión de cansancio: Frase usada para comunicar fatiga física o mental en una conversación casual",
+   "conversacional"
+  ],
+  [
+   "Forma habitual de mostrar interés preguntando por los familiares de otra persona",
+   "conversacional"
+  ],
+  [
+   "'¿Cómo está tu familia?' es una pregunta conversacional común",
+   "conversacional"
+  ],
+  [
+   "Pregunta por la familia: Forma habitual de mostrar interés preguntando por los familiares de otra persona",
+   "conversacional"
+  ],
+  [
+   "Frase que indica que algo agrada a la persona que habla",
+   "conversacional"
+  ],
+  [
+   "'Me encanta esta canción' expresa gusto personal en una charla",
+   "conversacional"
+  ],
+  [
+   "Expresión de gusto o preferencia: Frase que indica que algo agrada a la persona que habla",
+   "conversacional"
+  ],
+  [
+   "Tema conversacional habitual donde se comenta sobre platillos o preferencias alimenticias",
+   "conversacional"
+  ],
+  [
+   "'¿Qué se te antoja comer hoy?' es una pregunta típica sobre comida",
+   "conversacional"
+  ],
+  [
+   "Charla sobre comida: Tema conversacional habitual donde se comenta sobre platillos o preferencias alimenticias",
+   "conversacional"
+  ],
+  [
+   "Frase que comunica tranquilidad después de resolver una preocupación",
+   "conversacional"
+  ],
+  [
+   "'Qué alivio que todo salió bien' expresa alivio en una conversación",
+   "conversacional"
+  ],
+  [
+   "Expresión de alivio: Frase que comunica tranquilidad después de resolver una preocupación",
+   "conversacional"
+  ],
+  [
+   "Pregunta que profundiza en un tema que la otra persona acaba de mencionar",
+   "conversacional"
+  ],
+  [
+   "Si alguien dice 'tuve un mal día', preguntar '¿qué pasó?' es una pregunta de seguimiento",
+   "conversacional"
+  ],
+  [
+   "Pregunta de seguimiento: Pregunta que profundiza en un tema que la otra persona acaba de mencionar",
+   "conversacional"
+  ],
+  [
+   "Conversación informal sobre dispositivos, aplicaciones o tendencias tecnológicas",
+   "conversacional"
+  ],
+  [
+   "'¿Ya viste el nuevo celular que salió?' es una charla casual sobre tecnología",
+   "conversacional"
+  ],
+  [
+   "Charla casual sobre tecnología: Conversación informal sobre dispositivos, aplicaciones o tendencias tecnológicas",
+   "conversacional"
+  ],
+  [
+   "Operación aritmética que combina dos o más cantidades para obtener su total",
+   "matematicas"
+  ],
+  [
+   "3 + 4 = 7 es un ejemplo de suma",
+   "matematicas"
+  ],
+  [
+   "Suma: Operación aritmética que combina dos o más cantidades para obtener su total",
+   "matematicas"
+  ],
+  [
+   "Operación aritmética que calcula la diferencia entre dos cantidades",
+   "matematicas"
+  ],
+  [
+   "10 - 3 = 7 es un ejemplo de resta",
+   "matematicas"
+  ],
+  [
+   "Resta: Operación aritmética que calcula la diferencia entre dos cantidades",
+   "matematicas"
+  ],
+  [
+   "Operación aritmética que representa la suma repetida de un número una cantidad determinada de veces",
+   "matematicas"
+  ],
+  [
+   "4 × 3 = 12 equivale a sumar 4 tres veces",
+   "matematicas"
+  ],
+  [
+   "Multiplicación: Operación aritmética que representa la suma repetida de un número una cantidad determinada de veces",
+   "matematicas"
+  ],
+  [
+   "Operación aritmética que reparte una cantidad en partes iguales según un divisor",
+   "matematicas"
+  ],
+  [
+   "20 ÷ 4 = 5 significa repartir 20 en 4 partes iguales de 5",
+   "matematicas"
+  ],
+  [
+   "División: Operación aritmética que reparte una cantidad en partes iguales según un divisor",
+   "matematicas"
+  ],
+  [
+   "Número natural mayor que 1 que solo es divisible entre 1 y él mismo",
+   "matematicas"
+  ],
+  [
+   "2, 3, 5, 7, 11 y 13 son los primeros números primos",
+   "matematicas"
+  ],
+  [
+   "Número primo: Número natural mayor que 1 que solo es divisible entre 1 y él mismo",
+   "matematicas"
+  ],
+  [
+   "Número natural mayor que 1 que tiene más de dos divisores",
+   "matematicas"
+  ],
+  [
+   "12 es compuesto porque es divisible entre 1, 2, 3, 4, 6 y 12",
+   "matematicas"
+  ],
+  [
+   "Número compuesto: Número natural mayor que 1 que tiene más de dos divisores",
+   "matematicas"
+  ],
+  [
+   "Representación de una parte de un todo dividido en partes iguales, escrita como numerador sobre denominador",
+   "matematicas"
+  ],
+  [
+   "3/4 representa tres partes de un total dividido en cuatro",
+   "matematicas"
+  ],
+  [
+   "Fracción: Representación de una parte de un todo dividido en partes iguales, escrita como numerador sobre denominador",
+   "matematicas"
+  ],
+  [
+   "Número que incluye una parte entera y una parte fraccionaria separadas por una coma o punto",
+   "matematicas"
+  ],
+  [
+   "3.75 es un número decimal con parte entera 3 y parte decimal 75",
+   "matematicas"
+  ],
+  [
+   "Número decimal: Número que incluye una parte entera y una parte fraccionaria separadas por una coma o punto",
+   "matematicas"
+  ],
+  [
+   "Forma de expresar una cantidad como una fracción de 100",
+   "matematicas"
+  ],
+  [
+   "El 50% de 200 equivale a la mitad, es decir, 100",
+   "matematicas"
+  ],
+  [
+   "Porcentaje: Forma de expresar una cantidad como una fracción de 100",
+   "matematicas"
+  ],
+  [
+   "Igualdad matemática donde la incógnita aparece elevada solo a la primera potencia",
+   "matematicas"
+  ],
+  [
+   "2x + 3 = 7 es una ecuación lineal cuya solución es x = 2",
+   "matematicas"
+  ],
+  [
+   "Ecuación lineal: Igualdad matemática donde la incógnita aparece elevada solo a la primera potencia",
+   "matematicas"
+  ],
+  [
+   "Ecuación polinómica de segundo grado, de la forma ax² + bx + c = 0",
+   "matematicas"
+  ],
+  [
+   "x² - 5x + 6 = 0 tiene como soluciones x = 2 y x = 3",
+   "matematicas"
+  ],
+  [
+   "Ecuación cuadrática: Ecuación polinómica de segundo grado, de la forma ax² + bx + c = 0",
+   "matematicas"
+  ],
+  [
+   "En un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos",
+   "matematicas"
+  ],
+  [
+   "Si los catetos miden 3 y 4, la hipotenusa mide 5, porque 3² + 4² = 5²",
+   "matematicas"
+  ],
+  [
+   "Teorema de Pitágoras: En un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos",
+   "matematicas"
+  ],
+  [
+   "Constante matemática que representa la relación entre la circunferencia de un círculo y su diámetro, aproximadamente 3.14159",
+   "matematicas"
+  ],
+  [
+   "El área de un círculo se calcula como π multiplicado por el radio al cuadrado",
+   "matematicas"
+  ],
+  [
+   "Número Pi (π): Constante matemática que representa la relación entre la circunferencia de un círculo y su diámetro, aproximadamente 3.14159",
+   "matematicas"
+  ],
+  [
+   "Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado",
+   "matematicas"
+  ],
+  [
+   "Un círculo de radio 5 tiene un área aproximada de 78.54 unidades cuadradas",
+   "matematicas"
+  ],
+  [
+   "Área del círculo: Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado",
+   "matematicas"
+  ],
+  [
+   "Suma de las longitudes de todos los lados de una figura geométrica",
+   "matematicas"
+  ],
+  [
+   "El perímetro de un cuadrado de lado 5 es 20, porque 4 × 5 = 20",
+   "matematicas"
+  ],
+  [
+   "Perímetro: Suma de las longitudes de todos los lados de una figura geométrica",
+   "matematicas"
+  ],
+  [
+   "Medida del espacio tridimensional que ocupa un cuerpo",
+   "matematicas"
+  ],
+  [
+   "El volumen de un cubo se calcula elevando la longitud de su arista al cubo",
+   "matematicas"
+  ],
+  [
+   "Volumen: Medida del espacio tridimensional que ocupa un cuerpo",
+   "matematicas"
+  ],
+  [
+   "Ángulo que mide exactamente 90 grados",
+   "matematicas"
+  ],
+  [
+   "Las esquinas de una hoja de papel rectangular forman ángulos rectos",
+   "matematicas"
+  ],
+  [
+   "Ángulo recto: Ángulo que mide exactamente 90 grados",
+   "matematicas"
+  ],
+  [
+   "Triángulo cuyos tres lados y tres ángulos internos son iguales, cada ángulo mide 60 grados",
+   "matematicas"
+  ],
+  [
+   "Un triángulo equilátero de lado 4 tiene sus tres lados midiendo exactamente 4",
+   "matematicas"
+  ],
+  [
+   "Triángulo equilátero: Triángulo cuyos tres lados y tres ángulos internos son iguales, cada ángulo mide 60 grados",
+   "matematicas"
+  ],
+  [
+   "Relación que asigna a cada elemento de un conjunto de entrada exactamente un elemento de un conjunto de salida",
+   "matematicas"
+  ],
+  [
+   "f(x) = 2x + 1 es una función que duplica x y le suma 1",
+   "matematicas"
+  ],
+  [
+   "Función matemática: Relación que asigna a cada elemento de un conjunto de entrada exactamente un elemento de un conjunto de salida",
+   "matematicas"
+  ],
+  [
+   "En cálculo, mide la tasa de cambio instantánea de una función respecto a su variable",
+   "matematicas"
+  ],
+  [
+   "La derivada de x² es 2x, lo que indica cómo cambia la función en cada punto",
+   "matematicas"
+  ],
+  [
+   "Derivada: En cálculo, mide la tasa de cambio instantánea de una función respecto a su variable",
+   "matematicas"
+  ],
+  [
+   "En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad",
+   "matematicas"
+  ],
+  [
+   "La integral de una función de velocidad respecto al tiempo da la distancia recorrida",
+   "matematicas"
+  ],
+  [
+   "Integral: En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad",
+   "matematicas"
+  ],
+  [
+   "Valor al que se aproxima una función cuando su variable se acerca a un punto determinado",
+   "matematicas"
+  ],
+  [
+   "El límite de 1/x cuando x tiende a infinito es 0",
+   "matematicas"
+  ],
+  [
+   "Límite (matemáticas): Valor al que se aproxima una función cuando su variable se acerca a un punto determinado",
+   "matematicas"
+  ],
+  [
+   "Suma de un conjunto de valores dividida entre la cantidad de valores",
+   "matematicas"
+  ],
+  [
+   "La media de 2, 4 y 6 es (2+4+6)/3 = 4",
+   "matematicas"
+  ],
+  [
+   "Media aritmética (promedio): Suma de un conjunto de valores dividida entre la cantidad de valores",
+   "matematicas"
+  ],
+  [
+   "Valor central de un conjunto de datos ordenados de menor a mayor",
+   "matematicas"
+  ],
+  [
+   "La mediana de 1, 3, 5, 7, 9 es 5, el valor del medio",
+   "matematicas"
+  ],
+  [
+   "Mediana: Valor central de un conjunto de datos ordenados de menor a mayor",
+   "matematicas"
+  ],
+  [
+   "Medida numérica entre 0 y 1 de qué tan posible es que ocurra un evento",
+   "matematicas"
+  ],
+  [
+   "La probabilidad de obtener cara al lanzar una moneda justa es 0.5",
+   "matematicas"
+  ],
+  [
+   "Probabilidad: Medida numérica entre 0 y 1 de qué tan posible es que ocurra un evento",
+   "matematicas"
+  ],
+  [
+   "Colección bien definida de objetos o elementos distintos entre sí",
+   "matematicas"
+  ],
+  [
+   "El conjunto de números pares menores que 10 es {2, 4, 6, 8}",
+   "matematicas"
+  ],
+  [
+   "Conjunto: Colección bien definida de objetos o elementos distintos entre sí",
+   "matematicas"
+  ],
+  [
+   "Número entero positivo usado para contar, comenzando desde 0 o 1 según la convención",
+   "matematicas"
+  ],
+  [
+   "1, 2, 3, 4 y 5 son los primeros números naturales",
+   "matematicas"
+  ],
+  [
+   "Número natural: Número entero positivo usado para contar, comenzando desde 0 o 1 según la convención",
+   "matematicas"
+  ],
+  [
+   "Conjunto de números que incluye los naturales, sus negativos y el cero",
+   "matematicas"
+  ],
+  [
+   "-3, 0 y 7 son ejemplos de números enteros",
+   "matematicas"
+  ],
+  [
+   "Número entero: Conjunto de números que incluye los naturales, sus negativos y el cero",
+   "matematicas"
+  ],
+  [
+   "Número que puede expresarse como el cociente de dos números enteros con denominador distinto de cero",
+   "matematicas"
+  ],
+  [
+   "1/2 y 0.75 son números racionales",
+   "matematicas"
+  ],
+  [
+   "Número racional: Número que puede expresarse como el cociente de dos números enteros con denominador distinto de cero",
+   "matematicas"
+  ],
+  [
+   "Número que no puede expresarse como fracción exacta de dos enteros y tiene decimales infinitos no periódicos",
+   "matematicas"
+  ],
+  [
+   "π y la raíz cuadrada de 2 son números irracionales",
+   "matematicas"
+  ],
+  [
+   "Número irracional: Número que no puede expresarse como fracción exacta de dos enteros y tiene decimales infinitos no periódicos",
+   "matematicas"
+  ],
+  [
+   "Operación que multiplica un número (base) por sí mismo tantas veces como indica el exponente",
+   "matematicas"
+  ],
+  [
+   "2³ = 8 porque 2 × 2 × 2 = 8",
+   "matematicas"
+  ],
+  [
+   "Potenciación: Operación que multiplica un número (base) por sí mismo tantas veces como indica el exponente",
+   "matematicas"
+  ],
+  [
+   "Operación que encuentra el número que, multiplicado por sí mismo, da como resultado el número original",
+   "matematicas"
+  ],
+  [
+   "La raíz cuadrada de 9 es 3, porque 3 × 3 = 9",
+   "matematicas"
+  ],
+  [
+   "Raíz cuadrada: Operación que encuentra el número que, multiplicado por sí mismo, da como resultado el número original",
+   "matematicas"
+  ],
+  [
+   "Operación inversa de la potenciación, indica a qué exponente hay que elevar una base para obtener un número",
+   "matematicas"
+  ],
+  [
+   "El logaritmo en base 10 de 100 es 2, porque 10² = 100",
+   "matematicas"
+  ],
+  [
+   "Logaritmo: Operación inversa de la potenciación, indica a qué exponente hay que elevar una base para obtener un número",
+   "matematicas"
+  ],
+  [
+   "Arreglo rectangular de números organizados en filas y columnas, usado en álgebra lineal",
+   "matematicas"
+  ],
+  [
+   "Una matriz 2x2 tiene 2 filas y 2 columnas, con 4 elementos en total",
+   "matematicas"
+  ],
+  [
+   "Matriz: Arreglo rectangular de números organizados en filas y columnas, usado en álgebra lineal",
+   "matematicas"
+  ],
+  [
+   "Magnitud que tiene tanto tamaño (módulo) como dirección, representada por una flecha o coordenadas",
+   "matematicas"
+  ],
+  [
+   "Un vector (3, 4) tiene un módulo de 5, calculado con el teorema de Pitágoras",
+   "matematicas"
+  ],
+  [
+   "Vector: Magnitud que tiene tanto tamaño (módulo) como dirección, representada por una flecha o coordenadas",
+   "matematicas"
+  ],
+  [
+   "Rama de la geometría basada en los postulados de Euclides sobre puntos, líneas y planos",
+   "matematicas"
+  ],
+  [
+   "La suma de los ángulos internos de un triángulo euclidiano siempre es 180 grados",
+   "matematicas"
+  ],
+  [
+   "Geometría euclidiana: Rama de la geometría basada en los postulados de Euclides sobre puntos, líneas y planos",
+   "matematicas"
+  ],
+  [
+   "Rama de las matemáticas que estudia las relaciones entre los ángulos y los lados de los triángulos",
+   "matematicas"
+  ],
+  [
+   "El seno, coseno y tangente son funciones fundamentales de la trigonometría",
+   "matematicas"
+  ],
+  [
+   "Trigonometría: Rama de las matemáticas que estudia las relaciones entre los ángulos y los lados de los triángulos",
+   "matematicas"
+  ],
+  [
+   "Producto de todos los números enteros positivos desde 1 hasta un número dado n, escrito como n!",
+   "matematicas"
+  ],
+  [
+   "5! = 5 × 4 × 3 × 2 × 1 = 120",
+   "matematicas"
+  ],
+  [
+   "Factorial: Producto de todos los números enteros positivos desde 1 hasta un número dado n, escrito como n!",
+   "matematicas"
+  ],
+  [
+   "Sucesión de números donde cada término se obtiene sumando una cantidad constante al anterior",
+   "matematicas"
+  ],
+  [
+   "2, 5, 8, 11, 14 es una progresión aritmética de razón 3",
+   "matematicas"
+  ],
+  [
+   "Progresión aritmética: Sucesión de números donde cada término se obtiene sumando una cantidad constante al anterior",
+   "matematicas"
+  ],
+  [
+   "Sucesión de números donde cada término se obtiene multiplicando el anterior por una razón constante",
+   "matematicas"
+  ],
+  [
+   "3, 6, 12, 24, 48 es una progresión geométrica de razón 2",
+   "matematicas"
+  ],
+  [
+   "Progresión geométrica: Sucesión de números donde cada término se obtiene multiplicando el anterior por una razón constante",
+   "matematicas"
+  ],
+  [
+   "Propiedad de una figura que permanece igual después de aplicarle una transformación como reflexión o rotación",
+   "matematicas"
+  ],
+  [
+   "Una mariposa dibujada tiene simetría axial respecto a una línea central",
+   "matematicas"
+  ],
+  [
+   "Simetría: Propiedad de una figura que permanece igual después de aplicarle una transformación como reflexión o rotación",
+   "matematicas"
+  ],
+  [
+   "Un número par es divisible entre 2 exactamente; un número impar no lo es",
+   "matematicas"
+  ],
+  [
+   "4, 6 y 8 son pares; 3, 5 y 7 son impares",
+   "matematicas"
+  ],
+  [
+   "Número par e impar: Un número par es divisible entre 2 exactamente; un número impar no lo es",
+   "matematicas"
+  ],
+  [
+   "Establece que si dos rectas son cortadas por rectas paralelas, los segmentos resultantes son proporcionales",
+   "matematicas"
+  ],
+  [
+   "El teorema de Tales se usa para medir alturas de objetos mediante triángulos semejantes",
+   "matematicas"
+  ],
+  [
+   "Teorema de Tales: Establece que si dos rectas son cortadas por rectas paralelas, los segmentos resultantes son proporcionales",
+   "matematicas"
+  ],
+  [
+   "Afirmación que se cree verdadera pero que aún no ha sido demostrada formalmente",
+   "matematicas"
+  ],
+  [
+   "La conjetura de Goldbach propone que todo número par mayor que 2 es suma de dos primos",
+   "matematicas"
+  ],
+  [
+   "Conjetura matemática: Afirmación que se cree verdadera pero que aún no ha sido demostrada formalmente",
+   "matematicas"
+  ],
+  [
+   "Rama de las matemáticas que usa letras y símbolos para representar números y relaciones en ecuaciones",
+   "matematicas"
+  ],
+  [
+   "En álgebra, x + 5 = 10 representa una ecuación donde x es una incógnita",
+   "matematicas"
+  ],
+  [
+   "Álgebra: Rama de las matemáticas que usa letras y símbolos para representar números y relaciones en ecuaciones",
+   "matematicas"
+  ],
+  [
+   "Rama del cálculo que estudia las derivadas y las tasas de cambio de las funciones",
+   "matematicas"
+  ],
+  [
+   "El cálculo diferencial permite encontrar la velocidad instantánea de un objeto en movimiento",
+   "matematicas"
+  ],
+  [
+   "Cálculo diferencial: Rama del cálculo que estudia las derivadas y las tasas de cambio de las funciones",
+   "matematicas"
+  ],
+  [
+   "Rama de las matemáticas que estudia las propiedades y relaciones entre conjuntos de objetos",
+   "matematicas"
+  ],
+  [
+   "La unión y la intersección son operaciones básicas de la teoría de conjuntos",
+   "matematicas"
+  ],
+  [
+   "Teoría de conjuntos: Rama de las matemáticas que estudia las propiedades y relaciones entre conjuntos de objetos",
+   "matematicas"
+  ],
+  [
+   "Lado más largo de un triángulo rectángulo, opuesto al ángulo recto",
+   "matematicas"
+  ],
+  [
+   "En un triángulo rectángulo con catetos 6 y 8, la hipotenusa mide 10",
+   "matematicas"
+  ],
+  [
+   "Hipotenusa: Lado más largo de un triángulo rectángulo, opuesto al ángulo recto",
+   "matematicas"
+  ],
+  [
+   "Número menor que cero, representado con el signo menos delante",
+   "matematicas"
+  ],
+  [
+   "-5 es un número negativo que representa una deuda o una temperatura bajo cero",
+   "matematicas"
+  ],
+  [
+   "Número negativo: Número menor que cero, representado con el signo menos delante",
+   "matematicas"
+  ],
+  [
+   "Comunidad de seres vivos que interactúan entre sí y con su entorno físico en un espacio determinado",
+   "naturaleza"
+  ],
+  [
+   "Un arrecife de coral es un ecosistema marino rico en biodiversidad",
+   "naturaleza"
+  ],
+  [
+   "Ecosistema: Comunidad de seres vivos que interactúan entre sí y con su entorno físico en un espacio determinado",
+   "naturaleza"
+  ],
+  [
+   "Proceso mediante el cual las plantas convierten la luz solar, agua y dióxido de carbono en energía y oxígeno",
+   "naturaleza"
+  ],
+  [
+   "Gracias a la fotosíntesis, las plantas liberan el oxígeno que respiramos",
+   "naturaleza"
+  ],
+  [
+   "Fotosíntesis: Proceso mediante el cual las plantas convierten la luz solar, agua y dióxido de carbono en energía y oxígeno",
+   "naturaleza"
+  ],
+  [
+   "Secuencia de organismos donde cada uno se alimenta del anterior, transfiriendo energía entre ellos",
+   "naturaleza"
+  ],
+  [
+   "En una cadena alimenticia simple, el pasto es comido por el conejo y este por el zorro",
+   "naturaleza"
+  ],
+  [
+   "Cadena alimenticia: Secuencia de organismos donde cada uno se alimenta del anterior, transfiriendo energía entre ellos",
+   "naturaleza"
+  ],
+  [
+   "Variedad de formas de vida (especies, genes y ecosistemas) presentes en un lugar determinado",
+   "naturaleza"
+  ],
+  [
+   "La selva amazónica tiene una de las mayores biodiversidades del planeta",
+   "naturaleza"
+  ],
+  [
+   "Biodiversidad: Variedad de formas de vida (especies, genes y ecosistemas) presentes en un lugar determinado",
+   "naturaleza"
+  ],
+  [
+   "Especie animal o vegetal cuya población ha disminuido tanto que corre riesgo de desaparecer",
+   "naturaleza"
+  ],
+  [
+   "El panda gigante fue durante décadas un símbolo de especie en peligro de extinción",
+   "naturaleza"
+  ],
+  [
+   "Especie en peligro de extinción: Especie animal o vegetal cuya población ha disminuido tanto que corre riesgo de desaparecer",
+   "naturaleza"
+  ],
+  [
+   "Proceso natural continuo de evaporación, condensación y precipitación del agua en la Tierra",
+   "naturaleza"
+  ],
+  [
+   "La lluvia es una de las etapas visibles del ciclo del agua",
+   "naturaleza"
+  ],
+  [
+   "Ciclo del agua: Proceso natural continuo de evaporación, condensación y precipitación del agua en la Tierra",
+   "naturaleza"
+  ],
+  [
+   "Ecosistema denso y húmedo ubicado cerca del ecuador, con gran diversidad de especies vegetales y animales",
+   "naturaleza"
+  ],
+  [
+   "El bosque tropical amazónico produce una parte significativa del oxígeno del planeta",
+   "naturaleza"
+  ],
+  [
+   "Bosque tropical: Ecosistema denso y húmedo ubicado cerca del ecuador, con gran diversidad de especies vegetales y animales",
+   "naturaleza"
+  ],
+  [
+   "Grupo de animales vertebrados caracterizados por tener glándulas mamarias y, en general, pelo",
+   "naturaleza"
+  ],
+  [
+   "Los delfines, a pesar de vivir en el agua, son mamíferos porque amamantan a sus crías",
+   "naturaleza"
+  ],
+  [
+   "Mamífero: Grupo de animales vertebrados caracterizados por tener glándulas mamarias y, en general, pelo",
+   "naturaleza"
+  ],
+  [
+   "Grupo de animales vertebrados de sangre fría, generalmente cubiertos de escamas",
+   "naturaleza"
+  ],
+  [
+   "Las serpientes, lagartos y tortugas son ejemplos de reptiles",
+   "naturaleza"
+  ],
+  [
+   "Reptil: Grupo de animales vertebrados de sangre fría, generalmente cubiertos de escamas",
+   "naturaleza"
+  ],
+  [
+   "Proceso mediante el cual el polen se transfiere de una flor a otra, permitiendo la reproducción de las plantas",
+   "naturaleza"
+  ],
+  [
+   "Las abejas son polinizadores clave para muchos cultivos agrícolas",
+   "naturaleza"
+  ],
+  [
+   "Polinización: Proceso mediante el cual el polen se transfiere de una flor a otra, permitiendo la reproducción de las plantas",
+   "naturaleza"
+  ],
+  [
+   "Alteración a largo plazo de los patrones de temperatura y clima en la Tierra, en gran parte por actividad humana",
+   "naturaleza"
+  ],
+  [
+   "El aumento de gases de efecto invernadero está asociado al cambio climático",
+   "naturaleza"
+  ],
+  [
+   "Cambio climático: Alteración a largo plazo de los patrones de temperatura y clima en la Tierra, en gran parte por actividad humana",
+   "naturaleza"
+  ],
+  [
+   "Proceso por el cual el viento, el agua o el hielo desgastan y transportan materiales de la superficie terrestre",
+   "naturaleza"
+  ],
+  [
+   "La erosión del suelo puede acelerarse por la deforestación",
+   "naturaleza"
+  ],
+  [
+   "Erosión: Proceso por el cual el viento, el agua o el hielo desgastan y transportan materiales de la superficie terrestre",
+   "naturaleza"
+  ],
+  [
+   "Cuatro periodos climáticos (primavera, verano, otoño, invierno) causados por la inclinación del eje terrestre",
+   "naturaleza"
+  ],
+  [
+   "En el hemisferio norte, el verano ocurre cuando ese hemisferio está más inclinado hacia el sol",
+   "naturaleza"
+  ],
+  [
+   "Estaciones del año: Cuatro periodos climáticos (primavera, verano, otoño, invierno) causados por la inclinación del eje terrestre",
+   "naturaleza"
+  ],
+  [
+   "Grupo de animales vertebrados caracterizados por tener plumas, pico y, en la mayoría de los casos, capacidad de volar",
+   "naturaleza"
+  ],
+  [
+   "El águila es un ave rapaz conocida por su excelente vista",
+   "naturaleza"
+  ],
+  [
+   "Ave: Grupo de animales vertebrados caracterizados por tener plumas, pico y, en la mayoría de los casos, capacidad de volar",
+   "naturaleza"
+  ],
+  [
+   "Gran región ecológica caracterizada por un clima y tipo de vegetación específicos, como la tundra o la sabana",
+   "naturaleza"
+  ],
+  [
+   "La sabana africana es un bioma con pastizales abiertos y árboles dispersos",
+   "naturaleza"
+  ],
+  [
+   "Bioma: Gran región ecológica caracterizada por un clima y tipo de vegetación específicos, como la tundra o la sabana",
+   "naturaleza"
+  ],
+  [
+   "Grupo de animales vertebrados que viven parte de su vida en el agua y parte en tierra, como las ranas",
+   "naturaleza"
+  ],
+  [
+   "Las ranas comienzan su vida como renacuajos acuáticos antes de convertirse en adultos terrestres",
+   "naturaleza"
+  ],
+  [
+   "Anfibio: Grupo de animales vertebrados que viven parte de su vida en el agua y parte en tierra, como las ranas",
+   "naturaleza"
+  ],
+  [
+   "Grupo de artrópodos con seis patas y cuerpo dividido en cabeza, tórax y abdomen",
+   "naturaleza"
+  ],
+  [
+   "Las hormigas son insectos sociales que viven en colonias organizadas",
+   "naturaleza"
+  ],
+  [
+   "Insecto: Grupo de artrópodos con seis patas y cuerpo dividido en cabeza, tórax y abdomen",
+   "naturaleza"
+  ],
+  [
+   "Relación biológica cercana y duradera entre dos especies distintas, que puede beneficiar a una o ambas",
+   "naturaleza"
+  ],
+  [
+   "Las abejas y las flores tienen una relación de simbiosis mutuamente beneficiosa",
+   "naturaleza"
+  ],
+  [
+   "Simbiosis: Relación biológica cercana y duradera entre dos especies distintas, que puede beneficiar a una o ambas",
+   "naturaleza"
+  ],
+  [
+   "Interacción ecológica donde un animal (depredador) caza y se alimenta de otro (presa)",
+   "naturaleza"
+  ],
+  [
+   "El león es un depredador que caza principalmente cebras y ñus en la sabana",
+   "naturaleza"
+  ],
+  [
+   "Relación depredador-presa: Interacción ecológica donde un animal (depredador) caza y se alimenta de otro (presa)",
+   "naturaleza"
+  ],
+  [
+   "Estado de inactividad que adoptan algunos animales durante el invierno para ahorrar energía",
+   "naturaleza"
+  ],
+  [
+   "Los osos entran en hibernación durante los meses fríos del año",
+   "naturaleza"
+  ],
+  [
+   "Hibernación: Estado de inactividad que adoptan algunos animales durante el invierno para ahorrar energía",
+   "naturaleza"
+  ],
+  [
+   "Desplazamiento estacional de animales entre regiones, generalmente por clima o reproducción",
+   "naturaleza"
+  ],
+  [
+   "Las aves migratorias viajan miles de kilómetros para reproducirse en climas más cálidos",
+   "naturaleza"
+  ],
+  [
+   "Migración animal: Desplazamiento estacional de animales entre regiones, generalmente por clima o reproducción",
+   "naturaleza"
+  ],
+  [
+   "Ecosistema marino formado por colonias de coral, con gran biodiversidad de especies",
+   "naturaleza"
+  ],
+  [
+   "La Gran Barrera de Coral, en Australia, es el arrecife de coral más grande del mundo",
+   "naturaleza"
+  ],
+  [
+   "Arrecife de coral: Ecosistema marino formado por colonias de coral, con gran biodiversidad de especies",
+   "naturaleza"
+  ],
+  [
+   "Planta adaptada para atrapar y digerir insectos u otros pequeños animales como fuente de nutrientes",
+   "naturaleza"
+  ],
+  [
+   "La Venus atrapamoscas cierra sus hojas rápidamente al detectar un insecto",
+   "naturaleza"
+  ],
+  [
+   "Planta carnívora: Planta adaptada para atrapar y digerir insectos u otros pequeños animales como fuente de nutrientes",
+   "naturaleza"
+  ],
+  [
+   "Gran masa de hielo formada por la acumulación de nieve compactada durante largos periodos",
+   "naturaleza"
+  ],
+  [
+   "Los glaciares están retrocediendo en muchas regiones debido al calentamiento global",
+   "naturaleza"
+  ],
+  [
+   "Glaciar: Gran masa de hielo formada por la acumulación de nieve compactada durante largos periodos",
+   "naturaleza"
+  ],
+  [
+   "Tierra rica en nutrientes que favorece el crecimiento de las plantas",
+   "naturaleza"
+  ],
+  [
+   "El limo depositado por los ríos crea suelos muy fértiles para la agricultura",
+   "naturaleza"
+  ],
+  [
+   "Suelo fértil: Tierra rica en nutrientes que favorece el crecimiento de las plantas",
+   "naturaleza"
+  ],
+  [
+   "Es el continente más grande y poblado",
+   "naturaleza"
+  ],
+  [
+   "Tiene 54 países, más que cualquier otro continente",
+   "naturaleza"
+  ],
+  [
+   "Dividida en América del Norte, Central y del Sur",
+   "naturaleza"
+  ],
+  [
+   "Segundo continente más pequeño pero con gran influencia histórica",
+   "naturaleza"
+  ],
+  [
+   "Australia ocupa el 86% de su superficie",
+   "naturaleza"
+  ],
+  [
+   "El más grande y profundo. Cubre 1/3 de la Tierra",
+   "naturaleza"
+  ],
+  [
+   "Segundo más grande. Separa América de Europa y África",
+   "naturaleza"
+  ],
+  [
+   "El más cálido. Rodeado por Asia, África y Australia",
+   "naturaleza"
+  ],
+  [
+   "La montaña más alta sobre el nivel del mar",
+   "naturaleza"
+  ],
+  [
+   "La más alta de América y del hemisferio sur",
+   "naturaleza"
+  ],
+  [
+   "El río más caudaloso del mundo. Contiene 1/5 del agua dulce del planeta",
+   "naturaleza"
+  ],
+  [
+   "Tradicionalmente considerado el más largo. Cruza 10 países",
+   "naturaleza"
+  ],
+  [
+   "El desierto cálido más grande del mundo. Similar en tamaño a China",
+   "naturaleza"
+  ],
+  [
+   "El lugar más árido del planeta. Algunas zonas no han recibido lluvia en 400 años",
+   "naturaleza"
+  ],
+  [
+   "El país más extenso del mundo. Abarca 11 zonas horarias",
+   "naturaleza"
+  ],
+  [
+   "País más poblado del mundo. Civilización continua más antigua",
+   "naturaleza"
+  ],
+  [
+   "Mayor población hispanohablante. Cuna de civilizaciones mesoamericanas",
+   "naturaleza"
+  ],
+  [
+   "Archipiélago de 6,852 islas. Tercera economía mundial",
+   "naturaleza"
+  ],
+  [
+   "La aglomeración urbana más poblada del mundo",
+   "naturaleza"
+  ],
+  [
+   "Sede de la ONU. Centro financiero global",
+   "naturaleza"
+  ],
+  [
+   "Mayor selva tropical. Produce 20% del oxígeno del planeta. Alberga 10% de las especies conocidas",
+   "naturaleza"
+  ],
+  [
+   "El lago más profundo y antiguo del mundo. Contiene 20% del agua dulce no congelada",
+   "naturaleza"
+  ],
+  [
+   "La cascada más alta del mundo. 15 veces más alta que las Cataratas del Niágara",
+   "naturaleza"
+  ],
+  [
+   "La isla más grande del mundo. 80% cubierta de hielo",
+   "naturaleza"
+  ],
+  [
+   "El volcán más grande del mundo medido desde su base submarina",
+   "naturaleza"
+  ],
+  [
+   "La imaginación es más importante que el conocimiento. El conocimiento es limitado, la imaginación rodea el mundo",
+   "entretenimiento"
+  ],
+  [
+   "Lo que sabemos es una gota de agua; lo que ignoramos es el océano",
+   "entretenimiento"
+  ],
+  [
+   "Nada en la vida debe ser temido, solo debe ser comprendido. Ahora es el momento de comprender más para temer menos",
+   "entretenimiento"
+  ],
+  [
+   "Solo sé que no sé nada",
+   "entretenimiento"
+  ],
+  [
+   "Somos lo que hacemos repetidamente. La excelencia no es un acto, sino un hábito",
+   "entretenimiento"
+  ],
+  [
+   "La simplicidad es la máxima sofisticación",
+   "entretenimiento"
+  ],
+  [
+   "La educación es el arma más poderosa que puedes usar para cambiar el mundo",
+   "entretenimiento"
+  ],
+  [
+   "Sé el cambio que quieres ver en el mundo",
+   "entretenimiento"
+  ],
+  [
+   "Elige un trabajo que ames y no tendrás que trabajar ni un día de tu vida",
+   "entretenimiento"
+  ],
+  [
+   "Pies, ¿para qué los quiero si tengo alas para volar?",
+   "entretenimiento"
+  ],
+  [
+   "Sé tú mismo. Los demás puestos ya están ocupados",
+   "entretenimiento"
+  ],
+  [
+   "El secreto para salir adelante es empezar",
+   "entretenimiento"
+  ],
+  [
+   "La única forma de hacer un gran trabajo es amar lo que haces",
+   "entretenimiento"
+  ],
+  [
+   "Somos polvo de estrellas que ha tomado conciencia de sí mismo",
+   "entretenimiento"
+  ],
+  [
+   "A veces las personas que nadie imagina que harían algo son las que hacen cosas que nadie podría imaginar",
+   "entretenimiento"
+  ],
+  [
+   "Sé menos curioso sobre las personas y más curioso sobre las ideas",
+   "entretenimiento"
+  ],
+  [
+   "No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que mejor se adapta al cambio",
+   "entretenimiento"
+  ],
+  [
+   "No es que tengamos poco tiempo, es que perdemos mucho",
+   "entretenimiento"
+  ],
+  [
+   "La necesidad es la madre de la invención",
+   "entretenimiento"
+  ],
+  [
+   "Lo que no me mata, me hace más fuerte",
+   "entretenimiento"
+  ],
+  [
+   "Ojo por ojo y el mundo acabará ciego",
+   "entretenimiento"
+  ],
+  [
+   "Locura es hacer lo mismo una y otra vez esperando resultados diferentes",
+   "entretenimiento"
+  ],
+  [
+   "Si puedes soñarlo, puedes hacerlo",
+   "entretenimiento"
+  ],
+  [
+   "La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir",
+   "entretenimiento"
+  ],
+  [
+   "La felicidad no es algo hecho. Viene de tus propias acciones",
+   "entretenimiento"
+  ],
+  [
+   "La duda es uno de los nombres de la inteligencia",
+   "entretenimiento"
+  ],
+  [
+   "El que lee mucho y anda mucho, ve mucho y sabe mucho",
+   "entretenimiento"
+  ],
+  [
+   "A pesar de todo, yo aún creo que la gente es buena en el fondo",
+   "entretenimiento"
+  ],
+  [
+   "La inteligencia es la capacidad de adaptarse al cambio",
+   "entretenimiento"
+  ],
+  [
+   "El éxito es ir de fracaso en fracaso sin perder el entusiasmo",
+   "entretenimiento"
+  ],
+  [
+   "¿Qué cosa es que cuanto más le quitas, más grande se vuelve?",
+   "entretenimiento"
+  ],
+  [
+   "Tiene dientes pero no muerde, tiene cabeza pero no piensa. ¿Qué es?",
+   "entretenimiento"
+  ],
+  [
+   "Dos padres y dos hijos fueron a pescar. Cada uno pescó un pez. En total pescaron 3 peces. ¿Cómo es posible?",
+   "entretenimiento"
+  ],
+  [
+   "Eran abuelo, padre e hijo (el padre es hijo del abuelo y padre del niño)",
+   "entretenimiento"
+  ],
+  [
+   "Antes de ayer tenía 17 años. El año que viene tendré 20. ¿Qué día es hoy?",
+   "entretenimiento"
+  ],
+  [
+   "1 de enero (cumplo años el 31 de diciembre)",
+   "entretenimiento"
+  ],
+  [
+   "¿Cuántos meses tienen 28 días?",
+   "entretenimiento"
+  ],
+  [
+   "Todos los meses tienen al menos 28 días",
+   "entretenimiento"
+  ],
+  [
+   "Si un avión se estrella justo en la frontera entre México y Estados Unidos, ¿dónde entierras a los sobrevivientes?",
+   "entretenimiento"
+  ],
+  [
+   "En ningún lado, los sobrevivientes están vivos",
+   "entretenimiento"
+  ],
+  [
+   "Un granjero tiene 17 ovejas. Se mueren todas menos 9. ¿Cuántas le quedan?",
+   "entretenimiento"
+  ],
+  [
+   "¿Qué pesa más: un kilo de plomo o un kilo de plumas?",
+   "entretenimiento"
+  ],
+  [
+   "Pesan lo mismo: un kilo",
+   "entretenimiento"
+  ],
+  [
+   "Si un tren eléctrico viaja hacia el norte a 100 km/h y el viento sopla hacia el sur a 50 km/h, ¿hacia dónde va el humo?",
+   "entretenimiento"
+  ],
+  [
+   "No hay humo, es un tren eléctrico",
+   "entretenimiento"
+  ],
+  [
+   "Un pato nada en un lago. ¿Qué hay debajo del pato?",
+   "entretenimiento"
+  ],
+  [
+   "Género cinematográfico centrado en conflictos emocionales y personales de los personajes",
+   "entretenimiento"
+  ],
+  [
+   "Las películas de drama suelen explorar temas como la pérdida, el amor o la superación",
+   "entretenimiento"
+  ],
+  [
+   "Cine de drama: Género cinematográfico centrado en conflictos emocionales y personales de los personajes",
+   "entretenimiento"
+  ],
+  [
+   "Género cinematográfico cuyo objetivo principal es entretener y provocar risa en el espectador",
+   "entretenimiento"
+  ],
+  [
+   "Las comedias suelen usar situaciones absurdas o diálogos ingeniosos para generar humor",
+   "entretenimiento"
+  ],
+  [
+   "Cine de comedia: Género cinematográfico cuyo objetivo principal es entretener y provocar risa en el espectador",
+   "entretenimiento"
+  ],
+  [
+   "Programa interactivo de entretenimiento donde el usuario controla acciones dentro de un mundo virtual",
+   "entretenimiento"
+  ],
+  [
+   "Los videojuegos pueden ser de distintos géneros, como acción, estrategia o aventura",
+   "entretenimiento"
+  ],
+  [
+   "Videojuego: Programa interactivo de entretenimiento donde el usuario controla acciones dentro de un mundo virtual",
+   "entretenimiento"
+  ],
+  [
+   "Género musical originado a finales del siglo XIX y principios del XX en comunidades afroamericanas de Estados Unidos, caracterizado por la improvisación",
+   "entretenimiento"
+  ],
+  [
+   "El jazz surgió principalmente en Nueva Orleans y se expandió por todo el mundo",
+   "entretenimiento"
+  ],
+  [
+   "Jazz: Género musical originado a finales del siglo XIX y principios del XX en comunidades afroamericanas de Estados Unidos, caracterizado por la improvisación",
+   "entretenimiento"
+  ],
+  [
+   "Técnica que crea la ilusión de movimiento a partir de una secuencia de imágenes o dibujos",
+   "entretenimiento"
+  ],
+  [
+   "Los estudios de animación pueden usar dibujo tradicional o técnicas digitales por computadora",
+   "entretenimiento"
+  ],
+  [
+   "Animación: Técnica que crea la ilusión de movimiento a partir de una secuencia de imágenes o dibujos",
+   "entretenimiento"
+  ],
+  [
+   "Evento donde se proyectan y premian películas, a menudo con la participación de directores y actores",
+   "entretenimiento"
+  ],
+  [
+   "El Festival de Cannes es uno de los festivales de cine más prestigiosos del mundo",
+   "entretenimiento"
+  ],
+  [
+   "Festival de cine: Evento donde se proyectan y premian películas, a menudo con la participación de directores y actores",
+   "entretenimiento"
+  ],
+  [
+   "Tecnología que permite reproducir contenido de audio o video en tiempo real a través de internet, sin descargarlo completo",
+   "entretenimiento"
+  ],
+  [
+   "Las plataformas de streaming permiten ver series y películas bajo demanda",
+   "entretenimiento"
+  ],
+  [
+   "Streaming (transmisión en línea): Tecnología que permite reproducir contenido de audio o video en tiempo real a través de internet, sin descargarlo completo",
+   "entretenimiento"
+  ],
+  [
+   "Forma narrativa que combina ilustraciones y texto para contar una historia, generalmente por viñetas",
+   "entretenimiento"
+  ],
+  [
+   "Los cómics de superhéroes son uno de los géneros más populares de este formato",
+   "entretenimiento"
+  ],
+  [
+   "Cómic: Forma narrativa que combina ilustraciones y texto para contar una historia, generalmente por viñetas",
+   "entretenimiento"
+  ],
+  [
+   "Gran agrupación musical compuesta por instrumentos de cuerda, viento, percusión y metal, dirigida por un director",
+   "entretenimiento"
+  ],
+  [
+   "Una orquesta sinfónica puede tener más de ochenta músicos tocando simultáneamente",
+   "entretenimiento"
+  ],
+  [
+   "Orquesta sinfónica: Gran agrupación musical compuesta por instrumentos de cuerda, viento, percusión y metal, dirigida por un director",
+   "entretenimiento"
+  ],
+  [
+   "El corazón humano late aproximadamente 100,000 veces al día, bombeando 7,500 litros de sangre",
+   "entretenimiento"
+  ],
+  [
+   "Un rayo contiene suficiente energía para tostar 100,000 rebanadas de pan",
+   "entretenimiento"
+  ],
+  [
+   "El primer mensaje de texto SMS fue 'Feliz Navidad' en 1992",
+   "entretenimiento"
+  ],
+  [
+   "El ADN de una sola célula humana mide 2 metros desenrollado. Si unieras todo el ADN de tu cuerpo, llegaría al Sol y volvería 600 veces",
+   "entretenimiento"
+  ],
+  [
+   "Un día en Venus (243 días terrestres) es más largo que un año en Venus (225 días terrestres)",
+   "entretenimiento"
+  ],
+  [
+   "Los pulpos tienen tres corazones, nueve cerebros y su sangre es azul",
+   "entretenimiento"
+  ],
+  [
+   "Hay más de 7,000 idiomas en el mundo. El 40% está en peligro de extinción. Una lengua muere cada 2 semanas",
+   "entretenimiento"
+  ],
+  [
+   "Cleopatra vivió más cerca del lanzamiento del iPhone que de la construcción de las pirámides de Giza",
+   "entretenimiento"
+  ],
+  [
+   "Un número seguido de 100 ceros se llama 'googol'. El nombre de Google viene de ahí",
+   "entretenimiento"
+  ],
+  [
+   "La luz del Sol tarda 8 minutos y 20 segundos en llegar a la Tierra. Si el Sol se apagara, no lo sabríamos por 8 minutos",
+   "entretenimiento"
+  ],
+  [
+   "El cerebro humano genera suficiente electricidad (20-23 watts) para encender un foco LED pequeño",
+   "entretenimiento"
+  ],
+  [
+   "Rusia es tan grande que tiene 11 zonas horarias diferentes",
+   "entretenimiento"
+  ],
+  [
+   "El instrumento musical más antiguo conocido es una flauta de hueso de hace 40,000 años encontrada en Alemania",
+   "entretenimiento"
+  ],
+  [
+   "La miel nunca se echa a perder. Se encontró miel de 3,000 años en tumbas egipcias y aún era comestible",
+   "entretenimiento"
+  ],
+  [
+   "El término 'inteligencia artificial' fue acuñado en 1956 en la Conferencia de Dartmouth",
+   "entretenimiento"
+  ],
+  [
+   "Pasamos aproximadamente 25 años de nuestra vida durmiendo. 6 de esos años soñando",
+   "entretenimiento"
+  ],
+  [
+   "Solo el 0.007% del agua de la Tierra es potable y accesible para los humanos",
+   "entretenimiento"
+  ],
+  [
+   "Los árboles se comunican entre sí mediante redes subterráneas de hongos llamadas 'Wood Wide Web'",
+   "entretenimiento"
+  ],
+  [
+   "Los niños ríen unas 300 veces al día. Los adultos solo 15-20 veces",
+   "entretenimiento"
+  ],
+  [
+   "El color rojo es el primer color que los bebés pueden ver, alrededor de las 2 semanas de edad",
+   "entretenimiento"
+  ],
+  [
+   "Si pudieras conducir un auto hacia arriba a 100 km/h, llegarías al espacio en solo 1 hora",
+   "entretenimiento"
+  ],
+  [
+   "Todo el oro extraído en la historia de la humanidad cabría en un cubo de 23 metros de lado",
+   "entretenimiento"
+  ],
+  [
+   "Hay más bacterias en tu boca que personas en el planeta Tierra",
+   "entretenimiento"
+  ],
+  [
+   "El Everest crece 4 mm cada año debido al choque de placas tectónicas",
+   "entretenimiento"
+  ],
+  [
+   "Los diamantes no se forman del carbón, sino del carbono sometido a presión extrema a 150 km de profundidad",
+   "entretenimiento"
+  ],
+  [
+   "Las mariposas pueden saborear con sus patas",
+   "entretenimiento"
+  ],
+  [
+   "Cada segundo caen aproximadamente 100 relámpagos en la Tierra",
+   "entretenimiento"
+  ],
+  [
+   "Es imposible estornudar con los ojos abiertos",
+   "entretenimiento"
+  ],
+  [
+   "Los koalas tienen huellas dactilares casi idénticas a las humanas",
+   "entretenimiento"
+  ],
+  [
+   "Los tiburones existen desde hace 400 millones de años, antes que los árboles (350 millones) y que los dinosaurios (230 millones)",
+   "entretenimiento"
+  ],
+  [
+   "Movimiento cultural y artístico europeo, surgido en Italia en el siglo XIV, que revalorizó el arte y el pensamiento clásico",
+   "cultura"
+  ],
+  [
+   "Leonardo da Vinci y Miguel Ángel son figuras representativas del Renacimiento",
+   "cultura"
+  ],
+  [
+   "Renacimiento: Movimiento cultural y artístico europeo, surgido en Italia en el siglo XIV, que revalorizó el arte y el pensamiento clásico",
+   "cultura"
+  ],
+  [
+   "Movimiento artístico del siglo XIX que buscaba capturar la luz y el momento fugaz mediante pinceladas sueltas",
+   "cultura"
+  ],
+  [
+   "Claude Monet es uno de los pintores más reconocidos del impresionismo",
+   "cultura"
+  ],
+  [
+   "Impresionismo: Movimiento artístico del siglo XIX que buscaba capturar la luz y el momento fugaz mediante pinceladas sueltas",
+   "cultura"
+  ],
+  [
+   "Conjunto de relatos y creencias sobre dioses y héroes de la antigua Grecia",
+   "cultura"
+  ],
+  [
+   "Zeus, Atenea y Poseidón son algunos de los dioses principales de la mitología griega",
+   "cultura"
+  ],
+  [
+   "Mitología griega: Conjunto de relatos y creencias sobre dioses y héroes de la antigua Grecia",
+   "cultura"
+  ],
+  [
+   "Festividad popular caracterizada por desfiles, música y disfraces, celebrada antes de la Cuaresma en muchas culturas",
+   "cultura"
+  ],
+  [
+   "El Carnaval de Río de Janeiro es uno de los más famosos del mundo",
+   "cultura"
+  ],
+  [
+   "Carnaval: Festividad popular caracterizada por desfiles, música y disfraces, celebrada antes de la Cuaresma en muchas culturas",
+   "cultura"
+  ],
+  [
+   "Arte y conocimiento relacionados con la preparación de buena comida, asociados a la cultura de cada región",
+   "cultura"
+  ],
+  [
+   "La paella es un plato icónico de la gastronomía española",
+   "cultura"
+  ],
+  [
+   "Gastronomía: Arte y conocimiento relacionados con la preparación de buena comida, asociados a la cultura de cada región",
+   "cultura"
+  ],
+  [
+   "Obras literarias de gran valor histórico y estético, producidas en la antigüedad grecolatina o consideradas atemporales",
+   "cultura"
+  ],
+  [
+   "La Odisea de Homero es una obra fundamental de la literatura clásica",
+   "cultura"
+  ],
+  [
+   "Literatura clásica: Obras literarias de gran valor histórico y estético, producidas en la antigüedad grecolatina o consideradas atemporales",
+   "cultura"
+  ],
+  [
+   "Estilo arquitectónico medieval europeo caracterizado por arcos apuntados, bóvedas de crucería y grandes vitrales",
+   "cultura"
+  ],
+  [
+   "La Catedral de Notre Dame es un ejemplo destacado de arquitectura gótica",
+   "cultura"
+  ],
+  [
+   "Arquitectura gótica: Estilo arquitectónico medieval europeo caracterizado por arcos apuntados, bóvedas de crucería y grandes vitrales",
+   "cultura"
+  ],
+  [
+   "Baile tradicional propio de una región o cultura, transmitido de generación en generación",
+   "cultura"
+  ],
+  [
+   "El flamenco es una danza folclórica asociada a la cultura andaluza",
+   "cultura"
+  ],
+  [
+   "Danza folclórica: Baile tradicional propio de una región o cultura, transmitido de generación en generación",
+   "cultura"
+  ],
+  [
+   "Institución que conserva, estudia y exhibe objetos de valor artístico, histórico o científico para el público",
+   "cultura"
+  ],
+  [
+   "El Louvre, en París, es uno de los museos de arte más visitados del mundo",
+   "cultura"
+  ],
+  [
+   "Museo: Institución que conserva, estudia y exhibe objetos de valor artístico, histórico o científico para el público",
+   "cultura"
+  ],
+  [
+   "Conjunto de bienes materiales e inmateriales heredados de generaciones anteriores, con valor histórico o simbólico",
+   "cultura"
+  ],
+  [
+   "Machu Picchu es considerado Patrimonio Cultural de la Humanidad por la UNESCO",
+   "cultura"
+  ],
+  [
+   "Patrimonio cultural: Conjunto de bienes materiales e inmateriales heredados de generaciones anteriores, con valor histórico o simbólico",
+   "cultura"
+  ],
+  [
+   "Forma de arte donde actores representan una historia frente a un público en vivo",
+   "cultura"
+  ],
+  [
+   "Las obras de Shakespeare siguen representándose en teatros de todo el mundo",
+   "cultura"
+  ],
+  [
+   "Teatro (arte escénico): Forma de arte donde actores representan una historia frente a un público en vivo",
+   "cultura"
+  ],
+  [
+   "Arte de crear figuras tridimensionales trabajando materiales como piedra, bronce o madera",
+   "cultura"
+  ],
+  [
+   "El David de Miguel Ángel es una de las esculturas más famosas del Renacimiento",
+   "cultura"
+  ],
+  [
+   "Escultura: Arte de crear figuras tridimensionales trabajando materiales como piedra, bronce o madera",
+   "cultura"
+  ],
+  [
+   "Práctica o hábito transmitido culturalmente dentro de una comunidad a lo largo del tiempo",
+   "cultura"
+  ],
+  [
+   "Compartir una comida familiar los domingos es una costumbre tradicional en muchas culturas",
+   "cultura"
+  ],
+  [
+   "Costumbre tradicional: Práctica o hábito transmitido culturalmente dentro de una comunidad a lo largo del tiempo",
+   "cultura"
+  ],
+  [
+   "Lengua reconocida legalmente como la de uso institucional y educativo en un país o región",
+   "cultura"
+  ],
+  [
+   "El español es el idioma oficial en más de veinte países",
+   "cultura"
+  ],
+  [
+   "Idioma oficial: Lengua reconocida legalmente como la de uso institucional y educativo en un país o región",
+   "cultura"
+  ],
+  [
+   "Evento cultural donde se presentan artistas y bandas musicales, generalmente durante varios días",
+   "cultura"
+  ],
+  [
+   "Coachella es uno de los festivales musicales más conocidos internacionalmente",
+   "cultura"
+  ],
+  [
+   "Festival musical: Evento cultural donde se presentan artistas y bandas musicales, generalmente durante varios días",
+   "cultura"
+  ],
+  [
+   "Género musical dramático donde los cantantes interpretan una historia acompañados de orquesta",
+   "cultura"
+  ],
+  [
+   "La Traviata y Carmen son óperas célebres del repertorio clásico",
+   "cultura"
+  ],
+  [
+   "Ópera: Género musical dramático donde los cantantes interpretan una historia acompañados de orquesta",
+   "cultura"
+  ],
+  [
+   "Corriente literaria latinoamericana que mezcla elementos fantásticos con la realidad cotidiana de forma natural",
+   "cultura"
+  ],
+  [
+   "Gabriel García Márquez es uno de los máximos exponentes del realismo mágico",
+   "cultura"
+  ],
+  [
+   "Realismo mágico: Corriente literaria latinoamericana que mezcla elementos fantásticos con la realidad cotidiana de forma natural",
+   "cultura"
+  ],
+  [
+   "Arte de escribir con letra elegante y estilizada, valorado en muchas culturas como forma artística",
+   "cultura"
+  ],
+  [
+   "La caligrafía china y árabe son tradiciones artísticas con siglos de historia",
+   "cultura"
+  ],
+  [
+   "Caligrafía: Arte de escribir con letra elegante y estilizada, valorado en muchas culturas como forma artística",
+   "cultura"
+  ],
+  [
+   "Transmisión de relatos, leyendas y conocimientos de generación en generación mediante la palabra hablada",
+   "cultura"
+  ],
+  [
+   "Muchos mitos indígenas se conservan gracias a la tradición oral",
+   "cultura"
+  ],
+  [
+   "Tradición oral: Transmisión de relatos, leyendas y conocimientos de generación en generación mediante la palabra hablada",
+   "cultura"
+  ],
+  [
+   "Trabajo manual que produce objetos con valor cultural o decorativo usando técnicas tradicionales",
+   "cultura"
+  ],
+  [
+   "La cerámica artesanal es una expresión cultural común en comunidades rurales",
+   "cultura"
+  ],
+  [
+   "Artesanía: Trabajo manual que produce objetos con valor cultural o decorativo usando técnicas tradicionales",
+   "cultura"
+  ],
+  [
+   "Género cinematográfico que registra hechos reales con fines informativos o de reflexión social",
+   "cultura"
+  ],
+  [
+   "Un documental de naturaleza puede mostrar el comportamiento real de animales salvajes",
+   "cultura"
+  ],
+  [
+   "Cine documental: Género cinematográfico que registra hechos reales con fines informativos o de reflexión social",
+   "cultura"
+  ],
+  [
+   "Sistema de creencias que reconoce la existencia de múltiples dioses",
+   "cultura"
+  ],
+  [
+   "La religión del antiguo Egipto era politeísta, con dioses como Ra y Osiris",
+   "cultura"
+  ],
+  [
+   "Religión politeísta: Sistema de creencias que reconoce la existencia de múltiples dioses",
+   "cultura"
+  ],
+  [
+   "Idioma con muy pocos hablantes activos, en riesgo de desaparecer con el tiempo",
+   "cultura"
+  ],
+  [
+   "Muchas lenguas indígenas están en peligro de extinción por falta de nuevos hablantes",
+   "cultura"
+  ],
+  [
+   "Lengua en peligro de extinción: Idioma con muy pocos hablantes activos, en riesgo de desaparecer con el tiempo",
+   "cultura"
+  ],
+  [
+   "Ropa característica de una cultura o región, usada en ocasiones especiales o cotidianamente",
+   "cultura"
+  ],
+  [
+   "El kimono es la vestimenta tradicional japonesa usada en ceremonias",
+   "cultura"
+  ],
+  [
+   "Vestimenta tradicional: Ropa característica de una cultura o región, usada en ocasiones especiales o cotidianamente",
+   "cultura"
+  ],
+  [
+   "Sistema de escritura basado en símbolos e imágenes, usado por civilizaciones como el antiguo Egipto",
+   "cultura"
+  ],
+  [
+   "Los jeroglíficos egipcios combinan signos fonéticos e ideográficos",
+   "cultura"
+  ],
+  [
+   "Escritura jeroglífica: Sistema de escritura basado en símbolos e imágenes, usado por civilizaciones como el antiguo Egipto",
+   "cultura"
+  ],
+  [
+   "Evento artístico internacional que se celebra cada dos años, exhibiendo obras contemporáneas",
+   "cultura"
+  ],
+  [
+   "La Bienal de Venecia es uno de los eventos de arte contemporáneo más prestigiosos del mundo",
+   "cultura"
+  ],
+  [
+   "Bienal de arte: Evento artístico internacional que se celebra cada dos años, exhibiendo obras contemporáneas",
+   "cultura"
+  ],
+  [
+   "Disciplina artística que utiliza la cámara para capturar imágenes con intención estética o narrativa",
+   "cultura"
+  ],
+  [
+   "La fotografía en blanco y negro sigue siendo valorada por su carga artística",
+   "cultura"
+  ],
+  [
+   "Fotografía como arte: Disciplina artística que utiliza la cámara para capturar imágenes con intención estética o narrativa",
+   "cultura"
+  ],
+  [
+   "Asociado al movimiento rastafari y mensajes de paz",
+   "cultura"
+  ],
+  [
+   "Patrimonio Cultural Inmaterial de la Humanidad (UNESCO, 2010)",
+   "cultura"
+  ],
+  [
+   "Mona Lisa (La Gioconda)",
+   "cultura"
+  ],
+  [
+   "El retrato más famoso del mundo. Su sonrisa enigmática ha fascinado por siglos",
+   "cultura"
+  ],
+  [
+   "La noche estrellada",
+   "cultura"
+  ],
+  [
+   "Pintada desde la ventana de su habitación en el asilo de Saint-Rémy",
+   "cultura"
+  ],
+  [
+   "Un poderoso alegato antibélico de 3.5m × 7.8m",
+   "cultura"
+  ],
+  [
+   "La creación de Adán",
+   "cultura"
+  ],
+  [
+   "Parte del techo de la Capilla Sixtina. Los dedos casi tocándose son icónicos",
+   "cultura"
+  ],
+  [
+   "Existen 4 versiones. Representa la angustia existencial moderna",
+   "cultura"
+  ],
+  [
+   "Obra maestra del Siglo de Oro español. Juego de perspectivas y espejos",
+   "cultura"
+  ],
+  [
+   "La persistencia de la memoria",
+   "cultura"
+  ],
+  [
+   "Los relojes blandos son un ícono del surrealismo. Representa la relatividad del tiempo",
+   "cultura"
+  ],
+  [
+   "Van Gogh los pintó para decorar la casa de su amigo Gauguin en Arlés",
+   "cultura"
+  ],
+  [
+   "Impresión, sol naciente",
+   "cultura"
+  ],
+  [
+   "Esta pintura dio nombre al movimiento impresionista",
+   "cultura"
+  ],
+  [
+   "La joven de la perla",
+   "cultura"
+  ],
+  [
+   "Conocida como 'la Mona Lisa del Norte' por su mirada cautivadora",
+   "cultura"
+  ],
+  [
+   "Obra cumbre de la 'fase dorada' de Klimt. Usa pan de oro real",
+   "cultura"
+  ]
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "lenguaje",
+  "n_items": 8
+ },
+ "datos": [
+  {
+   "concepto": "sinonimo",
+   "nombre": "Sinónimo",
+   "definicion": "Palabra que tiene un significado igual o muy similar a otra",
+   "ejemplo": "'Feliz' y 'contento' son sinónimos"
+  },
+  {
+   "concepto": "antonimo",
+   "nombre": "Antónimo",
+   "definicion": "Palabra que tiene un significado opuesto al de otra",
+   "ejemplo": "'Grande' y 'pequeño' son antónimos"
+  },
+  {
+   "concepto": "metafora_lenguaje",
+   "nombre": "Metáfora",
+   "definicion": "Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita",
+   "ejemplo": "'Sus ojos son dos luceros' es una metáfora"
+  },
+  {
+   "concepto": "sustantivo",
+   "nombre": "Sustantivo",
+   "definicion": "Categoría gramatical que nombra personas, animales, objetos o ideas",
+   "ejemplo": "'Perro', 'ciudad' y 'libertad' son sustantivos"
+  },
+  {
+   "concepto": "verbo",
+   "nombre": "Verbo",
+   "definicion": "Categoría gramatical que expresa una acción, estado o proceso",
+   "ejemplo": "'Correr', 'ser' y 'pensar' son verbos"
+  },
+  {
+   "concepto": "adjetivo",
+   "nombre": "Adjetivo",
+   "definicion": "Categoría gramatical que describe cualidades o características de un sustantivo",
+   "ejemplo": "'Alto', 'azul' y 'inteligente' son adjetivos"
+  },
+  {
+   "concepto": "adverbio",
+   "nombre": "Adverbio",
+   "definicion": "Categoría gramatical que modifica a un verbo, adjetivo u otro adverbio, indicando modo, tiempo o lugar",
+   "ejemplo": "'Rápidamente', 'hoy' y 'aquí' son adverbios"
+  },
+  {
+   "concepto": "oracion_gramatical",
+   "nombre": "Oración (gramática)",
+   "definicion": "Unidad mínima de comunicación con sentido completo, formada generalmente por sujeto y predicado",
+   "ejemplo": "'El perro corre en el parque' es una oración completa"
+  }
+ ]
+}

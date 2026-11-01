@@ -1,0 +1,7220 @@
+{
+  "version": "1.3",
+  "n": 1800,
+  "clases": [
+    "saludo",
+    "despedida",
+    "pregunta",
+    "orden",
+    "solicitud",
+    "agradecimiento",
+    "confirmacion",
+    "negacion",
+    "queja",
+    "aclaracion",
+    "seguimiento",
+    "correccion"
+  ],
+  "ejemplos": [
+    [
+      "Necesito: me da gusto verte",
+      "saludo"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "hazlo y dime por qué",
+      "orden"
+    ],
+    [
+      "hablamos después",
+      "despedida"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "hola y dime por qué",
+      "saludo"
+    ],
+    [
+      "me explicas esto; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "y ahora qué y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "de acuerdo; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "Oye, por qué sucede",
+      "pregunta"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "sigamos desde ahí; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "Vale, qué sigue",
+      "seguimiento"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "Necesito: continuemos",
+      "seguimiento"
+    ],
+    [
+      "buenas; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "Oye, adiós",
+      "despedida"
+    ],
+    [
+      "hablamos después ahora",
+      "despedida"
+    ],
+    [
+      "ejecuta la tarea un momento",
+      "orden"
+    ],
+    [
+      "Oye, hazlo",
+      "orden"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "de acuerdo porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "Necesito: y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "Necesito: sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "qué es esto",
+      "pregunta"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "eso es todo por ahora porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "exacto y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "Necesito: sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "me da gusto verte ahora",
+      "saludo"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "me voy por favor",
+      "despedida"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "Oye, por qué sucede",
+      "pregunta"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "tengo una duda por favor",
+      "pregunta"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "sobre lo anterior ahora",
+      "seguimiento"
+    ],
+    [
+      "buenas; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "Vale, hasta luego",
+      "despedida"
+    ],
+    [
+      "Necesito: hablamos después",
+      "despedida"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "por qué sucede y dime por qué",
+      "pregunta"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "nos vemos ahora",
+      "despedida"
+    ],
+    [
+      "analízalo y dime por qué",
+      "orden"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "qué es esto",
+      "pregunta"
+    ],
+    [
+      "Necesito: eso quería",
+      "confirmacion"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "buenas, seguimos porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "cómo funciona un momento",
+      "pregunta"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "ejecuta la tarea un momento",
+      "orden"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "eso quería",
+      "confirmacion"
+    ],
+    [
+      "sigamos desde ahí un momento",
+      "seguimiento"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "ejecuta la tarea porque quiero continuar",
+      "orden"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "Vale, crea esto",
+      "orden"
+    ],
+    [
+      "sobre lo anterior y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "me explicas esto un momento",
+      "pregunta"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "Vale, me explicas esto",
+      "pregunta"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "y después un momento",
+      "seguimiento"
+    ],
+    [
+      "buenas, seguimos un momento",
+      "saludo"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "me voy por favor",
+      "despedida"
+    ],
+    [
+      "eso es todo por ahora; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "qué sigue por favor",
+      "seguimiento"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "exacto ahora",
+      "confirmacion"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "Vale, de acuerdo",
+      "confirmacion"
+    ],
+    [
+      "analízalo ahora",
+      "orden"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "qué sigue por favor",
+      "seguimiento"
+    ],
+    [
+      "hasta luego; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "continuemos ahora",
+      "seguimiento"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "Oye, y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "Oye, hablamos después",
+      "despedida"
+    ],
+    [
+      "Vale, ejecuta la tarea",
+      "orden"
+    ],
+    [
+      "hasta luego porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "Necesito: exacto",
+      "confirmacion"
+    ],
+    [
+      "así es; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "me explicas esto por favor",
+      "pregunta"
+    ],
+    [
+      "puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "analízalo",
+      "orden"
+    ],
+    [
+      "qué sigue por favor",
+      "seguimiento"
+    ],
+    [
+      "Necesito: por qué sucede",
+      "pregunta"
+    ],
+    [
+      "Necesito: nos vemos",
+      "despedida"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "me explicas esto un momento",
+      "pregunta"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "sí",
+      "confirmacion"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "adiós",
+      "despedida"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "y después porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "me explicas esto un momento",
+      "pregunta"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "hablamos después ahora",
+      "despedida"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "hasta luego; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "qué sigue un momento",
+      "seguimiento"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "hazlo",
+      "orden"
+    ],
+    [
+      "qué es esto y dime por qué",
+      "pregunta"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "de acuerdo porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "Oye, me da gusto verte",
+      "saludo"
+    ],
+    [
+      "de acuerdo; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "Vale, dame el código",
+      "orden"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "eso quería",
+      "confirmacion"
+    ],
+    [
+      "así es por favor",
+      "confirmacion"
+    ],
+    [
+      "Necesito: sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "exacto ahora",
+      "confirmacion"
+    ],
+    [
+      "hazlo ahora",
+      "orden"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "Vale, sigamos desde ahí",
+      "seguimiento"
+    ],
+    [
+      "hola, ¿estás ahí?; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "buen día",
+      "saludo"
+    ],
+    [
+      "Vale, buenas",
+      "saludo"
+    ],
+    [
+      "buenas porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "hasta luego porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "me explicas esto un momento",
+      "pregunta"
+    ],
+    [
+      "Necesito: puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "hola y dime por qué",
+      "saludo"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "de acuerdo porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "Necesito: analízalo",
+      "orden"
+    ],
+    [
+      "qué sigue un momento",
+      "seguimiento"
+    ],
+    [
+      "tengo una duda un momento",
+      "pregunta"
+    ],
+    [
+      "buen día ahora",
+      "saludo"
+    ],
+    [
+      "eso es todo por ahora por favor",
+      "despedida"
+    ],
+    [
+      "adiós y dime por qué",
+      "despedida"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "y después por favor",
+      "seguimiento"
+    ],
+    [
+      "hey y dime por qué",
+      "saludo"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "y después; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "eso quería y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "así es; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "por qué sucede y dime por qué",
+      "pregunta"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "me voy porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "Vale, hasta luego",
+      "despedida"
+    ],
+    [
+      "adiós y dime por qué",
+      "despedida"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "Vale, de acuerdo",
+      "confirmacion"
+    ],
+    [
+      "exacto y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "Oye, por qué sucede",
+      "pregunta"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "Vale, hasta luego",
+      "despedida"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "eso es todo por ahora; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "Oye, nos vemos",
+      "despedida"
+    ],
+    [
+      "me voy porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "tengo una duda; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "crea esto por favor",
+      "orden"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "tengo una duda un momento",
+      "pregunta"
+    ],
+    [
+      "Necesito: eso quería",
+      "confirmacion"
+    ],
+    [
+      "Necesito: hey",
+      "saludo"
+    ],
+    [
+      "eso es todo por ahora porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "hazlo y dime por qué",
+      "orden"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "correcto un momento",
+      "confirmacion"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "correcto por favor",
+      "confirmacion"
+    ],
+    [
+      "cómo funciona porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "Necesito: exacto",
+      "confirmacion"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "Oye, continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "buen día",
+      "saludo"
+    ],
+    [
+      "Necesito: me da gusto verte",
+      "saludo"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "Oye, y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "cómo funciona porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "qué tal un momento",
+      "saludo"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "nos vemos",
+      "despedida"
+    ],
+    [
+      "Vale, hasta luego",
+      "despedida"
+    ],
+    [
+      "hablamos después y dime por qué",
+      "despedida"
+    ],
+    [
+      "hola",
+      "saludo"
+    ],
+    [
+      "Oye, hablamos después",
+      "despedida"
+    ],
+    [
+      "me voy por favor",
+      "despedida"
+    ],
+    [
+      "crea esto; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "Oye, sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "sigamos desde ahí porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "correcto un momento",
+      "confirmacion"
+    ],
+    [
+      "Necesito: adiós",
+      "despedida"
+    ],
+    [
+      "buen día y dime por qué",
+      "saludo"
+    ],
+    [
+      "eso quería",
+      "confirmacion"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: hazlo",
+      "orden"
+    ],
+    [
+      "sigamos desde ahí porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "me voy por favor",
+      "despedida"
+    ],
+    [
+      "así es porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "Oye, me da gusto verte",
+      "saludo"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "puedes decirme qué significa ahora",
+      "pregunta"
+    ],
+    [
+      "hola, ¿estás ahí? un momento",
+      "saludo"
+    ],
+    [
+      "Necesito: puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "hey ahora",
+      "saludo"
+    ],
+    [
+      "sobre lo anterior ahora",
+      "seguimiento"
+    ],
+    [
+      "analízalo ahora",
+      "orden"
+    ],
+    [
+      "continuemos ahora",
+      "seguimiento"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "hablamos después ahora",
+      "despedida"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "Necesito: adiós",
+      "despedida"
+    ],
+    [
+      "qué tal porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "eso quería",
+      "confirmacion"
+    ],
+    [
+      "Vale, hasta luego",
+      "despedida"
+    ],
+    [
+      "Oye, hola",
+      "saludo"
+    ],
+    [
+      "así es; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "Oye, analízalo",
+      "orden"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "me explicas esto; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "crea esto; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "adiós y dime por qué",
+      "despedida"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "adiós",
+      "despedida"
+    ],
+    [
+      "qué tal un momento",
+      "saludo"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "Vale, dame el código",
+      "orden"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "Oye, hey",
+      "saludo"
+    ],
+    [
+      "Oye, hey",
+      "saludo"
+    ],
+    [
+      "Vale, hola, ¿estás ahí?",
+      "saludo"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "y después por favor",
+      "seguimiento"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "exacto y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "así es por favor",
+      "confirmacion"
+    ],
+    [
+      "correcto; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "Oye, por qué sucede",
+      "pregunta"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "me voy un momento",
+      "despedida"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "Necesito: continuemos",
+      "seguimiento"
+    ],
+    [
+      "Necesito: buen día",
+      "saludo"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "eso quería y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "y después; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "adiós y dime por qué",
+      "despedida"
+    ],
+    [
+      "qué es esto ahora",
+      "pregunta"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "Vale, me explicas esto",
+      "pregunta"
+    ],
+    [
+      "así es un momento",
+      "confirmacion"
+    ],
+    [
+      "sobre lo anterior y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "Necesito: nos vemos",
+      "despedida"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "cómo funciona; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "hey y dime por qué",
+      "saludo"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "Vale, ejecuta la tarea",
+      "orden"
+    ],
+    [
+      "correcto; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "dame el código; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "Vale, eso es todo por ahora",
+      "despedida"
+    ],
+    [
+      "continúa con el proyecto ahora",
+      "orden"
+    ],
+    [
+      "crea esto porque quiero continuar",
+      "orden"
+    ],
+    [
+      "Necesito: sí",
+      "confirmacion"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "ejecuta la tarea; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "adiós",
+      "despedida"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "Oye, buen día",
+      "saludo"
+    ],
+    [
+      "eso es todo por ahora un momento",
+      "despedida"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "Oye, exacto",
+      "confirmacion"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "adiós y dime por qué",
+      "despedida"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "me da gusto verte ahora",
+      "saludo"
+    ],
+    [
+      "Vale, qué sigue",
+      "seguimiento"
+    ],
+    [
+      "eso es todo por ahora porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "Necesito: analízalo",
+      "orden"
+    ],
+    [
+      "Vale, ejecuta la tarea",
+      "orden"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "por qué sucede",
+      "pregunta"
+    ],
+    [
+      "Vale, me voy",
+      "despedida"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "puedes decirme qué significa y dime por qué",
+      "pregunta"
+    ],
+    [
+      "cómo funciona un momento",
+      "pregunta"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "sí",
+      "confirmacion"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "crea esto porque quiero continuar",
+      "orden"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "hazlo",
+      "orden"
+    ],
+    [
+      "Necesito: analízalo",
+      "orden"
+    ],
+    [
+      "exacto ahora",
+      "confirmacion"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "hazlo",
+      "orden"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "me voy; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "Vale, correcto",
+      "confirmacion"
+    ],
+    [
+      "continuemos",
+      "seguimiento"
+    ],
+    [
+      "Necesito: hola",
+      "saludo"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "dame el código porque quiero continuar",
+      "orden"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "hasta luego porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "Necesito: continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "analízalo",
+      "orden"
+    ],
+    [
+      "adiós ahora",
+      "despedida"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "crea esto un momento",
+      "orden"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "correcto porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "de acuerdo por favor",
+      "confirmacion"
+    ],
+    [
+      "hey",
+      "saludo"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "dame el código por favor",
+      "orden"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "buenas por favor",
+      "saludo"
+    ],
+    [
+      "analízalo y dime por qué",
+      "orden"
+    ],
+    [
+      "buenas, seguimos; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "sobre lo anterior ahora",
+      "seguimiento"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "hola, ¿estás ahí? porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "exacto",
+      "confirmacion"
+    ],
+    [
+      "hazlo y dime por qué",
+      "orden"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "nos vemos ahora",
+      "despedida"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "Necesito: y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "así es porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "Necesito: sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "continúa con el proyecto ahora",
+      "orden"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "qué tal por favor",
+      "saludo"
+    ],
+    [
+      "Oye, sí",
+      "confirmacion"
+    ],
+    [
+      "Vale, correcto",
+      "confirmacion"
+    ],
+    [
+      "Oye, adiós",
+      "despedida"
+    ],
+    [
+      "Vale, y después",
+      "seguimiento"
+    ],
+    [
+      "Oye, nos vemos",
+      "despedida"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "crea esto un momento",
+      "orden"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "Vale, y después",
+      "seguimiento"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "me da gusto verte ahora",
+      "saludo"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "ejecuta la tarea por favor",
+      "orden"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "por qué sucede",
+      "pregunta"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "eso es todo por ahora porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "Necesito: qué es esto",
+      "pregunta"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "me voy un momento",
+      "despedida"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "Vale, sigamos desde ahí",
+      "seguimiento"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "hola, ¿estás ahí? por favor",
+      "saludo"
+    ],
+    [
+      "sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "eso es todo por ahora un momento",
+      "despedida"
+    ],
+    [
+      "nos vemos y dime por qué",
+      "despedida"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "adiós",
+      "despedida"
+    ],
+    [
+      "correcto porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "crea esto; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "Oye, sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "Oye, qué es esto",
+      "pregunta"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "me explicas esto porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "Oye, analízalo",
+      "orden"
+    ],
+    [
+      "eso quería ahora",
+      "confirmacion"
+    ],
+    [
+      "de acuerdo porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "así es un momento",
+      "confirmacion"
+    ],
+    [
+      "hasta luego; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "buenas; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "Necesito: qué es esto",
+      "pregunta"
+    ],
+    [
+      "y después por favor",
+      "seguimiento"
+    ],
+    [
+      "Vale, crea esto",
+      "orden"
+    ],
+    [
+      "Vale, tengo una duda",
+      "pregunta"
+    ],
+    [
+      "sí",
+      "confirmacion"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "Vale, qué tal",
+      "saludo"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "correcto por favor",
+      "confirmacion"
+    ],
+    [
+      "sí y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "qué sigue un momento",
+      "seguimiento"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "analízalo",
+      "orden"
+    ],
+    [
+      "Vale, buenas",
+      "saludo"
+    ],
+    [
+      "continuemos y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "Vale, dame el código",
+      "orden"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "Vale, eso es todo por ahora",
+      "despedida"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "hasta luego un momento",
+      "despedida"
+    ],
+    [
+      "me voy; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "me voy; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "y ahora qué y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "puedes decirme qué significa ahora",
+      "pregunta"
+    ],
+    [
+      "Necesito: eso quería",
+      "confirmacion"
+    ],
+    [
+      "Oye, sí",
+      "confirmacion"
+    ],
+    [
+      "qué tal porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "me da gusto verte",
+      "saludo"
+    ],
+    [
+      "Oye, puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "Necesito: y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "Necesito: continuemos",
+      "seguimiento"
+    ],
+    [
+      "Oye, nos vemos",
+      "despedida"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "Oye, continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "ejecuta la tarea un momento",
+      "orden"
+    ],
+    [
+      "Oye, hey",
+      "saludo"
+    ],
+    [
+      "continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "así es un momento",
+      "confirmacion"
+    ],
+    [
+      "tengo una duda porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "Oye, adiós",
+      "despedida"
+    ],
+    [
+      "hablamos después",
+      "despedida"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "hasta luego; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "nos vemos",
+      "despedida"
+    ],
+    [
+      "hablamos después ahora",
+      "despedida"
+    ],
+    [
+      "Oye, analízalo",
+      "orden"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "Oye, hablamos después",
+      "despedida"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "Oye, adiós",
+      "despedida"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "buen día ahora",
+      "saludo"
+    ],
+    [
+      "continúa con el proyecto y dime por qué",
+      "orden"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "sigamos desde ahí; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "buenas; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "Necesito: adiós",
+      "despedida"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "me da gusto verte ahora",
+      "saludo"
+    ],
+    [
+      "Vale, dame el código",
+      "orden"
+    ],
+    [
+      "hola ahora",
+      "saludo"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "buenas por favor",
+      "saludo"
+    ],
+    [
+      "de acuerdo un momento",
+      "confirmacion"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "nos vemos",
+      "despedida"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "hey ahora",
+      "saludo"
+    ],
+    [
+      "Oye, sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "adiós ahora",
+      "despedida"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "qué sigue porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "me explicas esto porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "buenas, seguimos; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "ejecuta la tarea por favor",
+      "orden"
+    ],
+    [
+      "qué es esto y dime por qué",
+      "pregunta"
+    ],
+    [
+      "sí y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "analízalo ahora",
+      "orden"
+    ],
+    [
+      "Oye, hablamos después",
+      "despedida"
+    ],
+    [
+      "eso quería ahora",
+      "confirmacion"
+    ],
+    [
+      "ejecuta la tarea porque quiero continuar",
+      "orden"
+    ],
+    [
+      "hola ahora",
+      "saludo"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "eso es todo por ahora por favor",
+      "despedida"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "Necesito: hazlo",
+      "orden"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "Oye, puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "Necesito: sí",
+      "confirmacion"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "sigamos desde ahí por favor",
+      "seguimiento"
+    ],
+    [
+      "así es un momento",
+      "confirmacion"
+    ],
+    [
+      "sí ahora",
+      "confirmacion"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "buenas, seguimos un momento",
+      "saludo"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "Necesito: sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "hablamos después",
+      "despedida"
+    ],
+    [
+      "Necesito: hablamos después",
+      "despedida"
+    ],
+    [
+      "Oye, exacto",
+      "confirmacion"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "ejecuta la tarea porque quiero continuar",
+      "orden"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "por qué sucede y dime por qué",
+      "pregunta"
+    ],
+    [
+      "me explicas esto; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "qué sigue; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "hola, ¿estás ahí? porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "me explicas esto porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "sí y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "tengo una duda un momento",
+      "pregunta"
+    ],
+    [
+      "crea esto; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "me voy porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "continuemos ahora",
+      "seguimiento"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "eso es todo por ahora por favor",
+      "despedida"
+    ],
+    [
+      "continuemos",
+      "seguimiento"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "ejecuta la tarea por favor",
+      "orden"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "qué tal; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "Vale, sigamos desde ahí",
+      "seguimiento"
+    ],
+    [
+      "Oye, por qué sucede",
+      "pregunta"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "eso es todo por ahora un momento",
+      "despedida"
+    ],
+    [
+      "Necesito: hey",
+      "saludo"
+    ],
+    [
+      "Oye, analízalo",
+      "orden"
+    ],
+    [
+      "qué es esto ahora",
+      "pregunta"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "por qué sucede ahora",
+      "pregunta"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "Necesito: nos vemos",
+      "despedida"
+    ],
+    [
+      "así es por favor",
+      "confirmacion"
+    ],
+    [
+      "tengo una duda por favor",
+      "pregunta"
+    ],
+    [
+      "Vale, cómo funciona",
+      "pregunta"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "qué sigue; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "qué sigue; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "qué es esto ahora",
+      "pregunta"
+    ],
+    [
+      "Necesito: y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "Necesito: continuemos",
+      "seguimiento"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "de acuerdo un momento",
+      "confirmacion"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "tengo una duda por favor",
+      "pregunta"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "Oye, hola",
+      "saludo"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "Oye, continuemos",
+      "seguimiento"
+    ],
+    [
+      "dame el código un momento",
+      "orden"
+    ],
+    [
+      "dame el código; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "Oye, hablamos después",
+      "despedida"
+    ],
+    [
+      "hola, ¿estás ahí?; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: adiós",
+      "despedida"
+    ],
+    [
+      "hola",
+      "saludo"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "así es; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "adiós ahora",
+      "despedida"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "hola, ¿estás ahí? por favor",
+      "saludo"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "cómo funciona por favor",
+      "pregunta"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "y ahora qué ahora",
+      "seguimiento"
+    ],
+    [
+      "Oye, continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "hola, ¿estás ahí? un momento",
+      "saludo"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "hola, ¿estás ahí?; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "hey",
+      "saludo"
+    ],
+    [
+      "Oye, puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "hazlo",
+      "orden"
+    ],
+    [
+      "hola",
+      "saludo"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "puedes decirme qué significa y dime por qué",
+      "pregunta"
+    ],
+    [
+      "me voy un momento",
+      "despedida"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "dame el código por favor",
+      "orden"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "y después un momento",
+      "seguimiento"
+    ],
+    [
+      "Necesito: puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "sí",
+      "confirmacion"
+    ],
+    [
+      "hola ahora",
+      "saludo"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "analízalo",
+      "orden"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "qué es esto",
+      "pregunta"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "qué sigue por favor",
+      "seguimiento"
+    ],
+    [
+      "sobre lo anterior y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "me explicas esto por favor",
+      "pregunta"
+    ],
+    [
+      "Oye, y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "qué es esto ahora",
+      "pregunta"
+    ],
+    [
+      "de acuerdo; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "ejecuta la tarea por favor",
+      "orden"
+    ],
+    [
+      "cómo funciona; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "hey ahora",
+      "saludo"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "hasta luego porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "Oye, hola",
+      "saludo"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "Necesito: continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "tengo una duda un momento",
+      "pregunta"
+    ],
+    [
+      "ejecuta la tarea; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "y después un momento",
+      "seguimiento"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "Vale, buenas, seguimos",
+      "saludo"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "Necesito: qué es esto",
+      "pregunta"
+    ],
+    [
+      "hasta luego un momento",
+      "despedida"
+    ],
+    [
+      "ejecuta la tarea un momento",
+      "orden"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "correcto; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "qué tal porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "Necesito: eso quería",
+      "confirmacion"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "Necesito: hey",
+      "saludo"
+    ],
+    [
+      "hazlo ahora",
+      "orden"
+    ],
+    [
+      "cómo funciona porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "me da gusto verte y dime por qué",
+      "saludo"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "hasta luego por favor",
+      "despedida"
+    ],
+    [
+      "buenas, seguimos por favor",
+      "saludo"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "buen día y dime por qué",
+      "saludo"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "buenas, seguimos porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "qué tal un momento",
+      "saludo"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "sigamos desde ahí un momento",
+      "seguimiento"
+    ],
+    [
+      "qué tal; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "sigamos desde ahí porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "Necesito: nos vemos",
+      "despedida"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "cómo funciona; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "hazlo y dime por qué",
+      "orden"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "dame el código por favor",
+      "orden"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "crea esto un momento",
+      "orden"
+    ],
+    [
+      "buenas, seguimos por favor",
+      "saludo"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "hazlo ahora",
+      "orden"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "Oye, puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "sí ahora",
+      "confirmacion"
+    ],
+    [
+      "exacto",
+      "confirmacion"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "dame el código por favor",
+      "orden"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "hey y dime por qué",
+      "saludo"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "dame el código; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "y después porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "buen día",
+      "saludo"
+    ],
+    [
+      "de acuerdo un momento",
+      "confirmacion"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "qué tal; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "exacto ahora",
+      "confirmacion"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "Vale, así es",
+      "confirmacion"
+    ],
+    [
+      "y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "Vale, qué tal",
+      "saludo"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "Necesito: exacto",
+      "confirmacion"
+    ],
+    [
+      "Necesito: por qué sucede",
+      "pregunta"
+    ],
+    [
+      "de acuerdo un momento",
+      "confirmacion"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "me da gusto verte y dime por qué",
+      "saludo"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "me explicas esto por favor",
+      "pregunta"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "Oye, exacto",
+      "confirmacion"
+    ],
+    [
+      "continuemos y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "continuemos",
+      "seguimiento"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "Oye, sí",
+      "confirmacion"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "qué sigue; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "ejecuta la tarea; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "Necesito: qué es esto",
+      "pregunta"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "qué sigue un momento",
+      "seguimiento"
+    ],
+    [
+      "Vale, me explicas esto",
+      "pregunta"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "y después; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "y ahora qué y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "cómo funciona porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "tengo una duda; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "Necesito: exacto",
+      "confirmacion"
+    ],
+    [
+      "hey",
+      "saludo"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "Necesito: por qué sucede",
+      "pregunta"
+    ],
+    [
+      "sí",
+      "confirmacion"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "y ahora qué ahora",
+      "seguimiento"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "dame el código; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "Oye, nos vemos",
+      "despedida"
+    ],
+    [
+      "crea esto por favor",
+      "orden"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "hola",
+      "saludo"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "Necesito: puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "buenas, seguimos porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "Vale, cómo funciona",
+      "pregunta"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "Oye, buen día",
+      "saludo"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "buenas por favor",
+      "saludo"
+    ],
+    [
+      "exacto",
+      "confirmacion"
+    ],
+    [
+      "cómo funciona un momento",
+      "pregunta"
+    ],
+    [
+      "y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "de acuerdo un momento",
+      "confirmacion"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "cómo funciona por favor",
+      "pregunta"
+    ],
+    [
+      "ejecuta la tarea; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "continuemos y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "eso es todo por ahora un momento",
+      "despedida"
+    ],
+    [
+      "crea esto por favor",
+      "orden"
+    ],
+    [
+      "sigamos desde ahí porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "me voy porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "sigamos desde ahí por favor",
+      "seguimiento"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "sigamos desde ahí un momento",
+      "seguimiento"
+    ],
+    [
+      "Necesito: analízalo",
+      "orden"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "correcto por favor",
+      "confirmacion"
+    ],
+    [
+      "sí ahora",
+      "confirmacion"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "por qué sucede",
+      "pregunta"
+    ],
+    [
+      "Vale, sigamos desde ahí",
+      "seguimiento"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "Necesito: hazlo",
+      "orden"
+    ],
+    [
+      "buenas porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "Necesito: hazlo",
+      "orden"
+    ],
+    [
+      "correcto un momento",
+      "confirmacion"
+    ],
+    [
+      "buen día y dime por qué",
+      "saludo"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "correcto por favor",
+      "confirmacion"
+    ],
+    [
+      "Vale, correcto",
+      "confirmacion"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "Vale, eso es todo por ahora",
+      "despedida"
+    ],
+    [
+      "Necesito: hablamos después",
+      "despedida"
+    ],
+    [
+      "tengo una duda por favor",
+      "pregunta"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "de acuerdo por favor",
+      "confirmacion"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "buenas, seguimos un momento",
+      "saludo"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "Vale, de acuerdo",
+      "confirmacion"
+    ],
+    [
+      "Oye, sí",
+      "confirmacion"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "Vale, tengo una duda",
+      "pregunta"
+    ],
+    [
+      "de acuerdo; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "Vale, ejecuta la tarea",
+      "orden"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "Oye, sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "hablamos después y dime por qué",
+      "despedida"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "hasta luego; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "Oye, puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "hola, ¿estás ahí? porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "ejecuta la tarea porque quiero continuar",
+      "orden"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "me voy porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "qué sigue porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "Vale, me voy",
+      "despedida"
+    ],
+    [
+      "sí ahora",
+      "confirmacion"
+    ],
+    [
+      "Vale, de acuerdo",
+      "confirmacion"
+    ],
+    [
+      "Necesito: hola",
+      "saludo"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "sigamos desde ahí; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "así es porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "dame el código porque quiero continuar",
+      "orden"
+    ],
+    [
+      "Vale, hola, ¿estás ahí?",
+      "saludo"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "Necesito: eso quería",
+      "confirmacion"
+    ],
+    [
+      "Vale, buenas",
+      "saludo"
+    ],
+    [
+      "buen día",
+      "saludo"
+    ],
+    [
+      "qué es esto ahora",
+      "pregunta"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "correcto porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "hazlo ahora",
+      "orden"
+    ],
+    [
+      "qué tal; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "Vale, buenas, seguimos",
+      "saludo"
+    ],
+    [
+      "cómo funciona un momento",
+      "pregunta"
+    ],
+    [
+      "Oye, sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "hablamos después y dime por qué",
+      "despedida"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "puedes decirme qué significa y dime por qué",
+      "pregunta"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "por qué sucede ahora",
+      "pregunta"
+    ],
+    [
+      "dame el código; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "Vale, tengo una duda",
+      "pregunta"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "dame el código un momento",
+      "orden"
+    ],
+    [
+      "eso es todo por ahora un momento",
+      "despedida"
+    ],
+    [
+      "adiós ahora",
+      "despedida"
+    ],
+    [
+      "Oye, qué es esto",
+      "pregunta"
+    ],
+    [
+      "analízalo y dime por qué",
+      "orden"
+    ],
+    [
+      "exacto",
+      "confirmacion"
+    ],
+    [
+      "Vale, crea esto",
+      "orden"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "puedes decirme qué significa ahora",
+      "pregunta"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "y ahora qué y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "continuemos y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "Vale, eso es todo por ahora",
+      "despedida"
+    ],
+    [
+      "hola, ¿estás ahí? un momento",
+      "saludo"
+    ],
+    [
+      "crea esto porque quiero continuar",
+      "orden"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "nos vemos",
+      "despedida"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "tengo una duda; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "hasta luego por favor",
+      "despedida"
+    ],
+    [
+      "Oye, adiós",
+      "despedida"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "de acuerdo por favor",
+      "confirmacion"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "Oye, exacto",
+      "confirmacion"
+    ],
+    [
+      "eso quería ahora",
+      "confirmacion"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "puedes decirme qué significa ahora",
+      "pregunta"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "Vale, cómo funciona",
+      "pregunta"
+    ],
+    [
+      "y después un momento",
+      "seguimiento"
+    ],
+    [
+      "por qué sucede ahora",
+      "pregunta"
+    ],
+    [
+      "me explicas esto; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "cómo funciona un momento",
+      "pregunta"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "de acuerdo por favor",
+      "confirmacion"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "sí y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "Necesito: continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "Vale, qué sigue",
+      "seguimiento"
+    ],
+    [
+      "me voy; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "sobre lo anterior y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "Necesito: continuemos",
+      "seguimiento"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "Necesito: me da gusto verte",
+      "saludo"
+    ],
+    [
+      "Necesito: exacto",
+      "confirmacion"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "cómo funciona; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "Vale, y después",
+      "seguimiento"
+    ],
+    [
+      "Oye, hazlo",
+      "orden"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: analízalo",
+      "orden"
+    ],
+    [
+      "me explicas esto por favor",
+      "pregunta"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "Vale, hola, ¿estás ahí?",
+      "saludo"
+    ],
+    [
+      "Oye, eso quería",
+      "confirmacion"
+    ],
+    [
+      "Necesito: qué es esto",
+      "pregunta"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "eso es todo por ahora; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "dame el código un momento",
+      "orden"
+    ],
+    [
+      "sigamos desde ahí un momento",
+      "seguimiento"
+    ],
+    [
+      "por qué sucede ahora",
+      "pregunta"
+    ],
+    [
+      "tengo una duda porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "me voy un momento",
+      "despedida"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "Vale, de acuerdo",
+      "confirmacion"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "Oye, continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "dame el código un momento",
+      "orden"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "Oye, hazlo",
+      "orden"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "y después; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "Oye, continuemos",
+      "seguimiento"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "Vale, y después",
+      "seguimiento"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "Vale, me voy",
+      "despedida"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "ejecuta la tarea por favor",
+      "orden"
+    ],
+    [
+      "crea esto porque quiero continuar",
+      "orden"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "nos vemos",
+      "despedida"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "me da gusto verte",
+      "saludo"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "Oye, qué es esto",
+      "pregunta"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "crea esto por favor",
+      "orden"
+    ],
+    [
+      "hasta luego porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "cómo funciona; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "Vale, crea esto",
+      "orden"
+    ],
+    [
+      "Vale, qué tal",
+      "saludo"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "eso es todo por ahora por favor",
+      "despedida"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "qué es esto",
+      "pregunta"
+    ],
+    [
+      "Vale, tengo una duda",
+      "pregunta"
+    ],
+    [
+      "adiós ahora",
+      "despedida"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "ejecuta la tarea; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "hola, ¿estás ahí? por favor",
+      "saludo"
+    ],
+    [
+      "me voy; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "Oye, analízalo",
+      "orden"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "tengo una duda por favor",
+      "pregunta"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "Vale, eso es todo por ahora",
+      "despedida"
+    ],
+    [
+      "qué sigue un momento",
+      "seguimiento"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "Vale, buenas",
+      "saludo"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "me explicas esto; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "me voy por favor",
+      "despedida"
+    ],
+    [
+      "buenas, seguimos porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "Vale, buenas, seguimos",
+      "saludo"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "me voy un momento",
+      "despedida"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "hola y dime por qué",
+      "saludo"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "buenas, seguimos un momento",
+      "saludo"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "por qué sucede y dime por qué",
+      "pregunta"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "dame el código porque quiero continuar",
+      "orden"
+    ],
+    [
+      "sigamos desde ahí por favor",
+      "seguimiento"
+    ],
+    [
+      "Necesito: hablamos después",
+      "despedida"
+    ],
+    [
+      "Vale, ejecuta la tarea",
+      "orden"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "hey ahora",
+      "saludo"
+    ],
+    [
+      "Oye, qué es esto",
+      "pregunta"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "crea esto un momento",
+      "orden"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "y después un momento",
+      "seguimiento"
+    ],
+    [
+      "exacto y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "correcto por favor",
+      "confirmacion"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "exacto y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "Vale, buenas, seguimos",
+      "saludo"
+    ],
+    [
+      "eso quería ahora",
+      "confirmacion"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "así es; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "tengo una duda; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "continúa con el proyecto y dime por qué",
+      "orden"
+    ],
+    [
+      "puedes decirme qué significa y dime por qué",
+      "pregunta"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "así es por favor",
+      "confirmacion"
+    ],
+    [
+      "tengo una duda; seguimos con el proyecto",
+      "pregunta"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "buenas por favor",
+      "saludo"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "eso quería",
+      "confirmacion"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "analízalo y dime por qué",
+      "orden"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "Necesito: por qué sucede",
+      "pregunta"
+    ],
+    [
+      "puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "Oye, buen día",
+      "saludo"
+    ],
+    [
+      "por qué sucede y dime por qué",
+      "pregunta"
+    ],
+    [
+      "Vale, así es",
+      "confirmacion"
+    ],
+    [
+      "Vale, sigamos desde ahí",
+      "seguimiento"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "continuemos",
+      "seguimiento"
+    ],
+    [
+      "Vale, dame el código",
+      "orden"
+    ],
+    [
+      "continúa con el proyecto y dime por qué",
+      "orden"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "qué tal por favor",
+      "saludo"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "continúa con el proyecto ahora",
+      "orden"
+    ],
+    [
+      "Oye, muy bien, gracias",
+      "agradecimiento"
+    ],
+    [
+      "hola, ¿estás ahí? un momento",
+      "saludo"
+    ],
+    [
+      "dame el código porque quiero continuar",
+      "orden"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "nos vemos ahora",
+      "despedida"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "qué es esto y dime por qué",
+      "pregunta"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "eso quería y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "por qué sucede ahora",
+      "pregunta"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "Necesito: hola",
+      "saludo"
+    ],
+    [
+      "hey y dime por qué",
+      "saludo"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "y después porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "correcto; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "Vale, correcto",
+      "confirmacion"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: por qué sucede",
+      "pregunta"
+    ],
+    [
+      "buen día ahora",
+      "saludo"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "hola, ¿estás ahí? por favor",
+      "saludo"
+    ],
+    [
+      "así es porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "ejecuta la tarea un momento",
+      "orden"
+    ],
+    [
+      "eso es todo por ahora; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "Necesito: hey",
+      "saludo"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "Vale, cómo funciona",
+      "pregunta"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "hasta luego por favor",
+      "despedida"
+    ],
+    [
+      "qué es esto y dime por qué",
+      "pregunta"
+    ],
+    [
+      "Oye, continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "me explicas esto porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "exacto ahora",
+      "confirmacion"
+    ],
+    [
+      "continúa con el proyecto y dime por qué",
+      "orden"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "buenas porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "crea esto; seguimos con el proyecto",
+      "orden"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "correcto; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "sigamos desde ahí; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "qué sigue porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "sigamos desde ahí por favor",
+      "seguimiento"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "tengo una duda porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "qué tal un momento",
+      "saludo"
+    ],
+    [
+      "Oye, buen día",
+      "saludo"
+    ],
+    [
+      "continúa con el proyecto ahora",
+      "orden"
+    ],
+    [
+      "qué sigue porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "buenas un momento",
+      "saludo"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "hasta luego un momento",
+      "despedida"
+    ],
+    [
+      "eso es todo por ahora por favor",
+      "despedida"
+    ],
+    [
+      "sobre lo anterior ahora",
+      "seguimiento"
+    ],
+    [
+      "hazlo y dime por qué",
+      "orden"
+    ],
+    [
+      "cómo funciona por favor",
+      "pregunta"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "me explicas esto porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "Oye, me da gusto verte",
+      "saludo"
+    ],
+    [
+      "y después; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "qué tal porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "de acuerdo porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "perfecto, gracias y dime por qué",
+      "agradecimiento"
+    ],
+    [
+      "Oye, sí",
+      "confirmacion"
+    ],
+    [
+      "Oye, continuemos",
+      "seguimiento"
+    ],
+    [
+      "correcto porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "tengo una duda porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "tengo una duda un momento",
+      "pregunta"
+    ],
+    [
+      "Necesito: hablamos después",
+      "despedida"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "así es porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "sobre lo anterior y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "hay que cambiarlo por favor",
+      "correccion"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "por qué sucede",
+      "pregunta"
+    ],
+    [
+      "así es un momento",
+      "confirmacion"
+    ],
+    [
+      "Oye, hazlo de otra forma",
+      "correccion"
+    ],
+    [
+      "buenas porque quiero continuar",
+      "saludo"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "Oye, hazlo",
+      "orden"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "explícame mejor por favor",
+      "aclaracion"
+    ],
+    [
+      "continuemos y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "y ahora qué y dime por qué",
+      "seguimiento"
+    ],
+    [
+      "sobre lo anterior ahora",
+      "seguimiento"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "Vale, y después",
+      "seguimiento"
+    ],
+    [
+      "eso quería y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "Necesito: puedes decirme qué significa",
+      "pregunta"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "sigamos desde ahí; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "modifica esa parte ahora",
+      "correccion"
+    ],
+    [
+      "continuemos ahora",
+      "seguimiento"
+    ],
+    [
+      "continuemos ahora",
+      "seguimiento"
+    ],
+    [
+      "Necesito: hazlo",
+      "orden"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "eso es todo por ahora; seguimos con el proyecto",
+      "despedida"
+    ],
+    [
+      "dame el código por favor",
+      "orden"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "Vale, corrige eso",
+      "correccion"
+    ],
+    [
+      "te lo agradezco porque quiero continuar",
+      "agradecimiento"
+    ],
+    [
+      "perfecto, gracias un momento",
+      "agradecimiento"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "Vale, qué sigue",
+      "seguimiento"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "Necesito: nos vemos",
+      "despedida"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "qué sigue; seguimos con el proyecto",
+      "seguimiento"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "hablamos después",
+      "despedida"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "Vale, así es",
+      "confirmacion"
+    ],
+    [
+      "tengo una duda porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "nos vemos y dime por qué",
+      "despedida"
+    ],
+    [
+      "Oye, hola",
+      "saludo"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "hablamos después ahora",
+      "despedida"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "Vale, necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "exacto",
+      "confirmacion"
+    ],
+    [
+      "Oye, nos vemos",
+      "despedida"
+    ],
+    [
+      "eso es todo por ahora porque quiero continuar",
+      "despedida"
+    ],
+    [
+      "buen día y dime por qué",
+      "saludo"
+    ],
+    [
+      "hablamos después",
+      "despedida"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "Necesito: buen día",
+      "saludo"
+    ],
+    [
+      "Oye, eso quería",
+      "confirmacion"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "buenas, seguimos; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "quiero que lo revises porque quiero continuar",
+      "solicitud"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "hasta luego por favor",
+      "despedida"
+    ],
+    [
+      "Vale, correcto",
+      "confirmacion"
+    ],
+    [
+      "eso está equivocado un momento",
+      "correccion"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "nos vemos y dime por qué",
+      "despedida"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "hola y dime por qué",
+      "saludo"
+    ],
+    [
+      "Vale, esto no funciona",
+      "queja"
+    ],
+    [
+      "cómo funciona por favor",
+      "pregunta"
+    ],
+    [
+      "ejecuta la tarea porque quiero continuar",
+      "orden"
+    ],
+    [
+      "continuemos",
+      "seguimiento"
+    ],
+    [
+      "continúa con el proyecto y dime por qué",
+      "orden"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "eso quería y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "Necesito: sí",
+      "confirmacion"
+    ],
+    [
+      "Vale, me voy",
+      "despedida"
+    ],
+    [
+      "hablamos después y dime por qué",
+      "despedida"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "Vale, no",
+      "negacion"
+    ],
+    [
+      "hazlo de otra forma; seguimos con el proyecto",
+      "correccion"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "me da gusto verte",
+      "saludo"
+    ],
+    [
+      "analízalo ahora",
+      "orden"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "continúa con el proyecto ahora",
+      "orden"
+    ],
+    [
+      "sigamos desde ahí un momento",
+      "seguimiento"
+    ],
+    [
+      "nos vemos ahora",
+      "despedida"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "hazlo",
+      "orden"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "Vale, me voy",
+      "despedida"
+    ],
+    [
+      "Oye, me da gusto verte",
+      "saludo"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "nos vemos ahora",
+      "despedida"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "buen día ahora",
+      "saludo"
+    ],
+    [
+      "Necesito: continúa con el proyecto",
+      "orden"
+    ],
+    [
+      "hasta luego por favor",
+      "despedida"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "corrige eso",
+      "correccion"
+    ],
+    [
+      "por qué sucede",
+      "pregunta"
+    ],
+    [
+      "y después por favor",
+      "seguimiento"
+    ],
+    [
+      "Necesito: buen día",
+      "saludo"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "analízalo",
+      "orden"
+    ],
+    [
+      "Oye, y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "cómo funciona por favor",
+      "pregunta"
+    ],
+    [
+      "Necesito: me da gusto verte",
+      "saludo"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "Oye, necesito que lo mejores",
+      "solicitud"
+    ],
+    [
+      "Necesito: sí",
+      "confirmacion"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "puedes decirme qué significa y dime por qué",
+      "pregunta"
+    ],
+    [
+      "no me sirve ahora",
+      "queja"
+    ],
+    [
+      "sí ahora",
+      "confirmacion"
+    ],
+    [
+      "hola, ¿estás ahí?; seguimos con el proyecto",
+      "saludo"
+    ],
+    [
+      "eso quería ahora",
+      "confirmacion"
+    ],
+    [
+      "Oye, continuemos",
+      "seguimiento"
+    ],
+    [
+      "crea esto por favor",
+      "orden"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "qué es esto",
+      "pregunta"
+    ],
+    [
+      "Oye, continuemos",
+      "seguimiento"
+    ],
+    [
+      "Necesito: hola",
+      "saludo"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "cómo funciona porque quiero continuar",
+      "pregunta"
+    ],
+    [
+      "dame el código porque quiero continuar",
+      "orden"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "correcto porque quiero continuar",
+      "confirmacion"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "y después porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "Vale, así es",
+      "confirmacion"
+    ],
+    [
+      "hay un error un momento",
+      "queja"
+    ],
+    [
+      "y después porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "incorrecto porque quiero continuar",
+      "negacion"
+    ],
+    [
+      "quiero que lo revises ahora",
+      "solicitud"
+    ],
+    [
+      "Oye, y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "Vale, hola, ¿estás ahí?",
+      "saludo"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "puedes decirme qué significa ahora",
+      "pregunta"
+    ],
+    [
+      "Oye, eso quería",
+      "confirmacion"
+    ],
+    [
+      "y ahora qué ahora",
+      "seguimiento"
+    ],
+    [
+      "Vale, crea esto",
+      "orden"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "adiós",
+      "despedida"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "qué tal por favor",
+      "saludo"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "Necesito: ayúdame con esto",
+      "solicitud"
+    ],
+    [
+      "de acuerdo; seguimos con el proyecto",
+      "confirmacion"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "Oye, hazlo",
+      "orden"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "puedes ayudarme un momento",
+      "solicitud"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "qué quieres decir y dime por qué",
+      "aclaracion"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "y ahora qué ahora",
+      "seguimiento"
+    ],
+    [
+      "correcto un momento",
+      "confirmacion"
+    ],
+    [
+      "Vale, tengo una duda",
+      "pregunta"
+    ],
+    [
+      "analízalo y dime por qué",
+      "orden"
+    ],
+    [
+      "crea esto un momento",
+      "orden"
+    ],
+    [
+      "no entendí porque quiero continuar",
+      "aclaracion"
+    ],
+    [
+      "no es eso por favor",
+      "negacion"
+    ],
+    [
+      "qué sigue porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "puedes ayudarme y dime por qué",
+      "solicitud"
+    ],
+    [
+      "Oye, puedes aclararlo",
+      "aclaracion"
+    ],
+    [
+      "hasta luego un momento",
+      "despedida"
+    ],
+    [
+      "qué sigue por favor",
+      "seguimiento"
+    ],
+    [
+      "modifica esa parte porque quiero continuar",
+      "correccion"
+    ],
+    [
+      "Vale, me explicas esto",
+      "pregunta"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "Necesito: sí",
+      "confirmacion"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "eso está equivocado y dime por qué",
+      "correccion"
+    ],
+    [
+      "no quiero eso; seguimos con el proyecto",
+      "negacion"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "incorrecto ahora",
+      "negacion"
+    ],
+    [
+      "me explicas esto por favor",
+      "pregunta"
+    ],
+    [
+      "así es por favor",
+      "confirmacion"
+    ],
+    [
+      "hay un error y dime por qué",
+      "queja"
+    ],
+    [
+      "Vale, me explicas esto",
+      "pregunta"
+    ],
+    [
+      "eso no y dime por qué",
+      "negacion"
+    ],
+    [
+      "hey",
+      "saludo"
+    ],
+    [
+      "necesito que lo mejores; seguimos con el proyecto",
+      "solicitud"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "y después por favor",
+      "seguimiento"
+    ],
+    [
+      "buenas un momento",
+      "saludo"
+    ],
+    [
+      "qué es esto y dime por qué",
+      "pregunta"
+    ],
+    [
+      "me explicas esto un momento",
+      "pregunta"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "Necesito: y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "analízalo ahora",
+      "orden"
+    ],
+    [
+      "no",
+      "negacion"
+    ],
+    [
+      "buenas un momento",
+      "saludo"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "no entendí ahora",
+      "aclaracion"
+    ],
+    [
+      "dame el código un momento",
+      "orden"
+    ],
+    [
+      "qué tal por favor",
+      "saludo"
+    ],
+    [
+      "Necesito: muchas gracias",
+      "agradecimiento"
+    ],
+    [
+      "eso no un momento",
+      "negacion"
+    ],
+    [
+      "hasta luego un momento",
+      "despedida"
+    ],
+    [
+      "muchas gracias por favor",
+      "agradecimiento"
+    ],
+    [
+      "Oye, qué es esto",
+      "pregunta"
+    ],
+    [
+      "sigamos desde ahí porque quiero continuar",
+      "seguimiento"
+    ],
+    [
+      "Vale, qué sigue",
+      "seguimiento"
+    ],
+    [
+      "esto no funciona",
+      "queja"
+    ],
+    [
+      "y ahora qué ahora",
+      "seguimiento"
+    ],
+    [
+      "gracias",
+      "agradecimiento"
+    ],
+    [
+      "me da gusto verte y dime por qué",
+      "saludo"
+    ],
+    [
+      "Oye, eso quería",
+      "confirmacion"
+    ],
+    [
+      "necesito ayuda",
+      "solicitud"
+    ],
+    [
+      "está mal por favor",
+      "queja"
+    ],
+    [
+      "Vale, me refiero a lo anterior",
+      "aclaracion"
+    ],
+    [
+      "puedes aclararlo; seguimos con el proyecto",
+      "aclaracion"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "esto salió mal; seguimos con el proyecto",
+      "queja"
+    ],
+    [
+      "qué quieres decir un momento",
+      "aclaracion"
+    ],
+    [
+      "Oye, eso quería",
+      "confirmacion"
+    ],
+    [
+      "Vale, así es",
+      "confirmacion"
+    ],
+    [
+      "sigamos desde ahí por favor",
+      "seguimiento"
+    ],
+    [
+      "no me sirve porque quiero continuar",
+      "queja"
+    ],
+    [
+      "Necesito: no es eso",
+      "negacion"
+    ],
+    [
+      "Oye, esto salió mal",
+      "queja"
+    ],
+    [
+      "nos vemos y dime por qué",
+      "despedida"
+    ],
+    [
+      "te lo agradezco ahora",
+      "agradecimiento"
+    ],
+    [
+      "Vale, gracias",
+      "agradecimiento"
+    ],
+    [
+      "hablamos después y dime por qué",
+      "despedida"
+    ],
+    [
+      "Oye, exacto",
+      "confirmacion"
+    ],
+    [
+      "sobre lo anterior",
+      "seguimiento"
+    ],
+    [
+      "hazlo ahora",
+      "orden"
+    ],
+    [
+      "y ahora qué",
+      "seguimiento"
+    ],
+    [
+      "Oye, no quiero eso",
+      "negacion"
+    ],
+    [
+      "nos vemos y dime por qué",
+      "despedida"
+    ],
+    [
+      "crea esto porque quiero continuar",
+      "orden"
+    ],
+    [
+      "de acuerdo por favor",
+      "confirmacion"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "muy bien, gracias; seguimos con el proyecto",
+      "agradecimiento"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ],
+    [
+      "correcto un momento",
+      "confirmacion"
+    ],
+    [
+      "Vale, cómo funciona",
+      "pregunta"
+    ],
+    [
+      "Necesito: explícame mejor",
+      "aclaracion"
+    ],
+    [
+      "Necesito: adiós",
+      "despedida"
+    ],
+    [
+      "sí y dime por qué",
+      "confirmacion"
+    ],
+    [
+      "buenas, seguimos por favor",
+      "saludo"
+    ],
+    [
+      "ayúdame con esto por favor",
+      "solicitud"
+    ],
+    [
+      "Necesito: está mal",
+      "queja"
+    ],
+    [
+      "Necesito: hay que cambiarlo",
+      "correccion"
+    ]
+  ]
+}

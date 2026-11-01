@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "categoria": "anp_interno",
+    "tipo": "configuracion"
+  },
+  "fuentes_datos": {
+    "biblioteca_local": "datos/ (120+ archivos JSON)",
+    "base_sqlite": "almacenamiento/cerebro_anp.db",
+    "memoria_sesion": "CoordinadorCentral.sesion"
+  },
+  "prioridades_busqueda": [
+    "datos/lenguaje/espanol/",
+    "datos/ciencia/",
+    "datos/tecnologia/",
+    "datos/humanidad/",
+    "datos/cultura/",
+    "datos/entretenimiento/"
+  ],
+  "sintesis": {
+    "combinar_max_conceptos": 3,
+    "temperatura_creatividad": 0.7,
+    "usar_analogias": true,
+    "citar_fuentes": false,
+    "nivel_detalle_default": "medio"
+  }
+}

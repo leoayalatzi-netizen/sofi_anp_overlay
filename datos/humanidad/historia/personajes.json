@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "categoria": "humanidad/historia",
+    "tipo": "personajes",
+    "total": 20
+  },
+  "datos": [
+    {
+      "nombre": "Albert Einstein",
+      "epoca": "1879-1955",
+      "campo": "Física teórica",
+      "logros": [
+        "Teoría de la relatividad",
+        "E=mc²",
+        "Efecto fotoeléctrico (Nobel 1921)",
+        "Relatividad general"
+      ],
+      "frase_celebre": "La imaginación es más importante que el conocimiento"
+    },
+    {
+      "nombre": "Isaac Newton",
+      "epoca": "1643-1727",
+      "campo": "Física y matemáticas",
+      "logros": [
+        "Leyes del movimiento",
+        "Ley de gravitación universal",
+        "Cálculo infinitesimal",
+        "Óptica"
+      ],
+      "frase_celebre": "Si he visto más lejos, es porque estoy sentado sobre los hombros de gigantes"
+    },
+    {
+      "nombre": "Marie Curie",
+      "epoca": "1867-1934",
+      "campo": "Física y química",
+      "logros": [
+        "Descubrimiento del radio y polonio",
+        "Primera persona con 2 Nobel",
+        "Pionera en radiactividad"
+      ],
+      "frase_celebre": "Nada en la vida debe ser temido, solo comprendido"
+    },
+    {
+      "nombre": "Leonardo da Vinci",
+      "epoca": "1452-1519",
+      "campo": "Arte, ciencia, ingeniería",
+      "logros": [
+        "Mona Lisa",
+        "La Última Cena",
+        "Diseños de máquinas voladoras",
+        "Anatomía"
+      ],
+      "frase_celebre": "La simplicidad es la máxima sofisticación"
+    },
+    {
+      "nombre": "Cleopatra VII",
+      "epoca": "69-30 a.C.",
+      "campo": "Política",
+      "logros": [
+        "Última faraona de Egipto",
+        "Alianzas con Roma",
+        "Preservación de la cultura egipcia"
+      ]
+    },
+    {
+      "nombre": "William Shakespeare",
+      "epoca": "1564-1616",
+      "campo": "Literatura",
+      "logros": [
+        "Hamlet",
+        "Romeo y Julieta",
+        "Macbeth",
+        "154 sonetos"
+      ],
+      "frase_celebre": "Ser o no ser, esa es la cuestión"
+    },
+    {
+      "nombre": "Nikola Tesla",
+      "epoca": "1856-1943",
+      "campo": "Ingeniería eléctrica",
+      "logros": [
+        "Corriente alterna",
+        "Bobina Tesla",
+        "Radio",
+        "Motor de inducción"
+      ],
+      "frase_celebre": "El presente es de ustedes, pero el futuro me pertenece"
+    },
+    {
+      "nombre": "Ada Lovelace",
+      "epoca": "1815-1852",
+      "campo": "Matemáticas",
+      "logros": [
+        "Primera programadora de la historia",
+        "Trabajo en la Máquina Analítica de Babbage",
+        "Visión de la computación más allá de cálculos"
+      ]
+    },
+    {
+      "nombre": "Sócrates",
+      "epoca": "470-399 a.C.",
+      "campo": "Filosofía",
+      "logros": [
+        "Método socrático",
+        "Ética",
+        "Maestro de Platón"
+      ],
+      "frase_celebre": "Solo sé que no sé nada"
+    },
+    {
+      "nombre": "Frida Kahlo",
+      "epoca": "1907-1954",
+      "campo": "Arte",
+      "logros": [
+        "Pintura surrealista",
+        "Ícono feminista",
+        "Autorretratos"
+      ],
+      "frase_celebre": "Pies, ¿para qué los quiero si tengo alas para volar?"
+    },
+    {
+      "nombre": "Nelson Mandela",
+      "epoca": "1918-2013",
+      "campo": "Política y derechos humanos",
+      "logros": [
+        "Fin del apartheid",
+        "Primer presidente negro de Sudáfrica",
+        "Premio Nobel de la Paz 1993"
+      ],
+      "frase_celebre": "La educación es el arma más poderosa para cambiar el mundo"
+    },
+    {
+      "nombre": "Charles Darwin",
+      "epoca": "1809-1882",
+      "campo": "Biología",
+      "logros": [
+        "Teoría de la evolución",
+        "Selección natural",
+        "El origen de las especies"
+      ],
+      "frase_celebre": "No es la especie más fuerte la que sobrevive, sino la que mejor se adapta al cambio"
+    },
+    {
+      "nombre": "Hipatia de Alejandría",
+      "epoca": "355-415 d.C.",
+      "campo": "Matemáticas, astronomía, filosofía",
+      "logros": [
+        "Primera mujer matemática documentada",
+        "Comentarios sobre Ptolomeo",
+        "Astrolabio"
+      ]
+    },
+    {
+      "nombre": "Mahatma Gandhi",
+      "epoca": "1869-1948",
+      "campo": "Política y paz",
+      "logros": [
+        "Independencia de India",
+        "Resistencia no violenta",
+        "Influencia en derechos civiles"
+      ],
+      "frase_celebre": "Sé el cambio que quieres ver en el mundo"
+    },
+    {
+      "nombre": "Alan Turing",
+      "epoca": "1912-1954",
+      "campo": "Computación",
+      "logros": [
+        "Máquina de Turing",
+        "Descifrado de Enigma (WWII)",
+        "Padre de la computación teórica",
+        "Test de Turing"
+      ]
+    },
+    {
+      "nombre": "Juana de Arco",
+      "epoca": "1412-1431",
+      "campo": "Militar y religión",
+      "logros": [
+        "Lideró ejército francés a los 17 años",
+        "Victoria en Orleans",
+        "Santa de la Iglesia Católica"
+      ]
+    },
+    {
+      "nombre": "Confucio",
+      "epoca": "551-479 a.C.",
+      "campo": "Filosofía",
+      "logros": [
+        "Confucianismo",
+        "Ética social",
+        "Educación para todos"
+      ],
+      "frase_celebre": "Elige un trabajo que ames y no tendrás que trabajar ni un día de tu vida"
+    },
+    {
+      "nombre": "Rosalind Franklin",
+      "epoca": "1920-1958",
+      "campo": "Química y biología",
+      "logros": [
+        "Foto 51 (estructura del ADN)",
+        "Difracción de rayos X",
+        "Contribución clave no reconocida en vida"
+      ]
+    },
+    {
+      "nombre": "Aristóteles",
+      "epoca": "384-322 a.C.",
+      "campo": "Filosofía, ciencia",
+      "logros": [
+        "Lógica formal",
+        "Biología",
+        "Ética",
+        "Política",
+        "Maestro de Alejandro Magno"
+      ],
+      "frase_celebre": "La excelencia es un hábito, no un acto"
+    },
+    {
+      "nombre": "Malala Yousafzai",
+      "epoca": "1997-presente",
+      "campo": "Educación y activismo",
+      "logros": [
+        "Nobel de la Paz 2014 (la más joven)",
+        "Activismo por educación femenina",
+        "Sobrevivió a ataque talibán"
+      ]
+    }
+  ]
+}

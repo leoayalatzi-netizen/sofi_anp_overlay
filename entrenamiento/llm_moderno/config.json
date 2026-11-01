@@ -1,0 +1,20 @@
+{
+  "base_model": "Qwen/Qwen3-8B",
+  "model_family": "Qwen3",
+  "method": "QLoRA + supervised fine-tuning (SFT)",
+  "load_in_4bit": true,
+  "max_length": 2048,
+  "lora_r": 64,
+  "lora_alpha": 128,
+  "lora_dropout": 0.05,
+  "learning_rate": 0.0001,
+  "num_train_epochs": 2,
+  "per_device_train_batch_size": 1,
+  "gradient_accumulation_steps": 16,
+  "warmup_ratio": 0.03,
+  "weight_decay": 0.01,
+  "logging_steps": 10,
+  "eval_steps": 100,
+  "save_steps": 100,
+  "seed": 20261026
+}

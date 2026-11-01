@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "categoria": "vida_cotidiana/salud",
+    "total": 15
+  },
+  "datos": [
+    {
+      "sistema": "Sistema nervioso",
+      "componentes": [
+        "Cerebro",
+        "Médula espinal",
+        "Nervios"
+      ],
+      "funcion": "Controla y coordina todas las funciones del cuerpo. Procesa información sensorial",
+      "dato": "El cerebro tiene 86,000 millones de neuronas"
+    },
+    {
+      "sistema": "Sistema circulatorio",
+      "componentes": [
+        "Corazón",
+        "Arterias",
+        "Venas",
+        "Capilares"
+      ],
+      "funcion": "Transporta oxígeno, nutrientes y desechos por todo el cuerpo",
+      "dato": "Los vasos sanguíneos de un adulto miden 100,000 km extendidos"
+    },
+    {
+      "sistema": "Sistema respiratorio",
+      "componentes": [
+        "Pulmones",
+        "Tráquea",
+        "Bronquios",
+        "Diafragma"
+      ],
+      "funcion": "Intercambio de oxígeno y dióxido de carbono con la sangre",
+      "dato": "Respiramos unas 20,000 veces al día"
+    },
+    {
+      "sistema": "Sistema digestivo",
+      "componentes": [
+        "Boca",
+        "Esófago",
+        "Estómago",
+        "Intestinos",
+        "Hígado"
+      ],
+      "funcion": "Descompone alimentos y absorbe nutrientes",
+      "dato": "El intestino delgado mide 6-7 metros desplegado"
+    },
+    {
+      "sistema": "Sistema óseo",
+      "componentes": "206 huesos en adultos (300 al nacer)",
+      "funcion": "Soporte estructural, protección de órganos, producción de sangre",
+      "dato": "El hueso más pequeño es el estribo en el oído (3mm)"
+    },
+    {
+      "sistema": "Sistema muscular",
+      "componentes": "Más de 600 músculos",
+      "tipos": [
+        "Esquelético (voluntario)",
+        "Liso (involuntario)",
+        "Cardíaco"
+      ],
+      "dato": "El músculo más fuerte por tamaño es el masetero (mandíbula)"
+    },
+    {
+      "sistema": "Sistema inmunológico",
+      "componentes": [
+        "Glóbulos blancos",
+        "Ganglios linfáticos",
+        "Bazo",
+        "Timo"
+      ],
+      "funcion": "Defiende el cuerpo contra infecciones y enfermedades"
+    },
+    {
+      "organo": "Cerebro",
+      "peso": "1.3-1.4 kg",
+      "consumo_energia": "20% de la energía corporal",
+      "dato": "Genera 20-23 watts de electricidad"
+    },
+    {
+      "organo": "Corazón",
+      "tamaño": "Como un puño cerrado",
+      "latidos_diarios": "100,000",
+      "sangre_bombeada": "7,500 litros al día"
+    },
+    {
+      "organo": "Piel",
+      "superficie": "2 metros cuadrados",
+      "peso": "3-5 kg",
+      "dato": "Es el órgano más grande. Se renueva cada 28 días"
+    },
+    {
+      "organo": "Ojo",
+      "resolucion": "Equivalente a 576 megapíxeles",
+      "colores_distinguibles": "10 millones",
+      "dato": "Es el segundo órgano más complejo después del cerebro"
+    },
+    {
+      "organo": "Hígado",
+      "peso": "1.5 kg",
+      "funciones": "Más de 500",
+      "dato": "Único órgano interno que puede regenerarse"
+    },
+    {
+      "sentido": "Vista",
+      "porcentaje_informacion": "80% de la información sensorial",
+      "dato": "El ojo humano puede distinguir una vela encendida a 2 km en la oscuridad"
+    },
+    {
+      "sentido": "Oído",
+      "rango_frecuencias": "20 Hz - 20,000 Hz",
+      "dato": "El oído nunca descansa, incluso al dormir sigue procesando sonidos"
+    },
+    {
+      "sentido": "Olfato",
+      "olores_distinguibles": "Más de 1 billón",
+      "dato": "Es el sentido más vinculado a la memoria emocional"
+    }
+  ]
+}

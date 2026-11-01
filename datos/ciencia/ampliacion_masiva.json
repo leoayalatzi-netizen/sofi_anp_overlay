@@ -1,0 +1,75 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "ciencia",
+  "n_items": 11
+ },
+ "datos": [
+  {
+   "concepto": "celula",
+   "nombre": "Célula",
+   "definicion": "Unidad estructural y funcional básica de todos los seres vivos",
+   "ejemplo": "El cuerpo humano está compuesto por billones de células especializadas"
+  },
+  {
+   "concepto": "adn",
+   "nombre": "ADN (ácido desoxirribonucleico)",
+   "definicion": "Molécula que contiene la información genética hereditaria de los seres vivos",
+   "ejemplo": "El ADN tiene una estructura de doble hélice descubierta por Watson y Crick"
+  },
+  {
+   "concepto": "tabla_periodica",
+   "nombre": "Tabla periódica",
+   "definicion": "Organización sistemática de los elementos químicos según su número atómico y propiedades",
+   "ejemplo": "El hidrógeno es el primer elemento de la tabla periódica"
+  },
+  {
+   "concepto": "reaccion_quimica",
+   "nombre": "Reacción química",
+   "definicion": "Proceso en el que una o más sustancias se transforman en otras diferentes",
+   "ejemplo": "La combustión es una reacción química que libera energía en forma de calor y luz"
+  },
+  {
+   "concepto": "atomo",
+   "nombre": "Átomo",
+   "definicion": "Unidad básica de la materia, compuesta por protones, neutrones y electrones",
+   "ejemplo": "Los átomos se combinan entre sí para formar moléculas"
+  },
+  {
+   "concepto": "gravedad",
+   "nombre": "Gravedad",
+   "definicion": "Fuerza de atracción que ejercen los cuerpos con masa entre sí",
+   "ejemplo": "La gravedad terrestre es la responsable de que los objetos caigan hacia el suelo"
+  },
+  {
+   "concepto": "evolucion_biologica",
+   "nombre": "Evolución biológica",
+   "definicion": "Proceso mediante el cual las especies cambian a lo largo del tiempo por selección natural",
+   "ejemplo": "Charles Darwin propuso la teoría de la evolución por selección natural en el siglo XIX"
+  },
+  {
+   "concepto": "sistema_solar",
+   "nombre": "Sistema Solar",
+   "definicion": "Conjunto formado por el Sol y los cuerpos celestes que orbitan a su alrededor, incluyendo ocho planetas",
+   "ejemplo": "Júpiter es el planeta más grande del Sistema Solar"
+  },
+  {
+   "concepto": "bacteria",
+   "nombre": "Bacteria",
+   "definicion": "Microorganismo unicelular sin núcleo definido, presente en prácticamente todos los ambientes de la Tierra",
+   "ejemplo": "Algunas bacterias son beneficiosas para la digestión humana, mientras otras causan enfermedades"
+  },
+  {
+   "concepto": "vacuna",
+   "nombre": "Vacuna",
+   "definicion": "Preparado biológico que estimula el sistema inmunológico para generar defensa contra una enfermedad específica",
+   "ejemplo": "Las vacunas han sido clave para erradicar o controlar enfermedades como la viruela"
+  },
+  {
+   "concepto": "agujero_negro",
+   "nombre": "Agujero negro",
+   "definicion": "Región del espacio con un campo gravitatorio tan intenso que ni la luz puede escapar de él",
+   "ejemplo": "Los agujeros negros se forman generalmente del colapso de estrellas muy masivas"
+  }
+ ]
+}

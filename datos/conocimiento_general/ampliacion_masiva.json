@@ -1,0 +1,123 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "conocimiento_general",
+  "n_items": 19
+ },
+ "datos": [
+  {
+   "concepto": "invento_imprenta",
+   "nombre": "Imprenta",
+   "definicion": "Tecnología desarrollada por Johannes Gutenberg en el siglo XV que permitió reproducir textos en masa",
+   "ejemplo": "La invención de la imprenta facilitó la difusión masiva del conocimiento en Europa"
+  },
+  {
+   "concepto": "descubrimiento_america",
+   "nombre": "Llegada de Colón a América",
+   "definicion": "Evento histórico de 1492 en el que Cristóbal Colón llegó al continente americano en un viaje patrocinado por España",
+   "ejemplo": "La llegada de Colón a América marcó el inicio del contacto entre Europa y el nuevo continente"
+  },
+  {
+   "concepto": "revolucion_industrial",
+   "nombre": "Revolución Industrial",
+   "definicion": "Periodo histórico de transformación económica y tecnológica iniciado en Inglaterra a finales del siglo XVIII",
+   "ejemplo": "La máquina de vapor fue una de las tecnologías clave de la Revolución Industrial"
+  },
+  {
+   "concepto": "bandera_significado",
+   "nombre": "Bandera nacional",
+   "definicion": "Símbolo patrio distintivo de un país, generalmente compuesto por colores y diseños con significado histórico",
+   "ejemplo": "Cada color de una bandera nacional suele representar un valor o hecho histórico del país"
+  },
+  {
+   "concepto": "moneda_economia",
+   "nombre": "Moneda",
+   "definicion": "Unidad monetaria oficial usada en un país para el intercambio de bienes y servicios",
+   "ejemplo": "El euro es la moneda oficial de la mayoría de los países de la Unión Europea"
+  },
+  {
+   "concepto": "premio_nobel",
+   "nombre": "Premio Nobel",
+   "definicion": "Galardón internacional anual otorgado a personas destacadas en física, química, medicina, literatura, paz y economía",
+   "ejemplo": "El Premio Nobel de la Paz se entrega en Oslo, Noruega, a diferencia de los demás que se entregan en Estocolmo"
+  },
+  {
+   "concepto": "naciones_unidas",
+   "nombre": "Naciones Unidas (ONU)",
+   "definicion": "Organización internacional fundada en 1945 para fomentar la paz, la cooperación y el desarrollo entre los países",
+   "ejemplo": "La ONU tiene su sede principal en la ciudad de Nueva York"
+  },
+  {
+   "concepto": "sistema_metrico",
+   "nombre": "Sistema métrico decimal",
+   "definicion": "Sistema de medidas basado en el metro, el kilogramo y el litro, usado oficialmente en la mayoría de los países",
+   "ejemplo": "El sistema métrico decimal facilita las conversiones al basarse en múltiplos de diez"
+  },
+  {
+   "concepto": "calendario_gregoriano",
+   "nombre": "Calendario gregoriano",
+   "definicion": "Sistema de calendario actualmente usado en la mayor parte del mundo, introducido por el papa Gregorio XIII en 1582",
+   "ejemplo": "El calendario gregoriano tiene 365 días, con un día adicional cada año bisiesto"
+  },
+  {
+   "concepto": "democracia",
+   "nombre": "Democracia",
+   "definicion": "Sistema de gobierno donde el poder reside en el pueblo, que elige a sus representantes mediante el voto",
+   "ejemplo": "En una democracia representativa, los ciudadanos eligen a sus autoridades mediante elecciones periódicas"
+  },
+  {
+   "concepto": "derechos_humanos",
+   "nombre": "Derechos humanos",
+   "definicion": "Conjunto de derechos y libertades básicas que se consideran inherentes a todos los seres humanos",
+   "ejemplo": "La Declaración Universal de los Derechos Humanos fue adoptada por la ONU en 1948"
+  },
+  {
+   "concepto": "alfabeto",
+   "nombre": "Alfabeto",
+   "definicion": "Conjunto ordenado de letras usadas para representar los sonidos de un idioma por escrito",
+   "ejemplo": "El alfabeto latino es usado por el español, el inglés y muchos otros idiomas"
+  },
+  {
+   "concepto": "reloj_de_arena",
+   "nombre": "Reloj de arena",
+   "definicion": "Instrumento antiguo para medir el tiempo mediante el paso de arena entre dos recipientes conectados",
+   "ejemplo": "Antes de los relojes mecánicos, el reloj de arena ayudaba a medir intervalos de tiempo"
+  },
+  {
+   "concepto": "biblioteca_institucion",
+   "nombre": "Biblioteca",
+   "definicion": "Institución que reúne, organiza y presta libros y otros materiales para consulta pública",
+   "ejemplo": "La Biblioteca de Alejandría fue una de las más importantes de la antigüedad"
+  },
+  {
+   "concepto": "censo_poblacional",
+   "nombre": "Censo poblacional",
+   "definicion": "Proceso oficial de contar y recopilar datos sobre los habitantes de un país o región",
+   "ejemplo": "Los censos poblacionales ayudan a los gobiernos a planificar servicios públicos"
+  },
+  {
+   "concepto": "codigo_morse",
+   "nombre": "Código Morse",
+   "definicion": "Sistema de comunicación que representa letras y números mediante combinaciones de puntos y rayas",
+   "ejemplo": "El código Morse se usó ampliamente en telegrafía antes de las telecomunicaciones modernas"
+  },
+  {
+   "concepto": "husos_horarios_extra",
+   "nombre": "Zona horaria",
+   "definicion": "Región del planeta que comparte la misma hora oficial, definida en relación al meridiano de Greenwich",
+   "ejemplo": "España y Alemania comparten la misma zona horaria a pesar de estar en distintos países"
+  },
+  {
+   "concepto": "simbolo_reciclaje",
+   "nombre": "Símbolo de reciclaje",
+   "definicion": "Icono de tres flechas que forman un triángulo, usado para indicar que un material es reciclable",
+   "ejemplo": "El símbolo de reciclaje aparece en muchos envases de plástico y papel"
+  },
+  {
+   "concepto": "moneda_criptografica",
+   "nombre": "Criptomoneda",
+   "definicion": "Moneda digital que utiliza criptografía para asegurar transacciones, sin depender de un banco central",
+   "ejemplo": "Bitcoin fue la primera criptomoneda creada, en el año 2009"
+  }
+ ]
+}

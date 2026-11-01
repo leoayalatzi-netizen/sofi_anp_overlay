@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "categoria": "cultura/arte",
+    "total": 12
+  },
+  "datos": [
+    {
+      "obra": "Mona Lisa (La Gioconda)",
+      "artista": "Leonardo da Vinci",
+      "epoca": "1503-1519",
+      "ubicacion": "Museo del Louvre, París",
+      "dato": "El retrato más famoso del mundo. Su sonrisa enigmática ha fascinado por siglos"
+    },
+    {
+      "obra": "La noche estrellada",
+      "artista": "Vincent van Gogh",
+      "epoca": "1889",
+      "estilo": "Postimpresionismo",
+      "ubicacion": "MoMA, Nueva York",
+      "dato": "Pintada desde la ventana de su habitación en el asilo de Saint-Rémy"
+    },
+    {
+      "obra": "El Guernica",
+      "artista": "Pablo Picasso",
+      "epoca": "1937",
+      "estilo": "Cubismo",
+      "tema": "Bombardeo de Guernica durante la Guerra Civil Española",
+      "dato": "Un poderoso alegato antibélico de 3.5m × 7.8m"
+    },
+    {
+      "obra": "La creación de Adán",
+      "artista": "Miguel Ángel",
+      "epoca": "1511",
+      "ubicacion": "Capilla Sixtina, Vaticano",
+      "dato": "Parte del techo de la Capilla Sixtina. Los dedos casi tocándose son icónicos"
+    },
+    {
+      "obra": "El grito",
+      "artista": "Edvard Munch",
+      "epoca": "1893",
+      "estilo": "Expresionismo",
+      "dato": "Existen 4 versiones. Representa la angustia existencial moderna"
+    },
+    {
+      "obra": "Las meninas",
+      "artista": "Diego Velázquez",
+      "epoca": "1656",
+      "ubicacion": "Museo del Prado, Madrid",
+      "dato": "Obra maestra del Siglo de Oro español. Juego de perspectivas y espejos"
+    },
+    {
+      "obra": "La persistencia de la memoria",
+      "artista": "Salvador Dalí",
+      "epoca": "1931",
+      "estilo": "Surrealismo",
+      "dato": "Los relojes blandos son un ícono del surrealismo. Representa la relatividad del tiempo"
+    },
+    {
+      "obra": "Los girasoles",
+      "artista": "Vincent van Gogh",
+      "epoca": "1888",
+      "serie": "5 cuadros",
+      "dato": "Van Gogh los pintó para decorar la casa de su amigo Gauguin en Arlés"
+    },
+    {
+      "obra": "El David",
+      "artista": "Miguel Ángel",
+      "epoca": "1501-1504",
+      "tipo": "Escultura en mármol",
+      "altura": "5.17 metros",
+      "ubicacion": "Galería de la Academia, Florencia"
+    },
+    {
+      "obra": "Impresión, sol naciente",
+      "artista": "Claude Monet",
+      "epoca": "1872",
+      "estilo": "Impresionismo",
+      "dato": "Esta pintura dio nombre al movimiento impresionista"
+    },
+    {
+      "obra": "La joven de la perla",
+      "artista": "Johannes Vermeer",
+      "epoca": "1665",
+      "ubicacion": "Mauritshuis, La Haya",
+      "dato": "Conocida como 'la Mona Lisa del Norte' por su mirada cautivadora"
+    },
+    {
+      "obra": "El beso",
+      "artista": "Gustav Klimt",
+      "epoca": "1907-1908",
+      "estilo": "Modernismo/Art Nouveau",
+      "dato": "Obra cumbre de la 'fase dorada' de Klimt. Usa pan de oro real"
+    }
+  ]
+}

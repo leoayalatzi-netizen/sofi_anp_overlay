@@ -1,0 +1,46 @@
+{
+  "bootstrap": {
+    "block_size": 128,
+    "d_model": 192,
+    "n_layers": 4,
+    "n_heads": 4,
+    "vocab": 4096,
+    "parametros_aprox": 2188992
+  },
+  "small": {
+    "block_size": 256,
+    "d_model": 384,
+    "n_layers": 8,
+    "n_heads": 6,
+    "vocab": 8192,
+    "parametros_aprox": 14358912
+  },
+  "medium": {
+    "block_size": 512,
+    "d_model": 512,
+    "n_layers": 12,
+    "n_heads": 8,
+    "vocab": 16384,
+    "parametros_aprox": 38285824
+  },
+  "large": {
+    "block_size": 1024,
+    "d_model": 768,
+    "n_layers": 16,
+    "n_heads": 12,
+    "vocab": 32768,
+    "parametros_aprox": 114844416
+  },
+  "xlarge": {
+    "block_size": 2048,
+    "d_model": 1024,
+    "n_layers": 24,
+    "n_heads": 16,
+    "vocab": 32768,
+    "parametros_aprox": 272679936
+  },
+  "checkpoint_incluido": {
+    "archivo": "language_core.pt",
+    "parametros_reales": 3405504
+  }
+}

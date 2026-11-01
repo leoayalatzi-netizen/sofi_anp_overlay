@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "categoria": "lenguaje/espanol",
+    "tipo": "antonimos",
+    "total": 25
+  },
+  "datos": [
+    {
+      "par": [
+        "bueno",
+        "malo"
+      ]
+    },
+    {
+      "par": [
+        "grande",
+        "pequeño"
+      ]
+    },
+    {
+      "par": [
+        "rápido",
+        "lento"
+      ]
+    },
+    {
+      "par": [
+        "feliz",
+        "triste"
+      ]
+    },
+    {
+      "par": [
+        "amor",
+        "odio"
+      ]
+    },
+    {
+      "par": [
+        "bello",
+        "feo"
+      ]
+    },
+    {
+      "par": [
+        "rico",
+        "pobre"
+      ]
+    },
+    {
+      "par": [
+        "fuerte",
+        "débil"
+      ]
+    },
+    {
+      "par": [
+        "fácil",
+        "difícil"
+      ]
+    },
+    {
+      "par": [
+        "antiguo",
+        "nuevo"
+      ]
+    },
+    {
+      "par": [
+        "valiente",
+        "cobarde"
+      ]
+    },
+    {
+      "par": [
+        "inteligente",
+        "tonto"
+      ]
+    },
+    {
+      "par": [
+        "luz",
+        "oscuridad"
+      ]
+    },
+    {
+      "par": [
+        "vida",
+        "muerte"
+      ]
+    },
+    {
+      "par": [
+        "guerra",
+        "paz"
+      ]
+    },
+    {
+      "par": [
+        "verdad",
+        "mentira"
+      ]
+    },
+    {
+      "par": [
+        "justicia",
+        "injusticia"
+      ]
+    },
+    {
+      "par": [
+        "libertad",
+        "esclavitud"
+      ]
+    },
+    {
+      "par": [
+        "silencio",
+        "ruido"
+      ]
+    },
+    {
+      "par": [
+        "principio",
+        "final"
+      ]
+    },
+    {
+      "par": [
+        "subir",
+        "bajar"
+      ]
+    },
+    {
+      "par": [
+        "entrar",
+        "salir"
+      ]
+    },
+    {
+      "par": [
+        "recordar",
+        "olvidar"
+      ]
+    },
+    {
+      "par": [
+        "construir",
+        "destruir"
+      ]
+    },
+    {
+      "par": [
+        "ganar",
+        "perder"
+      ]
+    }
+  ]
+}

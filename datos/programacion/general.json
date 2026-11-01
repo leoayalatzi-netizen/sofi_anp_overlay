@@ -1,0 +1,423 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "programacion",
+  "n_items": 69
+ },
+ "datos": [
+  {
+   "concepto": "variable",
+   "nombre": "Variable",
+   "definicion": "Espacio con nombre en memoria que almacena un valor que puede cambiar durante la ejecución del programa",
+   "ejemplo": "En Python, x = 5 crea una variable x con el valor entero 5"
+  },
+  {
+   "concepto": "funcion",
+   "nombre": "Función",
+   "definicion": "Bloque de código reutilizable que recibe parámetros, ejecuta instrucciones y puede devolver un resultado",
+   "ejemplo": "def sumar(a, b): return a + b define una función que suma dos números"
+  },
+  {
+   "concepto": "bucle_for",
+   "nombre": "Bucle for",
+   "definicion": "Estructura de control que repite un bloque de código un número determinado de veces",
+   "ejemplo": "for i in range(5): print(i) imprime los números del 0 al 4"
+  },
+  {
+   "concepto": "bucle_while",
+   "nombre": "Bucle while",
+   "definicion": "Estructura de control que repite un bloque mientras se cumpla una condición",
+   "ejemplo": "while x < 10: x += 1 incrementa x hasta llegar a 10"
+  },
+  {
+   "concepto": "condicional_if",
+   "nombre": "Condicional if",
+   "definicion": "Estructura que ejecuta un bloque de código solo si una condición es verdadera",
+   "ejemplo": "if edad >= 18: print('mayor de edad')"
+  },
+  {
+   "concepto": "arreglo",
+   "nombre": "Arreglo o array",
+   "definicion": "Estructura de datos que almacena una colección ordenada de elementos del mismo tipo",
+   "ejemplo": "[1, 2, 3, 4] es un arreglo de cuatro números enteros"
+  },
+  {
+   "concepto": "lista_enlazada",
+   "nombre": "Lista enlazada",
+   "definicion": "Estructura de datos donde cada elemento (nodo) apunta al siguiente, permitiendo inserciones eficientes",
+   "ejemplo": "Una lista enlazada simple tiene nodos con un valor y un puntero al siguiente nodo"
+  },
+  {
+   "concepto": "pila",
+   "nombre": "Pila (stack)",
+   "definicion": "Estructura de datos LIFO donde el último elemento en entrar es el primero en salir",
+   "ejemplo": "Push agrega un elemento arriba de la pila, pop lo retira"
+  },
+  {
+   "concepto": "cola",
+   "nombre": "Cola (queue)",
+   "definicion": "Estructura de datos FIFO donde el primer elemento en entrar es el primero en salir",
+   "ejemplo": "Una fila de personas esperando su turno se comporta como una cola"
+  },
+  {
+   "concepto": "arbol_binario",
+   "nombre": "Árbol binario",
+   "definicion": "Estructura jerárquica donde cada nodo tiene como máximo dos hijos, izquierdo y derecho",
+   "ejemplo": "Los árboles binarios de búsqueda permiten buscar un valor en tiempo logarítmico"
+  },
+  {
+   "concepto": "hash_map",
+   "nombre": "Tabla hash (hash map)",
+   "definicion": "Estructura que asocia claves a valores usando una función hash para acceso casi constante",
+   "ejemplo": "Un diccionario en Python {'nombre': 'Ana'} es una tabla hash"
+  },
+  {
+   "concepto": "recursion",
+   "nombre": "Recursión",
+   "definicion": "Técnica donde una función se llama a sí misma para resolver un problema dividiéndolo en subproblemas más pequeños",
+   "ejemplo": "El cálculo del factorial n! = n * (n-1)! es un ejemplo clásico de recursión"
+  },
+  {
+   "concepto": "algoritmo_ordenamiento",
+   "nombre": "Algoritmo de ordenamiento",
+   "definicion": "Procedimiento que reorganiza una colección de elementos según un criterio, como orden ascendente",
+   "ejemplo": "QuickSort y MergeSort son algoritmos de ordenamiento eficientes con complejidad O(n log n)"
+  },
+  {
+   "concepto": "busqueda_binaria",
+   "nombre": "Búsqueda binaria",
+   "definicion": "Algoritmo que encuentra un elemento en una lista ordenada dividiendo repetidamente el espacio de búsqueda a la mitad",
+   "ejemplo": "Buscar el número 7 en una lista ordenada de 1000 elementos toma como máximo 10 comparaciones"
+  },
+  {
+   "concepto": "complejidad_algoritmica",
+   "nombre": "Complejidad algorítmica",
+   "definicion": "Medida de cuántos recursos (tiempo o memoria) necesita un algoritmo en función del tamaño de la entrada",
+   "ejemplo": "Un algoritmo O(n²) tarda mucho más que uno O(n) al crecer el tamaño de los datos"
+  },
+  {
+   "concepto": "programacion_orientada_objetos",
+   "nombre": "Programación orientada a objetos",
+   "definicion": "Paradigma que organiza el código en objetos con atributos y métodos, agrupados en clases",
+   "ejemplo": "Una clase Perro puede tener atributos como nombre y raza, y métodos como ladrar()"
+  },
+  {
+   "concepto": "clase",
+   "nombre": "Clase",
+   "definicion": "Plantilla que define los atributos y comportamientos que tendrán los objetos creados a partir de ella",
+   "ejemplo": "class Persona: def __init__(self, nombre): self.nombre = nombre"
+  },
+  {
+   "concepto": "herencia",
+   "nombre": "Herencia",
+   "definicion": "Mecanismo de la programación orientada a objetos donde una clase hija hereda atributos y métodos de una clase padre",
+   "ejemplo": "class Gato(Animal) hace que Gato herede todo lo definido en Animal"
+  },
+  {
+   "concepto": "polimorfismo",
+   "nombre": "Polimorfismo",
+   "definicion": "Capacidad de que distintos objetos respondan de forma diferente al mismo método o mensaje",
+   "ejemplo": "Tanto Perro como Gato pueden implementar hacerSonido() de forma distinta"
+  },
+  {
+   "concepto": "encapsulamiento",
+   "nombre": "Encapsulamiento",
+   "definicion": "Principio que oculta los detalles internos de un objeto y expone solo una interfaz controlada",
+   "ejemplo": "Los atributos privados con doble guion bajo __saldo protegen el estado interno de una clase"
+  },
+  {
+   "concepto": "abstraccion",
+   "nombre": "Abstracción",
+   "definicion": "Principio que se enfoca en las características esenciales de un objeto, ocultando la complejidad innecesaria",
+   "ejemplo": "Una interfaz Forma define área() sin especificar cómo la calcula cada figura concreta"
+  },
+  {
+   "concepto": "api",
+   "nombre": "API",
+   "definicion": "Conjunto de reglas y protocolos que permite que distintos programas se comuniquen entre sí",
+   "ejemplo": "Una API REST permite que una app móvil consulte datos de un servidor mediante HTTP"
+  },
+  {
+   "concepto": "base_de_datos_relacional",
+   "nombre": "Base de datos relacional",
+   "definicion": "Sistema que organiza datos en tablas relacionadas mediante claves primarias y foráneas",
+   "ejemplo": "MySQL y PostgreSQL son sistemas de bases de datos relacionales"
+  },
+  {
+   "concepto": "sql",
+   "nombre": "SQL",
+   "definicion": "Lenguaje estándar para consultar y manipular datos en bases de datos relacionales",
+   "ejemplo": "SELECT nombre FROM usuarios WHERE edad > 18 obtiene los nombres de usuarios mayores de edad"
+  },
+  {
+   "concepto": "git",
+   "nombre": "Git",
+   "definicion": "Sistema de control de versiones distribuido que registra los cambios en el código a lo largo del tiempo",
+   "ejemplo": "git commit -m 'mensaje' guarda un punto de control con los cambios realizados"
+  },
+  {
+   "concepto": "compilador",
+   "nombre": "Compilador",
+   "definicion": "Programa que traduce código fuente escrito en un lenguaje a otro, generalmente código máquina",
+   "ejemplo": "GCC compila código en C a un ejecutable binario"
+  },
+  {
+   "concepto": "interprete",
+   "nombre": "Intérprete",
+   "definicion": "Programa que ejecuta directamente las instrucciones de un código fuente sin generar un ejecutable previo",
+   "ejemplo": "Python usa un intérprete que ejecuta el código línea por línea"
+  },
+  {
+   "concepto": "depuracion",
+   "nombre": "Depuración (debugging)",
+   "definicion": "Proceso de encontrar y corregir errores en un programa",
+   "ejemplo": "Usar breakpoints en un depurador permite inspeccionar el estado del programa paso a paso"
+  },
+  {
+   "concepto": "excepcion",
+   "nombre": "Excepción",
+   "definicion": "Evento que interrumpe el flujo normal de un programa cuando ocurre un error en tiempo de ejecución",
+   "ejemplo": "try: 1/0 except ZeroDivisionError: print('no se puede dividir por cero')"
+  },
+  {
+   "concepto": "api_rest",
+   "nombre": "API REST",
+   "definicion": "Estilo de arquitectura para servicios web que usa métodos HTTP como GET, POST, PUT y DELETE",
+   "ejemplo": "Un endpoint /usuarios/5 con método GET devuelve los datos del usuario con id 5"
+  },
+  {
+   "concepto": "frontend",
+   "nombre": "Frontend",
+   "definicion": "Parte de una aplicación con la que interactúa directamente el usuario, generalmente en el navegador",
+   "ejemplo": "HTML, CSS y JavaScript son las tecnologías básicas del frontend web"
+  },
+  {
+   "concepto": "backend",
+   "nombre": "Backend",
+   "definicion": "Parte de una aplicación que gestiona la lógica de negocio, la base de datos y el servidor",
+   "ejemplo": "Node.js y Django son frameworks comunes para desarrollar el backend"
+  },
+  {
+   "concepto": "framework",
+   "nombre": "Framework",
+   "definicion": "Conjunto de herramientas y convenciones que facilitan el desarrollo de software siguiendo una estructura definida",
+   "ejemplo": "React es un framework (biblioteca) de JavaScript para construir interfaces de usuario"
+  },
+  {
+   "concepto": "libreria_software",
+   "nombre": "Librería de software",
+   "definicion": "Colección de código reutilizable que otros programas pueden usar para realizar tareas comunes",
+   "ejemplo": "NumPy es una librería de Python para cálculo numérico con arreglos"
+  },
+  {
+   "concepto": "variable_global_local",
+   "nombre": "Variable local y global",
+   "definicion": "Una variable local existe solo dentro de una función; una global es accesible en todo el programa",
+   "ejemplo": "Una variable definida dentro de una función solo existe mientras esa función se ejecuta"
+  },
+  {
+   "concepto": "tipo_de_dato",
+   "nombre": "Tipo de dato",
+   "definicion": "Clasificación que indica qué clase de valor almacena una variable, como entero, texto o booleano",
+   "ejemplo": "int, float, str y bool son tipos de datos básicos en muchos lenguajes"
+  },
+  {
+   "concepto": "estructura_de_control",
+   "nombre": "Estructura de control",
+   "definicion": "Instrucción que determina el orden en que se ejecutan las instrucciones de un programa",
+   "ejemplo": "Los condicionales y los bucles son estructuras de control fundamentales"
+  },
+  {
+   "concepto": "programacion_funcional",
+   "nombre": "Programación funcional",
+   "definicion": "Paradigma que trata la computación como la evaluación de funciones matemáticas, evitando estados mutables",
+   "ejemplo": "map(), filter() y reduce() son herramientas típicas de la programación funcional"
+  },
+  {
+   "concepto": "json",
+   "nombre": "JSON",
+   "definicion": "Formato ligero de intercambio de datos basado en pares clave-valor, fácil de leer para humanos y máquinas",
+   "ejemplo": "{'nombre': 'Ana', 'edad': 30} es un objeto JSON válido"
+  },
+  {
+   "concepto": "algoritmo",
+   "nombre": "Algoritmo",
+   "definicion": "Secuencia finita y ordenada de pasos que resuelve un problema o realiza una tarea específica",
+   "ejemplo": "Una receta de cocina es un ejemplo cotidiano de algoritmo"
+  },
+  {
+   "concepto": "machine_learning",
+   "nombre": "Aprendizaje automático (machine learning)",
+   "definicion": "Rama de la inteligencia artificial donde los sistemas aprenden patrones a partir de datos sin ser programados explícitamente",
+   "ejemplo": "Un modelo de machine learning puede aprender a distinguir spam a partir de miles de correos etiquetados"
+  },
+  {
+   "concepto": "red_neuronal",
+   "nombre": "Red neuronal artificial",
+   "definicion": "Modelo computacional inspirado en el cerebro, compuesto de capas de neuronas artificiales conectadas entre sí",
+   "ejemplo": "Una red neuronal con varias capas ocultas puede aprender a clasificar imágenes"
+  },
+  {
+   "concepto": "version_control",
+   "nombre": "Control de versiones",
+   "definicion": "Sistema que registra los cambios realizados en archivos a lo largo del tiempo, permitiendo volver a versiones anteriores",
+   "ejemplo": "GitHub aloja repositorios que usan Git como sistema de control de versiones"
+  },
+  {
+   "concepto": "docker",
+   "nombre": "Contenedor (Docker)",
+   "definicion": "Tecnología que empaqueta una aplicación junto a sus dependencias para que funcione igual en cualquier entorno",
+   "ejemplo": "Un contenedor Docker garantiza que la app funcione igual en desarrollo y en producción"
+  },
+  {
+   "concepto": "nube_computacion",
+   "nombre": "Computación en la nube",
+   "definicion": "Modelo que ofrece recursos informáticos (servidores, almacenamiento) a través de internet bajo demanda",
+   "ejemplo": "AWS, Google Cloud y Azure son plataformas de computación en la nube"
+  },
+  {
+   "concepto": "html",
+   "nombre": "HTML",
+   "definicion": "Lenguaje de marcado usado para estructurar el contenido de las páginas web",
+   "ejemplo": "Las etiquetas <h1>, <p> y <a> definen títulos, párrafos y enlaces en HTML"
+  },
+  {
+   "concepto": "css",
+   "nombre": "CSS",
+   "definicion": "Lenguaje usado para definir el estilo visual (colores, tamaños, disposición) de las páginas web",
+   "ejemplo": "color: blue; en una regla CSS pinta el texto de azul"
+  },
+  {
+   "concepto": "javascript",
+   "nombre": "JavaScript",
+   "definicion": "Lenguaje de programación que permite añadir interactividad a las páginas web",
+   "ejemplo": "JavaScript puede validar un formulario antes de enviarlo al servidor"
+  },
+  {
+   "concepto": "python_lenguaje",
+   "nombre": "Python",
+   "definicion": "Lenguaje de programación de alto nivel, interpretado y de sintaxis clara, muy usado en ciencia de datos e IA",
+   "ejemplo": "print('Hola mundo') es el clásico primer programa en Python"
+  },
+  {
+   "concepto": "java_lenguaje",
+   "nombre": "Java",
+   "definicion": "Lenguaje de programación orientado a objetos, compilado a bytecode que corre sobre la Máquina Virtual de Java (JVM)",
+   "ejemplo": "'Write once, run anywhere' es el lema histórico de Java"
+  },
+  {
+   "concepto": "estructura_datos",
+   "nombre": "Estructura de datos",
+   "definicion": "Forma organizada de almacenar y gestionar datos para que se puedan usar de manera eficiente",
+   "ejemplo": "Listas, pilas, colas, árboles y grafos son ejemplos de estructuras de datos"
+  },
+  {
+   "concepto": "bit",
+   "nombre": "Bit",
+   "definicion": "Unidad mínima de información en computación, que puede tomar el valor 0 o 1",
+   "ejemplo": "Un byte está compuesto por 8 bits"
+  },
+  {
+   "concepto": "byte",
+   "nombre": "Byte",
+   "definicion": "Unidad de información compuesta por 8 bits, capaz de representar 256 valores distintos",
+   "ejemplo": "Un archivo de texto simple puede ocupar pocos kilobytes, es decir, miles de bytes"
+  },
+  {
+   "concepto": "sistema_binario",
+   "nombre": "Sistema binario",
+   "definicion": "Sistema numérico que usa solo dos dígitos, 0 y 1, base del funcionamiento de las computadoras digitales",
+   "ejemplo": "El número decimal 5 se representa como 101 en sistema binario"
+  },
+  {
+   "concepto": "ciclo_de_vida_software",
+   "nombre": "Ciclo de vida del software",
+   "definicion": "Conjunto de fases (análisis, diseño, implementación, pruebas, mantenimiento) por las que pasa un proyecto de software",
+   "ejemplo": "La metodología ágil divide el ciclo de vida en iteraciones cortas llamadas sprints"
+  },
+  {
+   "concepto": "testing_software",
+   "nombre": "Pruebas de software (testing)",
+   "definicion": "Proceso de verificar que un programa funciona correctamente y cumple los requisitos esperados",
+   "ejemplo": "Las pruebas unitarias verifican que una función individual se comporte como se espera"
+  },
+  {
+   "concepto": "api_key",
+   "nombre": "Clave de API (API key)",
+   "definicion": "Código único que identifica y autoriza a una aplicación para usar un servicio o API externa",
+   "ejemplo": "Muchos servicios web requieren una API key para limitar y controlar el acceso"
+  },
+  {
+   "concepto": "open_source",
+   "nombre": "Código abierto (open source)",
+   "definicion": "Software cuyo código fuente es público y puede ser modificado y distribuido libremente por cualquiera",
+   "ejemplo": "Linux y Python son proyectos de código abierto mantenidos por comunidades globales"
+  },
+  {
+   "concepto": "ide",
+   "nombre": "Entorno de desarrollo integrado (IDE)",
+   "definicion": "Software que agrupa editor de código, depurador y otras herramientas para facilitar la programación",
+   "ejemplo": "Visual Studio Code y PyCharm son IDEs populares para programar"
+  },
+  {
+   "concepto": "puntero",
+   "nombre": "Puntero",
+   "definicion": "Variable que almacena la dirección de memoria de otra variable, usado en lenguajes como C",
+   "ejemplo": "int *p = &x; hace que el puntero p almacene la dirección de memoria de x"
+  },
+  {
+   "concepto": "memoria_ram",
+   "nombre": "Memoria RAM",
+   "definicion": "Memoria de acceso aleatorio donde se guardan temporalmente los datos y programas en ejecución",
+   "ejemplo": "Cerrar programas libera memoria RAM que puede usar otra aplicación"
+  },
+  {
+   "concepto": "cpu",
+   "nombre": "CPU (procesador)",
+   "definicion": "Unidad central de procesamiento que ejecuta las instrucciones de los programas de una computadora",
+   "ejemplo": "La velocidad de un CPU se mide en gigahercios (GHz)"
+  },
+  {
+   "concepto": "red_de_computadoras",
+   "nombre": "Red de computadoras",
+   "definicion": "Conjunto de dispositivos interconectados que pueden compartir datos y recursos entre sí",
+   "ejemplo": "Internet es la red de computadoras más grande del mundo"
+  },
+  {
+   "concepto": "protocolo_http",
+   "nombre": "Protocolo HTTP",
+   "definicion": "Protocolo de comunicación usado para transferir páginas web entre un cliente y un servidor",
+   "ejemplo": "Cuando escribes una URL en el navegador, este envía una solicitud HTTP al servidor"
+  },
+  {
+   "concepto": "cifrado",
+   "nombre": "Cifrado (encriptación)",
+   "definicion": "Proceso que transforma información legible en un formato codificado para protegerla de accesos no autorizados",
+   "ejemplo": "HTTPS usa cifrado para proteger los datos que viajan entre el navegador y el servidor"
+  },
+  {
+   "concepto": "blockchain",
+   "nombre": "Cadena de bloques (blockchain)",
+   "definicion": "Registro digital distribuido e inmutable donde las transacciones se agrupan en bloques enlazados criptográficamente",
+   "ejemplo": "Bitcoin utiliza blockchain para registrar todas sus transacciones de forma transparente"
+  },
+  {
+   "concepto": "nube_servidor",
+   "nombre": "Servidor",
+   "definicion": "Computadora o programa que provee servicios o recursos a otras computadoras (clientes) a través de una red",
+   "ejemplo": "Un servidor web responde a las solicitudes HTTP de los navegadores"
+  },
+  {
+   "concepto": "regex",
+   "nombre": "Expresión regular (regex)",
+   "definicion": "Secuencia de caracteres que define un patrón de búsqueda dentro de un texto",
+   "ejemplo": "El patrón \\d+ encuentra cualquier secuencia de uno o más dígitos en un texto"
+  },
+  {
+   "concepto": "multithreading",
+   "nombre": "Multihilo (multithreading)",
+   "definicion": "Técnica que permite ejecutar varias tareas de forma concurrente dentro de un mismo programa",
+   "ejemplo": "Un navegador web usa multihilo para cargar imágenes mientras renderiza el texto de la página"
+  }
+ ]
+}

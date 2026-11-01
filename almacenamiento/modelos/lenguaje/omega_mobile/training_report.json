@@ -1,0 +1,29 @@
+{
+  "version": "2.4-OMEGA-MOBILE",
+  "config": {
+    "vocab_size": 8192,
+    "block_size": 128,
+    "d_model": 192,
+    "n_layers": 4,
+    "n_heads": 4,
+    "kv_heads": 2,
+    "ff_mult": 2.75
+  },
+  "steps": 1800,
+  "best_val_loss": 3.7972728610038757,
+  "best_ppl": 44.579444226661906,
+  "parameters": 3233472,
+  "corpus_tokens": 642806,
+  "device": "cpu",
+  "history": [
+    {
+      "step": 1800,
+      "train_loss": 2.3061766624450684,
+      "val_loss": 4.334849685430527,
+      "ppl": 76.31348699864992,
+      "lr": 0.0,
+      "elapsed_s": 6.961068868637085
+    }
+  ],
+  "seconds": 6.999850034713745
+}

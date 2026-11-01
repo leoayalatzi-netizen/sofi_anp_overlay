@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "categoria": "humanidad/psicologia",
+    "tipo": "emociones",
+    "total": 16
+  },
+  "datos": [
+    {
+      "emocion": "alegria",
+      "definicion": "Estado de satisfacción y bienestar intenso",
+      "desencadenantes": [
+        "Logros",
+        "Reencuentros",
+        "Sorpresas positivas"
+      ],
+      "expresion": "Sonrisa, risa, ojos brillantes",
+      "funcion": "Refuerza conductas positivas y conexiones sociales"
+    },
+    {
+      "emocion": "tristeza",
+      "definicion": "Estado de aflicción por pérdida, decepción o desesperanza",
+      "desencadenantes": [
+        "Pérdidas",
+        "Fracasos",
+        "Soledad"
+      ],
+      "expresion": "Llanto, quietud, cejas caídas",
+      "funcion": "Señal de necesidad de apoyo, promueve reflexión"
+    },
+    {
+      "emocion": "miedo",
+      "definicion": "Respuesta ante peligro real o percibido",
+      "tipos": [
+        "Miedo racional (peligro real)",
+        "Ansiedad (peligro anticipado)",
+        "Fobia (miedo irracional)"
+      ],
+      "funcion": "Supervivencia, activa respuesta de lucha/huida"
+    },
+    {
+      "emocion": "ira",
+      "definicion": "Respuesta a la frustración, injusticia o amenaza",
+      "expresion": "Ceño fruncido, mandíbula tensa, gritos",
+      "funcion": "Moviliza energía para defender límites o derechos"
+    },
+    {
+      "emocion": "sorpresa",
+      "definicion": "Reacción breve ante un evento inesperado",
+      "tipos": [
+        "Positiva (regalo)",
+        "Negativa (susto)",
+        "Neutral"
+      ],
+      "funcion": "Prepara al organismo para procesar información nueva"
+    },
+    {
+      "emocion": "asco",
+      "definicion": "Rechazo hacia algo que se percibe como contaminante o repulsivo",
+      "desencadenantes": [
+        "Comida en mal estado",
+        "Olores fuertes",
+        "Conductas moralmente reprobables"
+      ],
+      "funcion": "Protege de intoxicación y contaminación"
+    },
+    {
+      "emocion": "amor",
+      "definicion": "Vínculo afectivo profundo hacia alguien o algo",
+      "tipos": [
+        "Romántico",
+        "Familiar",
+        "Amistad",
+        "Propio (autoestima)"
+      ],
+      "hormonas": [
+        "Oxitocina",
+        "Dopamina",
+        "Serotonina"
+      ]
+    },
+    {
+      "emocion": "gratitud",
+      "definicion": "Reconocimiento y aprecio por algo recibido",
+      "beneficios": [
+        "Mejora bienestar psicológico",
+        "Fortalece relaciones",
+        "Reduce estrés"
+      ]
+    },
+    {
+      "emocion": "esperanza",
+      "definicion": "Expectativa positiva sobre el futuro combinada con deseo",
+      "funcion": "Motivación para perseverar ante dificultades"
+    },
+    {
+      "emocion": "orgullo",
+      "definicion": "Satisfacción por logros propios o de personas cercanas",
+      "tipos": [
+        "Sano (logro merecido)",
+        "Narcisista (exagerado)"
+      ],
+      "funcion": "Refuerza autoestima y motiva a seguir mejorando"
+    },
+    {
+      "emocion": "culpa",
+      "definicion": "Malestar por haber violado normas morales o haber causado daño",
+      "funcion": "Promueve reparación de daños y aprendizaje moral"
+    },
+    {
+      "emocion": "verguenza",
+      "definicion": "Incomodidad por exposición de una falta o defecto propio",
+      "diferencia_culpa": "La culpa es por lo que hiciste; la vergüenza por lo que eres"
+    },
+    {
+      "emocion": "envidia",
+      "definicion": "Deseo de poseer lo que otro tiene, acompañado de malestar",
+      "tipos": [
+        "Admirativa (inspira)",
+        "Maliciosa (desea daño)"
+      ],
+      "funcion": "Señala deseos no satisfechos"
+    },
+    {
+      "emocion": "aburrimiento",
+      "definicion": "Falta de interés o estimulación en una situación",
+      "funcion": "Impulsa a buscar nuevas actividades o cambiar de entorno"
+    },
+    {
+      "emocion": "curiosidad",
+      "definicion": "Deseo de explorar, aprender y comprender lo desconocido",
+      "funcion": "Motor del aprendizaje y el descubrimiento. Esencial para la ciencia y la creatividad"
+    },
+    {
+      "emocion": "empatia",
+      "definicion": "Capacidad de comprender y compartir los sentimientos de otros",
+      "tipos": [
+        "Cognitiva (entender)",
+        "Emocional (sentir)",
+        "Compasiva (actuar)"
+      ],
+      "importancia": "Base de las relaciones sociales y la cooperación"
+    }
+  ]
+}

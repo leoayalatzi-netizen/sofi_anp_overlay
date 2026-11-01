@@ -1,0 +1,309 @@
+{
+  "metadata": {
+    "categoria": "lenguaje/espanol",
+    "tipo": "sinonimos",
+    "total": 30
+  },
+  "datos": [
+    {
+      "palabra": "bueno",
+      "sinonimos": [
+        "excelente",
+        "óptimo",
+        "favorable",
+        "beneficioso",
+        "magnífico"
+      ]
+    },
+    {
+      "palabra": "malo",
+      "sinonimos": [
+        "pésimo",
+        "negativo",
+        "perjudicial",
+        "nocivo",
+        "dañino"
+      ]
+    },
+    {
+      "palabra": "grande",
+      "sinonimos": [
+        "enorme",
+        "gigantesco",
+        "colosal",
+        "inmenso",
+        "vasto"
+      ]
+    },
+    {
+      "palabra": "pequeño",
+      "sinonimos": [
+        "chico",
+        "diminuto",
+        "minúsculo",
+        "reducido",
+        " diminuto"
+      ]
+    },
+    {
+      "palabra": "rápido",
+      "sinonimos": [
+        "veloz",
+        "ágil",
+        "acelerado",
+        "ligero",
+        "presto"
+      ]
+    },
+    {
+      "palabra": "lento",
+      "sinonimos": [
+        "pausado",
+        "tardo",
+        "calmado",
+        "moroso",
+        "parsimonioso"
+      ]
+    },
+    {
+      "palabra": "inteligente",
+      "sinonimos": [
+        "listo",
+        "brillante",
+        "sagaz",
+        "astuto",
+        "ingenioso"
+      ]
+    },
+    {
+      "palabra": "feliz",
+      "sinonimos": [
+        "contento",
+        "alegre",
+        "dichoso",
+        "gozoso",
+        "eufórico"
+      ]
+    },
+    {
+      "palabra": "triste",
+      "sinonimos": [
+        "apenado",
+        "melancólico",
+        "afligido",
+        "desolado",
+        "abatido"
+      ]
+    },
+    {
+      "palabra": "valiente",
+      "sinonimos": [
+        "audaz",
+        "intrépido",
+        "osado",
+        "arrojado",
+        "corajudo"
+      ]
+    },
+    {
+      "palabra": "miedo",
+      "sinonimos": [
+        "temor",
+        "pavor",
+        "terror",
+        "espanto",
+        "pánico"
+      ]
+    },
+    {
+      "palabra": "amor",
+      "sinonimos": [
+        "cariño",
+        "afecto",
+        "pasión",
+        "ternura",
+        "devoción"
+      ]
+    },
+    {
+      "palabra": "odio",
+      "sinonimos": [
+        "aversión",
+        "repulsión",
+        "antipatía",
+        "aborrecimiento",
+        "rencor"
+      ]
+    },
+    {
+      "palabra": "bello",
+      "sinonimos": [
+        "hermoso",
+        "bonito",
+        "precioso",
+        "lindo",
+        "atractivo"
+      ]
+    },
+    {
+      "palabra": "feo",
+      "sinonimos": [
+        "desagradable",
+        "antiestético",
+        "deforme",
+        "horrible",
+        "espantoso"
+      ]
+    },
+    {
+      "palabra": "rico",
+      "sinonimos": [
+        "adinerado",
+        "pudiente",
+        "acaudalado",
+        "opulento",
+        "próspero"
+      ]
+    },
+    {
+      "palabra": "pobre",
+      "sinonimos": [
+        "humilde",
+        "necesitado",
+        "indigente",
+        "carente",
+        "desfavorecido"
+      ]
+    },
+    {
+      "palabra": "fuerte",
+      "sinonimos": [
+        "robusto",
+        "vigoroso",
+        "potente",
+        "recio",
+        "enérgico"
+      ]
+    },
+    {
+      "palabra": "débil",
+      "sinonimos": [
+        "frágil",
+        "endeble",
+        "vulnerable",
+        "delicado",
+        "quebradizo"
+      ]
+    },
+    {
+      "palabra": "importante",
+      "sinonimos": [
+        "relevante",
+        "significativo",
+        "trascendental",
+        "crucial",
+        "fundamental"
+      ]
+    },
+    {
+      "palabra": "fácil",
+      "sinonimos": [
+        "sencillo",
+        "simple",
+        "elemental",
+        "asequible",
+        "cómodo"
+      ]
+    },
+    {
+      "palabra": "difícil",
+      "sinonimos": [
+        "complejo",
+        "complicado",
+        "arduo",
+        "dificultoso",
+        "espinoso"
+      ]
+    },
+    {
+      "palabra": "antiguo",
+      "sinonimos": [
+        "viejo",
+        "ancestral",
+        "arcaico",
+        "vetusto",
+        "primitivo"
+      ]
+    },
+    {
+      "palabra": "nuevo",
+      "sinonimos": [
+        "reciente",
+        "moderno",
+        "flamante",
+        "innovador",
+        "actual"
+      ]
+    },
+    {
+      "palabra": "hablar",
+      "sinonimos": [
+        "conversar",
+        "dialogar",
+        "charlar",
+        "comunicar",
+        "expresar"
+      ]
+    },
+    {
+      "palabra": "caminar",
+      "sinonimos": [
+        "andar",
+        "pasear",
+        "deambular",
+        "recorrer",
+        "transitar"
+      ]
+    },
+    {
+      "palabra": "pensar",
+      "sinonimos": [
+        "reflexionar",
+        "meditar",
+        "razonar",
+        "cavilar",
+        "considerar"
+      ]
+    },
+    {
+      "palabra": "mirar",
+      "sinonimos": [
+        "observar",
+        "contemplar",
+        "examinar",
+        "inspeccionar",
+        "ojear"
+      ]
+    },
+    {
+      "palabra": "comer",
+      "sinonimos": [
+        "ingerir",
+        "devorar",
+        "tragar",
+        "alimentarse",
+        "masticar"
+      ]
+    },
+    {
+      "palabra": "dormir",
+      "sinonimos": [
+        "descansar",
+        "reposar",
+        "pernoctar",
+        "sestear",
+        "dormitar"
+      ]
+    }
+  ]
+}

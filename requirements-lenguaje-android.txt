@@ -1,0 +1,4 @@
+# Pydroid/Android: NumPy es la ruta portable garantizada por Nevula.
+# onnxruntime puede no publicar wheel compatible con la combinación exacta
+# de Python/ABI de Pydroid; para una app Android nativa use onnxruntime-android.
+numpy>=1.24

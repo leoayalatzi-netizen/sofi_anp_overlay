@@ -1,0 +1,17 @@
+{
+  "metadata": {"categoria": "ciencia/fisica", "version": "1.4", "total": 12},
+  "datos": [
+    {"concepto":"cielo_azul","nombre":"Color azul del cielo","definicion":"El cielo se ve azul principalmente porque la atmósfera dispersa la luz solar de onda corta, especialmente azul, con mayor intensidad que las longitudes de onda más largas. Este fenómeno se denomina dispersión de Rayleigh.","causa":"dispersión de Rayleigh","relacionado_con":["luz solar","atmosfera","longitud de onda"]},
+    {"concepto":"atardecer_rojo","nombre":"Color rojizo del atardecer","definicion":"Al atardecer la luz atraviesa una trayectoria atmosférica más larga; una mayor fracción de las longitudes de onda cortas se dispersa fuera de la línea de visión y predominan tonos rojos y naranjas.","causa":"dispersión atmosférica","relacionado_con":["cielo_azul","luz solar"]},
+    {"concepto":"arcoiris","nombre":"Arcoíris","definicion":"Un arcoíris surge cuando la luz solar interactúa con gotas de agua y se refracta, refleja y dispersa en sus componentes espectrales.","relacionado_con":["refraccion","reflexion","luz solar"]},
+    {"concepto":"fotosintesis","nombre":"Fotosíntesis","definicion":"Proceso mediante el cual plantas, algas y algunos microorganismos transforman energía luminosa en energía química, utilizando principalmente dióxido de carbono y agua y liberando oxígeno en la fotosíntesis oxigénica.","relacionado_con":["luz solar","clorofila","dioxido de carbono"]},
+    {"concepto":"agujero_negro","nombre":"Agujero negro","definicion":"Región del espacio-tiempo donde la gravedad es tan intensa que, dentro del horizonte de sucesos, ninguna señal puede escapar hacia el exterior.","relacionado_con":["gravedad","espacio-tiempo","relatividad general"]},
+    {"concepto":"relatividad_general","nombre":"Relatividad general","definicion":"Teoría de Einstein que describe la gravedad como una manifestación de la geometría del espacio-tiempo asociada con la materia y la energía.","relacionado_con":["gravedad","agujero_negro","espacio-tiempo"]},
+    {"concepto":"evaporacion","nombre":"Evaporación","definicion":"Proceso por el que moléculas de un líquido pasan a la fase gaseosa desde su superficie al adquirir suficiente energía.","relacionado_con":["ciclo_del_agua","temperatura"]},
+    {"concepto":"ciclo_del_agua","nombre":"Ciclo del agua","definicion":"Circulación continua del agua entre atmósfera, superficie terrestre y subsuelo mediante procesos como evaporación, condensación, precipitación, infiltración y escorrentía.","relacionado_con":["evaporacion","condensacion","precipitacion"]},
+    {"concepto":"electricidad","nombre":"Electricidad","definicion":"Conjunto de fenómenos asociados con la presencia y el movimiento de cargas eléctricas.","relacionado_con":["carga_electrica","corriente"]},
+    {"concepto":"entropia","nombre":"Entropía","definicion":"Magnitud termodinámica relacionada con la dispersión de energía y con el número de microestados compatibles con un estado macroscópico.","relacionado_con":["termodinamica","energia"]},
+    {"concepto":"inercia","nombre":"Inercia","definicion":"Propiedad de los cuerpos por la que mantienen su estado de movimiento mientras la fuerza neta externa sea nula.","relacionado_con":["ley_inercia","masa"]},
+    {"concepto":"velocidad_luz","nombre":"Velocidad de la luz","definicion":"En el vacío, la luz se propaga a una velocidad exacta de 299792458 metros por segundo.","relacionado_con":["relatividad_especial","electromagnetismo"]}
+  ]
+}

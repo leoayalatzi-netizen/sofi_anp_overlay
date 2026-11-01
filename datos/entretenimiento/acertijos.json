@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "categoria": "entretenimiento",
+    "tipo": "acertijos",
+    "total": 10
+  },
+  "datos": [
+    {
+      "pregunta": "¿Qué cosa es que cuanto más le quitas, más grande se vuelve?",
+      "respuesta": "Un agujero"
+    },
+    {
+      "pregunta": "Tiene dientes pero no muerde, tiene cabeza pero no piensa. ¿Qué es?",
+      "respuesta": "Un ajo"
+    },
+    {
+      "pregunta": "Dos padres y dos hijos fueron a pescar. Cada uno pescó un pez. En total pescaron 3 peces. ¿Cómo es posible?",
+      "respuesta": "Eran abuelo, padre e hijo (el padre es hijo del abuelo y padre del niño)"
+    },
+    {
+      "pregunta": "Antes de ayer tenía 17 años. El año que viene tendré 20. ¿Qué día es hoy?",
+      "respuesta": "1 de enero (cumplo años el 31 de diciembre)"
+    },
+    {
+      "pregunta": "¿Cuántos meses tienen 28 días?",
+      "respuesta": "Todos los meses tienen al menos 28 días"
+    },
+    {
+      "pregunta": "Si un avión se estrella justo en la frontera entre México y Estados Unidos, ¿dónde entierras a los sobrevivientes?",
+      "respuesta": "En ningún lado, los sobrevivientes están vivos"
+    },
+    {
+      "pregunta": "Un granjero tiene 17 ovejas. Se mueren todas menos 9. ¿Cuántas le quedan?",
+      "respuesta": "9 ovejas"
+    },
+    {
+      "pregunta": "¿Qué pesa más: un kilo de plomo o un kilo de plumas?",
+      "respuesta": "Pesan lo mismo: un kilo"
+    },
+    {
+      "pregunta": "Si un tren eléctrico viaja hacia el norte a 100 km/h y el viento sopla hacia el sur a 50 km/h, ¿hacia dónde va el humo?",
+      "respuesta": "No hay humo, es un tren eléctrico"
+    },
+    {
+      "pregunta": "Un pato nada en un lago. ¿Qué hay debajo del pato?",
+      "respuesta": "Agua"
+    }
+  ]
+}

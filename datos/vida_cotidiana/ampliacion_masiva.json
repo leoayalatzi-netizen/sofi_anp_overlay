@@ -1,0 +1,159 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "vida_cotidiana",
+  "n_items": 25
+ },
+ "datos": [
+  {
+   "concepto": "rutina_matutina",
+   "nombre": "Rutina matutina",
+   "definicion": "Conjunto de actividades habituales que una persona realiza al comenzar el día",
+   "ejemplo": "Levantarse, ducharse y desayunar suele formar parte de una rutina matutina"
+  },
+  {
+   "concepto": "higiene_personal",
+   "nombre": "Higiene personal",
+   "definicion": "Conjunto de prácticas de limpieza y cuidado del cuerpo para mantener la salud y el bienestar",
+   "ejemplo": "Lavarse las manos antes de comer es un hábito básico de higiene personal"
+  },
+  {
+   "concepto": "organizacion_del_tiempo",
+   "nombre": "Organización del tiempo",
+   "definicion": "Práctica de planificar las actividades diarias para aprovechar mejor las horas disponibles",
+   "ejemplo": "Usar una agenda ayuda a la organización del tiempo entre trabajo y descanso"
+  },
+  {
+   "concepto": "ahorro_domestico",
+   "nombre": "Ahorro doméstico",
+   "definicion": "Práctica de guardar parte del dinero disponible en casa para necesidades futuras",
+   "ejemplo": "Llevar un presupuesto mensual ayuda al ahorro doméstico"
+  },
+  {
+   "concepto": "reciclaje",
+   "nombre": "Reciclaje",
+   "definicion": "Proceso de transformar materiales usados en nuevos productos para reducir residuos",
+   "ejemplo": "Separar el vidrio, el papel y el plástico facilita el reciclaje en casa"
+  },
+  {
+   "concepto": "compra_en_supermercado",
+   "nombre": "Compra en el supermercado",
+   "definicion": "Actividad cotidiana de adquirir alimentos y productos básicos para el hogar",
+   "ejemplo": "Hacer una lista antes de ir al supermercado ayuda a comprar solo lo necesario"
+  },
+  {
+   "concepto": "descanso_sueno",
+   "nombre": "Descanso y sueño",
+   "definicion": "Proceso biológico necesario para la recuperación física y mental del cuerpo",
+   "ejemplo": "Dormir entre siete y ocho horas por noche es recomendable para un adulto"
+  },
+  {
+   "concepto": "cocina_basica",
+   "nombre": "Cocina básica",
+   "definicion": "Conjunto de técnicas simples para preparar alimentos en casa",
+   "ejemplo": "Hervir, freír y hornear son técnicas básicas de cocina"
+  },
+  {
+   "concepto": "transporte_publico",
+   "nombre": "Transporte público",
+   "definicion": "Sistema de movilidad colectiva disponible para el uso general de la población",
+   "ejemplo": "El metro y el autobús son medios de transporte público comunes en las ciudades"
+  },
+  {
+   "concepto": "cuidado_del_hogar",
+   "nombre": "Cuidado del hogar",
+   "definicion": "Conjunto de tareas destinadas a mantener limpio y ordenado un lugar de vivienda",
+   "ejemplo": "Barrer, trapear y ordenar son tareas habituales del cuidado del hogar"
+  },
+  {
+   "concepto": "presupuesto_personal",
+   "nombre": "Presupuesto personal",
+   "definicion": "Plan que organiza los ingresos y gastos de una persona durante un periodo determinado",
+   "ejemplo": "Anotar los gastos mensuales ayuda a mantener un presupuesto personal equilibrado"
+  },
+  {
+   "concepto": "relaciones_vecinales",
+   "nombre": "Relaciones vecinales",
+   "definicion": "Vínculos de convivencia y trato cotidiano entre personas que viven cerca unas de otras",
+   "ejemplo": "Saludar a los vecinos al cruzarse en el pasillo fortalece las relaciones vecinales"
+  },
+  {
+   "concepto": "ejercicio_diario",
+   "nombre": "Ejercicio diario",
+   "definicion": "Práctica regular de actividad física como parte de la rutina cotidiana",
+   "ejemplo": "Caminar treinta minutos al día es una forma sencilla de ejercicio diario"
+  },
+  {
+   "concepto": "planificacion_de_comidas",
+   "nombre": "Planificación de comidas",
+   "definicion": "Práctica de organizar con anticipación qué se va a comer durante la semana",
+   "ejemplo": "Planificar las comidas del domingo ahorra tiempo durante la semana laboral"
+  },
+  {
+   "concepto": "mantenimiento_del_hogar",
+   "nombre": "Mantenimiento del hogar",
+   "definicion": "Conjunto de reparaciones y cuidados periódicos necesarios para conservar una vivienda en buen estado",
+   "ejemplo": "Revisar las instalaciones eléctricas es parte del mantenimiento del hogar"
+  },
+  {
+   "concepto": "lavado_de_ropa",
+   "nombre": "Lavado de ropa",
+   "definicion": "Tarea doméstica habitual que consiste en limpiar prendas de vestir usando agua y detergente",
+   "ejemplo": "Separar la ropa de color y blanca antes de lavarla evita que se manchen entre sí"
+  },
+  {
+   "concepto": "cuidado_de_plantas",
+   "nombre": "Cuidado de plantas en casa",
+   "definicion": "Conjunto de prácticas como riego y exposición a la luz para mantener plantas domésticas saludables",
+   "ejemplo": "Regar las plantas de interior una o dos veces por semana suele ser suficiente"
+  },
+  {
+   "concepto": "uso_responsable_agua",
+   "nombre": "Uso responsable del agua",
+   "definicion": "Práctica de consumir agua de forma consciente para evitar el desperdicio en el hogar",
+   "ejemplo": "Cerrar la llave mientras se cepillan los dientes ahorra agua potable"
+  },
+  {
+   "concepto": "primeros_auxilios_basicos",
+   "nombre": "Primeros auxilios básicos",
+   "definicion": "Conjunto de técnicas iniciales para atender a una persona antes de recibir atención médica profesional",
+   "ejemplo": "Aplicar presión sobre una herida para detener el sangrado es un primer auxilio básico"
+  },
+  {
+   "concepto": "etiqueta_social",
+   "nombre": "Etiqueta social",
+   "definicion": "Conjunto de normas de comportamiento consideradas correctas en situaciones sociales",
+   "ejemplo": "Saludar al llegar y despedirse al irse forma parte de la etiqueta social básica"
+  },
+  {
+   "concepto": "mudanza",
+   "nombre": "Mudanza",
+   "definicion": "Proceso de trasladar las pertenencias de una vivienda a otra",
+   "ejemplo": "Empacar por habitaciones facilita organizar una mudanza"
+  },
+  {
+   "concepto": "cuidado_de_mascotas",
+   "nombre": "Cuidado de mascotas",
+   "definicion": "Conjunto de responsabilidades diarias para garantizar el bienestar de un animal de compañía",
+   "ejemplo": "Alimentar, pasear y llevar al veterinario son parte del cuidado de una mascota"
+  },
+  {
+   "concepto": "compras_en_linea",
+   "nombre": "Compras en línea",
+   "definicion": "Actividad de adquirir productos o servicios a través de internet",
+   "ejemplo": "Comparar precios entre tiendas es útil antes de hacer una compra en línea"
+  },
+  {
+   "concepto": "organizacion_del_armario",
+   "nombre": "Organización del armario",
+   "definicion": "Práctica de ordenar la ropa y accesorios personales para facilitar su uso diario",
+   "ejemplo": "Doblar la ropa por categorías ayuda a mantener el armario organizado"
+  },
+  {
+   "concepto": "planificacion_de_viaje",
+   "nombre": "Planificación de un viaje",
+   "definicion": "Proceso de organizar con anticipación el transporte, alojamiento y actividades de un viaje",
+   "ejemplo": "Reservar el hotel con anticipación suele ser más económico al planificar un viaje"
+  }
+ ]
+}

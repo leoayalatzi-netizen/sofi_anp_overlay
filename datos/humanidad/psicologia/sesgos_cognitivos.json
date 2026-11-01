@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "categoria": "humanidad/psicologia",
+    "tipo": "sesgos",
+    "total": 15
+  },
+  "datos": [
+    {
+      "sesgo": "Sesgo de confirmación",
+      "definicion": "Tendencia a buscar, interpretar y recordar información que confirma nuestras creencias preexistentes",
+      "ejemplo": "Solo leer noticias que apoyan tu opinión política"
+    },
+    {
+      "sesgo": "Efecto Dunning-Kruger",
+      "definicion": "Las personas con poca habilidad sobreestiman su competencia; los expertos tienden a subestimarla",
+      "ejemplo": "Un principiante que cree saberlo todo después de un tutorial"
+    },
+    {
+      "sesgo": "Sesgo de disponibilidad",
+      "definicion": "Sobreestimar la probabilidad de eventos que vienen fácilmente a la mente (generalmente por ser recientes o impactantes)",
+      "ejemplo": "Pensar que los accidentes de avión son más comunes que los de auto porque aparecen más en noticias"
+    },
+    {
+      "sesgo": "Efecto ancla",
+      "definicion": "Tendencia a depender demasiado de la primera información recibida al tomar decisiones",
+      "ejemplo": "El primer precio que ves influye en lo que consideras 'caro' o 'barato'"
+    },
+    {
+      "sesgo": "Sesgo de retrospectiva",
+      "definicion": "Creer, después de que un evento ocurrió, que era predecible o que 'siempre lo supiste'",
+      "ejemplo": "Después de una elección: 'Era obvio que iba a ganar'"
+    },
+    {
+      "sesgo": "Efecto halo",
+      "definicion": "Una característica positiva de alguien influye en la percepción de todas sus otras características",
+      "ejemplo": "Asumir que alguien atractivo también es inteligente y amable"
+    },
+    {
+      "sesgo": "Sesgo de negatividad",
+      "definicion": "Tendencia a dar más peso e importancia a las experiencias negativas que a las positivas",
+      "ejemplo": "Recordar más un insulto que 10 elogios"
+    },
+    {
+      "sesgo": "Falacia del costo hundido",
+      "definicion": "Continuar invirtiendo en algo porque ya se ha invertido mucho, aunque ya no sea racional",
+      "ejemplo": "Seguir viendo una mala película 'porque ya pagaste la entrada'"
+    },
+    {
+      "sesgo": "Efecto espectador",
+      "definicion": "Cuanta más gente presencia una emergencia, menor es la probabilidad de que alguien ayude",
+      "ejemplo": "Nadie llama a emergencias asumiendo que 'otro lo hará'"
+    },
+    {
+      "sesgo": "Sesgo de optimismo",
+      "definicion": "Creer que tenemos menos probabilidades que otros de experimentar eventos negativos",
+      "ejemplo": "'Fumar causa cáncer... pero a mí no me pasará'"
+    },
+    {
+      "sesgo": "Sesgo de grupo (endogrupal)",
+      "definicion": "Favorecer a miembros de nuestro propio grupo sobre los de otros grupos",
+      "ejemplo": "Pensar que tu equipo de fútbol es mejor 'objetivamente'"
+    },
+    {
+      "sesgo": "Efecto marco",
+      "definicion": "Las decisiones cambian según cómo se presenta la información (positiva o negativamente)",
+      "ejemplo": "'90% de supervivencia' suena mejor que '10% de mortalidad', aunque son lo mismo"
+    },
+    {
+      "sesgo": "Sesgo de autoridad",
+      "definicion": "Tendencia a dar más crédito a la opinión de una figura de autoridad sin cuestionarla",
+      "ejemplo": "Creer algo 'porque lo dijo un doctor' sin verificar"
+    },
+    {
+      "sesgo": "Ilusión de control",
+      "definicion": "Creer que tenemos más control sobre eventos de lo que realmente tenemos",
+      "ejemplo": "Elegir tus propios números de lotería pensando que aumentan tus probabilidades"
+    },
+    {
+      "sesgo": "Sesgo de autoconsistencia",
+      "definicion": "Creer que nuestros 'yoes' futuros pensarán y sentirán igual que ahora",
+      "ejemplo": "Comprar ropa de moda asumiendo que siempre te gustará ese estilo"
+    }
+  ]
+}

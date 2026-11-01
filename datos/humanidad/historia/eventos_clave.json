@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "categoria": "humanidad/historia",
+    "tipo": "eventos",
+    "total": 15
+  },
+  "datos": [
+    {
+      "evento": "Revolución Francesa",
+      "fecha": "1789-1799",
+      "lugar": "Francia",
+      "causas": [
+        "Desigualdad social",
+        "Crisis económica",
+        "Ilustración"
+      ],
+      "consecuencias": [
+        "Fin de la monarquía absoluta",
+        "Declaración de Derechos del Hombre",
+        "Ascenso de Napoleón"
+      ],
+      "lema": "Libertad, Igualdad, Fraternidad"
+    },
+    {
+      "evento": "Segunda Guerra Mundial",
+      "fecha": "1939-1945",
+      "lugar": "Global",
+      "bandos": [
+        "Aliados (EEUU, URSS, Reino Unido, Francia)",
+        "Eje (Alemania, Italia, Japón)"
+      ],
+      "consecuencias": [
+        "60-80 millones de muertos",
+        "Holocausto (6 millones de judíos)",
+        "Creación de la ONU",
+        "Guerra Fría",
+        "Bombas atómicas en Hiroshima y Nagasaki"
+      ]
+    },
+    {
+      "evento": "Revolución Industrial",
+      "fecha": "1760-1840",
+      "lugar": "Reino Unido (se expandió)",
+      "cambios": [
+        "Máquina de vapor",
+        "Producción en fábricas",
+        "Urbanización",
+        "Ferrocarril"
+      ],
+      "impacto": "Transformó la economía mundial de agraria a industrial"
+    },
+    {
+      "evento": "Llegada del hombre a la Luna",
+      "fecha": "20 julio 1969",
+      "mision": "Apolo 11",
+      "astronautas": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Michael Collins"
+      ],
+      "frase": "Un pequeño paso para el hombre, un gran salto para la humanidad"
+    },
+    {
+      "evento": "Caída del Imperio Romano",
+      "fecha": "476 d.C.",
+      "causas": [
+        "Invasiones bárbaras",
+        "Crisis económica",
+        "Corrupción",
+        "División del imperio"
+      ],
+      "consecuencias": [
+        "Inicio de la Edad Media",
+        "Fragmentación de Europa"
+      ]
+    },
+    {
+      "evento": "Descubrimiento de América",
+      "fecha": "1492",
+      "lider": "Cristóbal Colón",
+      "financiado_por": "Reyes Católicos de España",
+      "impacto": [
+        "Intercambio colombino",
+        "Colonización europea",
+        "Globalización temprana"
+      ]
+    },
+    {
+      "evento": "Revolución Rusa",
+      "fecha": "1917",
+      "lideres": [
+        "Lenin",
+        "Trotsky"
+      ],
+      "consecuencias": [
+        "Fin del zarismo",
+        "Creación de la URSS",
+        "Primer estado socialista",
+        "Guerra Civil Rusa"
+      ]
+    },
+    {
+      "evento": "Invención de la imprenta",
+      "fecha": "1440",
+      "inventor": "Johannes Gutenberg",
+      "impacto": [
+        "Difusión masiva del conocimiento",
+        "Reforma Protestante",
+        "Alfabetización",
+        "Fin de la Edad Media"
+      ]
+    },
+    {
+      "evento": "Abolición de la esclavitud",
+      "fechas_clave": [
+        "1833 (Reino Unido)",
+        "1865 (EEUU - Enmienda 13)",
+        "1888 (Brasil - Ley Áurea)"
+      ],
+      "lideres": [
+        "Abraham Lincoln",
+        "William Wilberforce",
+        "Harriet Tubman"
+      ]
+    },
+    {
+      "evento": "Creación de Internet",
+      "fechas": [
+        "1969 (ARPANET)",
+        "1989 (WWW por Tim Berners-Lee)",
+        "1991 (Primer sitio web)"
+      ],
+      "impacto": "Revolucionó la comunicación, el comercio y el acceso a la información"
+    },
+    {
+      "evento": "Primera Guerra Mundial",
+      "fecha": "1914-1918",
+      "causa_inmediata": "Asesinato del archiduque Francisco Fernando",
+      "bandos": [
+        "Aliados",
+        "Potencias Centrales"
+      ],
+      "consecuencias": [
+        "20 millones de muertos",
+        "Tratado de Versalles",
+        "Nuevos países en Europa"
+      ]
+    },
+    {
+      "evento": "Independencia de Latinoamérica",
+      "fecha": "1808-1826",
+      "lideres": [
+        "Simón Bolívar",
+        "José de San Martín",
+        "Miguel Hidalgo"
+      ],
+      "resultado": "Independencia de la mayoría de países latinoamericanos de España"
+    },
+    {
+      "evento": "Pandemia de COVID-19",
+      "fecha": "2020-2023",
+      "origen": "Wuhan, China",
+      "impacto": [
+        "Millones de muertes globales",
+        "Confinamientos mundiales",
+        "Aceleración del trabajo remoto",
+        "Desarrollo récord de vacunas ARNm"
+      ]
+    },
+    {
+      "evento": "Muro de Berlín",
+      "construccion": "1961",
+      "caida": "9 noviembre 1989",
+      "significado": "Símbolo de la Guerra Fría y división entre comunismo y capitalismo",
+      "consecuencias": [
+        "Reunificación alemana",
+        "Fin de la Guerra Fría"
+      ]
+    },
+    {
+      "evento": "Declaración Universal de Derechos Humanos",
+      "fecha": "10 diciembre 1948",
+      "organizacion": "ONU",
+      "articulos": 30,
+      "importancia": "Primera declaración global de derechos fundamentales de todas las personas"
+    }
+  ]
+}

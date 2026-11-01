@@ -1,0 +1,20 @@
+{
+  "version": "2.5-APEX-MOBILE",
+  "config": {
+    "vocab_size": 8192,
+    "block_size": 128,
+    "d_model": 192,
+    "n_layers": 4,
+    "n_heads": 4,
+    "kv_heads": 2,
+    "ff_mult": 2.75
+  },
+  "steps": 300,
+  "best_val_loss": 3.3098216354846954,
+  "best_ppl": 27.380241372859793,
+  "parameters": 3233472,
+  "corpus_tokens": 644209,
+  "device": "cpu",
+  "history": [],
+  "seconds": 0.008661270141601562
+}

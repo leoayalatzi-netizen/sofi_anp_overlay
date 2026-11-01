@@ -1,0 +1,1203 @@
+¿Por qué ocurre El 5G permite descargar archivos grandes en cuestión de segundos en comparación con redes anteriores?
+Dame una explicación de Evento donde se proyectan y premian películas, a menudo con la participación de directores y actores.
+¿Por qué ocurre La unión y la intersección son operaciones básicas de la teoría de conjuntos?
+Dame una explicación de 12 es compuesto porque es divisible entre 1, 2, 3, 4, 6 y 12.
+¿Por qué ocurre f(x) = 2x + 1 es una función que duplica x y le suma 1?
+Dame una explicación de Verbo: Categoría gramatical que expresa una acción, estado o proceso.
+¿Por qué ocurre Caída del Imperio Romano?
+Dame una explicación de El triatlón olímpico incluye 1.5 km de natación, 40 km de ciclismo y 10 km de carrera.
+Dame una explicación de informacion: Datos organizados y procesados que tienen significado y reducen la incertidumbre.
+concepto: teorema_pitagoras nombre: Teorema de Pitágoras definicion: En un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos ejemplo: Si los catetos miden 3 y 4, la hipotenusa mide 5, porque 3² + 4² = 5²
+Dame una explicación de Tema conversacional habitual donde se comenta sobre platillos o preferencias alimenticias.
+¿Por qué ocurre Capital de Rusia: Moscú es la capital de Rusia, el país más extenso del mundo?
+Dame una explicación de Actividad de adquirir productos o servicios a través de internet.
+¿Por qué ocurre Un rayo contiene suficiente energía para tostar 100,000 rebanadas de pan?
+Dame una explicación de Invención de la imprenta.
+¿Por qué ocurre Un robot con IA puede aprender a esquivar obstáculos nuevos que no había visto antes?
+¿Por qué ocurre Groenlandia es considerada la isla más grande del mundo?
+Dame una explicación de Activar, esforzarse más.
+¿Por qué ocurre print('Hola mundo') es el clásico primer programa en Python?
+Dame una explicación de Cerrar programas libera memoria RAM que puede usar otra aplicación.
+¿Por qué ocurre Uso de sistemas de control y robots para realizar procesos de producción con mínima intervención humana?
+¿Por qué ocurre Quinta generación de tecnología de redes móviles, que ofrece mayor velocidad y menor latencia que las anteriores?
+¿Por qué ocurre Frase que ofrece ayuda o apoyo a otra persona en una conversación?
+Dame una explicación de Idioma con muy pocos hablantes activos, en riesgo de desaparecer con el tiempo.
+¿Por qué ocurre Empacar por habitaciones facilita organizar una mudanza?
+Dame una explicación de El limo depositado por los ríos crea suelos muy fértiles para la agricultura.
+Dame una explicación de Rusia es tan grande que tiene 11 zonas horarias diferentes.
+¿Por qué ocurre Las etiquetas , y definen títulos, párrafos y enlaces en HTML?
+Dame una explicación de Expresión de acuerdo: Frase corta usada para mostrar que se está de acuerdo con lo que dijo otra.
+¿Por qué ocurre Continuar invirtiendo en algo porque ya se ha invertido mucho, aunque ya no sea racional?
+Dame una explicación de Un robot con IA puede aprender a esquivar obstáculos nuevos que no había visto antes.
+Dame una explicación de Teléfono inteligente (smartphone): Dispositivo móvil que combina funciones de telefonía con acceso a internet, aplicaciones y multimedia.
+Dame una explicación de El alfabeto latino es usado por el español, el inglés y muchos otros idiomas.
+concepto: meridiano_greenwich nombre: Meridiano de Greenwich definicion: Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo ejemplo: El meridiano de Greenwich pasa por el Real Observatorio de Greenwich, en Londres
+Dame una explicación de QuickSort y MergeSort son algoritmos de ordenamiento eficientes con complejidad O(n log n).
+Dame una explicación de Algoritmo de ordenamiento: Procedimiento que reorganiza una colección de elementos según un criterio, como orden ascendente.
+concepto: potencia_matematica nombre: Potenciación definicion: Operación que multiplica un número (base) por sí mismo tantas veces como indica el exponente ejemplo: 2³ = 8 porque 2 × 2 × 2 = 8
+concepto: volumen nombre: Volumen definicion: Medida del espacio tridimensional que ocupa un cuerpo ejemplo: El volumen de un cubo se calcula elevando la longitud de su arista al cubo
+Dame una explicación de Rusia se extiende a lo largo de once husos horarios distintos.
+Dame un ejemplo de metafora_lenguaje. metafora_lenguaje: Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita. Ejemplo: 'Sus ojos son dos luceros' es una metáfora Un ejemplo de metafora_lenguaje es 'Sus ojos son dos luceros' es una metáfora
+¿Por qué ocurre Conjunto de técnicas iniciales para atender a una persona antes de recibir atención médica profesional?
+Dame una explicación de En un triángulo rectángulo con catetos 6 y 8, la hipotenusa mide 10.
+¿Por qué ocurre conjuncion: Palabra que une oraciones o elementos?
+Dame una explicación de Estado de inactividad que adoptan algunos animales durante el invierno para ahorrar energía.
+Dame una explicación de Pequeño circuito integrado que contiene un procesador y memoria, usado para controlar dispositivos electrónicos.
+¿Por qué ocurre El éxito es ir de fracaso en fracaso sin perder el entusiasmo?
+¿Por qué ocurre El primer precio que ves influye en lo que consideras 'caro' o 'barato'?
+¿Por qué ocurre Expresión que se usa para mostrar gratitud hacia otra persona por algo que hizo o dijo?
+Dame una explicación de Monte Everest: La montaña más alta del mundo sobre el nivel del mar, ubicada en la cordillera del.
+¿Por qué ocurre Caminar treinta minutos al día es una forma sencilla de ejercicio diario?
+¿Por qué ocurre La educación es el arma más poderosa que puedes usar para cambiar el mundo?
+Dame una explicación de Secuencia finita y ordenada de pasos que resuelve un problema o realiza una tarea específica.
+¿Qué sabes sobre integral? integral: En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad
+Dame una explicación de Palabra que tiene un significado opuesto al de otra.
+Dame una explicación de Programación funcional: Paradigma que trata la computación como la evaluación de funciones matemáticas, evitando estados mutables.
+Dame una explicación de Colección de código reutilizable que otros programas pueden usar para realizar tareas comunes.
+¿Por qué ocurre Igualdad matemática donde la incógnita aparece elevada solo a la primera potencia?
+Dame una explicación de machine_learning: Subcampo de IA donde los algoritmos aprenden patrones a partir de datos sin ser programados explícitamente.
+Dame una explicación de El euro es la moneda oficial de la mayoría de los países de la Unión Europea.
+¿Por qué ocurre Estructura de datos donde cada elemento (nodo) apunta al siguiente, permitiendo inserciones eficientes?
+¿A qué área pertenece Un vector (3, 4) tiene un módulo de 5, calculado con el teorema de Pitágoras?
+Dame una explicación de India superó a China como el país más poblado del mundo en la década de 2020.
+¿A qué área pertenece Área del círculo: Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado?
+Dame una explicación de Oración que formula una pregunta.
+Pensar que los accidentes de avión son más comunes que los de auto porque aparecen más en noticias
+Dame una explicación de Sede de la ONU. Centro financiero global.
+Dame una explicación de Memoria de acceso aleatorio donde se guardan temporalmente los datos y programas en ejecución.
+Dame una explicación de Pruebas de software (testing): Proceso de verificar que un programa funciona correctamente y cumple los requisitos esperados.
+¿Por qué ocurre x² - 5x + 6 = 0 tiene como soluciones x = 2 y x = 3?
+¿Qué es Método para calcular un valor proporcional desconocido a partir de tres valores conocidos?
+Dame una explicación de Conjunto de prácticas como riego y exposición a la luz para mantener plantas domésticas saludables.
+¿Por qué ocurre numero_compuesto: Número que tiene más de dos divisores?
+Dame una explicación de El antiguo Egipto se desarrolló gracias a las crecidas fértiles del río Nilo.
+La cinemática directa calcula la posición del extremo de un brazo robótico a partir de sus ángulos de articulación
+¿Por qué ocurre La simplicidad es la máxima sofisticación?
+Dame una explicación de Capital de Australia: Canberra es la capital de Australia, aunque Sídney es la ciudad más poblada del país.
+¿Por qué ocurre Teorema de Pitágoras: En un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de?
+Dame una explicación de El punto de penalti está situado a 11 metros de la línea de meta.
+Dame una explicación de Las agencias antidopaje realizan controles para detectar el uso de sustancias prohibidas.
+Dame una explicación de Medida de cuántos recursos (tiempo o memoria) necesita un algoritmo en función del tamaño de la entrada.
+¿Por qué ocurre Programa interactivo de entretenimiento donde el usuario controla acciones dentro de un mundo virtual?
+Quiero aprender sobre Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita.
+¿Por qué ocurre Conversación trivial sobre el clima: Tema común de charla casual para romper el hielo o llenar silencios sociales?
+Dame una explicación de La liga de fútbol profesional suele jugarse en formato de todos contra todos, ida y vuelta.
+Dame una explicación de Atletismo: Conjunto de disciplinas deportivas que incluyen carreras, saltos y lanzamientos.
+¿Por qué ocurre Los árboles binarios de búsqueda permiten buscar un valor en tiempo logarítmico?
+¿Por qué ocurre Bucle while: Estructura de control que repite un bloque mientras se cumpla una condición?
+Dame una explicación de Récord mundial (deporte): Mejor marca oficial registrada en una disciplina deportiva a nivel global.
+¿Por qué ocurre Conjunto ordenado de letras usadas para representar los sonidos de un idioma por escrito?
+¿Por qué ocurre Streaming (transmisión en línea): Tecnología que permite reproducir contenido de audio o video en tiempo real a través?
+¿Por qué ocurre Sistema de escritura basado en símbolos e imágenes, usado por civilizaciones como el antiguo Egipto?
+concepto: desierto_sahara nombre: Desierto del Sahara definicion: El desierto cálido más grande del mundo, ubicado en el norte de África ejemplo: El Sahara ocupa una superficie comparable a la de todo el territorio de Estados Unidos
+¿Por qué ocurre Expresión de ánimo: Frase usada para motivar o dar fuerza a alguien en una situación difícil?
+Dame una explicación de Número compuesto: Número natural mayor que 1 que tiene más de dos divisores.
+Dame una explicación de Un robot de telepresencia puede permitir asistir a una reunión de forma remota con movimiento propio.
+Dame una explicación de Llegada del hombre a la Luna.
+¿Por qué ocurre mcm(4,6) = 12?
+¿Por qué ocurre GitHub aloja repositorios que usan Git como sistema de control de versiones?
+¿Por qué ocurre Planificación de comidas: Práctica de organizar con anticipación qué se va a comer durante la semana?
+Dame una explicación de Árbitro: Persona encargada de aplicar las reglas de un deporte y tomar decisiones durante un partido o competición.
+Dame una explicación de Descubrimiento de América.
+Dame una explicación de Simetría: Propiedad de una figura que permanece igual después de aplicarle una transformación como reflexión o rotación.
+Dame una explicación de Estructura de control que repite un bloque mientras se cumpla una condición.
+Dame una explicación de Los robots humanoides suelen tener cabeza, torso, brazos y piernas articuladas.
+Dame una explicación de Computación en la nube: Modelo que ofrece recursos informáticos (servidores, almacenamiento) a través de internet bajo demanda.
+¿Por qué ocurre Cifrado (encriptación): Proceso que transforma información legible en un formato codificado para protegerla de accesos no autorizados?
+Dame una explicación de Matriz: Arreglo rectangular de números organizados en filas y columnas, usado en álgebra lineal.
+¿Cómo funciona La raíz cuadrada de 9 es 3, porque 3 × 3 = 9?
+Quiero aprender sobre La cinemática directa calcula la posición del extremo de un brazo robótico a partir de sus ángulos de.
+¿Por qué ocurre Un juego de béisbol se compone normalmente de nueve entradas?
+¿Por qué ocurre Los paneles solares convierten la luz del sol directamente en electricidad?
+¿Por qué ocurre Uso de algoritmos de IA para que los robots tomen decisiones, aprendan y se adapten a su entorno?
+¿Por qué ocurre Grupo de animales vertebrados caracterizados por tener glándulas mamarias y, en general, pelo?
+Háblame de Continuar invirtiendo en algo porque ya se ha invertido mucho, aunque ya no sea racional.
+concepto: vector_matematico nombre: Vector definicion: Magnitud que tiene tanto tamaño (módulo) como dirección, representada por una flecha o coordenadas ejemplo: Un vector (3, 4) tiene un módulo de 5, calculado con el teorema de Pitágoras
+Dame una explicación de Sanción máxima en fútbol que otorga un tiro directo a portería desde el punto penal por una falta.
+¿Por qué ocurre Algoritmo: Secuencia finita y ordenada de pasos que resuelve un problema o realiza una tarea específica?
+Dame una explicación de Arquitectura gótica: Estilo arquitectónico medieval europeo caracterizado por arcos apuntados, bóvedas de crucería y grandes vitrales.
+Necesito información sobre regla_tres: Método para calcular un valor proporcional desconocido a partir de tres valores conocidos.
+Dame una explicación de La Traviata y Carmen son óperas célebres del repertorio clásico.
+¿Por qué ocurre variable: Contenedor para almacenar datos en memoria. Python tiene tipado dinámico?
+El perímetro de un cuadrado de lado 5 es 20, porque 4 × 5 = 20
+Explícame Un algoritmo de navegación puede recalcular la ruta si detecta un obstáculo nuevo.
+Dame una explicación de Cine documental: Género cinematográfico que registra hechos reales con fines informativos o de reflexión social.
+Dame un ejemplo de teorema_pitagoras. teorema_pitagoras: En un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos. Ejemplo: Si los catetos miden 3 y 4, la hipotenusa mide 5, porque 3² + 4² = 5² Un ejemplo de teorema_pitagoras es Si los catetos miden 3 y 4, la hipotenusa mide 5, porque 3² + 4² = 5²
+Dame una explicación de La religión del antiguo Egipto era politeísta, con dioses como Ra y Osiris.
+Dame una explicación de Grandes bloques rígidos de la corteza terrestre que se mueven lentamente y provocan terremotos y volcanes.
+¿Qué sabes sobre Los delfines, a pesar de vivir en el agua, son mamíferos porque amamantan a sus crías?
+Dame una explicación de Tecnología que permite reproducir contenido de audio o video en tiempo real a través de internet, sin descargarlo.
+¿Por qué ocurre Unidad mínima de comunicación con sentido completo, formada generalmente por sujeto y predicado?
+Dame una explicación de 25% significa 25 de cada 100.
+Dame una explicación de Conjunto de técnicas iniciales para atender a una persona antes de recibir atención médica profesional.
+Dame una explicación de La duda es uno de los nombres de la inteligencia.
+concepto: numero_pi nombre: Número Pi (π) definicion: Constante matemática que representa la relación entre la circunferencia de un círculo y su diámetro, aproximadamente 3.14159 ejemplo: El área de un círculo se calcula como π multiplicado por el radio al cuadrado
+Dame una explicación de Procesamiento de Lenguaje Natural: capacidad de las máquinas para entender, interpretar y generar lenguaje humano.
+Dame una explicación de Sistema de creencias que reconoce la existencia de múltiples dioses.
+concepto: resta nombre: Resta definicion: Operación aritmética que calcula la diferencia entre dos cantidades ejemplo: 10 - 3 = 7 es un ejemplo de resta
+Dame una explicación de Mi abuela no tiene pelos en la lengua.
+¿Qué es Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo?
+Dame una explicación de Operación que encuentra el número que, multiplicado por sí mismo, da como resultado el número original.
+¿Por qué ocurre Expresión de alivio: Frase que comunica tranquilidad después de resolver una preocupación?
+Dame una explicación de En balonmano, los jugadores no pueden dar más de tres pasos sin botar el balón.
+¿Por qué ocurre mcd: Máximo común divisor: el mayor número que divide exactamente a dos o más números?
+¿Por qué ocurre Si alguien dice 'tuve un mal día', preguntar '¿qué pasó?' es una pregunta de seguimiento?
+Dame una explicación de Cómic: Forma narrativa que combina ilustraciones y texto para contar una historia, generalmente por viñetas.
+¿Por qué ocurre Un documental de naturaleza puede mostrar el comportamiento real de animales salvajes?
+2³ = 8 porque 2 × 2 × 2 = 8
+Explícame resta. resta: Operación aritmética que calcula la diferencia entre dos cantidades Operación aritmética que calcula la diferencia entre dos cantidades
+¿Por qué ocurre La inteligencia es la capacidad de adaptarse al cambio?
+¿Cómo funciona Resta: Operación aritmética que calcula la diferencia entre dos cantidades?
+Método para calcular un valor proporcional desconocido a partir de tres valores conocidos
+¿Por qué ocurre tiempo_verbal: Momento en que ocurre la acción del verbo?
+¿Por qué ocurre Instrumento antiguo para medir el tiempo mediante el paso de arena entre dos recipientes conectados?
+¿Por qué ocurre predicado: Parte de la oración que expresa lo que hace o se dice del sujeto?
+Dame una explicación de Batería eléctrica: Dispositivo que almacena energía química y la convierte en energía eléctrica para alimentar aparatos.
+Dame una explicación de Robot: Máquina programable capaz de ejecutar tareas de forma autónoma o semiautónoma, a menudo imitando acciones humanas.
+¿Por qué ocurre Un partido de fútbol profesional dura 90 minutos divididos en dos tiempos de 45?
+¿Por qué ocurre Hacer una lista antes de ir al supermercado ayuda a comprar solo lo necesario?
+Dame una explicación de 10 - 3 = 7 es un ejemplo de resta.
+Dame un ejemplo de numero_pi. numero_pi: Constante matemática que representa la relación entre la circunferencia de un círculo y su diámetro, aproximadamente 3.14159. Ejemplo: El área de un círculo se calcula como π multiplicado por el radio al cuadrado Un ejemplo de numero_pi es El área de un círculo se calcula como π multiplicado por el radio al cuadrado
+Dame una explicación de Carnaval: Festividad popular caracterizada por desfiles, música y disfraces, celebrada antes de la Cuaresma en muchas culturas.
+Dame una explicación de Las vacunas han sido clave para erradicar o controlar enfermedades como la viruela.
+¿Por qué ocurre Agujero negro: Región del espacio con un campo gravitatorio tan intenso que ni la luz puede escapar de?
+Dame una explicación de Proceso de transformar materiales usados en nuevos productos para reducir residuos.
+Dame una explicación de Festival de cine: Evento donde se proyectan y premian películas, a menudo con la participación de directores y.
+Dame una explicación de La necesidad es la madre de la invención.
+¿Por qué ocurre Cinturón negro (artes marciales): Nivel avanzado de dominio técnico en disciplinas como el karate o el judo?
+Un vector (3, 4) tiene un módulo de 5, calculado con el teorema de Pitágoras
+¿Por qué ocurre Torneo internacional de selecciones nacionales de fútbol organizado por la FIFA cada cuatro años?
+Dame una explicación de El examen fue pan comido.
+Dame una explicación de El lago más profundo y antiguo del mundo. Contiene 20% del agua dulce no congelada.
+Dame una explicación de Parte de una aplicación con la que interactúa directamente el usuario, generalmente en el navegador.
+Dame una explicación de Las etiquetas , y definen títulos, párrafos y enlaces en HTML.
+Háblame de Resta: Operación aritmética que calcula la diferencia entre dos cantidades.
+¿Por qué ocurre Locura es hacer lo mismo una y otra vez esperando resultados diferentes?
+Dame una explicación de CPU (procesador): Unidad central de procesamiento que ejecuta las instrucciones de los programas de una computadora.
+Explícame area_circulo. area_circulo: Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado
+¿Por qué ocurre La derivada de x² es 2x, lo que indica cómo cambia la función en cada punto?
+¿Por qué ocurre Ilusión de control?
+¿Por qué ocurre Frase corta y educada usada para mostrar una opinión distinta sin generar conflicto?
+¿Por qué ocurre Tienes que ponerte las pilas si quieres aprobar?
+Dame una explicación de articulo: Palabra que acompaña al sustantivo indicando género y número.
+Dame una explicación de La más alta de América y del hemisferio sur.
+¿Por qué ocurre Aplicar presión sobre una herida para detener el sangrado es un primer auxilio básico?
+El área de un círculo se calcula como π multiplicado por el radio al cuadrado
+¿Por qué ocurre El sistema quirúrgico Da Vinci permite a los cirujanos operar con mayor precisión usando brazos robóticos?
+Dame una explicación de Río Nilo: Uno de los ríos más largos del mundo, que atraviesa el noreste de África y desemboca.
+regla_tres: Método para calcular un valor proporcional desconocido a partir de tres valores conocidos
+Dame una explicación de '¿Cómo te llamas?' es una pregunta común al conocer a alguien.
+Dame una explicación de La frase 'Hola mundo' tiene 2 tokens en tokenización por palabras.
+¿Por qué ocurre El color rojo es el primer color que los bebés pueden ver, alrededor de las 2 semanas de?
+¿Por qué ocurre La suma de los ángulos internos de un triángulo euclidiano siempre es 180 grados?
+Necesito información sobre El perímetro de un cuadrado de lado 5 es 20, porque 4 × 5 = 20.
+Dame una explicación de 'Hola, soy Ana, mucho gusto' es una presentación propia común.
+Dame una explicación de Conjunto de relatos y creencias sobre dioses y héroes de la antigua Grecia.
+¿Por qué ocurre Todo el oro extraído en la historia de la humanidad cabría en un cubo de 23 metros de?
+¿Por qué ocurre Campo que permite a las máquinas interpretar y comprender imágenes o video del mundo real?
+¿Por qué ocurre Robótica móvil: Rama de la robótica dedicada a robots capaces de desplazarse por su entorno de forma autónoma?
+Dame una explicación de Expresión de sorpresa: Frase breve que refleja asombro ante una noticia o situación inesperada.
+¿Cómo funciona regla_tres: Método para calcular un valor proporcional desconocido a partir de tres valores conocidos?
+¿Por qué ocurre ADN (ácido desoxirribonucleico): Molécula que contiene la información genética hereditaria de los seres vivos?
+¿Por qué ocurre Proceso de encontrar y corregir errores en un programa?
+¿Por qué ocurre Capital de China: Pekín (Beijing) es la capital de la República Popular China?
+Dame una explicación de Estilo arquitectónico medieval europeo caracterizado por arcos apuntados, bóvedas de crucería y grandes vitrales.
+Dame una explicación de Procedimiento que reorganiza una colección de elementos según un criterio, como orden ascendente.
+¿Qué sabes sobre √9 = 3 porque 3×3=9?
+Dame una explicación de Dron: Vehículo aéreo no tripulado que puede ser controlado remotamente o volar de forma autónoma.
+¿Por qué ocurre Deporte que involucra montar y competir con caballos en disciplinas como salto o doma?
+Dame un ejemplo de gps. gps: Sistema satelital que permite determinar la ubicación geográfica exacta de un dispositivo en la Tierra. Ejemplo: Las aplicaciones de mapas usan GPS para calcular rutas y mostrar la ubicación en tiempo real Un ejemplo de gps es Las aplicaciones de mapas usan GPS para calcular rutas y mostrar la ubicación en tiempo real
+Dame una explicación de La selva amazónica tiene una de las mayores biodiversidades del planeta.
+¿Por qué ocurre La duda es uno de los nombres de la inteligencia?
+¿Por qué ocurre Adverbio: Categoría gramatical que modifica a un verbo, adjetivo u otro adverbio, indicando modo, tiempo o lugar?
+¿Por qué ocurre Vehículo aéreo no tripulado que puede ser controlado remotamente o volar de forma autónoma?
+En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad
+¿Cómo funciona Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado?
+Dame una explicación de equilibrio: Estado de balance entre fuerzas opuestas.
+Dame una explicación de Frase que ofrece ayuda o apoyo a otra persona en una conversación.
+¿Por qué ocurre La religión del antiguo Egipto era politeísta, con dioses como Ra y Osiris?
+¿Por qué ocurre Mayor población hispanohablante. Cuna de civilizaciones mesoamericanas?
+Dame una explicación de Sistema que registra los cambios realizados en archivos a lo largo del tiempo, permitiendo volver a versiones anteriores.
+¿Por qué ocurre Símbolo patrio distintivo de un país, generalmente compuesto por colores y diseños con significado histórico?
+Dame una explicación de Tierra rica en nutrientes que favorece el crecimiento de las plantas.
+¿Por qué ocurre Organización del armario: Práctica de ordenar la ropa y accesorios personales para facilitar su uso diario?
+¿Por qué ocurre Hay más de 7,000 idiomas en el mundo. El 40% está en peligro de extinción. Una lengua muere?
+¿Por qué ocurre Lenguaje de programación orientado a objetos, compilado a bytecode que corre sobre la Máquina Virtual de Java (JVM)?
+Dame una explicación de Unión de dos vocales en una misma sílaba (vocal cerrada + abierta).
+¿Por qué ocurre Volcán: Formación geológica donde el magma del interior de la Tierra sale a la superficie, a veces de?
+¿Por qué ocurre Componente en el extremo de un brazo robótico que interactúa directamente con el entorno, como una pinza o?
+Dame una explicación de Continente ubicado principalmente en el hemisferio norte, conocido por su diversidad de países e idiomas.
+Dame una explicación de Esta pintura dio nombre al movimiento impresionista.
+Dame un ejemplo de meridiano_greenwich. meridiano_greenwich: Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo. Ejemplo: El meridiano de Greenwich pasa por el Real Observatorio de Greenwich, en Londres Un ejemplo de meridiano_greenwich es El meridiano de Greenwich pasa por el Real Observatorio de Greenwich, en Londres
+¿Qué sabes sobre Área del círculo: Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado?
+¿Por qué ocurre Categoría de peso (boxeo): División de competidores según su peso corporal, para igualar condiciones físicas de combate?
+¿Por qué ocurre Palabra que une oraciones o elementos?
+¿Por qué ocurre Uso de kits y robots simples para enseñar programación y pensamiento lógico a estudiantes?
+Dame un ejemplo de conjuncion. conjuncion: Palabra que une oraciones o elementos. Ejemplo: ['y', 'o', 'pero', 'porque'] Un ejemplo de conjuncion es ['y', 'o', 'pero', 'porque']
+Dame una explicación de Expresión de disponibilidad para ayudar: Frase que ofrece ayuda o apoyo a otra persona en una conversación.
+¿Por qué ocurre Procesamiento de Lenguaje Natural: capacidad de las máquinas para entender, interpretar y generar lenguaje humano?
+¿Por qué ocurre Sobreajuste: cuando un modelo memoriza los datos de entrenamiento y falla en generalizar a nuevos datos?
+¿Por qué ocurre Si un tren eléctrico viaja hacia el norte a 100 km/h y el viento sopla hacia el sur?
+¿Por qué ocurre Sistema de movilidad colectiva disponible para el uso general de la población?
+Dame una explicación de Número entero positivo usado para contar, comenzando desde 0 o 1 según la convención.
+¿Por qué ocurre El salto de obstáculos en hípica evalúa la técnica del binomio jinete-caballo?
+Dame una explicación de Capital de México: Ciudad de México es la capital de México y una de las áreas metropolitanas más.
+¿Por qué ocurre Estilo arquitectónico medieval europeo caracterizado por arcos apuntados, bóvedas de crucería y grandes vitrales?
+¿Qué es Metáfora: Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita?
+Dame una explicación de Tecnología desarrollada por Johannes Gutenberg en el siglo XV que permitió reproducir textos en masa.
+¿Por qué ocurre Expresión usada para celebrar un logro o buena noticia de otra persona?
+Dame una explicación de Sistema de control que ajusta continuamente su comportamiento usando información de sensores sobre el resultado.
+Área del círculo: Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado
+¿Por qué ocurre Derechos civiles: Conjunto de libertades y garantías legales que protegen a las personas frente al Estado y otros?
+Dame una explicación de A veces las personas que nadie imagina que harían algo son las que hacen cosas que nadie podría.
+Dame una explicación de Unidad mínima de comunicación con sentido completo, formada generalmente por sujeto y predicado.
+¿Por qué ocurre Deporte que consiste en desplazarse en el agua usando técnicas como crol, espalda, pecho o mariposa?
+¿Por qué ocurre El delta del río Nilo es una de las regiones agrícolas más importantes de Egipto?
+¿Por qué ocurre pronombre: Palabra que sustituye al sustantivo?
+¿Por qué ocurre Clase: Plantilla que define los atributos y comportamientos que tendrán los objetos creados a partir de ella?
+¿Por qué ocurre Fuera de juego (offside): Regla del fútbol que sanciona a un jugador atacante que recibe el balón estando?
+Dame una explicación de Una lista enlazada simple tiene nodos con un valor y un puntero al siguiente nodo.
+Dame una explicación de El río más caudaloso del mundo. Contiene 1/5 del agua dulce del planeta.
+¿Por qué ocurre Formateo de strings desde Python 3.6?
+Quiero aprender sobre Metáfora: Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita.
+¿Por qué ocurre Método para calcular un valor proporcional desconocido a partir de tres valores conocidos?
+Dame una explicación de verdad: Conformidad entre lo que se afirma y los hechos o la realidad.
+Dame una explicación de prompt: Instrucción o texto de entrada dado a un modelo de lenguaje para guiar su generación.
+¿Por qué ocurre '¿Qué hiciste el fin de semana?' es una pregunta típica de conversación casual?
+Dame una explicación de Los koalas tienen huellas dactilares casi idénticas a las humanas.
+Dame una explicación de Deporte que consiste en ascender paredes de roca o estructuras artificiales usando técnica y fuerza.
+¿Por qué ocurre Internet de las cosas (IoT): Red de dispositivos físicos cotidianos conectados a internet capaces de recopilar e intercambiar?
+Dame una explicación de Una variable definida dentro de una función solo existe mientras esa función se ejecuta.
+Dame una explicación de Desierto del Sahara: El desierto cálido más grande del mundo, ubicado en el norte de África.
+Dame una explicación de Sistema de gobierno donde el poder reside en el pueblo, que elige a sus representantes mediante el voto.
+Dame una explicación de '¿Cómo está tu familia?' es una pregunta conversacional común.
+¿Por qué ocurre Fútbol: Deporte de equipo donde dos equipos de once jugadores intentan meter un balón en la portería contraria?
+Dame una explicación de oracion_exclamativa: Oración que expresa emoción intensa.
+Dame una explicación de Red de computadoras: Conjunto de dispositivos interconectados que pueden compartir datos y recursos entre sí.
+Dame una explicación de Número que tiene más de dos divisores.
+Dame una explicación de f_string: Formateo de strings desde Python 3.6.
+Dame una explicación de Internet es la red de computadoras más grande del mundo.
+¿Por qué ocurre Byte: Unidad de información compuesta por 8 bits, capaz de representar 256 valores distintos?
+Dame una explicación de Trigonometría: Rama de las matemáticas que estudia las relaciones entre los ángulos y los lados de los triángulos.
+¿Por qué ocurre El jazz surgió principalmente en Nueva Orleans y se expandió por todo el mundo?
+Dame una explicación de Artesanía: Trabajo manual que produce objetos con valor cultural o decorativo usando técnicas tradicionales.
+¿Por qué ocurre Sesgo de autoconsistencia?
+Dame una explicación de Todo el oro extraído en la historia de la humanidad cabría en un cubo de 23 metros de.
+¿Por qué ocurre lista: Colección ordenada y mutable de elementos?
+¿Por qué ocurre Gimnasia artística: Deporte que combina fuerza, flexibilidad y coordinación en aparatos como barras, anillas y suelo?
+Dame una explicación de GPT pre-entrenado + fine-tuning para asistente médico.
+Dame una explicación de numero_primo: Número natural mayor que 1, divisible solo por 1 y por sí mismo.
+¿Por qué ocurre Modelo que ofrece recursos informáticos (servidores, almacenamiento) a través de internet bajo demanda?
+Dame una explicación de Van Gogh los pintó para decorar la casa de su amigo Gauguin en Arlés.
+Dame una explicación de oracion_interrogativa: Oración que formula una pregunta.
+El Sahara ocupa una superficie comparable a la de todo el territorio de Estados Unidos
+¿Por qué ocurre Cambio climático: Alteración a largo plazo de los patrones de temperatura y clima en la Tierra, en gran?
+¿Por qué ocurre Dos tarjetas amarillas en un mismo partido equivalen a una expulsión?
+¿A qué área pertenece Continuar invirtiendo en algo porque ya se ha invertido mucho, aunque ya no sea racional?
+¿Por qué ocurre Variable que almacena la dirección de memoria de otra variable, usado en lenguajes como C?
+Dame una explicación de Juegos Olímpicos: Evento multideportivo internacional que se celebra cada cuatro años, reuniendo a atletas de todo el mundo.
+¿Por qué ocurre Grupo de artrópodos con seis patas y cuerpo dividido en cabeza, tórax y abdomen?
+¿Qué es Si los catetos miden 3 y 4, la hipotenusa mide 5, porque 3² + 4² = 5²?
+¿Por qué ocurre Deporte de invierno que consiste en descender pendientes nevadas con esquís a alta velocidad?
+Dame una explicación de Grupo de animales vertebrados de sangre fría, generalmente cubiertos de escamas.
+¿Por qué ocurre Operación que encuentra la diferencia entre dos números?
+¿Qué es cielo_azul? cielo_azul: El cielo se ve azul principalmente porque la atmósfera dispersa la luz solar de onda corta, especialmente azul, con mayor intensidad que las longitudes de onda más largas. Este fenómeno se denomina dispersión de Rayleigh. El cielo se ve azul principalmente porque la atmósfera dispersa la luz solar de onda corta, especialmente azul, con mayor intensidad que las longitudes de onda más largas. Este fenómeno se denomina dispersión de Rayleigh.
+Dame una explicación de Entorno de desarrollo integrado (IDE): Software que agrupa editor de código, depurador y otras herramientas para facilitar la.
+¿Por qué ocurre Tendencia a buscar, interpretar y recordar información que confirma nuestras creencias preexistentes?
+¿Por qué ocurre Los osos entran en hibernación durante los meses fríos del año?
+¿Por qué ocurre Fuerza de atracción entre objetos con masa. En la superficie terrestre: 9.8 m/s²?
+¿Por qué ocurre Sucesión de números donde cada término se obtiene sumando una cantidad constante al anterior?
+¿Por qué ocurre Número natural mayor que 1, divisible solo por 1 y por sí mismo?
+Dame una explicación de Muchas lenguas indígenas están en peligro de extinción por falta de nuevos hablantes.
+Dame una explicación de raiz_cuadrada: Número que multiplicado por sí mismo da el número original.
+¿Por qué ocurre Representación de una parte de un todo dividido en partes iguales, escrita como numerador sobre denominador?
+¿Por qué ocurre Segunda Ley de Newton: La aceleración de un objeto es proporcional a la fuerza neta e inversamente proporcional?
+Dame una explicación de Variable: Espacio con nombre en memoria que almacena un valor que puede cambiar durante la ejecución del programa.
+Quiero aprender sobre Integral: En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de.
+Dame una explicación de Organización del armario: Práctica de ordenar la ropa y accesorios personales para facilitar su uso diario.
+¿Por qué ocurre El intestino delgado mide 6-7 metros desplegado?
+Dame una explicación de Hipotenusa: Lado más largo de un triángulo rectángulo, opuesto al ángulo recto.
+¿Por qué ocurre Usar una agenda ayuda a la organización del tiempo entre trabajo y descanso?
+¿Por qué ocurre Cadena de bloques (blockchain): Registro digital distribuido e inmutable donde las transacciones se agrupan en bloques enlazados criptográficamente?
+¿Por qué ocurre Cuidado de mascotas: Conjunto de responsabilidades diarias para garantizar el bienestar de un animal de compañía?
+¿Por qué ocurre CSS: Lenguaje usado para definir el estilo visual (colores, tamaños, disposición) de las páginas web?
+Dame una explicación de Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo.
+¿Por qué ocurre Probabilidad: Medida numérica entre 0 y 1 de qué tan posible es que ocurra un evento?
+Dame una explicación de Regar las plantas de interior una o dos veces por semana suele ser suficiente.
+Dame una explicación de El volumen de un cubo se calcula elevando la longitud de su arista al cubo.
+¿Por qué ocurre El examen fue pan comido?
+¿Por qué ocurre Abstracción: Principio que se enfoca en las características esenciales de un objeto, ocultando la complejidad innecesaria?
+¿Por qué ocurre Entorno de desarrollo integrado (IDE): Software que agrupa editor de código, depurador y otras herramientas para facilitar la?
+Dame una explicación de Forma habitual de mostrar interés preguntando por los familiares de otra persona.
+Dame una explicación de No criticar un regalo.
+¿Por qué ocurre Transmisión de relatos, leyendas y conocimientos de generación en generación mediante la palabra hablada?
+Dame una explicación de Usar breakpoints en un depurador permite inspeccionar el estado del programa paso a paso.
+Dame una explicación de Red 5G: Quinta generación de tecnología de redes móviles, que ofrece mayor velocidad y menor latencia que las.
+¿Por qué ocurre Actividad cotidiana de adquirir alimentos y productos básicos para el hogar?
+¿Por qué ocurre Establece que si dos rectas son cortadas por rectas paralelas, los segmentos resultantes son proporcionales?
+¿Por qué ocurre Movimiento artístico del siglo XIX que buscaba capturar la luz y el momento fugaz mediante pinceladas sueltas?
+sesgo: Sesgo de disponibilidad definicion: Sobreestimar la probabilidad de eventos que vienen fácilmente a la mente (generalmente por ser recientes o impactantes) ejemplo: Pensar que los accidentes de avión son más comunes que los de auto porque aparecen más en noticias
+Dame una explicación de 'Sí, totalmente de acuerdo contigo' expresa conformidad en una charla.
+Dame una explicación de País más grande del mundo: Rusia es el país con mayor extensión territorial del mundo, abarcando dos continentes.
+Dame una explicación de La montaña más alta sobre el nivel del mar.
+¿Por qué ocurre JavaScript: Lenguaje de programación que permite añadir interactividad a las páginas web?
+¿Por qué ocurre Ser muy caro?
+¿Por qué ocurre Estado de balance entre fuerzas opuestas?
+Dame una explicación de Energía renovable obtenida a partir de la radiación del sol, capturada mediante paneles fotovoltaicos.
+El 5G permite descargar archivos grandes en cuestión de segundos en comparación con redes anteriores
+Dame una explicación de Conjunto de técnicas simples para preparar alimentos en casa.
+Necesito información sobre La cinemática directa calcula la posición del extremo de un brazo robótico a partir de sus ángulos de.
+¿Por qué ocurre Proceso de trasladar las pertenencias de una vivienda a otra?
+Dame una explicación de Estado de satisfacción y bienestar intenso.
+concepto: metafora_lenguaje nombre: Metáfora definicion: Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita ejemplo: 'Sus ojos son dos luceros' es una metáfora
+¿Por qué ocurre Bienal de arte: Evento artístico internacional que se celebra cada dos años, exhibiendo obras contemporáneas?
+¿Por qué ocurre El cuerpo humano está compuesto por billones de células especializadas?
+Dame una explicación de Pregunta de cortesía: Pregunta breve usada por educación social, sin necesariamente esperar una respuesta detallada.
+¿Por qué ocurre Constante matemática que representa la relación entre la circunferencia de un círculo y su diámetro, aproximadamente 3.14159?
+Dame una explicación de La montaña más alta del mundo sobre el nivel del mar, ubicada en la cordillera del Himalaya.
+Dame una explicación de Práctica regular de actividad física como parte de la rutina cotidiana.
+Quiero aprender sobre La raíz cuadrada de 9 es 3, porque 3 × 3 = 9.
+Dame una explicación de Capital de Rusia: Moscú es la capital de Rusia, el país más extenso del mundo.
+Dame una explicación de El primer mensaje de texto SMS fue 'Feliz Navidad' en 1992.
+¿Por qué ocurre India superó a China como el país más poblado del mundo en la década de 2020?
+Háblame de Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado.
+¿Por qué ocurre El desierto cálido más grande del mundo, ubicado en el norte de África?
+¿Por qué ocurre Escalada deportiva: Deporte que consiste en ascender paredes de roca o estructuras artificiales usando técnica y fuerza?
+¿Por qué ocurre adverbio: Palabra que modifica al verbo, adjetivo u otro adverbio?
+¿Por qué ocurre Divisiones de la Tierra en 24 franjas que determinan la hora local en distintas regiones del planeta?
+Dame una explicación de La unión y la intersección son operaciones básicas de la teoría de conjuntos.
+¿Por qué ocurre Un termostato usa control de lazo cerrado, midiendo la temperatura para encender o apagar la calefacción?
+Dame una explicación de oracion_simple: Oración con un solo verbo conjugado.
+¿Por qué ocurre Juan come manzanas?
+¿Por qué ocurre Deporte de equipo donde dos equipos de siete jugadores intentan lanzar un balón a la portería contraria con?
+Dame una explicación de 'Me encanta esta canción' expresa gusto personal en una charla.
+Dame una explicación de Patrimonio cultural: Conjunto de bienes materiales e inmateriales heredados de generaciones anteriores, con valor histórico o simbólico.
+Dame una explicación de Molécula que contiene la información genética hereditaria de los seres vivos.
+Dame una explicación de Capital de Alemania: Berlín es la capital de Alemania y una ciudad con gran importancia histórica y cultural.
+Dame una explicación de El río más caudaloso del mundo, que atraviesa gran parte de América del Sur, principalmente Brasil y Perú.
+Dame una explicación de Unidad estructural y funcional básica de todos los seres vivos.
+Explícame regla_tres. regla_tres: Método para calcular un valor proporcional desconocido a partir de tres valores conocidos Método para calcular un valor proporcional desconocido a partir de tres valores conocidos
+¿Por qué ocurre Cuanta más gente presencia una emergencia, menor es la probabilidad de que alguien ayude?
+¿Por qué ocurre Un principiante que cree saberlo todo después de un tutorial?
+¿Por qué ocurre China e India son los dos países más poblados de Asia y del mundo?
+Dame una explicación de Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita.
+¿Qué es Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita?
+Dame una explicación de Cerrar la llave mientras se cepillan los dientes ahorra agua potable.
+¿Por qué ocurre Antes de ayer tenía 17 años. El año que viene tendré 20. ¿Qué día es hoy??
+¿Por qué ocurre Producto de la masa por la velocidad de un objeto?
+¿Por qué ocurre Baile tradicional propio de una región o cultura, transmitido de generación en generación?
+Dame una explicación de El desierto cálido más grande del mundo. Similar en tamaño a China.
+Quiero aprender sobre Seguir viendo una mala película 'porque ya pagaste la entrada'.
+Dame una explicación de Energía almacenada debido a la posición o configuración.
+Dame una explicación de Medida numérica entre 0 y 1 de qué tan posible es que ocurra un evento.
+¿Por qué ocurre Liderazgo: Capacidad de guiar, motivar e influir positivamente en un grupo de personas hacia un objetivo común?
+¿Cómo funciona Comparar precios entre tiendas es útil antes de hacer una compra en línea?
+¿Por qué ocurre 'Qué calor está haciendo hoy, ¿no?' es un ejemplo típico de small talk?
+¿Por qué ocurre La creación de Adán?
+Dame una explicación de Word2Vec, GloVe, FastText. 'Rey - Hombre + Mujer ≈ Reina'.
+¿Por qué ocurre El continente más pequeño, formado por Australia y numerosas islas del Pacífico?
+¿Por qué ocurre Control de lazo cerrado (feedback): Sistema de control que ajusta continuamente su comportamiento usando información de sensores sobre?
+¿Por qué ocurre Los smartphones modernos incluyen cámaras, GPS y asistentes de voz?
+Dame una explicación de Compra en el supermercado: Actividad cotidiana de adquirir alimentos y productos básicos para el hogar.
+Dame una explicación de Liderazgo: Capacidad de guiar, motivar e influir positivamente en un grupo de personas hacia un objetivo común.
+Dame una explicación de 5! = 5 × 4 × 3 × 2 × 1 = 120.
+¿Por qué ocurre En cálculo, mide la tasa de cambio instantánea de una función respecto a su variable?
+Dame una explicación de Proceso que transforma información legible en un formato codificado para protegerla de accesos no autorizados.
+Dame una explicación de Complejidad algorítmica: Medida de cuántos recursos (tiempo o memoria) necesita un algoritmo en función del tamaño de la.
+Dame una explicación de Idea o situación que parece contradictoria pero puede contener una verdad profunda.
+Dame una explicación de Ópera: Género musical dramático donde los cantantes interpretan una historia acompañados de orquesta.
+¿Por qué ocurre Revolución Industrial: Periodo histórico de transformación económica y tecnológica iniciado en Inglaterra a finales del siglo XVIII?
+Dame una explicación de África: Segundo continente más grande y poblado del mundo, con 54 países reconocidos y una enorme diversidad cultural.
+Quiero aprender sobre Continuar invirtiendo en algo porque ya se ha invertido mucho, aunque ya no sea racional.
+¿Cómo funciona Operación aritmética que calcula la diferencia entre dos cantidades?
+Dame una explicación de Trabajo manual que produce objetos con valor cultural o decorativo usando técnicas tradicionales.
+Comparar precios entre tiendas es útil antes de hacer una compra en línea
+¿Por qué ocurre decorador: Función que modifica el comportamiento de otra función?
+Dame una explicación de Expresión de cansancio: Frase usada para comunicar fatiga física o mental en una conversación casual.
+¿Por qué ocurre El Océano Pacífico cubre más superficie que todos los continentes juntos?
+¿Qué sabes sobre regla_tres? regla_tres: Método para calcular un valor proporcional desconocido a partir de tres valores conocidos Método para calcular un valor proporcional desconocido a partir de tres valores conocidos
+¿Por qué ocurre Copa Mundial de Fútbol: Torneo internacional de selecciones nacionales de fútbol organizado por la FIFA cada cuatro años?
+¿Por qué ocurre Los tiburones existen desde hace 400 millones de años, antes que los árboles (350 millones) y que los?
+Dame una explicación de El árbitro principal de fútbol es asistido por árbitros de línea y el VAR.
+Dame una explicación de Tema común de charla casual para romper el hielo o llenar silencios sociales.
+¿Por qué ocurre Factorial: Producto de todos los números enteros positivos desde 1 hasta un número dado n, escrito como n!?
+La raíz cuadrada de 9 es 3, porque 3 × 3 = 9
+¿Por qué ocurre Dimensión en la que los eventos ocurren en secuencia irreversible del pasado al futuro?
+¿Por qué ocurre El desierto cálido más grande del mundo. Similar en tamaño a China?
+¿Por qué ocurre Los brazos robóticos en fábricas de automóviles pueden soldar cientos de piezas por hora?
+¿Por qué ocurre Ciclo del agua: Proceso natural continuo de evaporación, condensación y precipitación del agua en la Tierra?
+¿Por qué ocurre Tecnología que sumerge al usuario en un entorno digital simulado mediante dispositivos como visores especiales?
+Háblame de Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo.
+Dame una explicación de Dispositivo mecánico articulado que imita las funciones de un brazo humano, usado en manufactura y cirugía.
+¿Por qué ocurre La Traviata y Carmen son óperas célebres del repertorio clásico?
+Dame una explicación de Pregunta por la familia: Forma habitual de mostrar interés preguntando por los familiares de otra persona.
+Metáfora: Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita
+¿Por qué ocurre Separar la ropa de color y blanca antes de lavarla evita que se manchen entre sí?
+¿Por qué ocurre Un diccionario en Python {'nombre': 'Ana'} es una tabla hash?
+¿Qué es Creer algo 'porque lo dijo un doctor' sin verificar?
+¿A qué área pertenece Creer algo 'porque lo dijo un doctor' sin verificar?
+Necesito información sobre Creer algo 'porque lo dijo un doctor' sin verificar.
+¿Qué sabes sobre El volumen de un cubo se calcula elevando la longitud de su arista al cubo?
+Quiero aprender sobre Comparar precios entre tiendas es útil antes de hacer una compra en línea.
+¿Por qué ocurre En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una?
+sesgo: Sesgo de autoridad definicion: Tendencia a dar más crédito a la opinión de una figura de autoridad sin cuestionarla ejemplo: Creer algo 'porque lo dijo un doctor' sin verificar
+¿Por qué ocurre La joven de la perla?
+¿Por qué ocurre Las películas de drama suelen explorar temas como la pérdida, el amor o la superación?
+¿Por qué ocurre El patrón \d+ encuentra cualquier secuencia de uno o más dígitos en un texto?
+Dame una explicación de A toda acción corresponde una reacción igual en magnitud pero en sentido opuesto.
+¿Por qué ocurre {'nombre': 'Ana', 'edad': 30} es un objeto JSON válido?
+Dame una explicación de Un motor de 100W hace 100J de trabajo por segundo.
+Dame una explicación de for i in range(5): print(i) imprime los números del 0 al 4.
+Dame una explicación de Número que puede expresarse como el cociente de dos números enteros con denominador distinto de cero.
+¿Por qué ocurre Comprar ropa de moda asumiendo que siempre te gustará ese estilo?
+nombre: Isaac Newton epoca:  [TELEFONO]  campo: Física y matemáticas logros: Leyes del movimiento, Ley de gravitación universal, Cálculo infinitesimal, Óptica frase celebre: Si he visto más lejos, es porque estoy sentado sobre los hombros de gigantes
+¿Por qué ocurre Ángulo que mide exactamente 90 grados?
+Dame una explicación de Ecosistema: Comunidad de seres vivos que interactúan entre sí y con su entorno físico en un espacio determinado.
+Dame un ejemplo de animal_mamifero. animal_mamifero: Grupo de animales vertebrados caracterizados por tener glándulas mamarias y, en general, pelo. Ejemplo: Los delfines, a pesar de vivir en el agua, son mamíferos porque amamantan a sus crías Un ejemplo de animal_mamifero es Los delfines, a pesar de vivir en el agua, son mamíferos porque amamantan a sus crías
+Dame una explicación de Batería de robot: Fuente de energía que alimenta los motores y sistemas electrónicos de un robot autónomo.
+Dame una explicación de Método para calcular un valor proporcional desconocido a partir de tres valores conocidos.
+¿Por qué ocurre Capital de Brasil: Brasilia es la capital de Brasil, diseñada especialmente en el siglo XX como ciudad planificada?
+¿Por qué ocurre Secuencia finita y ordenada de pasos que resuelve un problema o realiza una tarea específica?
+¿Por qué ocurre Unidad monetaria oficial usada en un país para el intercambio de bienes y servicios?
+¿Por qué ocurre Robot humanoide: Robot diseñado para imitar la forma y el movimiento del cuerpo humano?
+¿Por qué ocurre 'Estoy agotado, necesito descansar' expresa cansancio en una charla?
+¿Por qué ocurre Renacimiento: Movimiento cultural y artístico europeo, surgido en Italia en el siglo XIV, que revalorizó el arte y?
+¿Por qué ocurre Forma habitual de iniciar una conversación preguntando por el bienestar de la otra persona?
+Dame una explicación de patron: Regularidad o estructura que se repite en datos, naturaleza o comportamiento.
+¿Por qué ocurre Idioma con muy pocos hablantes activos, en riesgo de desaparecer con el tiempo?
+¿Por qué ocurre Colección de pares clave-valor no ordenada?
+¿Por qué ocurre Contenedor para almacenar datos en memoria. Python tiene tipado dinámico?
+Dame una explicación de Área del círculo: Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado.
+¿Por qué ocurre Palabra que califica o describe al sustantivo?
+Dame una explicación de Plantilla para crear objetos que agrupan datos y métodos.
+Dame una explicación de Derechos humanos: Conjunto de derechos y libertades básicas que se consideran inherentes a todos los seres humanos.
+Dame una explicación de Triángulo cuyos tres lados y tres ángulos internos son iguales, cada ángulo mide 60 grados.
+Dame una explicación de El Monte Everest tiene una altura aproximada de 8,849 metros sobre el nivel del mar.
+¿Por qué ocurre Arreglo o array: Estructura de datos que almacena una colección ordenada de elementos del mismo tipo?
+Meridiano de Greenwich: Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo
+Dame una explicación de Ojo por ojo y el mundo acabará ciego.
+¿Por qué ocurre La aglomeración urbana más poblada del mundo?
+¿Por qué ocurre En una democracia representativa, los ciudadanos eligen a sus autoridades mediante elecciones periódicas?
+Dame una explicación de La gravedad terrestre es la responsable de que los objetos caigan hacia el suelo.
+Dame una explicación de La caligrafía china y árabe son tradiciones artísticas con siglos de historia.
+Dame una explicación de Uso de kits y robots simples para enseñar programación y pensamiento lógico a estudiantes.
+Dame una explicación de Anotar los gastos mensuales ayuda a mantener un presupuesto personal equilibrado.
+¿Por qué ocurre Número primo: Número natural mayor que 1 que solo es divisible entre 1 y él mismo?
+Dame una explicación de predicado: Parte de la oración que expresa lo que hace o se dice del sujeto.
+Dame una explicación de Sé el cambio que quieres ver en el mundo.
+¿Por qué ocurre Primera Guerra Mundial?
+¿Por qué ocurre π y la raíz cuadrada de 2 son números irracionales?
+¿Por qué ocurre Conjunto de reparaciones y cuidados periódicos necesarios para conservar una vivienda en buen estado?
+Dame un ejemplo de resta. resta: Operación aritmética que calcula la diferencia entre dos cantidades. Ejemplo: 10 - 3 = 7 es un ejemplo de resta Un ejemplo de resta es 10 - 3 = 7 es un ejemplo de resta
+¿por qué el cielo es azul?
+Dame una explicación de Número negativo: Número menor que cero, representado con el signo menos delante.
+¿Por qué ocurre Principio que oculta los detalles internos de un objeto y expone solo una interfaz controlada?
+Dame una explicación de Forma organizada de almacenar y gestionar datos para que se puedan usar de manera eficiente.
+¿Por qué ocurre Linux y Python son proyectos de código abierto mantenidos por comunidades globales?
+Dame un ejemplo de potencia_matematica. potencia_matematica: Operación que multiplica un número (base) por sí mismo tantas veces como indica el exponente. Ejemplo: 2³ = 8 porque 2 × 2 × 2 = 8 Un ejemplo de potencia_matematica es 2³ = 8 porque 2 × 2 × 2 = 8
+Dame una explicación de Suma repetida de un número consigo mismo.
+¿Por qué ocurre Encontré a mi media naranja?
+Dame una explicación de Lenguaje de programación que permite añadir interactividad a las páginas web.
+¿Por qué ocurre Compras en línea: Actividad de adquirir productos o servicios a través de internet?
+Necesito información sobre Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita.
+¿Por qué ocurre Simbiosis: Relación biológica cercana y duradera entre dos especies distintas, que puede beneficiar a una o ambas?
+¿Por qué ocurre Librería de software: Colección de código reutilizable que otros programas pueden usar para realizar tareas comunes?
+Dame una explicación de Puntero: Variable que almacena la dirección de memoria de otra variable, usado en lenguajes como C.
+¿Por qué ocurre La cerámica artesanal es una expresión cultural común en comunidades rurales?
+¿Por qué ocurre Género cinematográfico cuyo objetivo principal es entretener y provocar risa en el espectador?
+¿Por qué ocurre Integral: En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de?
+Dame una explicación de No es que tengamos poco tiempo, es que perdemos mucho.
+Dame una explicación de Segunda Ley de Newton: La aceleración de un objeto es proporcional a la fuerza neta e inversamente proporcional.
+¿Por qué ocurre concordancia: Coincidencia de género y número entre sustantivo, adjetivo y artículo?
+¿Por qué ocurre Palabra que expresa acción, estado o proceso?
+Dame una explicación de Charla sobre el fin de semana: Tema conversacional habitual para preguntar por los planes o actividades recientes de.
+Dame una explicación de Machu Picchu es considerado Patrimonio Cultural de la Humanidad por la UNESCO.
+Quiero aprender sobre Pensar que los accidentes de avión son más comunes que los de auto porque aparecen más en noticias.
+Dame una explicación de Número natural: Número entero positivo usado para contar, comenzando desde 0 o 1 según la convención.
+Dame una explicación de Dimensión en la que los eventos ocurren en secuencia irreversible del pasado al futuro.
+Dame una explicación de Revolución Industrial: Periodo histórico de transformación económica y tecnológica iniciado en Inglaterra a finales del siglo XVIII.
+concepto: logaritmo nombre: Logaritmo definicion: Operación inversa de la potenciación, indica a qué exponente hay que elevar una base para obtener un número ejemplo: El logaritmo en base 10 de 100 es 2, porque 10² = 100
+Seguir viendo una mala película 'porque ya pagaste la entrada'
+¿Por qué ocurre existencia: Estado de ser, de tener realidad objetiva o subjetiva. Lo que es?
+¿Por qué ocurre Creer, después de que un evento ocurrió, que era predecible o que 'siempre lo supiste'?
+Dame una explicación de Probabilidad: Medida numérica entre 0 y 1 de qué tan posible es que ocurra un evento.
+Dame una explicación de Sesgo de autoconsistencia.
+Dame una explicación de Algunas bacterias son beneficiosas para la digestión humana, mientras otras causan enfermedades.
+¿Por qué ocurre Las fábricas modernas usan automatización industrial para aumentar la eficiencia y reducir errores?
+Dame una explicación de Conocida como 'la Mona Lisa del Norte' por su mirada cautivadora.
+Dame una explicación de Erosión: Proceso por el cual el viento, el agua o el hielo desgastan y transportan materiales de la.
+¿Por qué ocurre Información, comprensión o habilidad adquirida mediante experiencia, educación o razonamiento?
+Dame una explicación de Sucesión de números donde cada término se obtiene sumando una cantidad constante al anterior.
+¿Por qué ocurre Museo: Institución que conserva, estudia y exhibe objetos de valor artístico, histórico o científico para el público?
+¿Por qué ocurre Diste en el clavo con tu respuesta?
+Dame un ejemplo de volumen. volumen: Medida del espacio tridimensional que ocupa un cuerpo. Ejemplo: El volumen de un cubo se calcula elevando la longitud de su arista al cubo Un ejemplo de volumen es El volumen de un cubo se calcula elevando la longitud de su arista al cubo
+¿Qué sabes sobre Si los catetos miden 3 y 4, la hipotenusa mide 5, porque 3² + 4² = 5²?
+¿Por qué ocurre Número que multiplicado por sí mismo da el número original?
+Dame una explicación de Tendencia a dar más peso e importancia a las experiencias negativas que a las positivas.
+sesgo: Falacia del costo hundido definicion: Continuar invirtiendo en algo porque ya se ha invertido mucho, aunque ya no sea racional ejemplo: Seguir viendo una mala película 'porque ya pagaste la entrada'
+¿Por qué ocurre Señalar un punto doloroso o problemático?
+Dame una explicación de Proceso de trasladar las pertenencias de una vivienda a otra.
+concepto: compras_en_linea nombre: Compras en línea definicion: Actividad de adquirir productos o servicios a través de internet ejemplo: Comparar precios entre tiendas es útil antes de hacer una compra en línea
+Dame un ejemplo de compras_en_linea. compras_en_linea: Actividad de adquirir productos o servicios a través de internet. Ejemplo: Comparar precios entre tiendas es útil antes de hacer una compra en línea Un ejemplo de compras_en_linea es Comparar precios entre tiendas es útil antes de hacer una compra en línea
+¿Por qué ocurre Robot industrial: Robot programable usado en fábricas para tareas repetitivas como soldadura, pintura o ensamblaje?
+¿Por qué ocurre Suma: Operación aritmética que combina dos o más cantidades para obtener su total?
+Dame una explicación de Rama de la inteligencia artificial donde los sistemas aprenden patrones a partir de datos sin ser programados explícitamente.
+Dame una explicación de La halterofilia es un deporte olímpico dividido en categorías por peso corporal.
+¿Por qué ocurre 25% significa 25 de cada 100?
+¿Por qué ocurre deep_learning: Técnica de ML que utiliza redes neuronales con múltiples capas (profundas) para aprender representaciones jerárquicas de los?
+Dame una explicación de Energía solar: Energía renovable obtenida a partir de la radiación del sol, capturada mediante paneles fotovoltaicos.
+Dame una explicación de El color rojo es el primer color que los bebés pueden ver, alrededor de las 2 semanas de.
+¿Por qué ocurre Conjunto de prácticas como riego y exposición a la luz para mantener plantas domésticas saludables?
+¿Por qué ocurre Fórmula 1: Categoría más alta del automovilismo de velocidad, con monoplazas de altísimo rendimiento?
+Dame una explicación de 3/4 representa tres partes de un total dividido en cuatro.
+Dame un ejemplo de regla_tres. regla_tres: Método para calcular un valor proporcional desconocido a partir de tres valores conocidos. Ejemplo: Si 2 kg cuestan 10€, 5 kg cuestan (5×10)/2 = 25€ Un ejemplo de regla_tres es Si 2 kg cuestan 10€, 5 kg cuestan (5×10)/2 = 25€
+¿Por qué ocurre Expectativa positiva sobre el futuro combinada con deseo?
+¿Por qué ocurre entrenamiento: Proceso de ajustar los parámetros (pesos) de un modelo usando datos de ejemplo para minimizar el error?
+¿Qué sabes sobre meridiano_greenwich? meridiano_greenwich: Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo
+Dame una explicación de '¿Tienes planes para las vacaciones?' es una charla común sobre planes futuros.
+Dame un ejemplo de perimetro. perimetro: Suma de las longitudes de todos los lados de una figura geométrica. Ejemplo: El perímetro de un cuadrado de lado 5 es 20, porque 4 × 5 = 20 Un ejemplo de perimetro es El perímetro de un cuadrado de lado 5 es 20, porque 4 × 5 = 20
+Dame una explicación de Sensor: Dispositivo que detecta cambios físicos en el entorno (luz, temperatura, distancia) y los convierte en señales medibles.
+Dame una explicación de Un libro en una mesa no se mueve hasta que alguien lo empuja.
+¿Por qué ocurre Grupo de animales vertebrados que viven parte de su vida en el agua y parte en tierra, como?
+Dame una explicación de El español es el idioma oficial en más de veinte países.
+¿Por qué ocurre Sé menos curioso sobre las personas y más curioso sobre las ideas?
+Dame una explicación de Creer que tenemos menos probabilidades que otros de experimentar eventos negativos.
+¿Cómo funciona Seguir viendo una mala película 'porque ya pagaste la entrada'?
+Dame una explicación de Arreglo rectangular de números organizados en filas y columnas, usado en álgebra lineal.
+¿Por qué ocurre Deporte de equipo de contacto donde se avanza un balón ovalado hacia la zona de anotación del rival?
+¿Por qué ocurre Artesanía: Trabajo manual que produce objetos con valor cultural o decorativo usando técnicas tradicionales?
+¿Por qué ocurre Migración animal: Desplazamiento estacional de animales entre regiones, generalmente por clima o reproducción?
+¿Por qué ocurre Número no divisible por 2?
+Dame una explicación de Bandera nacional: Símbolo patrio distintivo de un país, generalmente compuesto por colores y diseños con significado histórico.
+¿Por qué ocurre Relación depredador-presa: Interacción ecológica donde un animal (depredador) caza y se alimenta de otro (presa)?
+Dame una explicación de Migración animal: Desplazamiento estacional de animales entre regiones, generalmente por clima o reproducción.
+Dame una explicación de Sé tú mismo. Los demás puestos ya están ocupados.
+Dame una explicación de La Declaración Universal de los Derechos Humanos fue adoptada por la ONU en 1948.
+Dame una explicación de La joven de la perla.
+Una interfaz Forma define área() sin especificar cómo la calcula cada figura concreta
+Dame una explicación de Reptil: Grupo de animales vertebrados de sangre fría, generalmente cubiertos de escamas.
+¿Por qué ocurre Disciplina deportiva que combina natación, ciclismo y carrera a pie en una sola competición continua?
+¿Por qué ocurre nlp: Procesamiento de Lenguaje Natural: capacidad de las máquinas para entender, interpretar y generar lenguaje humano?
+¿Por qué ocurre Las obras de Shakespeare siguen representándose en teatros de todo el mundo?
+Dame una explicación de verbo: Palabra que expresa acción, estado o proceso.
+Dame una explicación de Es imposible estornudar con los ojos abiertos.
+¿Por qué ocurre Récord mundial (deporte): Mejor marca oficial registrada en una disciplina deportiva a nivel global?
+Dame una explicación de Mamífero: Grupo de animales vertebrados caracterizados por tener glándulas mamarias y, en general, pelo.
+Dame una explicación de La noche estrellada.
+¿Por qué ocurre Fuente de energía que alimenta los motores y sistemas electrónicos de un robot autónomo?
+¿Por qué ocurre equilibrio: Estado de balance entre fuerzas opuestas?
+¿Por qué ocurre inteligencia_artificial: Rama de la computación que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana?
+¿Qué sabes sobre Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita?
+¿Por qué ocurre Moscú es la capital de Rusia, el país más extenso del mundo?
+¿Por qué ocurre Elegir tus propios números de lotería pensando que aumentan tus probabilidades?
+Dame una explicación de Función matemática: Relación que asigna a cada elemento de un conjunto de entrada exactamente un elemento de un.
+¿Por qué ocurre Júpiter es el planeta más grande del Sistema Solar?
+Dame una explicación de Australia es tanto un país como el continente más pequeño del planeta.
+¿Por qué ocurre En tenis, ganar un set generalmente requiere llegar a 6 juegos con dos de ventaja?
+Resta: Operación aritmética que calcula la diferencia entre dos cantidades
+Dame una explicación de Herencia: Mecanismo de la programación orientada a objetos donde una clase hija hereda atributos y métodos de una.
+concepto: cinematica_robotica nombre: Cinemática (robótica) definicion: Estudio del movimiento de un robot sin considerar las fuerzas que lo producen, enfocándose en posición y velocidad ejemplo: La cinemática directa calcula la posición del extremo de un brazo robótico a partir de sus ángulos de articulación
+¿Por qué ocurre Estilo de arquitectura para servicios web que usa métodos HTTP como GET, POST, PUT y DELETE?
+Dame una explicación de Canberra fue elegida como capital como solución de compromiso entre Sídney y Melbourne.
+Dame una explicación de Una orquesta sinfónica puede tener más de ochenta músicos tocando simultáneamente.
+¿Por qué ocurre Línea del ecuador: Línea imaginaria que divide la Tierra en hemisferio norte y hemisferio sur, ubicada a 0?
+Dame una explicación de for i in range(5): print(i) # 0,1,2,3,4.
+Dame una explicación de Mi tía habla por los codos.
+Dame una explicación de Efector final (end effector): Componente en el extremo de un brazo robótico que interactúa directamente con el entorno,.
+concepto: integral nombre: Integral definicion: En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad ejemplo: La integral de una función de velocidad respecto al tiempo da la distancia recorrida
+Dame una explicación de Grupo de artrópodos con seis patas y cuerpo dividido en cabeza, tórax y abdomen.
+¿Por qué ocurre Ojo por ojo y el mundo acabará ciego?
+¿A qué área pertenece Meridiano de Greenwich: Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del?
+¿Por qué ocurre El Everest crece 4 mm cada año debido al choque de placas tectónicas?
+¿Por qué ocurre Evento donde se proyectan y premian películas, a menudo con la participación de directores y actores?
+concepto: algoritmo_de_navegacion nombre: Algoritmo de navegación definicion: Conjunto de reglas que permite a un robot planear una ruta y moverse evitando obstáculos ejemplo: Un algoritmo de navegación puede recalcular la ruta si detecta un obstáculo nuevo
+¿Por qué ocurre Disciplina artística que utiliza la cámara para capturar imágenes con intención estética o narrativa?
+Dame una explicación de Datos organizados y procesados que tienen significado y reducen la incertidumbre.
+¿Por qué ocurre paradoja: Idea o situación que parece contradictoria pero puede contener una verdad profunda?
+Dame una explicación de 3 + 5 = 8.
+concepto: abstraccion nombre: Abstracción definicion: Principio que se enfoca en las características esenciales de un objeto, ocultando la complejidad innecesaria ejemplo: Una interfaz Forma define área() sin especificar cómo la calcula cada figura concreta
+¿Por qué ocurre Creer algo 'porque lo dijo un doctor' sin verificar?
+¿Por qué ocurre Reloj de arena: Instrumento antiguo para medir el tiempo mediante el paso de arena entre dos recipientes conectados?
+¿Por qué ocurre Muchos servicios web requieren una API key para limitar y controlar el acceso?
+Dame una explicación de '¿Ya viste el nuevo celular que salió?' es una charla casual sobre tecnología.
+¿Por qué ocurre API REST: Estilo de arquitectura para servicios web que usa métodos HTTP como GET, POST, PUT y DELETE?
+¿Por qué ocurre Tema conversacional habitual donde se comenta sobre platillos o preferencias alimenticias?
+¿Qué sabes sobre Metáfora: Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita?
+Dame una explicación de Capital de Francia: París es la capital de Francia y una de las ciudades más visitadas del mundo.
+¿Por qué ocurre Las hormigas son insectos sociales que viven en colonias organizadas?
+Dame una explicación de color: blue; en una regla CSS pinta el texto de azul.
+Si los catetos miden 3 y 4, la hipotenusa mide 5, porque 3² + 4² = 5²
+Háblame de √9 = 3 porque 3×3=9.
+¿Por qué ocurre Un byte está compuesto por 8 bits?
+Dame una explicación de Operación aritmética que combina dos o más cantidades para obtener su total.
+Dame una explicación de Bitcoin fue la primera criptomoneda creada, en el año 2009.
+Dame una explicación de Uso de algoritmos de IA para que los robots tomen decisiones, aprendan y se adapten a su entorno.
+¿Por qué ocurre España y Alemania comparten la misma zona horaria a pesar de estar en distintos países?
+Dame una explicación de nombre = 'Ana'; edad = 25.
+¿A qué área pertenece Comparar precios entre tiendas es útil antes de hacer una compra en línea?
+Integral: En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad
+Dame una explicación de Ecuador tomó su nombre por atravesar la línea ecuatorial terrestre.
+Explícame cielo_azul. cielo_azul: El cielo se ve azul principalmente porque la atmósfera dispersa la luz solar de onda corta, especialmente azul, con mayor intensidad que las longitudes de onda más largas. Este fenómeno se denomina dispersión de Rayleigh. El cielo se ve azul principalmente porque la atmósfera dispersa la luz solar de onda corta, especialmente azul, con mayor intensidad que las longitudes de onda más largas. Este fenómeno se denomina dispersión de Rayleigh.
+¿Por qué ocurre Frase que comunica tranquilidad después de resolver una preocupación?
+Dame una explicación de Naciones Unidas (ONU): Organización internacional fundada en 1945 para fomentar la paz, la cooperación y el desarrollo entre.
+¿Por qué ocurre Las personas con poca habilidad sobreestiman su competencia; los expertos tienden a subestimarla?
+Dame una explicación de Álgebra: Rama de las matemáticas que usa letras y símbolos para representar números y relaciones en ecuaciones.
+¿Por qué ocurre El panda gigante fue durante décadas un símbolo de especie en peligro de extinción?
+Dame una explicación de Forma habitual de iniciar una conversación preguntando por el bienestar de la otra persona.
+¿Por qué ocurre Leonardo da Vinci y Miguel Ángel son figuras representativas del Renacimiento?
+Dame una explicación de Dormir entre siete y ocho horas por noche es recomendable para un adulto.
+¿Por qué ocurre Arte y conocimiento relacionados con la preparación de buena comida, asociados a la cultura de cada región?
+Dame una explicación de '¡Felicidades por tu nuevo trabajo!' es una felicitación típica.
+Continuar invirtiendo en algo porque ya se ha invertido mucho, aunque ya no sea racional
+Dame una explicación de Glaciar: Gran masa de hielo formada por la acumulación de nieve compactada durante largos periodos.
+¿Por qué ocurre Los censos poblacionales ayudan a los gobiernos a planificar servicios públicos?
+Dame una explicación de Algoritmo de navegación: Conjunto de reglas que permite a un robot planear una ruta y moverse evitando obstáculos.
+¿Por qué ocurre Impresión, sol naciente?
+¿Por qué ocurre suma: Operación que combina dos o más números para obtener un total?
+Dame una explicación de Genera 20-23 watts de electricidad.
+¿Por qué ocurre Mi abuela no tiene pelos en la lengua?
+Dame una explicación de Simulador robótico: Software que permite probar el comportamiento de un robot en un entorno virtual antes de implementarlo.
+¿Por qué ocurre Condicional if: Estructura que ejecuta un bloque de código solo si una condición es verdadera?
+Dame una explicación de Antónimo: Palabra que tiene un significado opuesto al de otra.
+Dame una explicación de Capital de Egipto: El Cairo es la capital de Egipto, una de las ciudades más grandes de África.
+¿Por qué ocurre Calendario gregoriano: Sistema de calendario actualmente usado en la mayor parte del mundo, introducido por el papa Gregorio?
+Dame una explicación de Función: Bloque de código reutilizable que recibe parámetros, ejecuta instrucciones y puede devolver un resultado.
+Dame un ejemplo de logaritmo. logaritmo: Operación inversa de la potenciación, indica a qué exponente hay que elevar una base para obtener un número. Ejemplo: El logaritmo en base 10 de 100 es 2, porque 10² = 100 Un ejemplo de logaritmo es El logaritmo en base 10 de 100 es 2, porque 10² = 100
+Dame una explicación de Los surfistas remontan hacia la línea de rompiente antes de tomar una ola.
+Dame una explicación de Segunda Guerra Mundial.
+Explícame metafora_lenguaje. metafora_lenguaje: Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita
+¿Por qué ocurre Conjunto de técnicas simples para preparar alimentos en casa?
+¿Por qué ocurre La Península Ibérica incluye a España y Portugal?
+¿Por qué ocurre Secuencia de organismos donde cada uno se alimenta del anterior, transfiriendo energía entre ellos?
+Dame una explicación de Favorecer a miembros de nuestro propio grupo sobre los de otros grupos.
+Háblame de Pensar que los accidentes de avión son más comunes que los de auto porque aparecen más en noticias.
+¿Por qué ocurre La Bienal de Venecia es uno de los eventos de arte contemporáneo más prestigiosos del mundo?
+Dame una explicación de Oración (gramática): Unidad mínima de comunicación con sentido completo, formada generalmente por sujeto y predicado.
+¿Por qué ocurre GCC compila código en C a un ejecutable binario?
+¿Por qué ocurre Número natural mayor que 1 que solo es divisible entre 1 y él mismo?
+Háblame de Las aplicaciones de mapas usan GPS para calcular rutas y mostrar la ubicación en tiempo real.
+Dame una explicación de El aumento de gases de efecto invernadero está asociado al cambio climático.
+Dame una explicación de Ilusión de control.
+¿Por qué ocurre Fuerza de atracción que ejercen los cuerpos con masa entre sí?
+¿Por qué ocurre Frase usada para motivar o dar fuerza a alguien en una situación difícil?
+¿Por qué ocurre Un pequeño paso para el hombre, un gran salto para la humanidad?
+¿Por qué ocurre Ave: Grupo de animales vertebrados caracterizados por tener plumas, pico y, en la mayoría de los casos, capacidad?
+Dame una explicación de Donar ropa y alimentos después de un desastre natural es un acto de solidaridad.
+¿A qué área pertenece El volumen de un cubo se calcula elevando la longitud de su arista al cubo?
+¿Por qué ocurre Los robots industriales se usan en líneas de ensamblaje para soldar o pintar automóviles?
+¿Por qué ocurre A pesar de todo, yo aún creo que la gente es buena en el fondo?
+Dame una explicación de Recuerda: en boca cerrada no entran moscas.
+¿Por qué ocurre Tipo de clima extremadamente seco, con muy poca precipitación y grandes variaciones de temperatura?
+¿Por qué ocurre Tendencia a depender demasiado de la primera información recibida al tomar decisiones?
+Dame una explicación de Deporte que consiste en desplazarse en el agua usando técnicas como crol, espalda, pecho o mariposa.
+¿Por qué ocurre Cinemática (robótica): Estudio del movimiento de un robot sin considerar las fuerzas que lo producen, enfocándose en posición?
+¿Por qué ocurre La máquina de vapor fue una de las tecnologías clave de la Revolución Industrial?
+Dame una explicación de Usar una agenda ayuda a la organización del tiempo entre trabajo y descanso.
+¿Por qué ocurre Vínculos de convivencia y trato cotidiano entre personas que viven cerca unas de otras?
+¿Por qué ocurre Frase corta usada para mostrar que se está de acuerdo con lo que dijo otra persona?
+¿Por qué ocurre Charla casual sobre tecnología: Conversación informal sobre dispositivos, aplicaciones o tendencias tecnológicas?
+Dame una explicación de 2, 5, 8, 11, 14 es una progresión aritmética de razón 3.
+¿Por qué ocurre Una orquesta sinfónica puede tener más de ochenta músicos tocando simultáneamente?
+Las aplicaciones de mapas usan GPS para calcular rutas y mostrar la ubicación en tiempo real
+¿Qué es metafora_lenguaje? metafora_lenguaje: Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita
+Dame una explicación de El patrón \d+ encuentra cualquier secuencia de uno o más dígitos en un texto.
+Dame una explicación de Sesgo de grupo (endogrupal).
+Dame una explicación de Sesgo de retrospectiva.
+Dame una explicación de Conjunto de reglas que permite a un robot planear una ruta y moverse evitando obstáculos.
+Dame una explicación de Colección ordenada y mutable de elementos.
+Dame una explicación de Actuador: Componente de un robot que convierte energía (eléctrica, neumática) en movimiento físico.
+Dame una explicación de Siempre fui la oveja negra de la familia.
+Dame una explicación de En tenis, ganar un set generalmente requiere llegar a 6 juegos con dos de ventaja.
+¿Por qué ocurre Las ranas comienzan su vida como renacuajos acuáticos antes de convertirse en adultos terrestres?
+Dame una explicación de Bacteria: Microorganismo unicelular sin núcleo definido, presente en prácticamente todos los ambientes de la Tierra.
+Dame una explicación de El límite de 1/x cuando x tiende a infinito es 0.
+Dame una explicación de Rutina matutina: Conjunto de actividades habituales que una persona realiza al comenzar el día.
+Dame una explicación de Forma habitual de iniciar una presentación preguntando cómo se llama la otra persona.
+Dame una explicación de Género musical originado a finales del siglo XIX y principios del XX en comunidades afroamericanas de Estados Unidos,.
+¿Por qué ocurre Capital de Japón: Tokio es la capital de Japón y una de las áreas metropolitanas más pobladas del?
+¿Por qué ocurre Número que puede expresarse como el cociente de dos números enteros con denominador distinto de cero?
+Dame una explicación de 'Si necesitas algo, aquí estoy' expresa disponibilidad para ayudar.
+Dame una explicación de Los robots aspiradora modernos usan SLAM para mapear una casa mientras la limpian.
+¿Por qué ocurre -3, 0 y 7 son ejemplos de números enteros?
+¿Por qué ocurre diccionario: Colección de pares clave-valor no ordenada?
+¿Por qué ocurre Hay más bacterias en tu boca que personas en el planeta Tierra?
+¿Por qué ocurre El lugar más árido del planeta. Algunas zonas no han recibido lluvia en 400 años?
+¿Por qué ocurre A veces las personas que nadie imagina que harían algo son las que hacen cosas que nadie podría?
+Operación aritmética que calcula la diferencia entre dos cantidades
+¿Por qué ocurre Conjunto de prácticas de limpieza y cuidado del cuerpo para mantener la salud y el bienestar?
+¿Por qué ocurre Conjunto de reglas que permite a un robot planear una ruta y moverse evitando obstáculos?
+Dame una explicación de Escalada deportiva: Deporte que consiste en ascender paredes de roca o estructuras artificiales usando técnica y fuerza.
+¿Por qué ocurre Todos los meses tienen al menos 28 días?
+Dame una explicación de Robot programable usado en fábricas para tareas repetitivas como soldadura, pintura o ensamblaje.
+concepto: raiz_cuadrada definicion: Número que multiplicado por sí mismo da el número original simbolo: √ ejemplo: √9 = 3 porque 3×3=9
+Dame una explicación de La selva amazónica tiene un clima tropical con temperaturas altas todo el año.
+Los delfines, a pesar de vivir en el agua, son mamíferos porque amamantan a sus crías
+El volumen de un cubo se calcula elevando la longitud de su arista al cubo
+¿Por qué ocurre Operación que multiplica un número (base) por sí mismo tantas veces como indica el exponente?
+Dame una explicación de Leonardo da Vinci y Miguel Ángel son figuras representativas del Renacimiento.
+¿Por qué ocurre Tipo de dato: Clasificación que indica qué clase de valor almacena una variable, como entero, texto o booleano?
+Dame una explicación de Bioma: Gran región ecológica caracterizada por un clima y tipo de vegetación específicos, como la tundra o la.
+¿Por qué ocurre Límite (matemáticas): Valor al que se aproxima una función cuando su variable se acerca a un punto determinado?
+¿Por qué ocurre verbo: Palabra que expresa acción, estado o proceso?
+Dame una explicación de Ahorro doméstico: Práctica de guardar parte del dinero disponible en casa para necesidades futuras.
+Dame una explicación de No te ahogues en un vaso de agua.
+Dame una explicación de 20 ÷ 4 = 5 significa repartir 20 en 4 partes iguales de 5.
+¿Por qué ocurre ¿Cuántos meses tienen 28 días??
+¿Por qué ocurre Pregunta por la familia: Forma habitual de mostrar interés preguntando por los familiares de otra persona?
+Dame una explicación de '¿Qué se te antoja comer hoy?' es una pregunta típica sobre comida.
+¿Por qué ocurre Práctica de planificar las actividades diarias para aprovechar mejor las horas disponibles?
+¿Qué sabes sobre Un algoritmo de navegación puede recalcular la ruta si detecta un obstáculo nuevo?
+Dame un ejemplo de raiz_cuadrada. raiz_cuadrada: Operación que encuentra el número que, multiplicado por sí mismo, da como resultado el número original. Ejemplo: La raíz cuadrada de 9 es 3, porque 3 × 3 = 9 Un ejemplo de raiz_cuadrada es La raíz cuadrada de 9 es 3, porque 3 × 3 = 9
+Dame una explicación de El primer precio que ves influye en lo que consideras 'caro' o 'barato'.
+concepto: conjuncion definicion: Palabra que une oraciones o elementos ejemplos: y, o, pero, porque tipo: clase_palabra
+Dame una explicación de Gran masa de hielo formada por la acumulación de nieve compactada durante largos periodos.
+¿Por qué ocurre Proceso que transforma información legible en un formato codificado para protegerla de accesos no autorizados?
+Necesito información sobre El Sahara ocupa una superficie comparable a la de todo el territorio de Estados Unidos.
+¿Por qué ocurre El volcán más grande del mundo medido desde su base submarina?
+¿Por qué ocurre Pandemia de COVID-19?
+¿Por qué ocurre Carrera de atletismo de larga distancia con una longitud oficial de 42.195 kilómetros?
+¿Por qué ocurre Cometer un error o equivocación?
+¿Por qué ocurre Capacidad de respetar ideas, creencias o formas de vida diferentes a las propias?
+¿Por qué ocurre El movimiento de las placas tectónicas del Pacífico forma el llamado 'Cinturón de Fuego'?
+Dame un ejemplo de abstraccion. abstraccion: Principio que se enfoca en las características esenciales de un objeto, ocultando la complejidad innecesaria. Ejemplo: Una interfaz Forma define área() sin especificar cómo la calcula cada figura concreta Un ejemplo de abstraccion es Una interfaz Forma define área() sin especificar cómo la calcula cada figura concreta
+Dame una explicación de La imaginación es más importante que el conocimiento. El conocimiento es limitado, la imaginación rodea el mundo.
+Dame una explicación de Deseo de poseer lo que otro tiene, acompañado de malestar.
+¿Qué sabes sobre Continuar invirtiendo en algo porque ya se ha invertido mucho, aunque ya no sea racional?
+Dame una explicación de Operación aritmética que representa la suma repetida de un número una cantidad determinada de veces.
+Dame una explicación de Conjunto: Colección bien definida de objetos o elementos distintos entre sí.
+Dame una explicación de Relaciones vecinales: Vínculos de convivencia y trato cotidiano entre personas que viven cerca unas de otras.
+Necesito información sobre Meridiano de Greenwich: Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del.
+Dame una explicación de Número que incluye una parte entera y una parte fraccionaria separadas por una coma o punto.
+¿Por qué ocurre Juego de estrategia entre dos jugadores sobre un tablero de 64 casillas, con piezas de distinto movimiento y?
+Dame una explicación de Push agrega un elemento arriba de la pila, pop lo retira.
+¿Por qué ocurre Respuesta ante peligro real o percibido?
+Dame una explicación de Sistema métrico decimal: Sistema de medidas basado en el metro, el kilogramo y el litro, usado oficialmente en.
+¿Por qué ocurre Sistema satelital que permite determinar la ubicación geográfica exacta de un dispositivo en la Tierra?
+¿Por qué ocurre Las mariposas pueden saborear con sus patas?
+Dame un ejemplo de 5g_tecnologia. 5g_tecnologia: Quinta generación de tecnología de redes móviles, que ofrece mayor velocidad y menor latencia que las anteriores. Ejemplo: El 5G permite descargar archivos grandes en cuestión de segundos en comparación con redes anteriores Un ejemplo de 5g_tecnologia es El 5G permite descargar archivos grandes en cuestión de segundos en comparación con redes anteriores
+Dame una explicación de Deporte de equipo donde dos equipos de once jugadores intentan meter un balón en la portería contraria usando.
+¿Por qué ocurre Pregunta de seguimiento: Pregunta que profundiza en un tema que la otra persona acaba de mencionar?
+¿Cómo funciona En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una?
+¿Por qué ocurre El hueso más pequeño es el estribo en el oído (3mm)?
+Dame una explicación de La Península Ibérica incluye a España y Portugal.
+Dame una explicación de Listas, pilas, colas, árboles y grafos son ejemplos de estructuras de datos.
+Dame un ejemplo de numero_compuesto. numero_compuesto: Número natural mayor que 1 que tiene más de dos divisores. Ejemplo: 12 es compuesto porque es divisible entre 1, 2, 3, 4, 6 y 12 Un ejemplo de numero_compuesto es 12 es compuesto porque es divisible entre 1, 2, 3, 4, 6 y 12
+Háblame de Creer algo 'porque lo dijo un doctor' sin verificar.
+Dame una explicación de Sistema Solar: Conjunto formado por el Sol y los cuerpos celestes que orbitan a su alrededor, incluyendo ocho.
+¿Por qué ocurre oracion_simple: Oración con un solo verbo conjugado?
+Dame una explicación de '¿Cómo has estado?' es una pregunta conversacional común entre conocidos.
+Quiero aprender sobre Operación aritmética que calcula la diferencia entre dos cantidades.
+¿Por qué ocurre Proceso natural continuo de evaporación, condensación y precipitación del agua en la Tierra?
+Dame una explicación de Charla sobre planes futuros: Tema conversacional donde se pregunta o comenta sobre actividades o proyectos por venir.
+Dame una explicación de Ciclo del agua: Proceso natural continuo de evaporación, condensación y precipitación del agua en la Tierra.
+¿Por qué ocurre Conjunto de actividades planificadas para mejorar la condición física, fuerza o resistencia de una persona?
+¿Por qué ocurre Ajuste fino: técnica de transfer learning donde un modelo pre-entrenado se adapta a una tarea específica?
+Dame una explicación de Estilo de arquitectura para servicios web que usa métodos HTTP como GET, POST, PUT y DELETE.
+Dame una explicación de Reciclaje: Proceso de transformar materiales usados en nuevos productos para reducir residuos.
+¿Por qué ocurre Programación funcional: Paradigma que trata la computación como la evaluación de funciones matemáticas, evitando estados mutables?
+Dame una explicación de Los censos poblacionales ayudan a los gobiernos a planificar servicios públicos.
+Dame una explicación de Máquina programable capaz de ejecutar tareas de forma autónoma o semiautónoma, a menudo imitando acciones humanas.
+Dame una explicación de Algunas aplicaciones de realidad aumentada permiten ver cómo quedaría un mueble en una habitación real.
+¿Por qué ocurre África: Segundo continente más grande y poblado del mundo, con 54 países reconocidos y una enorme diversidad cultural?
+¿Por qué ocurre modo_verbal: Actitud del hablante ante la acción?
+Dame una explicación de Clase: Plantilla que define los atributos y comportamientos que tendrán los objetos creados a partir de ella.
+¿Por qué ocurre Obras literarias de gran valor histórico y estético, producidas en la antigüedad grecolatina o consideradas atemporales?
+Dame una explicación de Océano Pacífico: El océano más grande y profundo del mundo, ubicado entre Asia, Oceanía y América.
+Dame una explicación de Expresión de desacuerdo: Frase corta y educada usada para mostrar una opinión distinta sin generar conflicto.
+Explícame Buscar el número 7 en una lista ordenada de 1000 elementos toma como máximo 10 comparaciones.
+¿Por qué ocurre Conexión, vínculo o asociación entre dos o más entidades?
+Dame una explicación de Microcontrolador: Pequeño circuito integrado que contiene un procesador y memoria, usado para controlar dispositivos electrónicos.
+Necesito información sobre Pensar que los accidentes de avión son más comunes que los de auto porque aparecen más en noticias.
+¿Por qué ocurre Sistema de calendario actualmente usado en la mayor parte del mundo, introducido por el papa Gregorio XIII en?
+¿Por qué ocurre verdad: Conformidad entre lo que se afirma y los hechos o la realidad?
+Dame una explicación de Conjunto de datos utilizado para entrenar, validar y probar modelos de ML.
+Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo
+¿Por qué ocurre Internet es la red de computadoras más grande del mundo?
+Necesito información sobre Un vector (3, 4) tiene un módulo de 5, calculado con el teorema de Pitágoras.
+Dame una explicación de Plan que organiza los ingresos y gastos de una persona durante un periodo determinado.
+¿Por qué ocurre Machu Picchu es considerado Patrimonio Cultural de la Humanidad por la UNESCO?
+Dame una explicación de Vínculo afectivo profundo hacia alguien o algo.
+¿Por qué ocurre El Sahara ocupa una superficie comparable a la de todo el territorio de Estados Unidos?
+Buscar el número 7 en una lista ordenada de 1000 elementos toma como máximo 10 comparaciones
+Dame una explicación de Cordillera de los Andes: La cadena montañosa continental más larga del mundo, que recorre el oeste de América.
+¿Por qué ocurre Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita?
+Dame una explicación de Raíz cuadrada: Operación que encuentra el número que, multiplicado por sí mismo, da como resultado el número original.
+Dame una explicación de Gracias a la fotosíntesis, las plantas liberan el oxígeno que respiramos.
+¿Qué es regla_tres? regla_tres: Método para calcular un valor proporcional desconocido a partir de tres valores conocidos Método para calcular un valor proporcional desconocido a partir de tres valores conocidos
+¿Por qué ocurre Capacidad de comprender y compartir los sentimientos de otra persona?
+Dame una explicación de '¿Todo bien por casa?' es una pregunta de cortesía común.
+¿Por qué ocurre Los robots aspiradora usan sensores infrarrojos para detectar bordes y evitar caídas?
+¿Por qué ocurre Evento que interrumpe el flujo normal de un programa cuando ocurre un error en tiempo de ejecución?
+¿Por qué ocurre Abolición de la esclavitud?
+¿Por qué ocurre Arte de crear figuras tridimensionales trabajando materiales como piedra, bronce o madera?
+Explícame integral. integral: En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad
+Dame una explicación de x² - 5x + 6 = 0 tiene como soluciones x = 2 y x = 3.
+Dame una explicación de Formato ligero de intercambio de datos basado en pares clave-valor, fácil de leer para humanos y máquinas.
+Dame una explicación de El intestino delgado mide 6-7 metros desplegado.
+¿Por qué ocurre Relación biológica cercana y duradera entre dos especies distintas, que puede beneficiar a una o ambas?
+¿Por qué ocurre El limo depositado por los ríos crea suelos muy fértiles para la agricultura?
+Dame una explicación de Deporte individual o de dobles donde los jugadores golpean una pelota con una raqueta sobre una red.
+¿Por qué ocurre El Cairo es la capital de Egipto, una de las ciudades más grandes de África?
+¿Por qué ocurre try: x = 1/0 except ZeroDivisionError: print('No se puede dividir por cero')?
+Dame una explicación de Estructura de datos donde cada elemento (nodo) apunta al siguiente, permitiendo inserciones eficientes.
+Dame una explicación de Júpiter es el planeta más grande del Sistema Solar.
+Dame una explicación de Esquí alpino: Deporte de invierno que consiste en descender pendientes nevadas con esquís a alta velocidad.
+Dame un ejemplo de cinematica_robotica. cinematica_robotica: Estudio del movimiento de un robot sin considerar las fuerzas que lo producen, enfocándose en posición y velocidad. Ejemplo: La cinemática directa calcula la posición del extremo de un brazo robótico a partir de sus ángulos de articulación Un ejemplo de cinematica_robotica es La cinemática directa calcula la posición del extremo de un brazo robótico a partir de sus ángulos de articulación
+concepto: numero_compuesto nombre: Número compuesto definicion: Número natural mayor que 1 que tiene más de dos divisores ejemplo: 12 es compuesto porque es divisible entre 1, 2, 3, 4, 6 y 12
+¿Por qué ocurre Multiplicación: Operación aritmética que representa la suma repetida de un número una cantidad determinada de veces?
+concepto: busqueda_binaria nombre: Búsqueda binaria definicion: Algoritmo que encuentra un elemento en una lista ordenada dividiendo repetidamente el espacio de búsqueda a la mitad ejemplo: Buscar el número 7 en una lista ordenada de 1000 elementos toma como máximo 10 comparaciones
+Dame una explicación de Muchos servicios web requieren una API key para limitar y controlar el acceso.
+¿Por qué ocurre Java: Lenguaje de programación orientado a objetos, compilado a bytecode que corre sobre la Máquina Virtual de Java?
+Dame una explicación de Variable local y global: Una variable local existe solo dentro de una función; una global es accesible en.
+¿Por qué ocurre Número natural: Número entero positivo usado para contar, comenzando desde 0 o 1 según la convención?
+Háblame de En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una.
+Dame una explicación de Quinta generación de tecnología de redes móviles, que ofrece mayor velocidad y menor latencia que las anteriores.
+Dame una explicación de Ángulo recto: Ángulo que mide exactamente 90 grados.
+Dame una explicación de Tendencia a dar más crédito a la opinión de una figura de autoridad sin cuestionarla.
+Dame una explicación de entrenamiento: Proceso de ajustar los parámetros (pesos) de un modelo usando datos de ejemplo para minimizar el error.
+¿Qué es resta? resta: Operación aritmética que calcula la diferencia entre dos cantidades Operación aritmética que calcula la diferencia entre dos cantidades
+¿Por qué ocurre Mi tía habla por los codos?
+concepto: animal_mamifero nombre: Mamífero definicion: Grupo de animales vertebrados caracterizados por tener glándulas mamarias y, en general, pelo ejemplo: Los delfines, a pesar de vivir en el agua, son mamíferos porque amamantan a sus crías
+¿Por qué ocurre Felicitación: Expresión usada para celebrar un logro o buena noticia de otra persona?
+Dame una explicación de Divisiones de la Tierra en 24 franjas que determinan la hora local en distintas regiones del planeta.
+Dame una explicación de Establece que si dos rectas son cortadas por rectas paralelas, los segmentos resultantes son proporcionales.
+Dame una explicación de Unidad básica de la materia, compuesta por protones, neutrones y electrones.
+Dame una explicación de Exoesqueleto robótico: Estructura mecánica externa que se coloca sobre el cuerpo humano para aumentar su fuerza o asistir.
+¿Por qué ocurre La aceleración de un objeto es proporcional a la fuerza neta e inversamente proporcional a su masa?
+¿Por qué ocurre Posiciones en el fútbol: Roles asignados a los jugadores en el campo: portero, defensas, centrocampistas y delanteros?
+Dame una explicación de tiempo: Dimensión en la que los eventos ocurren en secuencia irreversible del pasado al futuro.
+¿Qué es El 5G permite descargar archivos grandes en cuestión de segundos en comparación con redes anteriores?
+Dame una explicación de Robótica móvil: Rama de la robótica dedicada a robots capaces de desplazarse por su entorno de forma autónoma.
+Dame una explicación de Rechazo hacia algo que se percibe como contaminante o repulsivo.
+Háblame de Método para calcular un valor proporcional desconocido a partir de tres valores conocidos.
+¿Por qué ocurre Zeus, Atenea y Poseidón son algunos de los dioses principales de la mitología griega?
+Dame una explicación de La Bienal de Venecia es uno de los eventos de arte contemporáneo más prestigiosos del mundo.
+¿Por qué ocurre Sinónimo: Palabra que tiene un significado igual o muy similar a otra?
+Dame una explicación de Tema conversacional habitual para preguntar por los planes o actividades recientes de alguien.
+¿Por qué ocurre Práctica de organizar con anticipación qué se va a comer durante la semana?
+Dame una explicación de Único órgano interno que puede regenerarse.
+¿Por qué ocurre Escultura: Arte de crear figuras tridimensionales trabajando materiales como piedra, bronce o madera?
+Dame una explicación de Frase breve que refleja asombro ante una noticia o situación inesperada.
+¿Por qué ocurre frutas = ['manzana', 'pera', 'uva'] frutas.append('naranja')?
+¿Qué es Las aplicaciones de mapas usan GPS para calcular rutas y mostrar la ubicación en tiempo real?
+Dame una explicación de Frase corta usada para mostrar que se está de acuerdo con lo que dijo otra persona.
+Dame una explicación de Conjunto de fases (análisis, diseño, implementación, pruebas, mantenimiento) por las que pasa un proyecto de software.
+¿Por qué ocurre Charles Darwin propuso la teoría de la evolución por selección natural en el siglo XIX?
+¿Por qué ocurre Operación aritmética que calcula la diferencia entre dos cantidades?
+Explícame La cinemática directa calcula la posición del extremo de un brazo robótico a partir de sus ángulos de.
+¿Por qué ocurre 'Hola, soy Ana, mucho gusto' es una presentación propia común?
+¿Por qué ocurre Las decisiones cambian según cómo se presenta la información (positiva o negativamente)?
+¿Por qué ocurre Galardón internacional anual otorgado a personas destacadas en física, química, medicina, literatura, paz y economía?
+Dame una explicación de Es el segundo órgano más complejo después del cerebro.
+Dame una explicación de Imprenta: Tecnología desarrollada por Johannes Gutenberg en el siglo XV que permitió reproducir textos en masa.
+¿Por qué ocurre La Gran Muralla China se encuentra cerca de la capital, Pekín?
+¿Por qué ocurre La cadena montañosa continental más larga del mundo, que recorre el oeste de América del Sur?
+¿Por qué ocurre Colección de código reutilizable que otros programas pueden usar para realizar tareas comunes?
+Dame una explicación de La metodología ágil divide el ciclo de vida en iteraciones cortas llamadas sprints.
+¿Por qué ocurre Estructura de datos FIFO donde el primer elemento en entrar es el primero en salir?
+Dame una explicación de Operación que encuentra la diferencia entre dos números.
+¿Por qué ocurre Frase usada para proponer un plan o actividad a otra persona de manera casual?
+Dame una explicación de Pensar que los accidentes de avión son más comunes que los de auto porque aparecen más en noticias.
+¿Por qué ocurre Una API REST permite que una app móvil consulte datos de un servidor mediante HTTP?
+Dame una explicación de Integral: En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de.
+¿Por qué ocurre list_comprehension: Forma concisa de crear listas?
+Dame una explicación de Saludar a los vecinos al cruzarse en el pasillo fortalece las relaciones vecinales.
+Dame un ejemplo de integral. integral: En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad. Ejemplo: La integral de una función de velocidad respecto al tiempo da la distancia recorrida Un ejemplo de integral es La integral de una función de velocidad respecto al tiempo da la distancia recorrida
+concepto: existencia definicion: Estado de ser, de tener realidad objetiva o subjetiva. Lo que es pregunta filosofica: ¿Por qué hay algo en lugar de nada?
+Dame una explicación de Técnica de ML que utiliza redes neuronales con múltiples capas (profundas) para aprender representaciones jerárquicas de los datos.
+¿Por qué ocurre Multiplicación repetida de un número (base) por sí mismo?
+Dame una explicación de Movimiento cultural y artístico europeo, surgido en Italia en el siglo XIV, que revalorizó el arte y el.
+Dame una explicación de 'Fumar causa cáncer... pero a mí no me pasará'.
+Dame una explicación de India cuenta con más de 1400 millones de habitantes.
+Dame una explicación de Los atributos privados con doble guion bajo __saldo protegen el estado interno de una clase.
+¿Por qué ocurre Segunda Guerra Mundial?
+¿Por qué ocurre La cascada más alta del mundo. 15 veces más alta que las Cataratas del Niágara?
+Dame una explicación de Frase que indica que algo agrada a la persona que habla.
+Dame una explicación de Gran agrupación musical compuesta por instrumentos de cuerda, viento, percusión y metal, dirigida por un director.
+Dame una explicación de Expectativa positiva sobre el futuro combinada con deseo.
+¿A qué área pertenece Los delfines, a pesar de vivir en el agua, son mamíferos porque amamantan a sus crías?
+Dame una explicación de El sóftbol es popular especialmente en las categorías femeninas de muchos países.
+¿Por qué ocurre energia: Capacidad de un sistema para realizar trabajo o producir cambio?
+Dame una explicación de Un número seguido de 100 ceros se llama 'googol'. El nombre de Google viene de ahí.
+¿A qué área pertenece Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado?
+¿Por qué ocurre Llevar un presupuesto mensual ayuda al ahorro doméstico?
+¿Por qué ocurre Barrer, trapear y ordenar son tareas habituales del cuidado del hogar?
+¿Por qué ocurre Contenedor (Docker): Tecnología que empaqueta una aplicación junto a sus dependencias para que funcione igual en cualquier entorno?
+Dame una explicación de mcm: Mínimo común múltiplo: el menor número que es múltiplo de dos o más números.
+¿Por qué ocurre '¿Todo bien por casa?' es una pregunta de cortesía común?
+¿Por qué ocurre Número natural mayor que 1 que tiene más de dos divisores?
+¿Por qué ocurre pip install numpy pandas matplotlib?
+Dame una explicación de Componente en el extremo de un brazo robótico que interactúa directamente con el entorno, como una pinza o.
+Dame una explicación de Continente helado ubicado en el polo sur, sin población permanente, dedicado principalmente a la investigación científica.
+Dame una explicación de Relación depredador-presa: Interacción ecológica donde un animal (depredador) caza y se alimenta de otro (presa).
+Dame una explicación de Bosque tropical: Ecosistema denso y húmedo ubicado cerca del ecuador, con gran diversidad de especies vegetales y animales.
+¿Por qué ocurre Un libro en una mesa no se mueve hasta que alguien lo empuja?
+Dame una explicación de Fútbol: Deporte de equipo donde dos equipos de once jugadores intentan meter un balón en la portería contraria.
+Dame una explicación de Ajedrez: Juego de estrategia entre dos jugadores sobre un tablero de 64 casillas, con piezas de distinto movimiento.
+¿Por qué ocurre Incomodidad por exposición de una falta o defecto propio?
+Quiero aprender sobre Meridiano de Greenwich: Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del.
+Dame una explicación de Invitación informal: Frase usada para proponer un plan o actividad a otra persona de manera casual.
+Explícame El perímetro de un cuadrado de lado 5 es 20, porque 4 × 5 = 20.
+Quiero aprender sobre Método para calcular un valor proporcional desconocido a partir de tres valores conocidos.
+Dame una explicación de Robot controlado remotamente que permite a una persona interactuar a distancia con un entorno físico.
+Dame una explicación de Los kits de robótica educativa permiten a los niños aprender a programar de forma práctica.
+Dame una explicación de Empatía: Capacidad de comprender y compartir los sentimientos de otra persona.
+Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita
+Explícame Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita.
+¿Por qué ocurre Reacción breve ante un evento inesperado?
+¿Por qué ocurre La Declaración Universal de los Derechos Humanos fue adoptada por la ONU en 1948?
+Dame una explicación de Conjunto de tareas destinadas a mantener limpio y ordenado un lugar de vivienda.
+Quiero aprender sobre regla_tres: Método para calcular un valor proporcional desconocido a partir de tres valores conocidos.
+¿Por qué ocurre El océano más grande y profundo del mundo, ubicado entre Asia, Oceanía y América?
+¿Por qué ocurre Batería de robot: Fuente de energía que alimenta los motores y sistemas electrónicos de un robot autónomo?
+Dame una explicación de Icono de tres flechas que forman un triángulo, usado para indicar que un material es reciclable.
+12 es compuesto porque es divisible entre 1, 2, 3, 4, 6 y 12
+¿Por qué ocurre Mudanza: Proceso de trasladar las pertenencias de una vivienda a otra?
+Dame una explicación de Voleibol: Deporte de equipo donde dos equipos golpean un balón sobre una red intentando que toque el suelo.
+¿Por qué ocurre Deporte de equipo donde dos equipos de cinco jugadores intentan encestar un balón en el aro contrario?
+Dame una explicación de Instrumento antiguo para medir el tiempo mediante el paso de arena entre dos recipientes conectados.
+¿Por qué ocurre Biodiversidad: Variedad de formas de vida (especies, genes y ecosistemas) presentes en un lugar determinado?
+¿Por qué ocurre Variable local y global: Una variable local existe solo dentro de una función; una global es accesible en?
+Dame una explicación de Filosofía: Disciplina que estudia preguntas fundamentales sobre la existencia, el conocimiento y la ética mediante el razonamiento.
+¿Por qué ocurre La cuenca del Amazonas alberga la selva tropical más grande del planeta?
+Dame una explicación de Estructura jerárquica donde cada nodo tiene como máximo dos hijos, izquierdo y derecho.
+¿Por qué ocurre Sobreestimar la probabilidad de eventos que vienen fácilmente a la mente (generalmente por ser recientes o impactantes)?
+concepto: 5g_tecnologia nombre: Red 5G definicion: Quinta generación de tecnología de redes móviles, que ofrece mayor velocidad y menor latencia que las anteriores ejemplo: El 5G permite descargar archivos grandes en cuestión de segundos en comparación con redes anteriores
+Dame una explicación de Tendencia a depender demasiado de la primera información recibida al tomar decisiones.
+¿Por qué ocurre Respuesta a la frustración, injusticia o amenaza?
+¿Por qué ocurre Exoesqueleto robótico: Estructura mecánica externa que se coloca sobre el cuerpo humano para aumentar su fuerza o asistir?
+Dame una explicación de Lenguaje usado para definir el estilo visual (colores, tamaños, disposición) de las páginas web.
+Dame una explicación de La velocidad de un CPU se mide en gigahercios (GHz).
+Quiero aprender sobre Si los catetos miden 3 y 4, la hipotenusa mide 5, porque 3² + 4² = 5².
+Dame una explicación de Uso de sistemas de control y robots para realizar procesos de producción con mínima intervención humana.
+¿Por qué ocurre Técnica de optimización inspirada en la evolución biológica: selección, cruce y mutación de soluciones?
+Dame una explicación de tilde: Acento ortográfico que indica la sílaba tónica.
+Dame una explicación de Los vehículos eléctricos utilizan baterías de iones de litio para almacenar energía.
+Dame una explicación de energia: Capacidad de un sistema para realizar trabajo o producir cambio.
+Dame una explicación de La media de 2, 4 y 6 es (2+4+6)/3 = 4.
+¿Por qué ocurre Comparar precios entre tiendas es útil antes de hacer una compra en línea?
+¿A qué área pertenece 12 es compuesto porque es divisible entre 1, 2, 3, 4, 6 y 12?
+¿Por qué ocurre Número menor que cero, representado con el signo menos delante?
+Dame una explicación de Impresión, sol naciente.
+Dame una explicación de embedding: Representación vectorial densa de palabras o tokens en un espacio semántico continuo.
+¿Por qué ocurre Fotosíntesis: Proceso mediante el cual las plantas convierten la luz solar, agua y dióxido de carbono en energía?
+¿A qué área pertenece 2³ = 8 porque 2 × 2 × 2 = 8?
+¿A qué área pertenece La raíz cuadrada de 9 es 3, porque 3 × 3 = 9?
+¿Por qué ocurre Conjunto de derechos y libertades básicas que se consideran inherentes a todos los seres humanos?
+Dame una explicación de Género cinematográfico centrado en conflictos emocionales y personales de los personajes.
+Dame una explicación de Un algoritmo de navegación puede recalcular la ruta si detecta un obstáculo nuevo.
+Dame una explicación de El 50% de 200 equivale a la mitad, es decir, 100.
+¿Por qué ocurre El eslalon y el descenso son modalidades del esquí alpino?
+¿Por qué ocurre Sistema de control que ajusta continuamente su comportamiento usando información de sensores sobre el resultado?
+¿Por qué ocurre En rugby, un ensayo (try) se anota apoyando el balón en la zona de meta contraria?
+Dame una explicación de ¿Cómo te llamas?.
+Dame una explicación de Tabla hash (hash map): Estructura que asocia claves a valores usando una función hash para acceso casi constante.
+¿Por qué ocurre Van Gogh los pintó para decorar la casa de su amigo Gauguin en Arlés?
+¿Por qué ocurre Gestor de paquetes de Python. Instala bibliotecas externas?
+Explícame El 5G permite descargar archivos grandes en cuestión de segundos en comparación con redes anteriores.
+Dame una explicación de Técnica que permite a un robot construir un mapa de un entorno desconocido mientras determina su propia posición.
+Dame una explicación de Balonmano: Deporte de equipo donde dos equipos de siete jugadores intentan lanzar un balón a la portería contraria.
+¿Por qué ocurre fine_tuning: Ajuste fino: técnica de transfer learning donde un modelo pre-entrenado se adapta a una tarea específica?
+¿Por qué ocurre clase: Plantilla para crear objetos que agrupan datos y métodos?
+Creer algo 'porque lo dijo un doctor' sin verificar
+Dame una explicación de Deporte de equipo de contacto donde se avanza un balón ovalado hacia la zona de anotación del rival.
+¿Por qué ocurre Regar las plantas de interior una o dos veces por semana suele ser suficiente?
+Dame una explicación de Los 100 metros libres son una de las pruebas más rápidas y populares de la natación.
+Dame una explicación de Unidad de información compuesta por 8 bits, capaz de representar 256 valores distintos.
+Un algoritmo de navegación puede recalcular la ruta si detecta un obstáculo nuevo
+Dame una explicación de La invención de la imprenta facilitó la difusión masiva del conocimiento en Europa.
+Dame una explicación de El retrato más famoso del mundo. Su sonrisa enigmática ha fascinado por siglos.
+¿Por qué ocurre Error que ocurre durante la ejecución. Se maneja con try/except?
+Dame una explicación de Gabriel García Márquez es uno de los máximos exponentes del realismo mágico.
+concepto: cielo_azul nombre: Color azul del cielo definicion: El cielo se ve azul principalmente porque la atmósfera dispersa la luz solar de onda corta, especialmente azul, con mayor intensidad que las longitudes de onda más largas. Este fenómeno se denomina dispersión de Rayleigh. causa: dispersión de Rayleigh relacionado con: luz solar, atmosfera, longitud de onda
+Dame una explicación de Recordar más un insulto que 10 elogios.
+¿Por qué ocurre map(), filter() y reduce() son herramientas típicas de la programación funcional?
+¿Por qué ocurre Conjunto de números que incluye los naturales, sus negativos y el cero?
+¿Por qué ocurre Estructura de control que repite un bloque mientras se cumpla una condición?
+Dame un ejemplo de area_circulo. area_circulo: Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado. Ejemplo: Un círculo de radio 5 tiene un área aproximada de 78.54 unidades cuadradas Un ejemplo de area_circulo es Un círculo de radio 5 tiene un área aproximada de 78.54 unidades cuadradas
+Dame una explicación de MySQL y PostgreSQL son sistemas de bases de datos relacionales.
+¿Por qué ocurre La Fórmula 1 celebra carreras llamadas Grandes Premios en distintos circuitos del mundo?
+¿Por qué ocurre Representación vectorial densa de palabras o tokens en un espacio semántico continuo?
+Primero identificamos el problema y después buscamos la explicación más sólida.
+Necesito información sobre Las aplicaciones de mapas usan GPS para calcular rutas y mostrar la ubicación en tiempo real.
+¿Por qué ocurre El portero es el único jugador que puede tocar el balón con las manos dentro de su área?
+concepto: area_circulo nombre: Área del círculo definicion: Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado ejemplo: Un círculo de radio 5 tiene un área aproximada de 78.54 unidades cuadradas
+Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado
+¿Por qué ocurre React es un framework (biblioteca) de JavaScript para construir interfaces de usuario?
+¿Por qué ocurre Clave de API (API key): Código único que identifica y autoriza a una aplicación para usar un servicio?
+¿Cómo funciona El Sahara ocupa una superficie comparable a la de todo el territorio de Estados Unidos?
+¿Cómo funciona Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita?
+¿Por qué ocurre Rutina matutina: Conjunto de actividades habituales que una persona realiza al comenzar el día?
+Dame un ejemplo de busqueda_binaria. busqueda_binaria: Algoritmo que encuentra un elemento en una lista ordenada dividiendo repetidamente el espacio de búsqueda a la mitad. Ejemplo: Buscar el número 7 en una lista ordenada de 1000 elementos toma como máximo 10 comparaciones Un ejemplo de busqueda_binaria es Buscar el número 7 en una lista ordenada de 1000 elementos toma como máximo 10 comparaciones
+Dame una explicación de Sesgo de autoridad.
+¿Por qué ocurre Tokio es la capital de Japón y una de las áreas metropolitanas más pobladas del mundo?
+Dame una explicación de Sesgo de optimismo.
+¿Por qué ocurre Danza folclórica: Baile tradicional propio de una región o cultura, transmitido de generación en generación?
+¿Por qué ocurre Ética: Rama de la filosofía que estudia lo que se considera correcto o incorrecto en la conducta humana?
+Dame una explicación de Buscar el número 7 en una lista ordenada de 1000 elementos toma como máximo 10 comparaciones.
+¿Por qué ocurre Un pato nada en un lago. ¿Qué hay debajo del pato??
+concepto: gps nombre: GPS (sistema de posicionamiento global) definicion: Sistema satelital que permite determinar la ubicación geográfica exacta de un dispositivo en la Tierra ejemplo: Las aplicaciones de mapas usan GPS para calcular rutas y mostrar la ubicación en tiempo real
+¿Por qué ocurre Ropa característica de una cultura o región, usada en ocasiones especiales o cotidianamente?
+¿Por qué ocurre Modelo computacional inspirado en el cerebro, compuesto de capas de neuronas artificiales conectadas entre sí?
+Dame una explicación de Un cuerpo permanece en reposo o en movimiento rectilíneo uniforme si no actúa una fuerza externa sobre él.
+Dame una explicación de Tradición oral: Transmisión de relatos, leyendas y conocimientos de generación en generación mediante la palabra hablada.
+Dame una explicación de En álgebra, x + 5 = 10 representa una ecuación donde x es una incógnita.
+¿Por qué ocurre Un auto acelera de 0 a 100 km/h?
+¿Por qué ocurre Rusia es tan grande que tiene 11 zonas horarias diferentes?
+Dame una explicación de Software que permite probar el comportamiento de un robot en un entorno virtual antes de implementarlo físicamente.
+Dame una explicación de Rapidez con que un objeto cambia de posición.
+¿Por qué ocurre Forma de expresar una cantidad como una fracción de 100?
+¿Por qué ocurre Los glaciares están retrocediendo en muchas regiones debido al calentamiento global?
+¿Por qué ocurre Parte de una aplicación con la que interactúa directamente el usuario, generalmente en el navegador?
+Dame una explicación de Error que ocurre durante la ejecución. Se maneja con try/except.
+¿Por qué ocurre El Festival de Cannes es uno de los festivales de cine más prestigiosos del mundo?
+Dame una explicación de Estructura de datos FIFO donde el primer elemento en entrar es el primero en salir.
+Necesito información sobre Resta: Operación aritmética que calcula la diferencia entre dos cantidades.
+¿Por qué ocurre CPU (procesador): Unidad central de procesamiento que ejecuta las instrucciones de los programas de una computadora?
+Dame una explicación de Robot diseñado para imitar la forma y el movimiento del cuerpo humano.
+¿Por qué ocurre 'Sí, totalmente de acuerdo contigo' expresa conformidad en una charla?
+Dame una explicación de En una cadena alimenticia simple, el pasto es comido por el conejo y este por el zorro.
+¿Por qué ocurre Conocida como 'la Mona Lisa del Norte' por su mirada cautivadora?
+Háblame de 12 es compuesto porque es divisible entre 1, 2, 3, 4, 6 y 12.
+Dame una explicación de Los agujeros negros se forman generalmente del colapso de estrellas muy masivas.
+Dame una explicación de API REST: Estilo de arquitectura para servicios web que usa métodos HTTP como GET, POST, PUT y DELETE.
+¿Por qué ocurre Sensor: Dispositivo que detecta cambios físicos en el entorno (luz, temperatura, distancia) y los convierte en señales medibles?
+¿Por qué ocurre Sesgo de grupo (endogrupal)?
+¿Por qué ocurre MySQL y PostgreSQL son sistemas de bases de datos relacionales?
+Dame una explicación de Mayor selva tropical. Produce 20% del oxígeno del planeta. Alberga 10% de las especies conocidas.
+¿Por qué ocurre Moneda digital que utiliza criptografía para asegurar transacciones, sin depender de un banco central?
+¿Qué es 2³ = 8 porque 2 × 2 × 2 = 8?
+¿Por qué ocurre Cálculo diferencial: Rama del cálculo que estudia las derivadas y las tasas de cambio de las funciones?
+¿Qué sabes sobre metafora_lenguaje? metafora_lenguaje: Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita Figura literaria que atribuye a algo cualidades de otra cosa sin usar comparación explícita
+Dame una explicación de Dispositivo que detecta cambios físicos en el entorno (luz, temperatura, distancia) y los convierte en señales medibles.
+Dame una explicación de Reacción química: Proceso en el que una o más sustancias se transforman en otras diferentes.
+¿Por qué ocurre Estado de satisfacción y bienestar intenso?
+¿Por qué ocurre Somos lo que hacemos repetidamente. La excelencia no es un acto, sino un hábito?
+Dame una explicación de La cerámica artesanal es una expresión cultural común en comunidades rurales.
+Explícame Creer algo 'porque lo dijo un doctor' sin verificar.
+¿Por qué ocurre A toda acción corresponde una reacción igual en magnitud pero en sentido opuesto?
+¿Por qué ocurre Rusia se extiende a lo largo de once husos horarios distintos?
+Dame una explicación de lista: Colección ordenada y mutable de elementos.
+Dame una explicación de Grupo de animales vertebrados que viven parte de su vida en el agua y parte en tierra, como.
+¿Por qué ocurre 4 × 3 = 12 equivale a sumar 4 tres veces?
+Dame una explicación de Deporte de combate donde dos contrincantes se enfrentan usando únicamente los puños dentro de un cuadrilátero.
+¿Por qué ocurre Dividida en América del Norte, Central y del Sur?
+¿Por qué ocurre Hipotenusa: Lado más largo de un triángulo rectángulo, opuesto al ángulo recto?
+Háblame de Comparar precios entre tiendas es útil antes de hacer una compra en línea.
+¿Por qué ocurre Ecosistema denso y húmedo ubicado cerca del ecuador, con gran diversidad de especies vegetales y animales?
+¿Por qué ocurre Tabla hash (hash map): Estructura que asocia claves a valores usando una función hash para acceso casi constante?
+¿Por qué ocurre Ser el diferente o problemático del grupo?
+Dame una explicación de π y la raíz cuadrada de 2 son números irracionales.
+¿Qué es Buscar el número 7 en una lista ordenada de 1000 elementos toma como máximo 10 comparaciones?
+¿A qué área pertenece Pensar que los accidentes de avión son más comunes que los de auto porque aparecen más en noticias?
+¿Qué es area_circulo? area_circulo: Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado
+Dame una explicación de Cada color de una bandera nacional suele representar un valor o hecho histórico del país.
+Necesito información sobre Comparar precios entre tiendas es útil antes de hacer una compra en línea.
+¿Por qué ocurre Automatización industrial: Uso de sistemas de control y robots para realizar procesos de producción con mínima intervención humana?
+¿Por qué ocurre Teatro (arte escénico): Forma de arte donde actores representan una historia frente a un público en vivo?
+Dame una explicación de 2³ = 8 porque 2 × 2 × 2 = 8.
+Dame una explicación de Las mariposas pueden saborear con sus patas.
+Dame una explicación de Polimorfismo: Capacidad de que distintos objetos respondan de forma diferente al mismo método o mensaje.
+Dame una explicación de El perímetro de un cuadrado de lado 5 es 20, porque 4 × 5 = 20.
+¿Por qué ocurre El cálculo del factorial n! = n * (n-1)! es un ejemplo clásico de recursión?
+Dame un ejemplo de algoritmo_de_navegacion. algoritmo_de_navegacion: Conjunto de reglas que permite a un robot planear una ruta y moverse evitando obstáculos. Ejemplo: Un algoritmo de navegación puede recalcular la ruta si detecta un obstáculo nuevo Un ejemplo de algoritmo_de_navegacion es Un algoritmo de navegación puede recalcular la ruta si detecta un obstáculo nuevo
+Dame una explicación de Juan come manzanas.
+Dame una explicación de Un juego de béisbol se compone normalmente de nueve entradas.
+¿Por qué ocurre Palabra que modifica al verbo, adjetivo u otro adverbio?
+¿Por qué ocurre Lavado de ropa: Tarea doméstica habitual que consiste en limpiar prendas de vestir usando agua y detergente?
+Dame una explicación de Regularidad o estructura que se repite en datos, naturaleza o comportamiento.
+¿Por qué ocurre Tecnología desarrollada por Johannes Gutenberg en el siglo XV que permitió reproducir textos en masa?
+Dame una explicación de Movimiento artístico del siglo XIX que buscaba capturar la luz y el momento fugaz mediante pinceladas sueltas.
+¿Qué es Un vector (3, 4) tiene un módulo de 5, calculado con el teorema de Pitágoras?
+¿Qué sabes sobre resta? resta: Operación aritmética que calcula la diferencia entre dos cantidades Operación aritmética que calcula la diferencia entre dos cantidades
+¿Por qué ocurre Chasis (robótica): Estructura física base de un robot sobre la que se montan sus componentes mecánicos y electrónicos?
+¿Por qué ocurre Cordillera de los Andes: La cadena montañosa continental más larga del mundo, que recorre el oeste de América?
+¿Por qué ocurre JSON: Formato ligero de intercambio de datos basado en pares clave-valor, fácil de leer para humanos y máquinas?
+¿Por qué ocurre El primer mensaje de texto SMS fue 'Feliz Navidad' en 1992?
+Dame una explicación de Formateo de strings desde Python 3.6.
+Dame una explicación de Llover muy fuerte.
+¿Por qué ocurre Efector final (end effector): Componente en el extremo de un brazo robótico que interactúa directamente con el entorno,?
+¿Por qué ocurre No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que mejor se?
+¿Por qué ocurre La pareja ideal?
+¿Por qué ocurre Charla sobre el fin de semana: Tema conversacional habitual para preguntar por los planes o actividades recientes de?
+¿Por qué ocurre Ayudar a alguien?
+Dame una explicación de Número par e impar: Un número par es divisible entre 2 exactamente; un número impar no lo es.
+¿Por qué ocurre Software cuyo código fuente es público y puede ser modificado y distribuido libremente por cualquiera?
+¿Por qué ocurre Sistema binario: Sistema numérico que usa solo dos dígitos, 0 y 1, base del funcionamiento de las computadoras?
+Dame una explicación de Al saltar de un bote, el bote se mueve hacia atrás.
+Dame una explicación de Renacimiento: Movimiento cultural y artístico europeo, surgido en Italia en el siglo XIV, que revalorizó el arte y.
+Explícame meridiano_greenwich. meridiano_greenwich: Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo
+Dame una explicación de Tecnología que superpone elementos digitales sobre el mundo real, generalmente a través de la cámara de un dispositivo.
+Dame una explicación de El Everest crece 4 mm cada año debido al choque de placas tectónicas.
+Dame una explicación de Dispositivo que genera movimiento usando la presión de un líquido, común en robots de gran fuerza.
+Dame una explicación de '¿Qué hiciste el fin de semana?' es una pregunta típica de conversación casual.
+Dame una explicación de En un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de.
+Dame una explicación de Colección de pares clave-valor no ordenada.
+¿Por qué ocurre La halterofilia es un deporte olímpico dividido en categorías por peso corporal?
+Dame una explicación de Patrimonio Cultural Inmaterial de la Humanidad (UNESCO, 2010).
+concepto: perimetro nombre: Perímetro definicion: Suma de las longitudes de todos los lados de una figura geométrica ejemplo: El perímetro de un cuadrado de lado 5 es 20, porque 4 × 5 = 20
+¿Por qué ocurre Los robots industriales pesados usan actuadores hidráulicos para levantar cargas grandes?
+¿Qué sabes sobre area_circulo? area_circulo: Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado Espacio que ocupa un círculo, calculado con la fórmula π por el radio al cuadrado
+Dame una explicación de Creer, después de que un evento ocurrió, que era predecible o que 'siempre lo supiste'.
+¿Por qué ocurre La gimnasia artística femenina incluye la prueba de viga de equilibrio?
+Dame un ejemplo de raiz_cuadrada. raiz_cuadrada: Número que multiplicado por sí mismo da el número original. Ejemplo: √9 = 3 porque 3×3=9 Un ejemplo de raiz_cuadrada es √9 = 3 porque 3×3=9
+Dame una explicación de @staticmethod def metodo(): pass.
+¿Por qué ocurre Operación que encuentra el número que, multiplicado por sí mismo, da como resultado el número original?
+¿Por qué ocurre '¡Felicidades por tu nuevo trabajo!' es una felicitación típica?
+Dame una explicación de Protocolo HTTP: Protocolo de comunicación usado para transferir páginas web entre un cliente y un servidor.
+Dame una explicación de try: 1/0 except ZeroDivisionError: print('no se puede dividir por cero').
+¿Por qué ocurre Brasilia es la capital de Brasil, diseñada especialmente en el siglo XX como ciudad planificada?
+¿Por qué ocurre 'Fumar causa cáncer... pero a mí no me pasará'?
+¿Por qué ocurre Rama de la inteligencia artificial donde los sistemas aprenden patrones a partir de datos sin ser programados explícitamente?
+¿Por qué ocurre Llegada del hombre a la Luna?
+Explícame Los delfines, a pesar de vivir en el agua, son mamíferos porque amamantan a sus crías.
+¿Por qué ocurre QuickSort y MergeSort son algoritmos de ordenamiento eficientes con complejidad O(n log n)?
+¿Por qué ocurre La miel nunca se echa a perder. Se encontró miel de 3,000 años en tumbas egipcias y aún?
+Dame una explicación de Solidaridad: Valor humano que implica apoyar y ayudar a otras personas en situaciones difíciles.
+¿Por qué ocurre Los relojes blandos son un ícono del surrealismo. Representa la relatividad del tiempo?
+¿Por qué ocurre La tolerancia religiosa permite la convivencia pacífica entre distintas creencias?
+Dame una explicación de Dispositivo que almacena energía química y la convierte en energía eléctrica para alimentar aparatos.
+Dame una explicación de Lo que no me mata, me hace más fuerte.
+Dame una explicación de Bienal de arte: Evento artístico internacional que se celebra cada dos años, exhibiendo obras contemporáneas.
+¿Qué sabes sobre cielo_azul? cielo_azul: El cielo se ve azul principalmente porque la atmósfera dispersa la luz solar de onda corta, especialmente azul, con mayor intensidad que las longitudes de onda más largas. Este fenómeno se denomina dispersión de Rayleigh. El cielo se ve azul principalmente porque la atmósfera dispersa la luz solar de onda corta, especialmente azul, con mayor intensidad que las longitudes de onda más largas. Este fenómeno se denomina dispersión de Rayleigh.
+¿Qué es meridiano_greenwich? meridiano_greenwich: Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo Línea imaginaria de referencia (0 grados de longitud) usada para calcular las zonas horarias del mundo
+¿Por qué ocurre Asociado al movimiento rastafari y mensajes de paz?
+Explícame Seguir viendo una mala película 'porque ya pagaste la entrada'.
+Dame una explicación de Charla casual sobre tecnología: Conversación informal sobre dispositivos, aplicaciones o tendencias tecnológicas.
+¿Por qué ocurre Sistema de creencias que reconoce la existencia de múltiples dioses?
+¿Por qué ocurre Hervir, freír y hornear son técnicas básicas de cocina?
+Dame una explicación de Lado más largo de un triángulo rectángulo, opuesto al ángulo recto.
+¿Por qué ocurre Proceso de organizar con anticipación el transporte, alojamiento y actividades de un viaje?
+Dame una explicación de Paradigma que organiza el código en objetos con atributos y métodos, agrupados en clases.
+¿Por qué ocurre Genera 20-23 watts de electricidad?
+Dame una explicación de Doblar la ropa por categorías ayuda a mantener el armario organizado.
+concepto: regla_tres definicion: Método para calcular un valor proporcional desconocido a partir de tres valores conocidos ejemplo: Si 2 kg cuestan 10€, 5 kg cuestan (5×10)/2 = 25€
+¿Por qué ocurre El Monte Vesubio es un volcán famoso por haber sepultado la ciudad de Pompeya en el año 79?
+¿Por qué ocurre Recuerda: en boca cerrada no entran moscas?
+Dame una explicación de Tecnología que sumerge al usuario en un entorno digital simulado mediante dispositivos como visores especiales.
+Dame una explicación de Categoría de peso (boxeo): División de competidores según su peso corporal, para igualar condiciones físicas de combate.
+Dame una explicación de Brasilia es la capital de Brasil, diseñada especialmente en el siglo XX como ciudad planificada.
+Dame una explicación de La felicidad no es algo hecho. Viene de tus propias acciones.
+¿Por qué ocurre Inteligencia artificial aplicada a la robótica: Uso de algoritmos de IA para que los robots tomen decisiones, aprendan?
+Dame una explicación de Sistema satelital que permite determinar la ubicación geográfica exacta de un dispositivo en la Tierra.
+Dame un ejemplo de vector_matematico. vector_matematico: Magnitud que tiene tanto tamaño (módulo) como dirección, representada por una flecha o coordenadas. Ejemplo: Un vector (3, 4) tiene un módulo de 5, calculado con el teorema de Pitágoras Un ejemplo de vector_matematico es Un vector (3, 4) tiene un módulo de 5, calculado con el teorema de Pitágoras
+Dame una explicación de Hípica (equitación): Deporte que involucra montar y competir con caballos en disciplinas como salto o doma.
+Dame un ejemplo de desierto_sahara. desierto_sahara: El desierto cálido más grande del mundo, ubicado en el norte de África. Ejemplo: El Sahara ocupa una superficie comparable a la de todo el territorio de Estados Unidos Un ejemplo de desierto_sahara es El Sahara ocupa una superficie comparable a la de todo el territorio de Estados Unidos
+Dame una explicación de Igualdad matemática donde la incógnita aparece elevada solo a la primera potencia.
+¿Qué es integral? integral: En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad En cálculo, operación que calcula el área bajo la curva de una función o la acumulación de una cantidad
+concepto: raiz_cuadrada nombre: Raíz cuadrada definicion: Operación que encuentra el número que, multiplicado por sí mismo, da como resultado el número original ejemplo: La raíz cuadrada de 9 es 3, porque 3 × 3 = 9
+¿Por qué ocurre Doblar la ropa por categorías ayuda a mantener el armario organizado?
+Dame una explicación de La fotografía en blanco y negro sigue siendo valorada por su carga artística.
+¿Por qué ocurre Esta pintura dio nombre al movimiento impresionista?
+Dame una explicación de En ningún lado, los sobrevivientes están vivos.
+Dame una explicación de Lenguaje de programación orientado a objetos, compilado a bytecode que corre sobre la Máquina Virtual de Java (JVM).
+¿Por qué ocurre Los motores eléctricos son actuadores comunes que hacen girar las ruedas de un robot?
+Dame una explicación de La Catedral de Notre Dame es un ejemplo destacado de arquitectura gótica.
+Dame una explicación de Robot humanoide: Robot diseñado para imitar la forma y el movimiento del cuerpo humano.
+¿Por qué ocurre Matriz: Arreglo rectangular de números organizados en filas y columnas, usado en álgebra lineal?
+¿Qué es √9 = 3 porque 3×3=9?
+Dame una explicación de Conjunto ordenado de letras usadas para representar los sonidos de un idioma por escrito.
+Dame una explicación de Número que multiplicado por sí mismo da el número original.
+¿Qué sabes sobre Comparar precios entre tiendas es útil antes de hacer una compra en línea?
+El logaritmo en base 10 de 100 es 2, porque 10² = 100
+Dame una explicación de No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que mejor se.

@@ -1,0 +1,6 @@
+{
+  "version": "2.3",
+  "model_checkpoint": {"vocabulario": 4096, "contexto": 128, "parametros": 2619072, "pasos_entrenamiento": 30},
+  "corpus": {"tokens_sentencepiece": 292330, "caracteres": 1279223, "registros": 9381},
+  "escalas_objetivo": {"small": {"vocab": 8192, "d_model": 384, "layers": 8, "context": 256}, "evolution": {"vocab": 16384, "d_model": 512, "layers": 12, "context": 512}}
+}

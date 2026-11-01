@@ -1,0 +1,52 @@
+{
+ "precision_etapa1_grupo": 0.7238493723849372,
+ "precision_total_jerarquico": 0.6443514644351465,
+ "stage2": {
+  "computacion": {
+   "dominios": [
+    "programacion",
+    "tecnologia",
+    "robotica"
+   ],
+   "precision_val": 0.8620689655172413,
+   "n_train": 333
+  },
+  "ciencias_exactas": {
+   "dominios": [
+    "ciencia",
+    "matematicas",
+    "naturaleza"
+   ],
+   "precision_val": 0.8076923076923077,
+   "n_train": 301
+  },
+  "sociedad": {
+   "dominios": [
+    "cultura",
+    "humanidad",
+    "conocimiento_general",
+    "geografia"
+   ],
+   "precision_val": 0.8596491228070176,
+   "n_train": 329
+  },
+  "cotidiano": {
+   "dominios": [
+    "lenguaje",
+    "vida_cotidiana",
+    "conversacional"
+   ],
+   "precision_val": 0.9512195121951219,
+   "n_train": 235
+  },
+  "ocio": {
+   "dominios": [
+    "entretenimiento",
+    "deportes"
+   ],
+   "precision_val": 0.967741935483871,
+   "n_train": 180
+  }
+ },
+ "n_val": 239
+}

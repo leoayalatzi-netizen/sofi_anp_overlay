@@ -1,0 +1,57 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "tecnologia",
+  "n_items": 8
+ },
+ "datos": [
+  {
+   "concepto": "smartphone",
+   "nombre": "Teléfono inteligente (smartphone)",
+   "definicion": "Dispositivo móvil que combina funciones de telefonía con acceso a internet, aplicaciones y multimedia",
+   "ejemplo": "Los smartphones modernos incluyen cámaras, GPS y asistentes de voz"
+  },
+  {
+   "concepto": "realidad_virtual",
+   "nombre": "Realidad virtual",
+   "definicion": "Tecnología que sumerge al usuario en un entorno digital simulado mediante dispositivos como visores especiales",
+   "ejemplo": "Los videojuegos de realidad virtual permiten al usuario mirar alrededor dentro del mundo simulado"
+  },
+  {
+   "concepto": "realidad_aumentada",
+   "nombre": "Realidad aumentada",
+   "definicion": "Tecnología que superpone elementos digitales sobre el mundo real, generalmente a través de la cámara de un dispositivo",
+   "ejemplo": "Algunas aplicaciones de realidad aumentada permiten ver cómo quedaría un mueble en una habitación real"
+  },
+  {
+   "concepto": "internet_de_las_cosas",
+   "nombre": "Internet de las cosas (IoT)",
+   "definicion": "Red de dispositivos físicos cotidianos conectados a internet capaces de recopilar e intercambiar datos",
+   "ejemplo": "Un termostato inteligente que se controla desde el celular es un ejemplo de internet de las cosas"
+  },
+  {
+   "concepto": "energia_solar",
+   "nombre": "Energía solar",
+   "definicion": "Energía renovable obtenida a partir de la radiación del sol, capturada mediante paneles fotovoltaicos",
+   "ejemplo": "Los paneles solares convierten la luz del sol directamente en electricidad"
+  },
+  {
+   "concepto": "bateria_electrica",
+   "nombre": "Batería eléctrica",
+   "definicion": "Dispositivo que almacena energía química y la convierte en energía eléctrica para alimentar aparatos",
+   "ejemplo": "Los vehículos eléctricos utilizan baterías de iones de litio para almacenar energía"
+  },
+  {
+   "concepto": "5g_tecnologia",
+   "nombre": "Red 5G",
+   "definicion": "Quinta generación de tecnología de redes móviles, que ofrece mayor velocidad y menor latencia que las anteriores",
+   "ejemplo": "El 5G permite descargar archivos grandes en cuestión de segundos en comparación con redes anteriores"
+  },
+  {
+   "concepto": "gps",
+   "nombre": "GPS (sistema de posicionamiento global)",
+   "definicion": "Sistema satelital que permite determinar la ubicación geográfica exacta de un dispositivo en la Tierra",
+   "ejemplo": "Las aplicaciones de mapas usan GPS para calcular rutas y mostrar la ubicación en tiempo real"
+  }
+ ]
+}

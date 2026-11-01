@@ -1,0 +1,159 @@
+{
+ "metadata": {
+  "generado_por": "herramientas/generar_conocimiento_masivo.py",
+  "dominio": "naturaleza",
+  "n_items": 25
+ },
+ "datos": [
+  {
+   "concepto": "ecosistema",
+   "nombre": "Ecosistema",
+   "definicion": "Comunidad de seres vivos que interactúan entre sí y con su entorno físico en un espacio determinado",
+   "ejemplo": "Un arrecife de coral es un ecosistema marino rico en biodiversidad"
+  },
+  {
+   "concepto": "fotosintesis_extra",
+   "nombre": "Fotosíntesis",
+   "definicion": "Proceso mediante el cual las plantas convierten la luz solar, agua y dióxido de carbono en energía y oxígeno",
+   "ejemplo": "Gracias a la fotosíntesis, las plantas liberan el oxígeno que respiramos"
+  },
+  {
+   "concepto": "cadena_alimenticia",
+   "nombre": "Cadena alimenticia",
+   "definicion": "Secuencia de organismos donde cada uno se alimenta del anterior, transfiriendo energía entre ellos",
+   "ejemplo": "En una cadena alimenticia simple, el pasto es comido por el conejo y este por el zorro"
+  },
+  {
+   "concepto": "biodiversidad",
+   "nombre": "Biodiversidad",
+   "definicion": "Variedad de formas de vida (especies, genes y ecosistemas) presentes en un lugar determinado",
+   "ejemplo": "La selva amazónica tiene una de las mayores biodiversidades del planeta"
+  },
+  {
+   "concepto": "especie_en_peligro",
+   "nombre": "Especie en peligro de extinción",
+   "definicion": "Especie animal o vegetal cuya población ha disminuido tanto que corre riesgo de desaparecer",
+   "ejemplo": "El panda gigante fue durante décadas un símbolo de especie en peligro de extinción"
+  },
+  {
+   "concepto": "ciclo_del_agua",
+   "nombre": "Ciclo del agua",
+   "definicion": "Proceso natural continuo de evaporación, condensación y precipitación del agua en la Tierra",
+   "ejemplo": "La lluvia es una de las etapas visibles del ciclo del agua"
+  },
+  {
+   "concepto": "bosque_tropical",
+   "nombre": "Bosque tropical",
+   "definicion": "Ecosistema denso y húmedo ubicado cerca del ecuador, con gran diversidad de especies vegetales y animales",
+   "ejemplo": "El bosque tropical amazónico produce una parte significativa del oxígeno del planeta"
+  },
+  {
+   "concepto": "animal_mamifero",
+   "nombre": "Mamífero",
+   "definicion": "Grupo de animales vertebrados caracterizados por tener glándulas mamarias y, en general, pelo",
+   "ejemplo": "Los delfines, a pesar de vivir en el agua, son mamíferos porque amamantan a sus crías"
+  },
+  {
+   "concepto": "animal_reptil",
+   "nombre": "Reptil",
+   "definicion": "Grupo de animales vertebrados de sangre fría, generalmente cubiertos de escamas",
+   "ejemplo": "Las serpientes, lagartos y tortugas son ejemplos de reptiles"
+  },
+  {
+   "concepto": "polinizacion",
+   "nombre": "Polinización",
+   "definicion": "Proceso mediante el cual el polen se transfiere de una flor a otra, permitiendo la reproducción de las plantas",
+   "ejemplo": "Las abejas son polinizadores clave para muchos cultivos agrícolas"
+  },
+  {
+   "concepto": "cambio_climatico",
+   "nombre": "Cambio climático",
+   "definicion": "Alteración a largo plazo de los patrones de temperatura y clima en la Tierra, en gran parte por actividad humana",
+   "ejemplo": "El aumento de gases de efecto invernadero está asociado al cambio climático"
+  },
+  {
+   "concepto": "erosion",
+   "nombre": "Erosión",
+   "definicion": "Proceso por el cual el viento, el agua o el hielo desgastan y transportan materiales de la superficie terrestre",
+   "ejemplo": "La erosión del suelo puede acelerarse por la deforestación"
+  },
+  {
+   "concepto": "estacion_del_ano",
+   "nombre": "Estaciones del año",
+   "definicion": "Cuatro periodos climáticos (primavera, verano, otoño, invierno) causados por la inclinación del eje terrestre",
+   "ejemplo": "En el hemisferio norte, el verano ocurre cuando ese hemisferio está más inclinado hacia el sol"
+  },
+  {
+   "concepto": "animal_ave",
+   "nombre": "Ave",
+   "definicion": "Grupo de animales vertebrados caracterizados por tener plumas, pico y, en la mayoría de los casos, capacidad de volar",
+   "ejemplo": "El águila es un ave rapaz conocida por su excelente vista"
+  },
+  {
+   "concepto": "bioma",
+   "nombre": "Bioma",
+   "definicion": "Gran región ecológica caracterizada por un clima y tipo de vegetación específicos, como la tundra o la sabana",
+   "ejemplo": "La sabana africana es un bioma con pastizales abiertos y árboles dispersos"
+  },
+  {
+   "concepto": "animal_anfibio",
+   "nombre": "Anfibio",
+   "definicion": "Grupo de animales vertebrados que viven parte de su vida en el agua y parte en tierra, como las ranas",
+   "ejemplo": "Las ranas comienzan su vida como renacuajos acuáticos antes de convertirse en adultos terrestres"
+  },
+  {
+   "concepto": "animal_insecto",
+   "nombre": "Insecto",
+   "definicion": "Grupo de artrópodos con seis patas y cuerpo dividido en cabeza, tórax y abdomen",
+   "ejemplo": "Las hormigas son insectos sociales que viven en colonias organizadas"
+  },
+  {
+   "concepto": "simbiosis",
+   "nombre": "Simbiosis",
+   "definicion": "Relación biológica cercana y duradera entre dos especies distintas, que puede beneficiar a una o ambas",
+   "ejemplo": "Las abejas y las flores tienen una relación de simbiosis mutuamente beneficiosa"
+  },
+  {
+   "concepto": "depredador_presa",
+   "nombre": "Relación depredador-presa",
+   "definicion": "Interacción ecológica donde un animal (depredador) caza y se alimenta de otro (presa)",
+   "ejemplo": "El león es un depredador que caza principalmente cebras y ñus en la sabana"
+  },
+  {
+   "concepto": "hibernacion",
+   "nombre": "Hibernación",
+   "definicion": "Estado de inactividad que adoptan algunos animales durante el invierno para ahorrar energía",
+   "ejemplo": "Los osos entran en hibernación durante los meses fríos del año"
+  },
+  {
+   "concepto": "migracion_animal",
+   "nombre": "Migración animal",
+   "definicion": "Desplazamiento estacional de animales entre regiones, generalmente por clima o reproducción",
+   "ejemplo": "Las aves migratorias viajan miles de kilómetros para reproducirse en climas más cálidos"
+  },
+  {
+   "concepto": "arrecife_de_coral",
+   "nombre": "Arrecife de coral",
+   "definicion": "Ecosistema marino formado por colonias de coral, con gran biodiversidad de especies",
+   "ejemplo": "La Gran Barrera de Coral, en Australia, es el arrecife de coral más grande del mundo"
+  },
+  {
+   "concepto": "planta_carnivora",
+   "nombre": "Planta carnívora",
+   "definicion": "Planta adaptada para atrapar y digerir insectos u otros pequeños animales como fuente de nutrientes",
+   "ejemplo": "La Venus atrapamoscas cierra sus hojas rápidamente al detectar un insecto"
+  },
+  {
+   "concepto": "glaciar",
+   "nombre": "Glaciar",
+   "definicion": "Gran masa de hielo formada por la acumulación de nieve compactada durante largos periodos",
+   "ejemplo": "Los glaciares están retrocediendo en muchas regiones debido al calentamiento global"
+  },
+  {
+   "concepto": "suelo_fertil",
+   "nombre": "Suelo fértil",
+   "definicion": "Tierra rica en nutrientes que favorece el crecimiento de las plantas",
+   "ejemplo": "El limo depositado por los ríos crea suelos muy fértiles para la agricultura"
+  }
+ ]
+}

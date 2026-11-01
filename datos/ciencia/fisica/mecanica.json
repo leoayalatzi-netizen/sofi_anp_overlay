@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "categoria": "ciencia/fisica",
+    "total": 12
+  },
+  "datos": [
+    {
+      "concepto": "ley_inercia",
+      "nombre": "Primera Ley de Newton",
+      "definicion": "Un cuerpo permanece en reposo o en movimiento rectilíneo uniforme si no actúa una fuerza externa sobre él",
+      "formula": "ΣF = 0 → velocidad constante",
+      "ejemplo": "Un libro en una mesa no se mueve hasta que alguien lo empuja"
+    },
+    {
+      "concepto": "ley_fuerza",
+      "nombre": "Segunda Ley de Newton",
+      "definicion": "La aceleración de un objeto es proporcional a la fuerza neta e inversamente proporcional a su masa",
+      "formula": "F = m × a",
+      "unidades": "Fuerza (Newtons), masa (kg), aceleración (m/s²)"
+    },
+    {
+      "concepto": "ley_accion_reaccion",
+      "nombre": "Tercera Ley de Newton",
+      "definicion": "A toda acción corresponde una reacción igual en magnitud pero en sentido opuesto",
+      "ejemplo": "Al saltar de un bote, el bote se mueve hacia atrás"
+    },
+    {
+      "concepto": "gravedad",
+      "definicion": "Fuerza de atracción entre objetos con masa. En la superficie terrestre: 9.8 m/s²",
+      "formula": "F = G × (m1×m2)/r²",
+      "constante": "G = 6.67430 × 10⁻¹¹ N·m²/kg²",
+      "descubridor": "Isaac Newton"
+    },
+    {
+      "concepto": "velocidad",
+      "definicion": "Rapidez con que un objeto cambia de posición",
+      "formula": "v = d/t",
+      "unidad": "m/s",
+      "diferencia": "La velocidad es un vector (tiene dirección), la rapidez es escalar"
+    },
+    {
+      "concepto": "aceleracion",
+      "definicion": "Cambio de velocidad por unidad de tiempo",
+      "formula": "a = Δv/Δt",
+      "unidad": "m/s²",
+      "ejemplo": "Un auto acelera de 0 a 100 km/h"
+    },
+    {
+      "concepto": "energia_cinetica",
+      "definicion": "Energía que posee un cuerpo debido a su movimiento",
+      "formula": "Ec = ½ × m × v²",
+      "ejemplo": "Una bala en movimiento tiene energía cinética"
+    },
+    {
+      "concepto": "energia_potencial",
+      "definicion": "Energía almacenada debido a la posición o configuración",
+      "formula": "Ep = m × g × h (gravitatoria)",
+      "ejemplo": "Una manzana en un árbol tiene energía potencial"
+    },
+    {
+      "concepto": "momento_lineal",
+      "definicion": "Producto de la masa por la velocidad de un objeto",
+      "formula": "p = m × v",
+      "propiedad": "Se conserva en sistemas aislados"
+    },
+    {
+      "concepto": "trabajo",
+      "definicion": "Energía transferida cuando una fuerza mueve un objeto",
+      "formula": "W = F × d × cos(θ)",
+      "unidad": "Joule (J)"
+    },
+    {
+      "concepto": "potencia",
+      "definicion": "Rapidez con que se realiza trabajo",
+      "formula": "P = W/t",
+      "unidad": "Watt (W)",
+      "ejemplo": "Un motor de 100W hace 100J de trabajo por segundo"
+    },
+    {
+      "concepto": "friccion",
+      "definicion": "Fuerza que se opone al movimiento entre dos superficies en contacto",
+      "tipos": [
+        "estática",
+        "cinética",
+        "de rodadura"
+      ],
+      "ejemplo": "Frenar un coche"
+    }
+  ]
+}

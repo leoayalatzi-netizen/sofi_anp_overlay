@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "categoria": "cultura/musica",
+    "total": 10
+  },
+  "datos": [
+    {
+      "genero": "Jazz",
+      "origen": "Nueva Orleans, EEUU (finales siglo XIX)",
+      "caracteristicas": [
+        "Improvisación",
+        "Swing",
+        "Síncopa",
+        "Blue notes"
+      ],
+      "instrumentos": [
+        "Saxofón",
+        "Trompeta",
+        "Piano",
+        "Contrabajo",
+        "Batería"
+      ],
+      "artistas_clave": [
+        "Louis Armstrong",
+        "Miles Davis",
+        "Duke Ellington",
+        "Ella Fitzgerald"
+      ]
+    },
+    {
+      "genero": "Rock",
+      "origen": "EEUU (años 50)",
+      "derivado_de": [
+        "Blues",
+        "Country",
+        "R&B"
+      ],
+      "subgeneros": [
+        "Rock and roll",
+        "Hard rock",
+        "Punk",
+        "Metal",
+        "Alternativo"
+      ],
+      "artistas_clave": [
+        "The Beatles",
+        "Led Zeppelin",
+        "Queen",
+        "Nirvana"
+      ]
+    },
+    {
+      "genero": "Música clásica",
+      "origen": "Europa (periodo barroco a romántico)",
+      "periodos": [
+        "Barroco (Bach, Vivaldi)",
+        "Clásico (Mozart, Haydn)",
+        "Romántico (Beethoven, Chopin)"
+      ],
+      "caracteristicas": [
+        "Orquestación compleja",
+        "Estructura formal",
+        "Armonía"
+      ]
+    },
+    {
+      "genero": "Reggae",
+      "origen": "Jamaica (años 60)",
+      "caracteristicas": [
+        "Ritmo sincopado",
+        "Bajo prominente"
+      ],
+      "artista_clave": "Bob Marley",
+      "dato": "Asociado al movimiento rastafari y mensajes de paz"
+    },
+    {
+      "genero": "Hip hop",
+      "origen": "Bronx, Nueva York (años 70)",
+      "elementos": [
+        "Rap (MC)",
+        "DJ (turntablism)",
+        "Breakdance",
+        "Graffiti"
+      ],
+      "artistas_clave": [
+        "Tupac",
+        "Notorious B.I.G.",
+        "Kendrick Lamar",
+        "Eminem"
+      ]
+    },
+    {
+      "genero": "Electrónica",
+      "origen": "Años 70-80",
+      "subgeneros": [
+        "House",
+        "Techno",
+        "Trance",
+        "Dubstep",
+        "Drum and Bass"
+      ],
+      "caracteristicas": [
+        "Sintetizadores",
+        "Samplers",
+        "Cajas de ritmos"
+      ]
+    },
+    {
+      "genero": "Salsa",
+      "origen": "Caribe (Cuba, Puerto Rico) y Nueva York (años 60-70)",
+      "raices": [
+        "Son cubano",
+        "Mambo",
+        "Guaracha"
+      ],
+      "artistas_clave": [
+        "Celia Cruz",
+        "Héctor Lavoe",
+        "Willie Colón"
+      ]
+    },
+    {
+      "genero": "Blues",
+      "origen": "Sur de EEUU (finales siglo XIX)",
+      "raices": [
+        "Espirituales afroamericanos",
+        "Canciones de trabajo"
+      ],
+      "estructura": "12 compases (12-bar blues)",
+      "artistas_clave": [
+        "B.B. King",
+        "Robert Johnson",
+        "Muddy Waters"
+      ]
+    },
+    {
+      "genero": "Flamenco",
+      "origen": "Andalucía, España",
+      "elementos": [
+        "Cante",
+        "Toque (guitarra)",
+        "Baile"
+      ],
+      "palos": [
+        "Soleá",
+        "Bulerías",
+        "Alegrías"
+      ],
+      "dato": "Patrimonio Cultural Inmaterial de la Humanidad (UNESCO, 2010)"
+    },
+    {
+      "genero": "Bossa Nova",
+      "origen": "Brasil (años 50)",
+      "fusion": [
+        "Samba",
+        "Jazz"
+      ],
+      "artistas_clave": [
+        "Antonio Carlos Jobim",
+        "João Gilberto"
+      ],
+      "cancion_iconica": "Garota de Ipanema"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "categoria": "lenguaje/espanol",
+    "tipo": "expresiones",
+    "total": 20
+  },
+  "datos": [
+    {
+      "expresion": "meter la pata",
+      "significado": "Cometer un error o equivocación",
+      "ejemplo": "Metí la pata al olvidar su cumpleaños"
+    },
+    {
+      "expresion": "echar una mano",
+      "significado": "Ayudar a alguien",
+      "ejemplo": "¿Me echas una mano con esto?"
+    },
+    {
+      "expresion": "ponerse las pilas",
+      "significado": "Activar, esforzarse más",
+      "ejemplo": "Tienes que ponerte las pilas si quieres aprobar"
+    },
+    {
+      "expresion": "dar en el clavo",
+      "significado": "Acertar, atinar",
+      "ejemplo": "Diste en el clavo con tu respuesta"
+    },
+    {
+      "expresion": "ser pan comido",
+      "significado": "Algo muy fácil",
+      "ejemplo": "El examen fue pan comido"
+    },
+    {
+      "expresion": "costar un ojo de la cara",
+      "significado": "Ser muy caro",
+      "ejemplo": "Ese coche cuesta un ojo de la cara"
+    },
+    {
+      "expresion": "no tener pelos en la lengua",
+      "significado": "Decir lo que se piensa sin filtro",
+      "ejemplo": "Mi abuela no tiene pelos en la lengua"
+    },
+    {
+      "expresion": "quedarse de piedra",
+      "significado": "Quedarse muy sorprendido",
+      "ejemplo": "Me quedé de piedra cuando vi el regalo"
+    },
+    {
+      "expresion": "tirar la toalla",
+      "significado": "Rendirse, abandonar",
+      "ejemplo": "Después de 3 horas, tiré la toalla"
+    },
+    {
+      "expresion": "ser la oveja negra",
+      "significado": "Ser el diferente o problemático del grupo",
+      "ejemplo": "Siempre fui la oveja negra de la familia"
+    },
+    {
+      "expresion": "llover a cántaros",
+      "significado": "Llover muy fuerte",
+      "ejemplo": "No salgas, está lloviendo a cántaros"
+    },
+    {
+      "expresion": "poner el dedo en la llaga",
+      "significado": "Señalar un punto doloroso o problemático",
+      "ejemplo": "Pusiste el dedo en la llaga con ese comentario"
+    },
+    {
+      "expresion": "media naranja",
+      "significado": "La pareja ideal",
+      "ejemplo": "Encontré a mi media naranja"
+    },
+    {
+      "expresion": "dorar la píldora",
+      "significado": "Suavizar malas noticias",
+      "ejemplo": "No me dores la píldora, dime la verdad"
+    },
+    {
+      "expresion": "hablar por los codos",
+      "significado": "Hablar mucho",
+      "ejemplo": "Mi tía habla por los codos"
+    },
+    {
+      "expresion": "ahogarse en un vaso de agua",
+      "significado": "Preocuparse demasiado por algo pequeño",
+      "ejemplo": "No te ahogues en un vaso de agua"
+    },
+    {
+      "expresion": "borrón y cuenta nueva",
+      "significado": "Empezar de nuevo olvidando el pasado",
+      "ejemplo": "Hagamos borrón y cuenta nueva"
+    },
+    {
+      "expresion": "en boca cerrada no entran moscas",
+      "significado": "A veces es mejor callar",
+      "ejemplo": "Recuerda: en boca cerrada no entran moscas"
+    },
+    {
+      "expresion": "a caballo regalado no le mires el diente",
+      "significado": "No criticar un regalo",
+      "ejemplo": "Es gratis, a caballo regalado..."
+    },
+    {
+      "expresion": "más vale tarde que nunca",
+      "significado": "Mejor hacer algo tarde que no hacerlo",
+      "ejemplo": "Llegaste, más vale tarde que nunca"
+    }
+  ]
+}

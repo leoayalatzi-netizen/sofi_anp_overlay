@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "categoria": "ciencia/matematicas",
+    "total": 15
+  },
+  "datos": [
+    {
+      "concepto": "suma",
+      "definicion": "Operación que combina dos o más números para obtener un total",
+      "simbolo": "+",
+      "ejemplo": "3 + 5 = 8",
+      "propiedades": [
+        "conmutativa (a+b=b+a)",
+        "asociativa (a+b)+c=a+(b+c)"
+      ]
+    },
+    {
+      "concepto": "resta",
+      "definicion": "Operación que encuentra la diferencia entre dos números",
+      "simbolo": "-",
+      "ejemplo": "10 - 4 = 6",
+      "propiedades": [
+        "no conmutativa",
+        "no asociativa"
+      ]
+    },
+    {
+      "concepto": "multiplicacion",
+      "definicion": "Suma repetida de un número consigo mismo",
+      "simbolo": "×",
+      "ejemplo": "4 × 3 = 12",
+      "propiedades": [
+        "conmutativa",
+        "asociativa",
+        "distributiva sobre suma"
+      ]
+    },
+    {
+      "concepto": "division",
+      "definicion": "Repartición de una cantidad en partes iguales",
+      "simbolo": "÷",
+      "ejemplo": "15 ÷ 3 = 5",
+      "propiedades": [
+        "no conmutativa",
+        "no se puede dividir por cero"
+      ]
+    },
+    {
+      "concepto": "numero_primo",
+      "definicion": "Número natural mayor que 1, divisible solo por 1 y por sí mismo",
+      "ejemplos": [
+        2,
+        3,
+        5,
+        7,
+        11,
+        13,
+        17,
+        19,
+        23
+      ],
+      "curiosidad": "Hay infinitos números primos (Euclides)"
+    },
+    {
+      "concepto": "numero_compuesto",
+      "definicion": "Número que tiene más de dos divisores",
+      "ejemplos": [
+        4,
+        6,
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "concepto": "fraccion",
+      "definicion": "Representación de una parte de un todo como a/b",
+      "ejemplo": "3/4 representa 3 partes de 4",
+      "tipos": [
+        "propias",
+        "impropias",
+        "mixtas"
+      ]
+    },
+    {
+      "concepto": "porcentaje",
+      "definicion": "Fracción con denominador 100",
+      "simbolo": "%",
+      "ejemplo": "25% significa 25 de cada 100",
+      "calculo": "porcentaje = (parte/total) × 100"
+    },
+    {
+      "concepto": "potencia",
+      "definicion": "Multiplicación repetida de un número (base) por sí mismo",
+      "formato": "base^exponente",
+      "ejemplo": "2^3 = 2×2×2 = 8"
+    },
+    {
+      "concepto": "raiz_cuadrada",
+      "definicion": "Número que multiplicado por sí mismo da el número original",
+      "simbolo": "√",
+      "ejemplo": "√9 = 3 porque 3×3=9"
+    },
+    {
+      "concepto": "mcm",
+      "definicion": "Mínimo común múltiplo: el menor número que es múltiplo de dos o más números",
+      "ejemplo": "mcm(4,6) = 12"
+    },
+    {
+      "concepto": "mcd",
+      "definicion": "Máximo común divisor: el mayor número que divide exactamente a dos o más números",
+      "ejemplo": "mcd(12,18) = 6"
+    },
+    {
+      "concepto": "numero_par",
+      "definicion": "Número divisible por 2",
+      "ejemplos": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "concepto": "numero_impar",
+      "definicion": "Número no divisible por 2",
+      "ejemplos": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "concepto": "regla_tres",
+      "definicion": "Método para calcular un valor proporcional desconocido a partir de tres valores conocidos",
+      "ejemplo": "Si 2 kg cuestan 10€, 5 kg cuestan (5×10)/2 = 25€"
+    }
+  ]
+}
