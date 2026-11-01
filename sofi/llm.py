@@ -16,7 +16,7 @@ def estado(): p,u,k,m=config(); return {"activo":bool(u),"proveedor":p,"modelo":
 def chat(messages,temperature=.4,timeout=55):
     p,url,key,mod=config()
     if not url: return None
-    h={"Content-Type":"application/json"}
+    h={"Content-Type":"application/json","Accept":"application/json","User-Agent":"Mozilla/5.0 (compatible; Sofi/1.0; +https://render.com)"}
     if key: h["Authorization"]="Bearer "+key
     try:
         r=urllib.request.urlopen(urllib.request.Request(url,json.dumps({"model":mod,"messages":messages,"temperature":temperature}).encode(),h),timeout=timeout)
